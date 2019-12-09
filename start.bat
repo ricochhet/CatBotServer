@@ -1,2 +1,0 @@
-node mhdb-client
-pause

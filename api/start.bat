@@ -1,0 +1,2 @@
+node mhcli
+pause
