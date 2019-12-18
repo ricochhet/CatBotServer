@@ -7,5 +7,7 @@ const mhw = require('./mhapi');
     console.log(e);
 }*/
 
-mhw.parse_items('../databases/parser/items.json');
-mhw.parse_armors('../databases/parser/armors.json');
+//mhw.parse_items('../databases/parser/items.json');
+//mhw.parse_armors('../databases/parser/armors.json');
+
+mhw.rewrite_armors();

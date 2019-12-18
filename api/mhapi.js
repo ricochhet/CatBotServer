@@ -7,6 +7,8 @@ const itemsParse = require('../databases/parser/items.json');
 const armorsDB = require('../databases/mhwdb/armors.json');
 const armorsParse = require('../databases/parser/armors.json');
 
+const armorsWrite = require('../databases/parser/armorswrite.json');
+
 const items = new Map();
 const armors = new Map();
 
@@ -35,20 +37,6 @@ module.exports = {
       return fetch(input, items, name);
     }
   },
-  _retrieve: function (type, index, name) {
-    let depNotice = 'This function is deprecated, please use .res(...) in the future.';
-    console.log(depNotice + ' To handle .res(...); run .parse_items(), .parse_armors()');
-
-    let input = index.toLowerCase().replace(' ', '');
-
-    if (type === 'item') {
-      return pull(itemData, input, items, name);
-    } else if (type === 'armor') {
-      return pull(armorData, input, armors, name);
-    } else {
-      return;
-    }
-  },
   parse_items: function (writeTo) {
     console.log('parse_items: Parsing data...');
 
@@ -60,15 +48,6 @@ module.exports = {
         carryLimit: key.carryLimit,
         value: key.value
       }
-
-      /*
-      fs.writeFile('../databases/parser/items.json', JSON.stringify(itemsParse, null, 2), (err) => {
-        if (err) {
-          console.log(err); 
-        } else {
-          console.log('Successfully re-parsed and handled data');
-        }
-      });*/
     }
 
     fs.writeFile(writeTo, JSON.stringify(itemsParse, null, 2), (err) => {
@@ -215,14 +194,6 @@ module.exports = {
           leg_skills: LegSkill
         }
       }
-
-      /*fs.writeFile('../databases/parser/armors.json', JSON.stringify(armorsParse, null, 2), (err) => {
-        if (err) {
-          console.log(err); 
-        } else {
-          console.log('Successfully re-parsed and handled data');
-        }
-      });*/
     }
 
     fs.writeFile(writeTo, JSON.stringify(armorsParse, null, 2), (err) => {
@@ -232,6 +203,53 @@ module.exports = {
         console.log('parse_armors: Successfully parsed and written data');
       }
     });
+  },
+  rewrite_armors: function(writeTo) {
+    for (let key of armors.keys()) {
+      const armor = armors.get(key);
+      let totalDefense = 0;
+      let setBonus = '';
+      let armorSkills = [];
+
+      let definedArgs = '';
+
+      if(armor.head != undefined) {
+        totalDefense += armor.head.head_base_defense;
+        if(armor.head.head_skills != undefined) {
+          armorSkills.push(armor.head.head_skills);
+        }
+      }
+
+      if(armor.chest != undefined) {
+        totalDefense += armor.chest.chest_base_defense;
+      }
+
+      if(armor.arm != undefined) {
+        totalDefense += armor.arm.arm_base_defense;
+      }
+
+      if(armor.waist != undefined) {
+        totalDefense += armor.waist.waist_base_defense;
+      }
+
+      if(armor.leg != undefined) {
+        totalDefense += armor.leg.leg_base_defense;
+      }
+
+      console.log(totalDefense);
+
+      armorsWrite[key] = {
+        name: key.name
+      }
+
+      fs.writeFile(writeTo, JSON.stringify(armorsParse, null, 2), (err) => {
+        if (err) {
+          console.log(err); 
+        } else {
+          console.log('rewrite_armors: Successfully re-written data');
+        }
+      });
+    }
   }
 }
 

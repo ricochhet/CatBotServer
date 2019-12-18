@@ -1,2 +1,2 @@
-node mhcli
+node client
 pause
