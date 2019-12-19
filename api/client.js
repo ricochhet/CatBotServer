@@ -9,5 +9,4 @@ const mhw = require('./mhapi');
 
 //mhw.parse_items('../databases/parser/items.json');
 //mhw.parse_armors('../databases/parser/armors.json');
-
-mhw.rewrite_armors();
+mhw.create_armors('../databases/parser/armorswrite.json');

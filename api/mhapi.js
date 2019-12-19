@@ -32,8 +32,8 @@ for (let [name, i] of armors.entries()) {
 }
 
 module.exports = {
-  res: function(input, type, name) {
-    if(type === 'item') {
+  res: function (input, type, name) {
+    if (type === 'item') {
       return fetch(input, items, name);
     }
   },
@@ -52,7 +52,7 @@ module.exports = {
 
     fs.writeFile(writeTo, JSON.stringify(itemsParse, null, 2), (err) => {
       if (err) {
-        console.log(err); 
+        console.log(err);
       } else {
         console.log('parse_items: Successfully parsed and written data');
       }
@@ -65,7 +65,7 @@ module.exports = {
       let setBonus = '-'
       if (key.bonus) {
         if (key.bonus.name) {
-          setBonus = key.bonus.name;
+          setBonus = `${key.bonus.name} - ${key.bonus.ranks[0].skill.description} (${key.bonus.ranks[0].pieces} pieces)`;
         }
       }
 
@@ -75,38 +75,58 @@ module.exports = {
         setBonus: setBonus
       }
 
-      let headSkill = '-'
+      let headSkills = []
       if (key.pieces[0] && key.pieces[0].skills[0]) {
         if (!key.pieces[0].skills[0].skillName === undefined || !key.pieces[0].skills[0].skillName === null || !key.pieces[0].skills[0].skillName == '') {
-          headSkill = key.pieces[0].skills[0].skillName;
+
+          for(let i of key.pieces[0].skills) {
+            headSkills.push(i.skillName);
+          }
+          //headSkill = key.pieces[0].skills[0].skillName;
         }
       }
 
-      let chestSkill = '-'
+      let chestSkills = []
       if (key.pieces[1] && key.pieces[1].skills[0]) {
         if (!key.pieces[1].skills[0].skillName === undefined || !key.pieces[1].skills[0].skillName === null || !key.pieces[1].skills[0].skillName == '') {
-          chestSkill = key.pieces[1].skills[0].skillName;
+
+          for(let i of key.pieces[1].skills) {
+            chestSkills.push(i.skillName);
+          }
+          //chestSkill = key.pieces[1].skills[0].skillName;
         }
       }
 
-      let armSkill = '-'
+      let armSkills = []
       if (key.pieces[2] && key.pieces[2].skills[0]) {
         if (!key.pieces[2].skills[0].skillName === undefined || !key.pieces[2].skills[0].skillName === null || !key.pieces[2].skills[0].skillName == '') {
-          armSkill = key.pieces[2].skills[0].skillName;
+
+          for(let i of key.pieces[2].skills) {
+            armSkills.push(i.skillName);
+          }
+          //armSkill = key.pieces[2].skills[0].skillName;
         }
       }
 
-      let waistSkill = '-'
+      let waistSkills = []
       if (key.pieces[3] && key.pieces[3].skills[0]) {
         if (!key.pieces[3].skills[0].skillName === undefined || !key.pieces[3].skills[0].skillName === null || !key.pieces[3].skills[0].skillName == '') {
-          waistSkill = key.pieces[3].skills[0].skillName;
+
+          for(let i of key.pieces[3].skills) {
+            waistSkills.push(i.skillName);
+          }
+          //waistSkill = key.pieces[3].skills[0].skillName;
         }
       }
 
-      let LegSkill = '-'
+      let legSkills = []
       if (key.pieces[4] && key.pieces[3].skills[0]) {
         if (!key.pieces[4].skills[0].skillName === undefined || !key.pieces[4].skills[0].skillName === null || !key.pieces[4].skills[0].skillName == '') {
-          LegSkill = key.pieces[4].skills[0].skillName;
+
+          for(let i of key.pieces[4].skills) {
+            legSkills.push(i.skillName);
+          }
+          //legSkill = key.pieces[4].skills[0].skillName;
         }
       }
 
@@ -123,7 +143,7 @@ module.exports = {
           head_thunder_resistances: key.pieces[0].resistances.thunder,
           head_dragon_resistances: key.pieces[0].resistances.dragon,
           head_slots: key.pieces[0].slots.length,
-          head_skills: headSkill
+          head_skills: headSkills
         }
       }
 
@@ -140,7 +160,7 @@ module.exports = {
           chest_thunder_resistances: key.pieces[1].resistances.thunder,
           chest_dragon_resistances: key.pieces[1].resistances.dragon,
           chest_slots: key.pieces[1].slots.length,
-          chest_skills: chestSkill
+          chest_skills: chestSkills
         }
       }
 
@@ -157,7 +177,7 @@ module.exports = {
           arm_thunder_resistances: key.pieces[2].resistances.thunder,
           arm_dragon_resistances: key.pieces[2].resistances.dragon,
           arm_slots: key.pieces[2].slots.length,
-          arm_skills: armSkill
+          arm_skills: armSkills
         }
       }
 
@@ -174,7 +194,7 @@ module.exports = {
           waist_thunder_resistances: key.pieces[3].resistances.thunder,
           waist_dragon_resistances: key.pieces[3].resistances.dragon,
           waist_slots: key.pieces[3].slots.length,
-          waist_skills: waistSkill
+          waist_skills: waistSkills
         }
       }
 
@@ -191,60 +211,127 @@ module.exports = {
           leg_thunder_resistances: key.pieces[4].resistances.thunder,
           leg_dragon_resistances: key.pieces[4].resistances.dragon,
           leg_slots: key.pieces[4].slots.length,
-          leg_skills: LegSkill
+          leg_skills: legSkills
         }
       }
     }
 
     fs.writeFile(writeTo, JSON.stringify(armorsParse, null, 2), (err) => {
       if (err) {
-        console.log(err); 
+        console.log(err);
       } else {
         console.log('parse_armors: Successfully parsed and written data');
       }
     });
   },
-  rewrite_armors: function(writeTo) {
+  create_armors: function (writeTo) {
     for (let key of armors.keys()) {
       const armor = armors.get(key);
       let totalDefense = 0;
+      let fireResistance = 0;
+      let waterResistance = 0;
+      let thunderResistance = 0;
+      let iceResistance = 0;
+      let dragonResistance = 0;
+
       let setBonus = '';
       let armorSkills = [];
 
-      let definedArgs = '';
+      let head = [];
+      let chest = [];
+      let arm = [];
+      let waist = [];
+      let leg = [];
 
-      if(armor.head != undefined) {
+      if (armor.head != undefined) {
         totalDefense += armor.head.head_base_defense;
-        if(armor.head.head_skills != undefined) {
-          armorSkills.push(armor.head.head_skills);
+        
+        fireResistance += armor.head.head_fire_resistances;
+        waterResistance += armor.head.head_water_resistances;
+        thunderResistance += armor.head.head_thunder_resistances;
+        iceResistance += armor.head.head_ice_resistances;
+        dragonResistance += armor.head.head_dragon_resistances;
+
+        if (armor.head.head_skills != undefined) {
+          head = (armor.head.head_skills);
         }
       }
 
-      if(armor.chest != undefined) {
+      if (armor.chest != undefined) {
         totalDefense += armor.chest.chest_base_defense;
+
+        fireResistance += armor.chest.chest_fire_resistances;
+        waterResistance += armor.chest.chest_water_resistances;
+        thunderResistance += armor.chest.chest_thunder_resistances;
+        iceResistance += armor.chest.chest_ice_resistances;
+        dragonResistance += armor.chest.chest_dragon_resistances;
+
+        if (armor.chest.chest_skills != undefined) {
+          chest = (armor.chest.chest_skills);
+        }
       }
 
-      if(armor.arm != undefined) {
+      if (armor.arm != undefined) {
         totalDefense += armor.arm.arm_base_defense;
+
+        fireResistance += armor.arm.arm_fire_resistances;
+        waterResistance += armor.arm.arm_water_resistances;
+        thunderResistance += armor.arm.arm_thunder_resistances;
+        iceResistance += armor.arm.arm_ice_resistances;
+        dragonResistance += armor.arm.arm_dragon_resistances;
+
+        if (armor.arm.arm_skills != undefined) {
+          arm = (armor.arm.arm_skills);
+        }
       }
 
-      if(armor.waist != undefined) {
+      if (armor.waist != undefined) {
         totalDefense += armor.waist.waist_base_defense;
+
+        fireResistance += armor.waist.waist_fire_resistances;
+        waterResistance += armor.waist.waist_water_resistances;
+        thunderResistance += armor.waist.waist_thunder_resistances;
+        iceResistance += armor.waist.waist_ice_resistances;
+        dragonResistance += armor.waist.waist_dragon_resistances;
+
+        if (armor.waist.waist_skills != undefined) {
+          waist = (armor.waist.waist_skills);
+        }
       }
 
-      if(armor.leg != undefined) {
+      if (armor.leg != undefined) {
         totalDefense += armor.leg.leg_base_defense;
+
+        fireResistance += armor.leg.leg_fire_resistances;
+        waterResistance += armor.leg.leg_water_resistances;
+        thunderResistance += armor.leg.leg_thunder_resistances;
+        iceResistance += armor.leg.leg_ice_resistances;
+        dragonResistance += armor.leg.leg_dragon_resistances;
+
+        if (armor.leg.leg_skills != undefined) {
+          leg = (armor.leg.leg_skills);
+        }
       }
 
-      console.log(totalDefense);
+      //let removeDashes = arrayRemove(armorSkills, '-');
+      //let armorSkillsUnique = removeDashes.unique();
+
+      let resistances = `Defense: ${totalDefense}\n Fire: ${fireResistance}\n Water: ${waterResistance}\n Thunder: ${thunderResistance}\n Ice: ${iceResistance}\n Dragon: ${dragonResistance}`;
+      armorSkills = [...head, ...chest, ...arm, ...waist, ...leg];
+
+      //let bonus = armor.
 
       armorsWrite[key] = {
-        name: key.name
+        name: armor.name,
+        setBonus: armor.setBonus,
+        resistances: resistances,
+        skills: armorSkills
       }
 
-      fs.writeFile(writeTo, JSON.stringify(armorsParse, null, 2), (err) => {
+      
+      fs.writeFile(writeTo, JSON.stringify(armorsWrite, null, 2), (err) => {
         if (err) {
-          console.log(err); 
+          console.log(err);
         } else {
           console.log('rewrite_armors: Successfully re-written data');
         }
@@ -350,6 +437,24 @@ function editDistance(str1, str2) {
   }
   return costs[str2.length];
 }
+
+function arrayRemove(array, find) {
+  let filtered = array.filter(function (element) {
+    return element !== find;
+  });
+
+  return filtered;
+}
+
+Array.prototype.unique = function () {
+  return this.reduce(function (previous, current, index, array) {
+    previous[current.toString() + typeof (current)] = current;
+    return array.length - 1 == index ? Object.keys(previous).reduce(function (prev, cur) {
+      prev.push(previous[cur]);
+      return prev;
+    }, []) : previous;
+  }, {});
+};
 
 let toUpper = function (x) {
   return x.toUpperCase();
