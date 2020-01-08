@@ -4434,5 +4434,17 @@
       "Evade Window",
       "Critical Boost"
     ]
+  },
+  "oolongalpha+": {
+    "name": "Oolong Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 600\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 20\n Dragon: 5",
+    "skills": [
+      "Critical Eye",
+      "Stamina Surge",
+      "Coalescence",
+      "Constitution",
+      "Health Boost"
+    ]
   }
 }

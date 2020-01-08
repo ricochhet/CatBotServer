@@ -25628,5 +25628,90 @@
         "Critical Boost"
       ]
     }
+  },
+  "oolongalpha+": {
+    "name": "Oolong Alpha +",
+    "rank": "master",
+    "setBonus": "-",
+    "head": {
+      "head_name": "Oolong Hair Alpha +",
+      "head_rarity": 19,
+      "head_base_defense": 120,
+      "head_max_defense": 0,
+      "head_augmented_defense": 0,
+      "head_fire_resistances": 1,
+      "head_ice_resistances": 4,
+      "head_water_resistances": 1,
+      "head_thunder_resistances": 1,
+      "head_dragon_resistances": 1,
+      "head_slots": 1,
+      "head_skills": [
+        "Critical Eye"
+      ]
+    },
+    "chest": {
+      "chest_name": "Oolong Vest Alpha +",
+      "chest_rarity": 9,
+      "chest_base_defense": 120,
+      "chest_max_defense": 0,
+      "chest_augmented_defense": 0,
+      "chest_fire_resistances": 1,
+      "chest_ice_resistances": 4,
+      "chest_water_resistances": 1,
+      "chest_thunder_resistances": 1,
+      "chest_dragon_resistances": 1,
+      "chest_slots": 1,
+      "chest_skills": [
+        "Stamina Surge"
+      ]
+    },
+    "arm": {
+      "arm_name": "Oolong Sleeves Alpha +",
+      "arm_rarity": 9,
+      "arm_base_defense": 120,
+      "arm_max_defense": 0,
+      "arm_augmented_defense": 0,
+      "arm_fire_resistances": 1,
+      "arm_ice_resistances": 4,
+      "arm_water_resistances": 1,
+      "arm_thunder_resistances": 1,
+      "arm_dragon_resistances": 1,
+      "arm_slots": 1,
+      "arm_skills": [
+        "Coalescence"
+      ]
+    },
+    "waist": {
+      "waist_name": "Oolong Waist Alpha +",
+      "waist_rarity": 9,
+      "waist_base_defense": 120,
+      "waist_max_defense": 0,
+      "waist_augmented_defense": 0,
+      "waist_fire_resistances": 1,
+      "waist_ice_resistances": 4,
+      "waist_water_resistances": 1,
+      "waist_thunder_resistances": 1,
+      "waist_dragon_resistances": 1,
+      "waist_slots": 2,
+      "waist_skills": [
+        "Constitution"
+      ]
+    },
+    "leg": {
+      "leg_name": "Oolong Boots Alpha +",
+      "leg_rarity": 9,
+      "leg_base_defense": 120,
+      "leg_max_defense": 0,
+      "leg_augmented_defense": 0,
+      "leg_fire_resistances": 1,
+      "leg_ice_resistances": 4,
+      "leg_water_resistances": 1,
+      "leg_thunder_resistances": 1,
+      "leg_dragon_resistances": 1,
+      "leg_slots": 2,
+      "leg_skills": [
+        "Health Boost"
+      ]
+    }
   }
 }

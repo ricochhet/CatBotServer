@@ -1,4 +1,3 @@
-const fs = require('fs');
 const itemDatabase = require('../databases/parser/items.json');
 const armorDatabase = require('../databases/parser/armors.json');
 
@@ -7,7 +6,9 @@ const itemsParse = require('../databases/parser/items.json');
 const armorsDB = require('../databases/mhwdb/armors.json');
 const armorsParse = require('../databases/parser/armors.json');
 
-const armorsWrite = require('../databases/parser/armorswrite.json');
+const armorsWrite = require('../databases/out/armors.json');
+
+const fs = require('fs');
 
 const items = new Map();
 const armors = new Map();
@@ -32,14 +33,7 @@ for (let [name, i] of armors.entries()) {
 }
 
 module.exports = {
-  res: function (input, type, name) {
-    if (type === 'item') {
-      return fetch(input, items, name);
-    }
-  },
-  parse_items: function (writeTo) {
-    console.log('parse_items: Parsing data...');
-
+  ParseItems: function (writeTo) {
     for (let key of itemsDB) {
       itemsParse[key.name.toLowerCase().replace(/ /g, '')] = {
         name: key.name,
@@ -53,14 +47,10 @@ module.exports = {
     fs.writeFile(writeTo, JSON.stringify(itemsParse, null, 2), (err) => {
       if (err) {
         console.log(err);
-      } else {
-        console.log('parse_items: Successfully parsed and written data');
       }
     });
   },
-  parse_armors: function (writeTo) {
-    console.log('parse_armors: Parsing data...');
-
+  ParseArmors: function (writeTo) {
     for (let key of armorsDB) {
       let setBonus = '-'
       if (key.bonus) {
@@ -79,10 +69,9 @@ module.exports = {
       if (key.pieces[0] && key.pieces[0].skills[0]) {
         if (!key.pieces[0].skills[0].skillName === undefined || !key.pieces[0].skills[0].skillName === null || !key.pieces[0].skills[0].skillName == '') {
 
-          for(let i of key.pieces[0].skills) {
+          for (let i of key.pieces[0].skills) {
             headSkills.push(i.skillName);
           }
-          //headSkill = key.pieces[0].skills[0].skillName;
         }
       }
 
@@ -90,10 +79,9 @@ module.exports = {
       if (key.pieces[1] && key.pieces[1].skills[0]) {
         if (!key.pieces[1].skills[0].skillName === undefined || !key.pieces[1].skills[0].skillName === null || !key.pieces[1].skills[0].skillName == '') {
 
-          for(let i of key.pieces[1].skills) {
+          for (let i of key.pieces[1].skills) {
             chestSkills.push(i.skillName);
           }
-          //chestSkill = key.pieces[1].skills[0].skillName;
         }
       }
 
@@ -101,10 +89,9 @@ module.exports = {
       if (key.pieces[2] && key.pieces[2].skills[0]) {
         if (!key.pieces[2].skills[0].skillName === undefined || !key.pieces[2].skills[0].skillName === null || !key.pieces[2].skills[0].skillName == '') {
 
-          for(let i of key.pieces[2].skills) {
+          for (let i of key.pieces[2].skills) {
             armSkills.push(i.skillName);
           }
-          //armSkill = key.pieces[2].skills[0].skillName;
         }
       }
 
@@ -112,10 +99,9 @@ module.exports = {
       if (key.pieces[3] && key.pieces[3].skills[0]) {
         if (!key.pieces[3].skills[0].skillName === undefined || !key.pieces[3].skills[0].skillName === null || !key.pieces[3].skills[0].skillName == '') {
 
-          for(let i of key.pieces[3].skills) {
+          for (let i of key.pieces[3].skills) {
             waistSkills.push(i.skillName);
           }
-          //waistSkill = key.pieces[3].skills[0].skillName;
         }
       }
 
@@ -123,10 +109,9 @@ module.exports = {
       if (key.pieces[4] && key.pieces[3].skills[0]) {
         if (!key.pieces[4].skills[0].skillName === undefined || !key.pieces[4].skills[0].skillName === null || !key.pieces[4].skills[0].skillName == '') {
 
-          for(let i of key.pieces[4].skills) {
+          for (let i of key.pieces[4].skills) {
             legSkills.push(i.skillName);
           }
-          //legSkill = key.pieces[4].skills[0].skillName;
         }
       }
 
@@ -219,12 +204,10 @@ module.exports = {
     fs.writeFile(writeTo, JSON.stringify(armorsParse, null, 2), (err) => {
       if (err) {
         console.log(err);
-      } else {
-        console.log('parse_armors: Successfully parsed and written data');
       }
     });
   },
-  create_armors: function (writeTo) {
+  CreateArmors: function (writeTo) {
     for (let key of armors.keys()) {
       const armor = armors.get(key);
       let totalDefense = 0;
@@ -245,7 +228,7 @@ module.exports = {
 
       if (armor.head != undefined) {
         totalDefense += armor.head.head_base_defense;
-        
+
         fireResistance += armor.head.head_fire_resistances;
         waterResistance += armor.head.head_water_resistances;
         thunderResistance += armor.head.head_thunder_resistances;
@@ -313,13 +296,8 @@ module.exports = {
         }
       }
 
-      //let removeDashes = arrayRemove(armorSkills, '-');
-      //let armorSkillsUnique = removeDashes.unique();
-
       let resistances = `Defense: ${totalDefense}\n Fire: ${fireResistance}\n Water: ${waterResistance}\n Thunder: ${thunderResistance}\n Ice: ${iceResistance}\n Dragon: ${dragonResistance}`;
       armorSkills = [...head, ...chest, ...arm, ...waist, ...leg];
-
-      //let bonus = armor.
 
       armorsWrite[key] = {
         name: armor.name,
@@ -328,72 +306,14 @@ module.exports = {
         skills: armorSkills
       }
 
-      
+
       fs.writeFile(writeTo, JSON.stringify(armorsWrite, null, 2), (err) => {
         if (err) {
           console.log(err);
-        } else {
-          console.log('rewrite_armors: Successfully re-written data');
         }
       });
     }
   }
-}
-
-function fetch(input, map, type) {
-  let parsedInput = input.toLowerCase().replace(' ', '');
-  if (!map.has(parsedInput)) {
-    const similarItems = new Array();
-
-    for (const key of map.keys()) {
-      if (similarity(key, parsedInput) >= 0.5) {
-        similarItems.push(key);
-      }
-    }
-
-    if (similarItems.length > 0) {
-      throw `\nDid you mean: \`${similarItems.join(', ')}\`?`;;
-    } else {
-      throw `That ${type} doesn\'t seem to exist!`;
-    }
-  } else if (map.has(parsedInput)) {
-    const data = map.get(parsedInput);
-
-    return data;
-  }
-}
-
-function pull(names, index, map, type) {
-  const array = names.map(toLowerReplace);
-  const dictionary = array.indexOf(index);
-  const stringify = dictionary.toString();
-  const info = map.get(stringify);
-
-  if (dictionary == -1) {
-    let similarKeys = [];
-
-    for (let key of array) {
-      if (similarity(key, index) >= 0.5) {
-        similarKeys.push(key);
-      }
-    }
-
-    if (similarKeys.length > 0) {
-      throw `\nDid you mean: \`${similarKeys.join(', ')}\`?`;;
-    } else {
-      throw `That ${type} doesn\'t seem to exist!`;
-    }
-  }
-
-  let data = [];
-  for (let key in info) {
-    if (info.hasOwnProperty(key)) {
-      let values = info[key];
-      data.push(values);
-    }
-  }
-
-  return data;
 }
 
 function similarity(str1, str2) {

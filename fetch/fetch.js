@@ -1,25 +1,6 @@
 module.exports = {
-    structure: function (funcObj) {
-        if (funcObj == undefined || funcObj == null || funcObj == '' || funcObj == ' ') throw `funcObj is not properly defined`;
-        for (let k in funcObj) {
-            funcObj[k]();
-        }
-    },
-    interval: function (vars = {}) {
-        if (vars.interval == null || vars.interval == undefined || vars.interval == '' || vars.interval == ' ') return console.log('Interval hasn\'t been set');
-
-        setInterval(() => {
-            if (vars.func == null || vars.func == undefined || vars.func == '' || vars.func == ' ') return;
-
-            vars.func();
-        }, vars.interval);
-    },
-    mem: function () {
-        let memory = process.memoryUsage().heapUsed / 1024 / 1024;
-        return Math.round(memory * 100) / 100;
-    },
     map: function () {
-        this.collection = function (database, customMapformat = false, funcObj) {
+        this.collection = function (database, customMapformat = false) {
             const map = new Map;
 
             if (customMapformat) {
@@ -36,7 +17,7 @@ module.exports = {
         }
 
         this.alias = function (input, map, customMapformat = false) {
-            let parsedInput = input.toLowerCase().replace(' ', '');
+            let parsedInput = input.toLowerCase().split(' ').join('');
 
             for (let [key, value] of map.entries()) {
                 if (value[customMapformat['key']] && value[customMapformat['key']].includes(parsedInput) && parsedInput.length > 0) {
@@ -48,7 +29,8 @@ module.exports = {
         }
 
         this.get = function (input, map, type, nameType = false) {
-            let parsedInput = input.toLowerCase().replace(' ', '');
+            let parsedInput = input.toLowerCase().split(' ').join('');
+            
             if (!map.has(parsedInput)) {
                 const similarItems = new Array();
 
@@ -71,14 +53,6 @@ module.exports = {
 
                 return [data, true];
             }
-        }
-    },
-    date: function () {
-        this.checkDays = function (date) {
-            let now = new Date();
-            let diff = now.getTime() - date.getTime();
-            let days = Math.floor(diff / 86400000);
-            return days + (days == 1 ? " day" : " days") + " ago";
         }
     },
 }
