@@ -1,15 +1,21 @@
+const fs = require('fs');
+
 module.exports = {
     map: function () {
-        this.collection = function (database, customMapformat = false) {
+        this.json = function (json, encoding) {
+            return JSON.parse(fs.readFileSync(json, encoding));
+        }
+
+        this.collection = function (json, customMapformat = false) {
             const map = new Map;
 
             if (customMapformat) {
-                Object.entries(database).forEach(([key, value]) => {
+                Object.entries(json).forEach(([key, value]) => {
                     map.set(value[customMapformat['key']], value[customMapformat['value']]);
                 });
             } else {
-                for (const i of Object.keys(database)) {
-                    map.set(i, database[i]);
+                for (const i of Object.keys(json)) {
+                    map.set(i, json[i]);
                 }
             }
 
@@ -36,7 +42,6 @@ module.exports = {
 
                 for (let [key, value] of map.entries()) {
                     if (nameType) {
-                        console.log(key)
                         if (similarity(key, parsedInput) >= 0.5) {
                             similarItems.push(value[nameType['key']]);
                         }

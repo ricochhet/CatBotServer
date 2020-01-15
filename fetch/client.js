@@ -1,11 +1,10 @@
 const fetch = require('./fetch');
+const map = new fetch.map();
 const fs = require('fs');
-
-const monsterdb = JSON.parse(fs.readFileSync('./monsters.json', 'utf8'));
 
 let input = 'black diabos';
 
-const map = new fetch.map();
+const monsterdb = map.json('./monsters.json', 'utf8');
 const monsters = map.collection(monsterdb, { key: 'name', value: 'details' });
 
 if (map.alias(input, monsters, { key: 'aliases' })) {
