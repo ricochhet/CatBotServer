@@ -1,41 +1,15 @@
-const itemDatabase = require('../databases/parser/items.json');
-const armorDatabase = require('../databases/parser/armors.json');
-
-const itemsDB = require('../databases/mhwdb/items.json');
-const itemsParse = require('../databases/parser/items.json');
-const armorsDB = require('../databases/mhwdb/armors.json');
-const armorsParse = require('../databases/parser/armors.json');
-
-const armorsWrite = require('../databases/out/armors.json');
-
 const fs = require('fs');
-
-const items = new Map();
-const armors = new Map();
-
-for (const i of Object.keys(itemDatabase)) {
-  items.set(i, itemDatabase[i]);
-}
-
-for (const i of Object.keys(armorDatabase)) {
-  armors.set(i, armorDatabase[i]);
-}
-
-const itemData = [];
-const armorData = [];
-
-for (let [name, i] of items.entries()) {
-  itemData.push(i.name);
-}
-
-for (let [name, i] of armors.entries()) {
-  armorData.push(i.name);
-}
+const itemsAPIDatabase = require('../databases/api/items.json');
+const armorsAPIDatabase = require('../databases/api/armors.json');
+const decorationsAPIDatabase = require('../databases/api/decorations.json');
+const skillAPIDatabase = require('../databases/api/skills.json');
 
 module.exports = {
-  ParseItems: function (writeTo) {
-    for (let key of itemsDB) {
-      itemsParse[key.name.toLowerCase().replace(/ /g, '')] = {
+  writeItems: function (writeTo) {
+    const db = {};
+
+    for (let key of itemsAPIDatabase) {
+      db[key.name.toLowerCase().replace(/ /g, '')] = {
         name: key.name,
         description: key.description,
         rarity: key.rarity,
@@ -44,71 +18,121 @@ module.exports = {
       }
     }
 
-    fs.writeFile(writeTo, JSON.stringify(itemsParse, null, 2), (err) => {
+    const items = new Map();
+    for (const i of Object.keys(itemDatabase)) {
+      items.set(i, itemDatabase[i]);
+    }
+
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
       if (err) {
         console.log(err);
       }
     });
   },
-  ParseArmors: function (writeTo) {
-    for (let key of armorsDB) {
-      let setBonus = '-'
+  writeDecorations: function (writeTo) {
+    const db = {};
+
+    for (let key of decorationsAPIDatabase) {
+      let skills = [];
+
+      for(let i of key.skills) {
+        skills.push(`${i.skillName} - ${i.description} LV${i.level}`);
+
+        db[key.name.toLowerCase().replace(/ /g, '')] = {
+          name: key.name,
+          rarity: key.rarity,
+          slot: key.slot,
+          skills: skills
+        }
+      }
+    }
+
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
+      if (err) {
+        console.log(err);
+      }
+    });
+  },
+  writeSkills: function (writeTo) {
+    const db = {};
+
+    for (let key of skillAPIDatabase) {
+      let ranks = [];
+
+      for(let i of key.ranks) {
+        ranks.push(`LV${i.level} - ${i.description}`);
+
+        db[key.name.toLowerCase().replace(/ /g, '')] = {
+          name: key.name,
+          description: key.description,
+          ranks: ranks
+        }
+      }
+    }
+
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
+      if (err) {
+        console.log(err);
+      }
+    });
+  },
+  writeArmors: function (writeTo) {
+    const db = {};
+
+    for (let key of armorsAPIDatabase) {
+      let setBonus = '-';
+      let headSkills = [];
+      let chestSkills = [];
+      let armSkills = [];
+      let waistSkills = [];
+      let legSkills = [];
+
       if (key.bonus) {
         if (key.bonus.name) {
           setBonus = `${key.bonus.name} - ${key.bonus.ranks[0].skill.description} (${key.bonus.ranks[0].pieces} pieces)`;
         }
       }
 
-      armorsParse[key.name.toLowerCase().replace(/ /g, '')] = {
+      db[key.name.toLowerCase().replace(/ /g, '')] = {
         name: key.name,
         rank: key.rank,
         setBonus: setBonus
       }
 
-      let headSkills = []
       if (key.pieces[0] && key.pieces[0].skills[0]) {
         if (!key.pieces[0].skills[0].skillName === undefined || !key.pieces[0].skills[0].skillName === null || !key.pieces[0].skills[0].skillName == '') {
-
           for (let i of key.pieces[0].skills) {
             headSkills.push(i.skillName);
           }
         }
       }
 
-      let chestSkills = []
       if (key.pieces[1] && key.pieces[1].skills[0]) {
         if (!key.pieces[1].skills[0].skillName === undefined || !key.pieces[1].skills[0].skillName === null || !key.pieces[1].skills[0].skillName == '') {
-
           for (let i of key.pieces[1].skills) {
             chestSkills.push(i.skillName);
           }
         }
       }
 
-      let armSkills = []
       if (key.pieces[2] && key.pieces[2].skills[0]) {
         if (!key.pieces[2].skills[0].skillName === undefined || !key.pieces[2].skills[0].skillName === null || !key.pieces[2].skills[0].skillName == '') {
-
           for (let i of key.pieces[2].skills) {
             armSkills.push(i.skillName);
           }
         }
       }
 
-      let waistSkills = []
       if (key.pieces[3] && key.pieces[3].skills[0]) {
         if (!key.pieces[3].skills[0].skillName === undefined || !key.pieces[3].skills[0].skillName === null || !key.pieces[3].skills[0].skillName == '') {
-
           for (let i of key.pieces[3].skills) {
             waistSkills.push(i.skillName);
           }
         }
       }
 
-      let legSkills = []
       if (key.pieces[4] && key.pieces[3].skills[0]) {
         if (!key.pieces[4].skills[0].skillName === undefined || !key.pieces[4].skills[0].skillName === null || !key.pieces[4].skills[0].skillName == '') {
-
           for (let i of key.pieces[4].skills) {
             legSkills.push(i.skillName);
           }
@@ -116,7 +140,7 @@ module.exports = {
       }
 
       if (key.pieces[0]) {
-        armorsParse[key.name.toLowerCase().replace(/ /g, '')]['head'] = {
+        db[key.name.toLowerCase().replace(/ /g, '')]['head'] = {
           head_name: key.pieces[0].name,
           head_rarity: key.pieces[0].rarity,
           head_base_defense: key.pieces[0].defense.base,
@@ -133,7 +157,7 @@ module.exports = {
       }
 
       if (key.pieces[1]) {
-        armorsParse[key.name.toLowerCase().replace(/ /g, '')]['chest'] = {
+        db[key.name.toLowerCase().replace(/ /g, '')]['chest'] = {
           chest_name: key.pieces[1].name,
           chest_rarity: key.pieces[1].rarity,
           chest_base_defense: key.pieces[1].defense.base,
@@ -150,7 +174,7 @@ module.exports = {
       }
 
       if (key.pieces[2]) {
-        armorsParse[key.name.toLowerCase().replace(/ /g, '')]['arm'] = {
+        db[key.name.toLowerCase().replace(/ /g, '')]['arm'] = {
           arm_name: key.pieces[2].name,
           arm_rarity: key.pieces[2].rarity,
           arm_base_defense: key.pieces[2].defense.base,
@@ -167,7 +191,7 @@ module.exports = {
       }
 
       if (key.pieces[3]) {
-        armorsParse[key.name.toLowerCase().replace(/ /g, '')]['waist'] = {
+        db[key.name.toLowerCase().replace(/ /g, '')]['waist'] = {
           waist_name: key.pieces[3].name,
           waist_rarity: key.pieces[3].rarity,
           waist_base_defense: key.pieces[3].defense.base,
@@ -184,7 +208,7 @@ module.exports = {
       }
 
       if (key.pieces[4]) {
-        armorsParse[key.name.toLowerCase().replace(/ /g, '')]['leg'] = {
+        db[key.name.toLowerCase().replace(/ /g, '')]['leg'] = {
           leg_name: key.pieces[4].name,
           leg_rarity: key.pieces[4].rarity,
           leg_base_defense: key.pieces[4].defense.base,
@@ -201,25 +225,23 @@ module.exports = {
       }
     }
 
-    fs.writeFile(writeTo, JSON.stringify(armorsParse, null, 2), (err) => {
-      if (err) {
-        console.log(err);
-      }
-    });
-  },
-  CreateArmors: function (writeTo) {
+    const armors = new Map();
+    for (const i of Object.keys(db)) {
+      armors.set(i, db[i]);
+    }
+
     for (let key of armors.keys()) {
       const armor = armors.get(key);
+
       let totalDefense = 0;
       let fireResistance = 0;
       let waterResistance = 0;
       let thunderResistance = 0;
       let iceResistance = 0;
       let dragonResistance = 0;
-
-      let setBonus = '';
+  
       let armorSkills = [];
-
+  
       let head = [];
       let chest = [];
       let arm = [];
@@ -299,91 +321,18 @@ module.exports = {
       let resistances = `Defense: ${totalDefense}\n Fire: ${fireResistance}\n Water: ${waterResistance}\n Thunder: ${thunderResistance}\n Ice: ${iceResistance}\n Dragon: ${dragonResistance}`;
       armorSkills = [...head, ...chest, ...arm, ...waist, ...leg];
 
-      armorsWrite[key] = {
+      db[key] = {
         name: armor.name,
         setBonus: armor.setBonus,
         resistances: resistances,
         skills: armorSkills
       }
-
-
-      fs.writeFile(writeTo, JSON.stringify(armorsWrite, null, 2), (err) => {
-        if (err) {
-          console.log(err);
-        }
-      });
     }
-  }
-}
 
-function similarity(str1, str2) {
-  let longer = str1;
-  let shorter = str2;
-  if (str1.length < str2.length) {
-    longer = str2;
-    shorter = str1;
-  }
-  const longerLength = longer.length;
-  if (longerLength == 0) {
-    return 1.0;
-  }
-  return (longerLength - editDistance(longer, shorter)) / parseFloat(longerLength);
-}
-
-function editDistance(str1, str2) {
-  str1 = str1.toLowerCase();
-  str2 = str2.toLowerCase();
-
-  const costs = new Array();
-  for (let i = 0; i <= str1.length; i++) {
-    let lastValue = i;
-    for (let j = 0; j <= str2.length; j++) {
-      if (i == 0) {
-        costs[j] = j;
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
+      if (err) {
+        console.log(err);
       }
-      else if (j > 0) {
-        let newValue = costs[j - 1];
-        if (str1.charAt(i - 1) != str2.charAt(j - 1)) {
-          newValue = Math.min(Math.min(newValue, lastValue),
-            costs[j]) + 1;
-        }
-        costs[j - 1] = lastValue;
-        lastValue = newValue;
-      }
-    }
-    if (i > 0) {
-      costs[str2.length] = lastValue;
-    }
-  }
-  return costs[str2.length];
+    });
+  },
 }
-
-function arrayRemove(array, find) {
-  let filtered = array.filter(function (element) {
-    return element !== find;
-  });
-
-  return filtered;
-}
-
-Array.prototype.unique = function () {
-  return this.reduce(function (previous, current, index, array) {
-    previous[current.toString() + typeof (current)] = current;
-    return array.length - 1 == index ? Object.keys(previous).reduce(function (prev, cur) {
-      prev.push(previous[cur]);
-      return prev;
-    }, []) : previous;
-  }, {});
-};
-
-let toUpper = function (x) {
-  return x.toUpperCase();
-};
-
-let toLower = function (x) {
-  return x.toLowerCase();
-};
-
-let toLowerReplace = function (x) {
-  return x.toLowerCase().replace(/ /g, '');
-};
