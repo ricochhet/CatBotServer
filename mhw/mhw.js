@@ -1,11 +1,26 @@
 const fs = require('fs');
+const fetch = require("node-fetch");
+
+const itemsURL = `https://mhw-db.com/items`;
+const armorsURL = `https://mhw-db.com/armor/sets`;
+const decorationsURL = `https://mhw-db.com/decorations`;
+const skillsURL = `https://mhw-db.com/skills`;
+
+/*
 const itemsAPIDatabase = require('../databases/api/items.json');
 const armorsAPIDatabase = require('../databases/api/armors.json');
 const decorationsAPIDatabase = require('../databases/api/decorations.json');
 const skillAPIDatabase = require('../databases/api/skills.json');
+*/
+
+async function getData(url) {
+  const response = await fetch(url);
+  return response.json();
+}
 
 module.exports = {
-  writeItems: function (writeTo) {
+  writeItems: async function (writeTo) {
+    const itemsAPIDatabase = await getData(itemsURL);
     const db = {};
 
     for (let key of itemsAPIDatabase) {
@@ -19,8 +34,8 @@ module.exports = {
     }
 
     const items = new Map();
-    for (const i of Object.keys(itemDatabase)) {
-      items.set(i, itemDatabase[i]);
+    for (const i of Object.keys(db)) {
+      items.set(i, db[i]);
     }
 
     fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
@@ -29,13 +44,14 @@ module.exports = {
       }
     });
   },
-  writeDecorations: function (writeTo) {
+  writeDecorations: async function (writeTo) {
+    const decorationsAPIDatabase = await getData(decorationsURL);
     const db = {};
 
     for (let key of decorationsAPIDatabase) {
       let skills = [];
 
-      for(let i of key.skills) {
+      for (let i of key.skills) {
         skills.push(`${i.skillName} - ${i.description} LV${i.level}`);
 
         db[key.name.toLowerCase().replace(/ /g, '')] = {
@@ -53,13 +69,14 @@ module.exports = {
       }
     });
   },
-  writeSkills: function (writeTo) {
+  writeSkills: async function (writeTo) {
+    const skillAPIDatabase = await getData(skillsURL);
     const db = {};
 
     for (let key of skillAPIDatabase) {
       let ranks = [];
 
-      for(let i of key.ranks) {
+      for (let i of key.ranks) {
         ranks.push(`LV${i.level} - ${i.description}`);
 
         db[key.name.toLowerCase().replace(/ /g, '')] = {
@@ -76,7 +93,8 @@ module.exports = {
       }
     });
   },
-  writeArmors: function (writeTo) {
+  writeArmors: async function (writeTo) {
+    const armorsAPIDatabase = await getData(armorsURL);
     const db = {};
 
     for (let key of armorsAPIDatabase) {
@@ -239,9 +257,9 @@ module.exports = {
       let thunderResistance = 0;
       let iceResistance = 0;
       let dragonResistance = 0;
-  
+
       let armorSkills = [];
-  
+
       let head = [];
       let chest = [];
       let arm = [];
