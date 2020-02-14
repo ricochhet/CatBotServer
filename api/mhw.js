@@ -6,13 +6,6 @@ const armorsURL = `https://mhw-db.com/armor/sets`;
 const decorationsURL = `https://mhw-db.com/decorations`;
 const skillsURL = `https://mhw-db.com/skills`;
 
-/*
-const itemsAPIDatabase = require('../databases/api/items.json');
-const armorsAPIDatabase = require('../databases/api/armors.json');
-const decorationsAPIDatabase = require('../databases/api/decorations.json');
-const skillAPIDatabase = require('../databases/api/skills.json');
-*/
-
 async function getData(url) {
   const response = await fetch(url);
   return response.json();

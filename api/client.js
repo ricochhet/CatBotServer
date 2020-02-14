@@ -1,7 +1,7 @@
-/*
-No JSON data is provided, please provide your own in this test.
-*/
+const mhw = require("./mhw");
 
+/*
+*********************************
 const fetch = require('./fetch');
 const map = new fetch.map();
 const fs = require('fs');
@@ -22,3 +22,10 @@ if (data[1]) {
 } else {
     console.log(data[0]);
 }
+*********************************
+*/
+
+mhw.writeItems("./databases/formatted/items.json");
+mhw.writeArmors("./databases/formatted/armors.json");
+mhw.writeDecorations("./databases/formatted/decorations.json");
+mhw.writeSkills("./databases/formatted/skills.json");
