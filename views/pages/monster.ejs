@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CatBot Database</title>
+  <link rel="stylesheet" type="text/css" href="../css/default.css">
+  <link rel="stylesheet" type="text/css" href="../css/index.css">
+</head>
+
+<body>
+  <div class="navigation-bar__light">
+    <h5><img src="../css/icons/catbot.png" /> CatBot</h5>
+    <nav>
+      <a class="link-none" href="http://catbot.xyz">Bot</a>
+      <a class="link-none" href="http://mhdb.catbot.xyz">Database</a>
+      <a class="link-none"
+        href="https://discordapp.com/oauth2/authorize?client_id=573958899582107653&permissions=339008&scope=bot">Invite</a>
+      <a class="link-none" href="https://top.gg/bot/573958899582107653/vote">Vote</a>
+      <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
+    </nav>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <img src="<%= MONSTER_ICON %>" /> <%= MONSTER_NAME %> <span
+          class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <tbody>
+          <tr>
+            <td width="15%">Ecology</td>
+            <td><%= MONSTER_DESCRIPTION %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Elements</td>
+            <td><%= MONSTER_ELEMENTS %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Ailments</td>
+            <td><%= MONSTER_AILMENTS %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Blights</td>
+            <td><%= MONSTER_BLIGHTS %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Locations</td>
+            <td><%= MONSTER_LOCATIONS %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Info</td>
+            <td><%= MONSTER_INFO %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">AtkType HZV</td>
+            <td>Slash: <strong><%= MONSTER_HZV_SLASH %></strong> Blunt: <strong><%= MONSTER_HZV_BLUNT %></strong> Shot:
+              <strong><%= MONSTER_HZV_SHOT %></strong></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Elem HZV</td>
+            <td>🔥 <strong><%= MONSTER_HZV_FIRE %></strong> 💧 <strong><%= MONSTER_HZV_WATER %></strong> ⚡
+              <strong><%= MONSTER_HZV_THUNDER %></strong> 🧊 <strong><%= MONSTER_HZV_ICE %></strong> 🐉
+              <strong><%= MONSTER_HZV_DRAGON %></strong></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%= MONSTER_NAME %> Hitzone & Status Data <span
+          class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+              <th>Part</th>
+              <th>Sever</th>
+              <th>Blunt</th>
+              <th>Ranged</th>
+              <th>Fire</th>
+              <th>Water</th>
+              <th>Thunder</th>
+              <th>Ice</th>
+              <th>Dragon</th>
+              <th>Stun</th>
+              <th>Stamina</th>
+          </tr>
+      </thead>
+        <tbody>
+          <% for (let [k, v] of Object.entries(MONSTER_HZV_DATA)) {%>
+          <tr>
+            <td width="20%"><%= k %></td>
+            <td><%= MONSTER_HZV_DATA[k].sever %></td>
+            <td><%= MONSTER_HZV_DATA[k].blunt %></td>
+            <td><%= MONSTER_HZV_DATA[k].ranged %></td>
+
+            <td><%= MONSTER_HZV_DATA[k].fire %></td>
+            <td><%= MONSTER_HZV_DATA[k].water %></td>
+            <td><%= MONSTER_HZV_DATA[k].thunder %></td>
+            <td><%= MONSTER_HZV_DATA[k].ice %></td>
+            <td><%= MONSTER_HZV_DATA[k].dragon %></td>
+            <td><%= MONSTER_HZV_DATA[k].stun %></td>
+            <td><%= MONSTER_HZV_DATA[k].stamina %></td>
+          </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+
+<script>
+  
+</script>
+
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CatBot Database</title>
+  <link rel="stylesheet" type="text/css" href="../css/default.css">
+  <link rel="stylesheet" type="text/css" href="../css/index.css">
+</head>
+
+<body>
+  <div class="navigation-bar__light">
+    <h5><img src="../css/icons/catbot.png" /> CatBot</h5>
+    <nav>
+      <a class="link-none" href="http://catbot.xyz">Bot</a>
+      <a class="link-none" href="http://mhdb.catbot.xyz">Database</a>
+      <a class="link-none"
+        href="https://discordapp.com/oauth2/authorize?client_id=573958899582107653&permissions=339008&scope=bot">Invite</a>
+      <a class="link-none" href="https://top.gg/bot/573958899582107653/vote">Vote</a>
+      <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
+    </nav>
+  </div>
+  <div class="page-container__center">
+    <% for (let [k, v] of MONSTER_MAP) {%>
+    <a class="link-none" href=/monsters/<%= k %>>
+      <% const monster = MONSTER_MAP.get(k); %>
+      <img src=<%= monster.thumbnail %>>
+      <%= monster.title %>
+    </a>
+    <% } %>
+  </div>
+</body>
+
+<script>
+
+</script>
+
+</html>
