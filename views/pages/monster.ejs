@@ -94,7 +94,7 @@
         <thead>
           <tr>
             <th>Part</th>
-            <th>Sever</th>
+            <th>Slash</th>
             <th>Blunt</th>
             <th>Ranged</th>
             <th>Fire</th>
@@ -103,24 +103,32 @@
             <th>Ice</th>
             <th>Dragon</th>
             <th>Stun</th>
-            <th>Stamina</th>
+            <th>Flinch</th>
+            <th>Trip</th>
+            <th>Wound</th>
+            <th>Sever</th>
+            <th>Notes</th>
           </tr>
         </thead>
         <tbody>
           <% for (let [k, v] of Object.entries(MONSTER_HZV_DATA)) {%>
           <tr>
             <td width="20%"><%= k %></td>
-            <td><%= MONSTER_HZV_DATA[k].sever %></td>
+            <td><%= MONSTER_HZV_DATA[k].ke %></td>
+            <td><%= MONSTER_HZV_DATA[k].slash %></td>
             <td><%= MONSTER_HZV_DATA[k].blunt %></td>
             <td><%= MONSTER_HZV_DATA[k].ranged %></td>
-
             <td><%= MONSTER_HZV_DATA[k].fire %></td>
             <td><%= MONSTER_HZV_DATA[k].water %></td>
             <td><%= MONSTER_HZV_DATA[k].thunder %></td>
             <td><%= MONSTER_HZV_DATA[k].ice %></td>
             <td><%= MONSTER_HZV_DATA[k].dragon %></td>
             <td><%= MONSTER_HZV_DATA[k].stun %></td>
-            <td><%= MONSTER_HZV_DATA[k].stamina %></td>
+            <td><%= MONSTER_HZV_DATA[k].flinch %></td>
+            <td><%= MONSTER_HZV_DATA[k].trip %></td>
+            <td><%= MONSTER_HZV_DATA[k].wound %></td>
+            <td><%= MONSTER_HZV_DATA[k].sever %></td>
+            <td><%= MONSTER_HZV_DATA[k].notes %></td>
           </tr>
           <% } %>
         </tbody>

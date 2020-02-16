@@ -7,7 +7,7 @@ const router = express.Router();
 /* API MAPS */
 let monsterDB = require('../databases/monsters.json');
 let monsterMap = new Map();
-let monsterHZVDB = require('../databases/MHW-HZV/MHW-HZV.json');
+let monsterHZVDB = require('../databases/monsterhzvs.json');
 let monsterHZVMap = new Map();
 
 for (const i of Object.keys(monsterDB)) {
