@@ -2,22 +2,3 @@
   text-align: left;
   max-width: 1140px;
 }
-
-.page-container__center {
-  padding-top: 25px;
-  padding-bottom: 25px;
-}
-
-.table-responsive img {
-  width: 64px;
-  height: 64px;
-}
-
-.table-header {
-  font-size: 18px;
-}
-
-.link-none img {
-  width: 32px;
-  height: 32px;
-}

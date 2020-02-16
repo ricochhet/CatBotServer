@@ -61,8 +61,15 @@ a:hover, button:hover {
 }
 
 .page-container__center {
+    padding-top: 25px;
+    padding-bottom: 25px;
     margin: auto;
     text-align: center;
+}
+
+.page-container__center--flex {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .page-container__content-container {
@@ -316,6 +323,12 @@ a:hover, button:hover {
     text-decoration: none;
     color: #343a40;
     padding: .5rem;
+}
+
+.link-none__img {
+    width: 48px;
+    height: 48px;
+    vertical-align: middle;
 }
 
 .link-none:hover {
@@ -640,12 +653,18 @@ a:hover, button:hover {
     margin-bottom: 0;
     background-color: rgba(0,0,0,.03);
     border-bottom: 1px solid rgba(0,0,0,.125);
+    font-size: 18px;
 }
 
 .table-responsive {
     display: inline-block;
     width: 100%;
     overflow-x: auto;
+}
+
+.table-responsive__img {
+    width: 64px;
+    height: 64px;
 }
 
 .half-width {
@@ -773,4 +792,24 @@ a:hover, button:hover {
 
 .tooltip:hover .tooltip-top__text {
     visibility: visible;
+}
+
+.list-item {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .125);
+}
+
+.list-item__center {
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, .125);
+    width: 450px;
+    margin: auto;
 }

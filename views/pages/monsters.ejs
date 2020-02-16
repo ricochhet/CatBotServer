@@ -28,14 +28,19 @@
       <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
     </nav>
   </div>
-  <div class="page-container__center">
+  <div class="page-container__center page-container__center--flex">
     <% for (let [k, v] of MONSTER_MAP) {%>
-    <a class="link-none" href=/monsters/<%= k %>>
+    <a class="link-none list-item__center" href=/monsters/<%= k %>>
       <% const monster = MONSTER_MAP.get(k); %>
-      <img src=<%= monster.thumbnail %>>
+      <img class="link-none__img" src=<%= monster.thumbnail %>>
       <%= monster.title %>
     </a>
     <% } %>
+  </div>
+
+  <div class="page-footer">
+    <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.
+      ❤️</p>
   </div>
 </body>
 

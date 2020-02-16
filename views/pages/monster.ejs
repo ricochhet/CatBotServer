@@ -31,8 +31,8 @@
 
   <div class="page-container__center">
     <div class="table-responsive">
-      <div class="table-header"> <img src="<%= MONSTER_ICON %>" /> <%= MONSTER_NAME %> <span
-          class="color-dark__muted text-style__small"></span>
+      <div class="table-header"> <img class="table-responsive__img" src="<%= MONSTER_ICON %>" /> <%= MONSTER_NAME %>
+        <span class="color-dark__muted text-style__small"></span>
       </div>
       <table class="table">
         <tbody>
@@ -91,19 +91,19 @@
       <table class="table">
         <thead>
           <tr>
-              <th>Part</th>
-              <th>Sever</th>
-              <th>Blunt</th>
-              <th>Ranged</th>
-              <th>Fire</th>
-              <th>Water</th>
-              <th>Thunder</th>
-              <th>Ice</th>
-              <th>Dragon</th>
-              <th>Stun</th>
-              <th>Stamina</th>
+            <th>Part</th>
+            <th>Sever</th>
+            <th>Blunt</th>
+            <th>Ranged</th>
+            <th>Fire</th>
+            <th>Water</th>
+            <th>Thunder</th>
+            <th>Ice</th>
+            <th>Dragon</th>
+            <th>Stun</th>
+            <th>Stamina</th>
           </tr>
-      </thead>
+        </thead>
         <tbody>
           <% for (let [k, v] of Object.entries(MONSTER_HZV_DATA)) {%>
           <tr>
@@ -124,6 +124,11 @@
         </tbody>
       </table>
     </div>
+  </div>
+
+  <div class="page-footer">
+    <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.
+      ❤️</p>
   </div>
 </body>
 
