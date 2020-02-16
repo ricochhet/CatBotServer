@@ -801,6 +801,7 @@ a:hover, button:hover {
     margin-bottom: -1px;
     background-color: #fff;
     border: 1px solid rgba(0, 0, 0, .125);
+    transition: 0.2s;
 }
 
 .list-item__center {
@@ -812,4 +813,9 @@ a:hover, button:hover {
     border: 1px solid rgba(0, 0, 0, .125);
     width: 450px;
     margin: auto;
+    transition: 0.2s;
+}
+
+.list-item:hover, .list-item__center:hover {
+    background-color: #e2e2e2;
 }
