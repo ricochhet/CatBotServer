@@ -18,13 +18,62 @@ for (const i of Object.keys(monsterHZVDB)) {
   monsterHZVMap.set(i, monsterHZVDB[i]);
 }
 
+let itemDB = require('../databases/items.json');
+let itemMap = new Map();
+
+for (const i of Object.keys(itemDB)) {
+  itemMap.set(i, itemDB[i]);
+}
+
+let armorDB = require('../databases/armors.json');
+let armorMap = new Map();
+
+for (const i of Object.keys(armorDB)) {
+  armorMap.set(i, armorDB[i]);
+}
+
+let weaponDB = require('../databases/weapons.json');
+let weaponMap = new Map();
+
+for (const i of Object.keys(weaponDB)) {
+  weaponMap.set(i, weaponDB[i]);
+}
+
+let decorationDB = require('../databases/decorations.json');
+let decorationMap = new Map();
+
+for (const i of Object.keys(decorationDB)) {
+  decorationMap.set(i, decorationDB[i]);
+}
+
+let skillDB = require('../databases/skills.json');
+let skillMap = new Map();
+
+for (const i of Object.keys(skillDB)) {
+  skillMap.set(i, skillDB[i]);
+}
+
 module.exports = {
   express,
   app,
   http,
   bodyParser,
   Connect: function(
-    renders = { main: 'main.ejs', listMonster: 'pages/monsters.ejs', getMonster: 'pages/monster.ejs', },
+    renders = {
+      main: 'main.ejs',
+      listMonster: 'pages/monsters.ejs',
+      getMonster: 'pages/monster.ejs',
+      listItem: 'pages/items.ejs',
+      getItem: 'pages/item.ejs',
+      listArmor: 'pages/armors.ejs',
+      getArmor: 'pages/armor.ejs',
+      listWeapon: 'pages/weapons.ejs',
+      getWeapon: 'pages/weapon.ejs',
+      listDecorations: 'pages/decorations.ejs',
+      getDecorations: 'pages/decoration.ejs',
+      listSkills: 'pages/skills.ejs',
+      getSkills: 'pages/skill.ejs'
+    },
     staticName,
     port
   ) {
@@ -45,7 +94,7 @@ module.exports = {
     router.get(`/monsters/:id`, (res, req, next) => {
       if (monsterMap.has(res.params.id)) {
         let hzv = ['no data provided'];
-        if(monsterHZVMap.has(res.params.id)) {
+        if (monsterHZVMap.has(res.params.id)) {
           hzv = monsterHZVMap.get(res.params.id);
         }
         const monster = monsterMap.get(res.params.id);
@@ -72,6 +121,114 @@ module.exports = {
           MONSTER_HZV_ICE: monster.hzv.ice,
           MONSTER_HZV_DRAGON: monster.hzv.dragon,
           MONSTER_HZV_DATA: hzv
+        });
+      }
+    });
+
+    router.get('/items', (res, req, next) => {
+      req.render(renders.listItem, {
+        ITEM_MAP: itemMap
+      });
+    });
+
+    router.get(`/items/:id`, (res, req, next) => {
+      if (itemMap.has(res.params.id)) {
+        const item = itemMap.get(res.params.id);
+
+        req.render(renders.getItem, {
+          ITEM_NAME: item.name,
+          ITEM_DESCRIPTION: item.description,
+          ITEM_RARITY: item.rarity,
+          ITEM_CARRYLIMIT: item.carryLimit,
+          ITEM_VALUE: item.value
+        });
+      }
+    });
+
+    router.get('/armors', (res, req, next) => {
+      req.render(renders.listArmor, {
+        ARMOR_MAP: armorMap
+      });
+    });
+
+    router.get('/armors/:id', (res, req, next) => {
+      if (armorMap.has(res.params.id)) {
+        const armor = armorMap.get(res.params.id);
+        const armorSkills = armor.skills.join(', ');
+
+        req.render(renders.getArmor, {
+          ARMOR_NAME: armor.name,
+          ARMOR_SETBONUS: armor.setBonus,
+          ARMOR_RESISTANCES: armor.resistances,
+          ARMOR_SKILLS: armorSkills
+        });
+      }
+    });
+
+    router.get('/weapons', (res, req, next) => {
+      req.render(renders.listWeapon, {
+        WEAPON_MAP: weaponMap
+      });
+    });
+
+    router.get('/weapons/:id', (res, req, next) => {
+      if (weaponMap.has(res.params.id)) {
+        const weapon = weaponMap.get(res.params.id);
+
+        req.render(renders.getWeapon, {
+          WEAPON_NAME: weapon.title,
+          WEAPON_TYPE: weapon.type,
+          WEAPON_ATTACK: weapon.attack,
+          WEAPON_DEFENSE: weapon.defense,
+          WEAPON_SHARPNESS: weapon.sharpness,
+          WEAPON_AFFINITY: weapon.affinity,
+          WEAPON_ELEMENTALATTACK: weapon.elementalattack,
+          WEAPON_RARITY: weapon.rarity,
+          WEAPON_GEMSLOTS: weapon.gemslots,
+          WEAPON_WYVERNHEART: weapon.wyvernheart,
+          WEAPON_PHIALS: weapon.phials,
+          WEAPON_NOTES: weapon.notes
+        });
+      }
+    });
+
+    router.get('/decorations', (res, req, next) => {
+      req.render(renders.listDecorations, {
+        DECORATION_MAP: decorationMap
+      });
+    });
+
+    router.get('/decorations/:id', (res, req, next) => {
+      const modifiedParams = res.params.id.split('+').join('/');
+
+      if (decorationMap.has(modifiedParams)) {
+        const decoration = decorationMap.get(modifiedParams);
+        const decorationSkills = decoration.skills.join(', ');
+
+        req.render(renders.getDecorations, {
+          DECORATION_NAME: decoration.name,
+          DECORATION_RARITY: decoration.rarity,
+          DECORATION_SLOT: decoration.slot,
+          DECORATION_SKILLS: decorationSkills
+        });
+      }
+    });
+
+    router.get('/skills', (res, req, next) => {
+      req.render(renders.listSkills, {
+        SKILL_MAP: skillMap
+      });
+    });
+
+    router.get('/skills/:id', (res, req, next) => {
+      if (skillMap.has(res.params.id)) {
+        const skill = skillMap.get(res.params.id);
+        const skillRanks = skill.ranks.join(', ');
+
+        req.render(renders.getSkills, {
+          SKILL_NAME: skill.name,
+          SKILL_DESCRIPTION: skill.description,
+          SKILL_RANKS: skillRanks
         });
       }
     });

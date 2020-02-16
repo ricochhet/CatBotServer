@@ -325,6 +325,10 @@ a:hover, button:hover {
     padding: .5rem;
 }
 
+.link-none__block {
+    display: block;
+}
+
 .link-none__img {
     width: 48px;
     height: 48px;
@@ -567,6 +571,10 @@ a:hover, button:hover {
     border-top-right-radius: .25rem;
     border-bottom-right-radius: .25rem;
     z-index: 1;
+}
+
+.form-control__spacer {
+    margin-top: 25px;
 }
 
 .form-control__border-reverse {

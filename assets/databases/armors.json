@@ -1,0 +1,4492 @@
+{
+  "leather": {
+    "name": "Leather",
+    "setBonus": "-",
+    "resistances": "Defense: 10\n Fire: 10\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Hunger Resistance"
+    ]
+  },
+  "chainmail": {
+    "name": "Chainmail",
+    "setBonus": "-",
+    "resistances": "Defense: 10\n Fire: 0\n Water: 10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Master Gatherer"
+    ]
+  },
+  "hunter's": {
+    "name": "Hunter's",
+    "setBonus": "-",
+    "resistances": "Defense: 30\n Fire: 10\n Water: 10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Scoutfly Range Up",
+      "Slinger Capacity",
+      "Stealth",
+      "Scenthound",
+      "BBQ Master"
+    ]
+  },
+  "bone": {
+    "name": "Bone",
+    "setBonus": "-",
+    "resistances": "Defense: 30\n Fire: 10\n Water: 0\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Health Boost",
+      "Attack Boost",
+      "Slugger",
+      "Horn Maestro",
+      "Entomologist"
+    ]
+  },
+  "vespoid": {
+    "name": "Vespoid",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: -10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
+    "skills": [
+      "Quick Sheath",
+      "Windproof",
+      "Paralysis Attack",
+      "Paralysis Resistance",
+      "Honey Hunter"
+    ]
+  },
+  "kestodon": {
+    "name": "Kestodon",
+    "setBonus": "-",
+    "resistances": "Defense: 12\n Fire: 4\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Affinity Sliding"
+    ]
+  },
+  "gajau": {
+    "name": "Gajau",
+    "setBonus": "-",
+    "resistances": "Defense: 12\n Fire: 0\n Water: 5\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Aquatic/Polar Mobility"
+    ]
+  },
+  "jagras": {
+    "name": "Jagras",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: -10\n Water: 10\n Thunder: -5\n Ice: -5\n Dragon: 5",
+    "skills": [
+      "Speed Eating",
+      "Intimidator",
+      "Palico Rally",
+      "Fortify",
+      "Speed Crawler"
+    ]
+  },
+  "kulu": {
+    "name": "Kulu",
+    "setBonus": "-",
+    "resistances": "Defense: 50\n Fire: 0\n Water: -15\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Fire Resistance",
+      "Stamina Surge",
+      "Pro Transporter",
+      "Item Prolonger",
+      "Critical Eye"
+    ]
+  },
+  "alloy": {
+    "name": "Alloy",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: -10\n Water: 5\n Thunder: -10\n Ice: -10\n Dragon: 5",
+    "skills": [
+      "Windproof",
+      "Water Resistance",
+      "Defense Boost",
+      "Poison Resistance",
+      "Speed Sharpening"
+    ]
+  },
+  "pukei": {
+    "name": "Pukei",
+    "setBonus": "-",
+    "resistances": "Defense: 60\n Fire: 0\n Water: 15\n Thunder: -15\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Survival Expert",
+      "Item Prolonger",
+      "Poison Resistance",
+      "Poison Attack",
+      "Botanist"
+    ]
+  },
+  "barroth": {
+    "name": "Barroth",
+    "setBonus": "-",
+    "resistances": "Defense: 70\n Fire: -15\n Water: -5\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Guard",
+      "Stamina Thief",
+      "Marathon Runner",
+      "Muck Resistance",
+      "Stun Resistance"
+    ]
+  },
+  "jyura": {
+    "name": "Jyura",
+    "setBonus": "-",
+    "resistances": "Defense: 70\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Aquatic/Polar Mobility",
+      "Muck Resistance",
+      "Water Attack",
+      "Ice Resistance",
+      "Focus"
+    ]
+  },
+  "kadachi": {
+    "name": "Kadachi",
+    "setBonus": "-",
+    "resistances": "Defense: 80\n Fire: 0\n Water: -15\n Thunder: 15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Constitution",
+      "Jump Master",
+      "Evade Extender",
+      "Thunder Attack",
+      "Thunder Resistance"
+    ]
+  },
+  "highmetal": {
+    "name": "High Metal",
+    "setBonus": "-",
+    "resistances": "Defense: 90\n Fire: 0\n Water: -5\n Thunder: -10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Ice Resistance",
+      "Earplugs",
+      "Defense Boost",
+      "Capacity Boost",
+      "Heavy Artillery"
+    ]
+  },
+  "kingbeetle": {
+    "name": "King Beetle",
+    "setBonus": "-",
+    "resistances": "Defense: 110\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Evade Window",
+      "Quick Sheath",
+      "Leap of Faith",
+      "Honey Hunter",
+      "Forager's Luck"
+    ]
+  },
+  "butterfly": {
+    "name": "Butterfly",
+    "setBonus": "-",
+    "resistances": "Defense: 110\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Evade Window",
+      "Quick Sheath",
+      "Leap of Faith",
+      "Honey Hunter",
+      "Forager's Luck"
+    ]
+  },
+  "shamos": {
+    "name": "Shamos",
+    "setBonus": "-",
+    "resistances": "Defense: 22\n Fire: 2\n Water: 2\n Thunder: 0\n Ice: -3\n Dragon: 0",
+    "skills": [
+      "Detector"
+    ]
+  },
+  "hornetaur": {
+    "name": "Hornetaur",
+    "setBonus": "-",
+    "resistances": "Defense: 90\n Fire: -5\n Water: -5\n Thunder: 0\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Dungmaster",
+      "Effluvial Expert",
+      "Free Meal",
+      "Carving Pro",
+      "Handicraft"
+    ]
+  },
+  "anja": {
+    "name": "Anja",
+    "setBonus": "Anjanath Power - Temporarily reduces stamina depletion when health is at 40% or lower. (3 pieces)",
+    "resistances": "Defense: 100\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Fire Attack",
+      "Marathon Runner",
+      "Special Ammo Boost",
+      "Fire Resistance",
+      "Artillery"
+    ]
+  },
+  "rathian": {
+    "name": "Rathian",
+    "setBonus": "-",
+    "resistances": "Defense: 110\n Fire: 10\n Water: 0\n Thunder: -10\n Ice: 0\n Dragon: -15",
+    "skills": [
+      "Health Boost",
+      "Botanist",
+      "Poison Attack",
+      "Poison Resistance",
+      "Recovery Up"
+    ]
+  },
+  "tzitzi": {
+    "name": "Tzitzi",
+    "setBonus": "-",
+    "resistances": "Defense: 90\n Fire: 0\n Water: 0\n Thunder: -15\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Blindsider",
+      "Constitution",
+      "Stun Resistance",
+      "Wide-Range",
+      "Sleep Resistance"
+    ]
+  },
+  "lumu": {
+    "name": "Lumu",
+    "setBonus": "-",
+    "resistances": "Defense: 100\n Fire: -15\n Water: 10\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Stamina Surge",
+      "Master Mounter",
+      "Artillery",
+      "Divine Blessing",
+      "Windproof"
+    ]
+  },
+  "girros": {
+    "name": "Girros",
+    "setBonus": "-",
+    "resistances": "Defense: 100\n Fire: 0\n Water: -15\n Thunder: 10\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Horn Maestro",
+      "Paralysis Resistance",
+      "Palico Rally",
+      "Effluvial Expert",
+      "Paralysis Attack"
+    ]
+  },
+  "baan": {
+    "name": "Baan",
+    "setBonus": "-",
+    "resistances": "Defense: 120\n Fire: 0\n Water: 10\n Thunder: 0\n Ice: -5\n Dragon: -10",
+    "skills": [
+      "Slugger",
+      "Sleep Resistance",
+      "Sleep Attack",
+      "Guard",
+      "Bleeding Resistance"
+    ]
+  },
+  "ingot": {
+    "name": "Ingot",
+    "setBonus": "-",
+    "resistances": "Defense: 140\n Fire: -10\n Water: 0\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Thunder Attack",
+      "Thunder Resistance",
+      "Health Boost",
+      "Windproof",
+      "Defense Boost"
+    ]
+  },
+  "deathstench": {
+    "name": "Death Stench",
+    "setBonus": "-",
+    "resistances": "Defense: 160\n Fire: 15\n Water: 10\n Thunder: -10\n Ice: 15\n Dragon: -20",
+    "skills": [
+      "Resuscitate",
+      "Fortify",
+      "Focus",
+      "Dragon Attack",
+      "Handicraft"
+    ]
+  },
+  "brigade": {
+    "name": "Brigade",
+    "setBonus": "-",
+    "resistances": "Defense: 140\n Fire: 5\n Water: 0\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Recovery Speed",
+      "Divine Blessing",
+      "Heavy Artillery",
+      "Geologist",
+      "Scholar"
+    ]
+  },
+  "legiana": {
+    "name": "Legiana",
+    "setBonus": "Legiana Blessing - Good chance of increased quest rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "resistances": "Defense: 150\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Divine Blessing",
+      "Evade Window",
+      "Airborne",
+      "Ice Attack",
+      "Ice Resistance"
+    ]
+  },
+  "odogaron": {
+    "name": "Odogaron",
+    "setBonus": "Odogaron Power - Adds a stun effect to draw attacks and slightly increases attack power. (3 pieces)",
+    "resistances": "Defense: 150\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Bleeding Resistance",
+      "Speed Sharpening",
+      "Constitution",
+      "Critical Eye",
+      "Quick Sheath"
+    ]
+  },
+  "rathalos": {
+    "name": "Rathalos",
+    "setBonus": "Rathalos Power - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (3 pieces)",
+    "resistances": "Defense: 150\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Attack Boost",
+      "Weakness Exploit",
+      "Fire Resistance",
+      "Fire Attack",
+      "Jump Master"
+    ]
+  },
+  "diablos": {
+    "name": "Diablos",
+    "setBonus": "Diablos Power - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (3 pieces)",
+    "resistances": "Defense: 160\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
+    "skills": [
+      "Critical Draw",
+      "Slugger",
+      "Heroics",
+      "Marathon Runner",
+      "Tremor Resistance"
+    ]
+  },
+  "kirin": {
+    "name": "Kirin",
+    "setBonus": "Kirin Blessing - High chance of increased capture rewards. (No effect when joining mid-quest.) (4 pieces)",
+    "resistances": "Defense: 170\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Marathon Runner",
+      "Divine Blessing",
+      "Blight Resistance",
+      "Thunder Attack",
+      "Thunder Resistance"
+    ]
+  },
+  "leatheralpha": {
+    "name": "Leather Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 160\n Fire: 10\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Hunger Resistance",
+      "Fire Resistance",
+      "Recovery Speed",
+      "Stamina Surge",
+      "Cliffhanger"
+    ]
+  },
+  "leatherbeta": {
+    "name": "Leather Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 160\n Fire: 10\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Hunger Resistance"
+    ]
+  },
+  "chainmailalpha": {
+    "name": "Chainmail Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 160\n Fire: 0\n Water: 10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Guard",
+      "Master Gatherer",
+      "Water Resistance",
+      "Recovery Speed",
+      "Quick Sheath",
+      "Recovery Up"
+    ]
+  },
+  "chainmailbeta": {
+    "name": "Chainmail Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 160\n Fire: 0\n Water: 10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Master Gatherer"
+    ]
+  },
+  "hunter'salpha": {
+    "name": "Hunter's Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 180\n Fire: 10\n Water: 10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Scoutfly Range Up",
+      "Scholar",
+      "Slinger Capacity",
+      "Stealth",
+      "Master Gatherer",
+      "Stealth",
+      "Slinger Capacity",
+      "Scenthound"
+    ]
+  },
+  "hunter'sbeta": {
+    "name": "Hunter's Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 180\n Fire: 10\n Water: 10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Scoutfly Range Up",
+      "Slinger Capacity",
+      "Stealth",
+      "Master Gatherer",
+      "Scenthound"
+    ]
+  },
+  "bonealpha": {
+    "name": "Bone Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 180\n Fire: 10\n Water: 0\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Health Boost",
+      "Entomologist",
+      "Attack Boost",
+      "Attack Boost",
+      "Slugger",
+      "Horn Maestro",
+      "Master Fisher",
+      "Entomologist"
+    ]
+  },
+  "bonebeta": {
+    "name": "Bone Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 180\n Fire: 10\n Water: 0\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Health Boost",
+      "Attack Boost",
+      "Slugger",
+      "Horn Maestro",
+      "Entomologist"
+    ]
+  },
+  "alloyalpha": {
+    "name": "Alloy Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 180\n Fire: -10\n Water: 0\n Thunder: -10\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Windproof",
+      "Defense Boost",
+      "Water Resistance",
+      "Defense Boost",
+      "Speed Sharpening",
+      "Poison Resistance",
+      "Water Resistance",
+      "Speed Sharpening"
+    ]
+  },
+  "alloybeta": {
+    "name": "Alloy Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 180\n Fire: -10\n Water: 0\n Thunder: -10\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Windproof",
+      "Water Resistance",
+      "Defense Boost",
+      "Poison Resistance",
+      "Speed Sharpening"
+    ]
+  },
+  "kingbeetlealpha": {
+    "name": "King Beetle Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Evade Window",
+      "Botanist",
+      "Quick Sheath",
+      "Botanist",
+      "Leap of Faith",
+      "Botanist",
+      "Quick Sheath",
+      "Honey Hunter",
+      "Evade Window",
+      "Forager's Luck"
+    ]
+  },
+  "kingbeetlebeta": {
+    "name": "King Beetle Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Evade Window",
+      "Quick Sheath",
+      "Botanist",
+      "Honey Hunter",
+      "Forager's Luck"
+    ]
+  },
+  "butterflyalpha": {
+    "name": "Butterfly Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Evade Window",
+      "Botanist",
+      "Quick Sheath",
+      "Botanist",
+      "Leap of Faith",
+      "Botanist",
+      "Quick Sheath",
+      "Honey Hunter",
+      "Evade Window",
+      "Forager's Luck"
+    ]
+  },
+  "butterflybeta": {
+    "name": "Butterfly Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Evade Window",
+      "Quick Sheath",
+      "Botanist",
+      "Honey Hunter",
+      "Forager's Luck"
+    ]
+  },
+  "vespoidalpha": {
+    "name": "Vespoid Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 190\n Fire: -10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
+    "skills": [
+      "Paralysis Attack",
+      "Quick Sheath",
+      "Windproof",
+      "Paralysis Attack",
+      "Paralysis Resistance",
+      "Paralysis Resistance",
+      "Honey Hunter"
+    ]
+  },
+  "vespoidbeta": {
+    "name": "Vespoid Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 190\n Fire: -10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
+    "skills": [
+      "Quick Sheath",
+      "Windproof",
+      "Paralysis Attack",
+      "Paralysis Resistance",
+      "Honey Hunter"
+    ]
+  },
+  "hornetauralpha": {
+    "name": "Hornetaur Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 190\n Fire: -5\n Water: -5\n Thunder: 0\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Dungmaster",
+      "Dragon Attack",
+      "Effluvial Expert",
+      "Hunger Resistance",
+      "Hunger Resistance",
+      "Free Meal",
+      "Hunger Resistance",
+      "Carving Pro",
+      "Dragon Attack",
+      "Handicraft"
+    ]
+  },
+  "hornetaurbeta": {
+    "name": "Hornetaur Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 190\n Fire: -5\n Water: -5\n Thunder: 0\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Dungmaster",
+      "Effluvial Expert",
+      "Free Meal",
+      "Carving Pro",
+      "Handicraft"
+    ]
+  },
+  "mosswinealpha": {
+    "name": "Mosswine Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: 2\n Water: 2\n Thunder: 2\n Ice: 2\n Dragon: 2",
+    "skills": [
+      "Mushroomancer"
+    ]
+  },
+  "kestodonalpha": {
+    "name": "Kestodon Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: 4\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Focus",
+      "Affinity Sliding"
+    ]
+  },
+  "kestodonbeta": {
+    "name": "Kestodon Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: 4\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Affinity Sliding"
+    ]
+  },
+  "gajaualpha": {
+    "name": "Gajau Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: 0\n Water: 5\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Water Attack",
+      "Aquatic/Polar Mobility"
+    ]
+  },
+  "gajaubeta": {
+    "name": "Gajau Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: 0\n Water: 5\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Water Attack",
+      "Aquatic/Polar Mobility"
+    ]
+  },
+  "shamosalpha": {
+    "name": "Shamos Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: 2\n Water: 2\n Thunder: 0\n Ice: -3\n Dragon: 0",
+    "skills": [
+      "Geologist",
+      "Detector"
+    ]
+  },
+  "shamosbeta": {
+    "name": "Shamos Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 40\n Fire: 2\n Water: 2\n Thunder: 0\n Ice: -3\n Dragon: 0",
+    "skills": [
+      "Detector"
+    ]
+  },
+  "jagrasalpha": {
+    "name": "Jagras Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: -10\n Water: 10\n Thunder: -5\n Ice: -5\n Dragon: 5",
+    "skills": [
+      "Speed Eating",
+      "Intimidator",
+      "Palico Rally",
+      "Intimidator",
+      "Fortify",
+      "Speed Eating",
+      "Free Meal",
+      "Speed Crawler"
+    ]
+  },
+  "jagrasbeta": {
+    "name": "Jagras Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: -10\n Water: 10\n Thunder: -5\n Ice: -5\n Dragon: 5",
+    "skills": [
+      "Speed Eating",
+      "Intimidator",
+      "Palico Rally",
+      "Fortify",
+      "Speed Crawler"
+    ]
+  },
+  "kulualpha": {
+    "name": "Kulu Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: 0\n Water: -15\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Fire Resistance",
+      "Weakness Exploit",
+      "Critical Eye",
+      "Stamina Surge",
+      "Critical Eye",
+      "Pro Transporter",
+      "Item Prolonger",
+      "Critical Eye",
+      "Item Prolonger"
+    ]
+  },
+  "kulubeta": {
+    "name": "Kulu Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: 0\n Water: -15\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Fire Resistance",
+      "Stamina Surge",
+      "Pro Transporter",
+      "Item Prolonger",
+      "Critical Eye"
+    ]
+  },
+  "tzitzialpha": {
+    "name": "Tzitzi Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: 0\n Water: 0\n Thunder: -15\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Stun Resistance",
+      "Blindsider",
+      "Water Attack",
+      "Constitution",
+      "Stun Resistance",
+      "Wide-Range",
+      "Water Attack",
+      "Wide-Range",
+      "Sleep Resistance"
+    ]
+  },
+  "tzitzibeta": {
+    "name": "Tzitzi Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: 0\n Water: 0\n Thunder: -15\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Blindsider",
+      "Constitution",
+      "Stun Resistance",
+      "Wide-Range",
+      "Sleep Resistance"
+    ]
+  },
+  "girrosalpha": {
+    "name": "Girros Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: 0\n Water: -15\n Thunder: 10\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Paralysis Resistance",
+      "Horn Maestro",
+      "Paralysis Resistance",
+      "Palico Rally",
+      "Effluvial Expert",
+      "Paralysis Attack",
+      "Paralysis Attack"
+    ]
+  },
+  "girrosbeta": {
+    "name": "Girros Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: 0\n Water: -15\n Thunder: 10\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Horn Maestro",
+      "Paralysis Resistance",
+      "Palico Rally",
+      "Effluvial Expert",
+      "Paralysis Attack"
+    ]
+  },
+  "pukeialpha": {
+    "name": "Pukei Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: 0\n Water: 15\n Thunder: -15\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Survival Expert",
+      "Item Prolonger",
+      "Botanist",
+      "Poison Resistance",
+      "Poison Attack",
+      "Poison Attack",
+      "Botanist",
+      "Survival Expert"
+    ]
+  },
+  "pukeibeta": {
+    "name": "Pukei Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: 0\n Water: 15\n Thunder: -15\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Survival Expert",
+      "Item Prolonger",
+      "Poison Resistance",
+      "Poison Attack",
+      "Botanist"
+    ]
+  },
+  "barrothalpha": {
+    "name": "Barroth Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: -15\n Water: -5\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Guard",
+      "Stamina Thief",
+      "Stamina Thief",
+      "Marathon Runner",
+      "Muck Resistance",
+      "Guard",
+      "Stun Resistance",
+      "Marathon Runner"
+    ]
+  },
+  "barrothbeta": {
+    "name": "Barroth Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: -15\n Water: -5\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Guard",
+      "Stamina Thief",
+      "Marathon Runner",
+      "Muck Resistance",
+      "Stun Resistance"
+    ]
+  },
+  "anjaalpha": {
+    "name": "Anja Alpha",
+    "setBonus": "Anjanath Will - Temporarily reduces stamina depletion when health is at 40% or lower. (2 pieces)",
+    "resistances": "Defense: 220\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Fire Resistance",
+      "Fire Attack",
+      "Special Ammo Boost",
+      "Marathon Runner",
+      "Fire Attack",
+      "Special Ammo Boost",
+      "Fire Resistance",
+      "Artillery",
+      "Artillery"
+    ]
+  },
+  "anjabeta": {
+    "name": "Anja Beta",
+    "setBonus": "Anjanath Will - Temporarily reduces stamina depletion when health is at 40% or lower. (2 pieces)",
+    "resistances": "Defense: 220\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Fire Attack",
+      "Marathon Runner",
+      "Special Ammo Boost",
+      "Fire Resistance",
+      "Artillery"
+    ]
+  },
+  "jyuraalpha": {
+    "name": "Jyura Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 220\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Aquatic/Polar Mobility",
+      "Muck Resistance",
+      "Water Attack",
+      "Water Attack",
+      "Aquatic/Polar Mobility",
+      "Ice Resistance",
+      "Focus"
+    ]
+  },
+  "jyurabeta": {
+    "name": "Jyura Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 220\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Aquatic/Polar Mobility",
+      "Muck Resistance",
+      "Water Attack",
+      "Ice Resistance",
+      "Focus"
+    ]
+  },
+  "kadachialpha": {
+    "name": "Kadachi Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 220\n Fire: 0\n Water: -15\n Thunder: 15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Constitution",
+      "Evade Extender",
+      "Jump Master",
+      "Evade Extender",
+      "Thunder Resistance",
+      "Thunder Attack",
+      "Thunder Resistance",
+      "Constitution"
+    ]
+  },
+  "kadachibeta": {
+    "name": "Kadachi Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 220\n Fire: 0\n Water: -15\n Thunder: 15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Constitution",
+      "Jump Master",
+      "Evade Extender",
+      "Thunder Attack",
+      "Thunder Resistance"
+    ]
+  },
+  "lumualpha": {
+    "name": "Lumu Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 220\n Fire: -15\n Water: 10\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Stamina Surge",
+      "Master Mounter",
+      "Artillery",
+      "Artillery",
+      "Divine Blessing",
+      "Windproof",
+      "Stamina Surge"
+    ]
+  },
+  "lumubeta": {
+    "name": "Lumu Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 220\n Fire: -15\n Water: 10\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Stamina Surge",
+      "Master Mounter",
+      "Artillery",
+      "Divine Blessing",
+      "Windproof"
+    ]
+  },
+  "rathianalpha": {
+    "name": "Rathian Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 230\n Fire: 10\n Water: 0\n Thunder: -10\n Ice: 0\n Dragon: -15",
+    "skills": [
+      "Health Boost",
+      "Poison Attack",
+      "Recovery Up",
+      "Botanist",
+      "Poison Attack",
+      "Poison Resistance",
+      "Health Boost",
+      "Recovery Up"
+    ]
+  },
+  "rathianbeta": {
+    "name": "Rathian Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 230\n Fire: 10\n Water: 0\n Thunder: -10\n Ice: 0\n Dragon: -15",
+    "skills": [
+      "Health Boost",
+      "Poison Attack",
+      "Recovery Up",
+      "Botanist",
+      "Poison Attack",
+      "Poison Resistance",
+      "Health Boost",
+      "Recovery Up"
+    ]
+  },
+  "rathheartalpha": {
+    "name": "Rath Heart Alpha",
+    "setBonus": "Pink Rathian Mastery - Extends the duration of your poison's effect on monsters. (3 pieces)",
+    "resistances": "Defense: 260\n Fire: 15\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -20",
+    "skills": [
+      "Poison Attack",
+      "Evade Extender",
+      "Tool Specialist",
+      "Windproof",
+      "Poison Resistance",
+      "Handicraft",
+      "Windproof",
+      "Tool Specialist"
+    ]
+  },
+  "rathheartbeta": {
+    "name": "Rath Heart Beta",
+    "setBonus": "Pink Rathian Mastery - Extends the duration of your poison's effect on monsters. (3 pieces)",
+    "resistances": "Defense: 260\n Fire: 15\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -20",
+    "skills": [
+      "Evade Extender",
+      "Tool Specialist",
+      "Windproof",
+      "Handicraft",
+      "Tool Specialist"
+    ]
+  },
+  "baanalpha": {
+    "name": "Baan Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 230\n Fire: 0\n Water: 10\n Thunder: 0\n Ice: -5\n Dragon: -10",
+    "skills": [
+      "Tremor Resistance",
+      "Bleeding Resistance",
+      "Sleep Attack",
+      "Sleep Attack",
+      "Guard",
+      "Guard",
+      "Bleeding Resistance"
+    ]
+  },
+  "baanbeta": {
+    "name": "Baan Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 230\n Fire: 0\n Water: 10\n Thunder: 0\n Ice: -5\n Dragon: -10",
+    "skills": [
+      "Tremor Resistance",
+      "Sleep Attack",
+      "Sleep Attack",
+      "Guard",
+      "Guard",
+      "Bleeding Resistance"
+    ]
+  },
+  "gastodonalpha": {
+    "name": "Gastodon Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 48\n Fire: 3\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Blast Resistance",
+      "Flinch Free"
+    ]
+  },
+  "gastodonbeta": {
+    "name": "Gastodon Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 48\n Fire: 3\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Flinch Free"
+    ]
+  },
+  "barnosalpha": {
+    "name": "Barnos Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 48\n Fire: 1\n Water: 1\n Thunder: 0\n Ice: 1\n Dragon: -2",
+    "skills": [
+      "Iron Skin",
+      "Heat Guard"
+    ]
+  },
+  "barnosbeta": {
+    "name": "Barnos Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 48\n Fire: 1\n Water: 1\n Thunder: 0\n Ice: 1\n Dragon: -2",
+    "skills": [
+      "Heat Guard"
+    ]
+  },
+  "dodogamaalpha": {
+    "name": "Dodogama Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 240\n Fire: 10\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Blast Resistance",
+      "Blast Attack",
+      "Bombardier",
+      "Blast Resistance",
+      "Artillery",
+      "Blast Attack",
+      "Capacity Boost"
+    ]
+  },
+  "dodogamabeta": {
+    "name": "Dodogama Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 240\n Fire: 10\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Blast Resistance",
+      "Blast Attack",
+      "Bombardier",
+      "Artillery",
+      "Capacity Boost"
+    ]
+  },
+  "zorahalpha": {
+    "name": "Zorah Alpha",
+    "setBonus": "Zorah Magdaros Mastery - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (3 pieces)",
+    "resistances": "Defense: 220\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
+    "skills": [
+      "Blast Attack",
+      "Handicraft",
+      "Windproof",
+      "Blast Attack",
+      "Free Elem/Ammo Up",
+      "Bombardier",
+      "Tremor Resistance",
+      "Fortify",
+      "Earplugs",
+      "Bombardier"
+    ]
+  },
+  "zorahbeta": {
+    "name": "Zorah Beta",
+    "setBonus": "Zorah Magdaros Mastery - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (3 pieces)",
+    "resistances": "Defense: 220\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
+    "skills": [
+      "Handicraft",
+      "Blast Attack",
+      "Free Elem/Ammo Up",
+      "Fortify",
+      "Bombardier"
+    ]
+  },
+  "highmetalalpha": {
+    "name": "High Metal Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 250\n Fire: 0\n Water: -5\n Thunder: -10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Earplugs",
+      "Ice Resistance",
+      "Earplugs",
+      "Ice Attack",
+      "Defense Boost",
+      "Ice Attack",
+      "Defense Boost",
+      "Capacity Boost",
+      "Ice Resistance",
+      "Heavy Artillery"
+    ]
+  },
+  "highmetalbeta": {
+    "name": "High Metal Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 250\n Fire: 0\n Water: -5\n Thunder: -10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Ice Resistance",
+      "Earplugs",
+      "Ice Attack",
+      "Defense Boost",
+      "Capacity Boost",
+      "Heavy Artillery"
+    ]
+  },
+  "ingotalpha": {
+    "name": "Ingot Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 250\n Fire: -10\n Water: 0\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Thunder Attack",
+      "Thunder Resistance",
+      "Health Boost",
+      "Thunder Attack",
+      "Windproof",
+      "Windproof",
+      "Defense Boost"
+    ]
+  },
+  "ingotbeta": {
+    "name": "Ingot Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 250\n Fire: -10\n Water: 0\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Thunder Attack",
+      "Thunder Resistance",
+      "Health Boost",
+      "Windproof",
+      "Defense Boost"
+    ]
+  },
+  "brigadealpha": {
+    "name": "Brigade Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 260\n Fire: 5\n Water: 0\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Recovery Speed",
+      "Horn Maestro",
+      "Divine Blessing",
+      "Heavy Artillery",
+      "Divine Blessing",
+      "Recovery Speed",
+      "Geologist",
+      "Geologist",
+      "Scholar"
+    ]
+  },
+  "brigadebeta": {
+    "name": "Brigade Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 260\n Fire: 5\n Water: 0\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Recovery Speed",
+      "Divine Blessing",
+      "Heavy Artillery",
+      "Geologist",
+      "Scholar"
+    ]
+  },
+  "fauxfelynealpha": {
+    "name": "Faux Felyne Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 56\n Fire: 2\n Water: 2\n Thunder: 2\n Ice: 2\n Dragon: 2",
+    "skills": [
+      "Palico Rally"
+    ]
+  },
+  "strategistalpha": {
+    "name": "Strategist Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 56\n Fire: 2\n Water: 2\n Thunder: 2\n Ice: 2\n Dragon: 2",
+    "skills": [
+      "Critical Eye"
+    ]
+  },
+  "lavasiothalpha": {
+    "name": "Lavasioth Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 280\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Fire Attack",
+      "Quick Sheath",
+      "Heat Guard",
+      "Fire Attack",
+      "Wide-Range",
+      "Affinity Sliding",
+      "Recovery Up",
+      "Quick Sheath",
+      "Fire Attack",
+      "Spread/Power Shots"
+    ]
+  },
+  "lavasiothbeta": {
+    "name": "Lavasioth Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 280\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Fire Attack",
+      "Quick Sheath",
+      "Fire Attack",
+      "Affinity Sliding",
+      "Quick Sheath",
+      "Spread/Power Shots"
+    ]
+  },
+  "legianaalpha": {
+    "name": "Legiana Alpha",
+    "setBonus": "Legiana Favor - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "resistances": "Defense: 270\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Ice Attack",
+      "Divine Blessing",
+      "Evade Window",
+      "Divine Blessing",
+      "Airborne",
+      "Evade Window",
+      "Windproof",
+      "Ice Attack",
+      "Ice Resistance",
+      "Critical Draw"
+    ]
+  },
+  "legianabeta": {
+    "name": "Legiana Beta",
+    "setBonus": "Legiana Favor - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "resistances": "Defense: 270\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Divine Blessing",
+      "Evade Window",
+      "Airborne",
+      "Ice Attack",
+      "Ice Resistance"
+    ]
+  },
+  "odogaronalpha": {
+    "name": "Odogaron Alpha",
+    "setBonus": "Odogaron Mastery - Adds a stun effect to draw attacks and slightly increases attack power. (2 pieces)",
+    "resistances": "Defense: 270\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Bleeding Resistance",
+      "Critical Eye",
+      "Bleeding Resistance",
+      "Speed Sharpening",
+      "Critical Eye",
+      "Constitution",
+      "Critical Eye",
+      "Speed Sharpening",
+      "Critical Eye",
+      "Quick Sheath"
+    ]
+  },
+  "odogaronbeta": {
+    "name": "Odogaron Beta",
+    "setBonus": "Odogaron Mastery - Adds a stun effect to draw attacks and slightly increases attack power. (2 pieces)",
+    "resistances": "Defense: 270\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Bleeding Resistance",
+      "Speed Sharpening",
+      "Constitution",
+      "Critical Eye",
+      "Quick Sheath"
+    ]
+  },
+  "rathalosalpha": {
+    "name": "Rathalos Alpha",
+    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 270\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Attack Boost",
+      "Fire Attack",
+      "Fire Attack",
+      "Weakness Exploit",
+      "Attack Boost",
+      "Fire Resistance",
+      "Fire Attack",
+      "Focus",
+      "Weakness Exploit",
+      "Jump Master"
+    ]
+  },
+  "rathalosbeta": {
+    "name": "Rathalos Beta",
+    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 270\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Attack Boost",
+      "Weakness Exploit",
+      "Fire Resistance",
+      "Fire Attack",
+      "Jump Master"
+    ]
+  },
+  "rathsoulalpha": {
+    "name": "Rath Soul Alpha",
+    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 280\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: -15\n Dragon: -20",
+    "skills": [
+      "Critical Boost",
+      "Intimidator",
+      "Free Elem/Ammo Up",
+      "Intimidator",
+      "Windproof",
+      "Focus",
+      "Windproof",
+      "Piercing Shots",
+      "Focus",
+      "Cliffhanger"
+    ]
+  },
+  "rathsoulbeta": {
+    "name": "Rath Soul Beta",
+    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 280\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: -15\n Dragon: -20",
+    "skills": [
+      "Critical Boost",
+      "Free Elem/Ammo Up",
+      "Focus",
+      "Windproof",
+      "Focus"
+    ]
+  },
+  "diablosalpha": {
+    "name": "Diablos Alpha",
+    "setBonus": "Diablos Mastery - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (2 pieces)",
+    "resistances": "Defense: 270\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
+    "skills": [
+      "Critical Draw",
+      "Heroics",
+      "Slugger",
+      "Heroics",
+      "Tremor Resistance",
+      "Heroics",
+      "Critical Draw",
+      "Marathon Runner",
+      "Tremor Resistance",
+      "Slugger"
+    ]
+  },
+  "diablosbeta": {
+    "name": "Diablos Beta",
+    "setBonus": "Diablos Mastery - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (2 pieces)",
+    "resistances": "Defense: 270\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
+    "skills": [
+      "Critical Draw",
+      "Slugger",
+      "Heroics",
+      "Marathon Runner",
+      "Tremor Resistance"
+    ]
+  },
+  "diablosneroalpha": {
+    "name": "Diablos Nero Alpha",
+    "setBonus": "Diablos Mastery - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (2 pieces)",
+    "resistances": "Defense: 280\n Fire: 10\n Water: -15\n Thunder: 0\n Ice: -20\n Dragon: 10",
+    "skills": [
+      "Focus",
+      "Resentment",
+      "Focus",
+      "Marathon Runner",
+      "Partbreaker",
+      "Resentment",
+      "Normal Shots",
+      "Heroics"
+    ]
+  },
+  "diablosnerobeta": {
+    "name": "Diablos Nero Beta",
+    "setBonus": "Diablos Mastery - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (2 pieces)",
+    "resistances": "Defense: 280\n Fire: 10\n Water: -15\n Thunder: 0\n Ice: -20\n Dragon: 10",
+    "skills": [
+      "Focus",
+      "Resentment",
+      "Focus",
+      "Resentment",
+      "Normal Shots"
+    ]
+  },
+  "uragaanalpha": {
+    "name": "Uragaan Alpha",
+    "setBonus": "Uragaan Protection - Allows you to guard against ordinarily unblockable attacks. (3 pieces)",
+    "resistances": "Defense: 300\n Fire: 20\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: -10",
+    "skills": [
+      "Thunder Resistance",
+      "Partbreaker",
+      "Defense Boost",
+      "Guard",
+      "Thunder Resistance",
+      "Partbreaker",
+      "Guard"
+    ]
+  },
+  "uragaanbeta": {
+    "name": "Uragaan Beta",
+    "setBonus": "Uragaan Protection - Allows you to guard against ordinarily unblockable attacks. (3 pieces)",
+    "resistances": "Defense: 300\n Fire: 20\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: -10",
+    "skills": [
+      "Thunder Resistance",
+      "Partbreaker",
+      "Guard",
+      "Partbreaker",
+      "Guard"
+    ]
+  },
+  "bazelalpha": {
+    "name": "Bazel Alpha",
+    "setBonus": "Bazelgeuse Protection - Above a certain health threshold, you withstand an attack that would normally cart you (once only). (3 pieces)",
+    "resistances": "Defense: 290\n Fire: 15\n Water: 5\n Thunder: -20\n Ice: -10\n Dragon: -10",
+    "skills": [
+      "Earplugs",
+      "Blast Attack",
+      "Blast Resistance",
+      "Guard",
+      "Earplugs",
+      "Critical Draw",
+      "Earplugs",
+      "Jump Master",
+      "Critical Draw",
+      "Bombardier"
+    ]
+  },
+  "bazelbeta": {
+    "name": "Bazel Beta",
+    "setBonus": "Bazelgeuse Protection - Above a certain health threshold, you withstand an attack that would normally cart you (once only). (3 pieces)",
+    "resistances": "Defense: 290\n Fire: 15\n Water: 5\n Thunder: -20\n Ice: -10\n Dragon: -10",
+    "skills": [
+      "Earplugs",
+      "Guard",
+      "Critical Draw",
+      "Earplugs",
+      "Bombardier"
+    ]
+  },
+  "damascusalpha": {
+    "name": "Damascus Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 300\n Fire: 20\n Water: -10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Defense Boost",
+      "Speed Sharpening",
+      "Defense Boost",
+      "Focus",
+      "Handicraft",
+      "Speed Sharpening",
+      "Iron Skin",
+      "Focus",
+      "Iron Skin",
+      "Defense Boost"
+    ]
+  },
+  "damascusbeta": {
+    "name": "Damascus Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 300\n Fire: 20\n Water: -10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Defense Boost",
+      "Focus",
+      "Handicraft",
+      "Focus",
+      "Defense Boost"
+    ]
+  },
+  "doberalpha": {
+    "name": "Dober Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 300\n Fire: -10\n Water: 0\n Thunder: -5\n Ice: -5\n Dragon: 20",
+    "skills": [
+      "Dragon Resistance",
+      "Free Elem/Ammo Up",
+      "Attack Boost",
+      "Mushroomancer",
+      "Stamina Surge",
+      "Mushroomancer",
+      "Attack Boost",
+      "Dragon Resistance",
+      "Attack Boost",
+      "Stamina Surge"
+    ]
+  },
+  "doberbeta": {
+    "name": "Dober Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 300\n Fire: -10\n Water: 0\n Thunder: -5\n Ice: -5\n Dragon: 20",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Attack Boost",
+      "Stamina Surge",
+      "Mushroomancer",
+      "Dragon Resistance",
+      "Attack Boost"
+    ]
+  },
+  "deathstenchalpha": {
+    "name": "Death Stench Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 310\n Fire: 15\n Water: 10\n Thunder: -10\n Ice: 15\n Dragon: -20",
+    "skills": [
+      "Critical Eye",
+      "Resuscitate",
+      "Free Elem/Ammo Up",
+      "Fortify",
+      "Dragon Attack",
+      "Focus",
+      "Dragon Attack",
+      "Focus",
+      "Dragon Attack",
+      "Handicraft"
+    ]
+  },
+  "deathstenchbeta": {
+    "name": "Death Stench Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 310\n Fire: 15\n Water: 10\n Thunder: -10\n Ice: 15\n Dragon: -20",
+    "skills": [
+      "Resuscitate",
+      "Fortify",
+      "Focus",
+      "Dragon Attack",
+      "Handicraft"
+    ]
+  },
+  "skullalpha": {
+    "name": "Skull Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 64\n Fire: -3\n Water: -1\n Thunder: -1\n Ice: -1\n Dragon: 2",
+    "skills": [
+      "Handicraft"
+    ]
+  },
+  "nergigantealpha": {
+    "name": "Nergigante Alpha",
+    "setBonus": "Nergigante Hunger - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (3 pieces)",
+    "resistances": "Defense: 320\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Attack Boost",
+      "Maximum Might",
+      "Agitator",
+      "Stamina Surge",
+      "Attack Boost",
+      "Agitator",
+      "Attack Boost",
+      "Stamina Surge",
+      "Agitator",
+      "Maximum Might"
+    ]
+  },
+  "nergigantebeta": {
+    "name": "Nergigante Beta",
+    "setBonus": "Nergigante Hunger - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (3 pieces)",
+    "resistances": "Defense: 320\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Maximum Might",
+      "Stamina Surge",
+      "Agitator",
+      "Attack Boost",
+      "Maximum Might"
+    ]
+  },
+  "teostraalpha": {
+    "name": "Teostra Alpha",
+    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "resistances": "Defense: 320\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
+    "skills": [
+      "Latent Power",
+      "Latent Power",
+      "Special Ammo Boost",
+      "Weakness Exploit",
+      "Blast Attack",
+      "Weakness Exploit",
+      "Blast Attack",
+      "Latent Power"
+    ]
+  },
+  "teostrabeta": {
+    "name": "Teostra Beta",
+    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "resistances": "Defense: 320\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
+    "skills": [
+      "Latent Power",
+      "Special Ammo Boost",
+      "Weakness Exploit",
+      "Blast Attack",
+      "Latent Power"
+    ]
+  },
+  "kushalaalpha": {
+    "name": "Kushala Alpha",
+    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "resistances": "Defense: 320\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
+    "skills": [
+      "Ice Attack",
+      "Handicraft",
+      "Focus",
+      "Handicraft",
+      "Handicraft",
+      "Evade Window",
+      "Ice Attack",
+      "Evade Extender",
+      "Handicraft",
+      "Evade Extender"
+    ]
+  },
+  "kushalabeta": {
+    "name": "Kushala Beta",
+    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "resistances": "Defense: 320\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
+    "skills": [
+      "Ice Attack",
+      "Handicraft",
+      "Evade Window",
+      "Ice Attack",
+      "Evade Extender"
+    ]
+  },
+  "vaalhazakalpha": {
+    "name": "Vaal Hazak Alpha",
+    "setBonus": "Vaal Hazak Vitality - Allows recovery to exceed the red portion of the health gauge. (3 pieces)",
+    "resistances": "Defense: 320\n Fire: -20\n Water: 20\n Thunder: 5\n Ice: -5\n Dragon: -15",
+    "skills": [
+      "Dragon Attack",
+      "Peak Performance",
+      "Recovery Speed",
+      "Dragon Attack",
+      "Recovery Speed",
+      "Peak Performance",
+      "Peak Performance",
+      "Effluvia Resistance",
+      "Dragon Attack",
+      "Effluvia Resistance"
+    ]
+  },
+  "vaalhazakbeta": {
+    "name": "Vaal Hazak Beta",
+    "setBonus": "Vaal Hazak Vitality - Allows recovery to exceed the red portion of the health gauge. (3 pieces)",
+    "resistances": "Defense: 320\n Fire: -20\n Water: 20\n Thunder: 5\n Ice: -5\n Dragon: -15",
+    "skills": [
+      "Peak Performance",
+      "Recovery Speed",
+      "Peak Performance",
+      "Peak Performance",
+      "Effluvia Resistance"
+    ]
+  },
+  "kirinalpha": {
+    "name": "Kirin Alpha",
+    "setBonus": "Kirin Favor - High chance of increased capture rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "resistances": "Defense: 320\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Marathon Runner",
+      "Divine Blessing",
+      "Thunder Attack",
+      "Divine Blessing",
+      "Thunder Attack",
+      "Marathon Runner",
+      "Blight Resistance",
+      "Free Elem/Ammo Up",
+      "Thunder Resistance",
+      "Free Elem/Ammo Up"
+    ]
+  },
+  "kirinbeta": {
+    "name": "Kirin Beta",
+    "setBonus": "Kirin Favor - High chance of increased capture rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "resistances": "Defense: 320\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Marathon Runner",
+      "Divine Blessing",
+      "Thunder Attack",
+      "Blight Resistance",
+      "Free Elem/Ammo Up"
+    ]
+  },
+  "xeno'jiivaalpha": {
+    "name": "Xeno'jiiva Alpha",
+    "setBonus": "Xeno'jiiva Divinity - Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo. (3 pieces)",
+    "resistances": "Defense: 360\n Fire: -15\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: -20",
+    "skills": [
+      "Special Ammo Boost",
+      "Flinch Free",
+      "Blight Resistance",
+      "Power Prolonger",
+      "Critical Boost",
+      "Flinch Free",
+      "Blight Resistance",
+      "Special Ammo Boost",
+      "Power Prolonger",
+      "Flinch Free"
+    ]
+  },
+  "xeno'jiivabeta": {
+    "name": "Xeno'jiiva Beta",
+    "setBonus": "Xeno'jiiva Divinity - Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo. (3 pieces)",
+    "resistances": "Defense: 360\n Fire: -15\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: -20",
+    "skills": [
+      "Flinch Free",
+      "Power Prolonger",
+      "Flinch Free",
+      "Blight Resistance",
+      "Flinch Free"
+    ]
+  },
+  "guildcrossalpha": {
+    "name": "Guild Cross Alpha",
+    "setBonus": "Guild Guidance - High chance of increased quest rewards. (No effect when joining mid-quest.) (4 pieces)",
+    "resistances": "Defense: 310\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Thunder Resistance",
+      "Divine Blessing",
+      "Ice Resistance",
+      "Resuscitate",
+      "Water Resistance",
+      "Tool Specialist",
+      "Dragon Resistance",
+      "Fortify",
+      "Fire Resistance",
+      "Airborne"
+    ]
+  },
+  "guildcrossbeta": {
+    "name": "Guild Cross Beta",
+    "setBonus": "Guild Guidance - High chance of increased quest rewards. (No effect when joining mid-quest.) (4 pieces)",
+    "resistances": "Defense: 310\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Divine Blessing",
+      "Resuscitate",
+      "Tool Specialist",
+      "Fortify",
+      "Airborne"
+    ]
+  },
+  "dragonkingeyepatchalpha": {
+    "name": "Dragonking Eyepatch Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 70\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Weakness Exploit"
+    ]
+  },
+  "commissionalpha": {
+    "name": "Commission Alpha",
+    "setBonus": "Commission Guidance - Lets you carve one additional time. (No effect when joining mid-quest.) (4 pieces)",
+    "resistances": "Defense: 350\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: 10",
+    "skills": [
+      "Master Gatherer",
+      "Tool Specialist",
+      "Wide-Range",
+      "Cliffhanger",
+      "Carving Pro",
+      "Blindsider",
+      "Mushroomancer",
+      "Pro Transporter",
+      "Stealth",
+      "Affinity Sliding"
+    ]
+  },
+  "commissionbeta": {
+    "name": "Commission Beta",
+    "setBonus": "Commission Guidance - Lets you carve one additional time. (No effect when joining mid-quest.) (4 pieces)",
+    "resistances": "Defense: 350\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: 10",
+    "skills": [
+      "Tool Specialist",
+      "Wide-Range",
+      "Blindsider",
+      "Mushroomancer",
+      "Stealth"
+    ]
+  },
+  "deviljhoalpha": {
+    "name": "Deviljho Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 290\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 10\n Dragon: -15",
+    "skills": [
+      "Handicraft",
+      "Partbreaker",
+      "Handicraft",
+      "Speed Eating",
+      "Partbreaker",
+      "Latent Power",
+      "Handicraft",
+      "Latent Power",
+      "Partbreaker",
+      "Speed Eating"
+    ]
+  },
+  "deviljhobeta": {
+    "name": "Deviljho Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 290\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 10\n Dragon: -15",
+    "skills": [
+      "Partbreaker",
+      "Speed Eating",
+      "Latent Power",
+      "Latent Power",
+      "Speed Eating"
+    ]
+  },
+  "sealedeyepatchalpha": {
+    "name": "Sealed Eyepatch Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 46\n Fire: 3\n Water: 2\n Thunder: 0\n Ice: 2\n Dragon: 0",
+    "skills": [
+      "Fire Resistance"
+    ]
+  },
+  "shadowshadesalpha": {
+    "name": "Shadow Shades Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 46\n Fire: 4\n Water: 0\n Thunder: 4\n Ice: 2\n Dragon: 0",
+    "skills": [
+      "Stun Resistance"
+    ]
+  },
+  "blossom": {
+    "name": "Blossom",
+    "setBonus": "-",
+    "resistances": "Defense: 90\n Fire: 5\n Water: 5\n Thunder: 20\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Honey Hunter",
+      "Quick Sheath",
+      "Paralysis Resistance",
+      "Scoutfly Range Up",
+      "Recovery Speed"
+    ]
+  },
+  "queenbeetle": {
+    "name": "Queen Beetle",
+    "setBonus": "-",
+    "resistances": "Defense: 110\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Stun Resistance",
+      "Health Boost",
+      "Critical Eye",
+      "Defense Boost",
+      "Marathon Runner"
+    ]
+  },
+  "blossomalpha": {
+    "name": "Blossom Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 200\n Fire: 5\n Water: 5\n Thunder: 20\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Honey Hunter",
+      "Quick Sheath",
+      "Paralysis Resistance",
+      "Scoutfly Range Up",
+      "Recovery Speed"
+    ]
+  },
+  "kulu-ya-kuheadalpha": {
+    "name": "Kulu-Ya-Ku Head Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 46\n Fire: 2\n Water: 0\n Thunder: 2\n Ice: 3\n Dragon: 2",
+    "skills": [
+      "Pro Transporter"
+    ]
+  },
+  "wigglerheadalpha": {
+    "name": "Wiggler Head Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 46\n Fire: 0\n Water: 4\n Thunder: 0\n Ice: 0\n Dragon: 4",
+    "skills": [
+      "Wide-Range"
+    ]
+  },
+  "kulvetarothalpha": {
+    "name": "Kulve Taroth Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 360\n Fire: 20\n Water: -10\n Thunder: 15\n Ice: -20\n Dragon: -10",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Agitator",
+      "Stun Resistance",
+      "Critical Boost",
+      "Free Elem/Ammo Up",
+      "Power Prolonger",
+      "Free Elem/Ammo Up",
+      "Handicraft",
+      "Peak Performance",
+      "Wide-Range"
+    ]
+  },
+  "kulvetarothbeta": {
+    "name": "Kulve Taroth Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 360\n Fire: 20\n Water: -10\n Thunder: 15\n Ice: -20\n Dragon: -10",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Agitator",
+      "Stun Resistance",
+      "Critical Boost",
+      "Free Elem/Ammo Up",
+      "Power Prolonger",
+      "Free Elem/Ammo Up",
+      "Handicraft",
+      "Peak Performance",
+      "Wide-Range"
+    ]
+  },
+  "kiringamma": {
+    "name": "Kirin Gamma",
+    "setBonus": "Kirin Favor - High chance of increased capture rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "resistances": "Defense: 360\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Blight Resistance",
+      "Thunder Attack",
+      "Free Elem/Ammo Up",
+      "Blight Resistance",
+      "Free Elem/Ammo Up",
+      "Marathon Runner",
+      "Blight Resistance",
+      "Thunder Attack"
+    ]
+  },
+  "dantealpha": {
+    "name": "Dante Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 320\n Fire: 15\n Water: -15\n Thunder: 15\n Ice: -15\n Dragon: 15",
+    "skills": [
+      "Critical Eye",
+      "Weakness Exploit",
+      "Critical Eye",
+      "Evade Window",
+      "Special Ammo Boost",
+      "Evade Window",
+      "Latent Power",
+      "Evade Window",
+      "Weakness Exploit"
+    ]
+  },
+  "lunastraalpha": {
+    "name": "Lunastra Alpha",
+    "setBonus": "Lunastra Favor - Increases stamina cap. (2 pieces)",
+    "resistances": "Defense: 350\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
+    "skills": [
+      "Evade Extender",
+      "Tool Specialist",
+      "Health Boost",
+      "Peak Performance",
+      "Blast Attack",
+      "Wide-Range",
+      "Blast Attack",
+      "Tool Specialist",
+      "Health Boost",
+      "Wide-Range"
+    ]
+  },
+  "lunastrabeta": {
+    "name": "Lunastra Beta",
+    "setBonus": "Lunastra Favor - Increases stamina cap. (2 pieces)",
+    "resistances": "Defense: 350\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
+    "skills": [
+      "Evade Extender",
+      "Peak Performance",
+      "Wide-Range",
+      "Tool Specialist",
+      "Health Boost"
+    ]
+  },
+  "vaalhazakgamma": {
+    "name": "Vaal Hazak Gamma",
+    "setBonus": "Vaal Hazak Vitality - Allows recovery to exceed the red portion of the health gauge. (3 pieces)",
+    "resistances": "Defense: 360\n Fire: -20\n Water: 20\n Thunder: 5\n Ice: -5\n Dragon: -15",
+    "skills": [
+      "Recovery Up",
+      "Dragon Attack",
+      "Recovery Up",
+      "Dragon Attack",
+      "Dragon Attack",
+      "Recovery Speed",
+      "Dragon Attack",
+      "Recovery Speed",
+      "Dragon Attack"
+    ]
+  },
+  "drachenalpha": {
+    "name": "Drachen Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 360\n Fire: -10\n Water: -10\n Thunder: 15\n Ice: -10\n Dragon: 20",
+    "skills": [
+      "Critical Boost",
+      "Airborne",
+      "Critical Eye",
+      "Critical Boost",
+      "Attack Boost",
+      "Critical Eye",
+      "Critical Eye",
+      "Power Prolonger",
+      "Attack Boost",
+      "Critical Boost"
+    ]
+  },
+  "azurestarlordalpha": {
+    "name": "Azure Starlord Alpha",
+    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 280\n Fire: 10\n Water: 10\n Thunder: 0\n Ice: 0\n Dragon: 15",
+    "skills": [
+      "Agitator",
+      "Handicraft",
+      "Recovery Up",
+      "Handicraft",
+      "Critical Boost"
+    ]
+  },
+  "kulvetarothgamma": {
+    "name": "Kulve Taroth Gamma",
+    "setBonus": "-",
+    "resistances": "Defense: 360\n Fire: 20\n Water: -10\n Thunder: 15\n Ice: -20\n Dragon: -10",
+    "skills": [
+      "Stun Resistance",
+      "Power Prolonger",
+      "Handicraft",
+      "Agitator",
+      "Handicraft",
+      "Constitution",
+      "Critical Boost",
+      "Weakness Exploit",
+      "Heat Guard",
+      "Agitator"
+    ]
+  },
+  "lunastragamma": {
+    "name": "Lunastra Gamma",
+    "setBonus": "Lunastra Favor - Increases stamina cap. (2 pieces)",
+    "resistances": "Defense: 350\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
+    "skills": [
+      "Peak Performance",
+      "Wide-Range",
+      "Earplugs",
+      "Tool Specialist",
+      "Agitator",
+      "Evade Extender",
+      "Health Boost",
+      "Evade Window",
+      "Earplugs",
+      "Agitator"
+    ]
+  },
+  "xeno'jiivagamma": {
+    "name": "Xeno'jiiva Gamma",
+    "setBonus": "Xeno'jiiva Divinity - Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo. (3 pieces)",
+    "resistances": "Defense: 360\n Fire: -15\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: -20",
+    "skills": [
+      "Blight Resistance",
+      "Power Prolonger",
+      "Flinch Free",
+      "Power Prolonger",
+      "Special Ammo Boost",
+      "Critical Boost",
+      "Critical Boost"
+    ]
+  },
+  "zorahgamma": {
+    "name": "Zorah Gamma",
+    "setBonus": "Zorah Magdaros Mastery - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (3 pieces)",
+    "resistances": "Defense: 360\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
+    "skills": [
+      "Windproof",
+      "Critical Eye",
+      "Tremor Resistance",
+      "Earplugs",
+      "Critical Eye",
+      "Bombardier",
+      "Blast Attack",
+      "Critical Eye"
+    ]
+  },
+  "nergigantegamma": {
+    "name": "Nergigante Gamma",
+    "setBonus": "Nergigante Hunger - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (3 pieces)",
+    "resistances": "Defense: 360\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Agitator",
+      "Stamina Surge",
+      "Maximum Might",
+      "Attack Boost",
+      "Partbreaker",
+      "Agitator",
+      "Maximum Might",
+      "Attack Boost"
+    ]
+  },
+  "kushalagamma": {
+    "name": "Kushala Gamma",
+    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "resistances": "Defense: 360\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
+    "skills": [
+      "Handicraft",
+      "Ice Attack",
+      "Evade Extender",
+      "Focus",
+      "Handicraft",
+      "Evade Window"
+    ]
+  },
+  "teostragamma": {
+    "name": "Teostra Gamma",
+    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "resistances": "Defense: 360\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
+    "skills": [
+      "Critical Eye",
+      "Weakness Exploit",
+      "Latent Power",
+      "Critical Eye",
+      "Latent Power",
+      "Critical Eye"
+    ]
+  },
+  "bonealpha+": {
+    "name": "Bone Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 570\n Fire: 10\n Water: 0\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Health Boost",
+      "Partbreaker",
+      "Attack Boost",
+      "Health Boost",
+      "Attack Boost",
+      "Slugger",
+      "Partbreaker",
+      "Horn Maestro",
+      "Slugger",
+      "Horn Maestro"
+    ]
+  },
+  "alloyalpha+": {
+    "name": "Alloy Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 570\n Fire: -10\n Water: 0\n Thunder: -10\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Windproof",
+      "Defense Boost",
+      "Defense Boost",
+      "Water Resistance",
+      "Defense Boost",
+      "Speed Sharpening",
+      "Poison Resistance",
+      "Windproof",
+      "Windproof",
+      "Speed Sharpening"
+    ]
+  },
+  "vespoidalpha+": {
+    "name": "Vespoid Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: -10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
+    "skills": [
+      "Paralysis Attack",
+      "Quick Sheath",
+      "Windproof",
+      "Paralysis Attack",
+      "Quick Sheath",
+      "Paralysis Resistance",
+      "Quick Sheath",
+      "Paralysis Resistance",
+      "Critical Draw"
+    ]
+  },
+  "hornetauralpha+": {
+    "name": "Hornetaur Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: -5\n Water: -5\n Thunder: 0\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Dragon Attack",
+      "Weakness Exploit",
+      "Effluvial Expert",
+      "Hunger Resistance",
+      "Handicraft",
+      "Free Meal",
+      "Weakness Exploit",
+      "Hunger Resistance",
+      "Dragon Attack",
+      "Handicraft"
+    ]
+  },
+  "kestodonalpha+": {
+    "name": "Kestodon Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 4\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Focus",
+      "Affinity Sliding"
+    ]
+  },
+  "gajaualpha+": {
+    "name": "Gajau Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 0\n Water: 5\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Water Attack",
+      "Aquatic/Polar Mobility"
+    ]
+  },
+  "shamosalpha+": {
+    "name": "Shamos Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 2\n Water: 2\n Thunder: 0\n Ice: -3\n Dragon: 0",
+    "skills": [
+      "Geologist",
+      "Detector"
+    ]
+  },
+  "gastodonalpha+": {
+    "name": "Gastodon Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 3\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Blast Resistance",
+      "Flinch Free"
+    ]
+  },
+  "barnosalpha+": {
+    "name": "Barnos Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 1\n Water: 1\n Thunder: 0\n Ice: 1\n Dragon: -2",
+    "skills": [
+      "Iron Skin",
+      "Heat Guard"
+    ]
+  },
+  "wulgalpha+": {
+    "name": "Wulg Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: -3\n Water: 2\n Thunder: -2\n Ice: 3\n Dragon: 2",
+    "skills": [
+      "Ice Resistance",
+      "Master Mounter"
+    ]
+  },
+  "cortosalpha+": {
+    "name": "Cortos Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: -3\n Water: 2\n Thunder: 0\n Ice: 2\n Dragon: 0",
+    "skills": [
+      "Hunger Resistance",
+      "Jump Master"
+    ]
+  },
+  "jagrasalpha+": {
+    "name": "Jagras Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: -10\n Water: 10\n Thunder: -5\n Ice: -5\n Dragon: 5",
+    "skills": [
+      "Attack Boost",
+      "Speed Eating",
+      "Attack Boost",
+      "Evade Extender",
+      "Recovery Up",
+      "Evade Extender",
+      "Recovery Up",
+      "Speed Eating",
+      "Recovery Up",
+      "Free Meal"
+    ]
+  },
+  "tzitzialpha+": {
+    "name": "Tzitzi Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: 0\n Water: 0\n Thunder: -15\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Stun Resistance",
+      "Free Elem/Ammo Up",
+      "Water Attack",
+      "Constitution",
+      "Stun Resistance",
+      "Wide-Range",
+      "Water Attack",
+      "Wide-Range",
+      "Sleep Resistance",
+      "Wide-Range"
+    ]
+  },
+  "girrosalpha+": {
+    "name": "Girros Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: 0\n Water: -15\n Thunder: 10\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Paralysis Resistance",
+      "Horn Maestro",
+      "Paralysis Resistance",
+      "Free Elem/Ammo Up",
+      "Free Elem/Ammo Up",
+      "Effluvia Resistance",
+      "Effluvial Expert",
+      "Paralysis Attack",
+      "Paralysis Attack",
+      "Free Elem/Ammo Up"
+    ]
+  },
+  "dodogamaalpha+": {
+    "name": "Dodogama Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 600\n Fire: 10\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Blast Resistance",
+      "Bombardier",
+      "Blast Attack",
+      "Artillery",
+      "Blast Attack",
+      "Bombardier",
+      "Blast Resistance",
+      "Artillery",
+      "Blast Attack",
+      "Capacity Boost"
+    ]
+  },
+  "kulualpha+": {
+    "name": "Kulu Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: 0\n Water: -15\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Critical Boost",
+      "Slinger Capacity",
+      "Critical Eye",
+      "Stamina Surge",
+      "Critical Boost",
+      "Pro Transporter",
+      "Critical Eye",
+      "Item Prolonger",
+      "Critical Eye",
+      "Item Prolonger"
+    ]
+  },
+  "pukeialpha+": {
+    "name": "Pukei Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 590\n Fire: 0\n Water: 15\n Thunder: -15\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Poison Resistance",
+      "Survival Expert",
+      "Peak Performance",
+      "Item Prolonger",
+      "Peak Performance",
+      "Survival Expert",
+      "Poison Attack",
+      "Item Prolonger",
+      "Poison Resistance",
+      "Poison Attack"
+    ]
+  },
+  "coralpukeialpha+": {
+    "name": "Coral Pukei Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 660\n Fire: 0\n Water: 15\n Thunder: -10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Critical Draw",
+      "Item Prolonger",
+      "Power Prolonger",
+      "Critical Draw",
+      "Power Prolonger",
+      "Partbreaker",
+      "Water Attack",
+      "Partbreaker",
+      "Water Attack",
+      "Item Prolonger"
+    ]
+  },
+  "barrothalpha+": {
+    "name": "Barroth Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 590\n Fire: -15\n Water: -5\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Marathon Runner",
+      "Guard",
+      "Stamina Thief",
+      "Agitator",
+      "Marathon Runner",
+      "Guard",
+      "Agitator",
+      "Guard",
+      "Stun Resistance",
+      "Marathon Runner"
+    ]
+  },
+  "jyuraalpha+": {
+    "name": "Jyura Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 590\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Focus",
+      "Latent Power",
+      "Water Attack",
+      "Latent Power",
+      "Ice Resistance",
+      "Water Attack",
+      "Ice Resistance",
+      "Latent Power",
+      "Water Attack",
+      "Focus"
+    ]
+  },
+  "beoalpha+": {
+    "name": "Beo Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 590\n Fire: -15\n Water: 0\n Thunder: -10\n Ice: 15\n Dragon: 10",
+    "skills": [
+      "Earplugs",
+      "Aquatic/Polar Mobility",
+      "Ice Attack",
+      "Stamina Surge",
+      "Health Boost",
+      "Ice Attack",
+      "Earplugs",
+      "Health Boost",
+      "Earplugs",
+      "Ice Attack"
+    ]
+  },
+  "kadachialpha+": {
+    "name": "Kadachi Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 600\n Fire: 0\n Water: -15\n Thunder: 15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Constitution",
+      "Evade Extender",
+      "Constitution",
+      "Jump Master",
+      "Thunder Attack",
+      "Evade Extender",
+      "Thunder Resistance",
+      "Thunder Attack",
+      "Thunder Resistance",
+      "Thunder Attack"
+    ]
+  },
+  "viperkadachialpha+": {
+    "name": "Viper Kadachi Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 660\n Fire: 5\n Water: 15\n Thunder: -15\n Ice: -10\n Dragon: 5",
+    "skills": [
+      "Paralysis Attack",
+      "Evade Extender",
+      "Evade Extender",
+      "Quick Sheath",
+      "Poison Attack",
+      "Evade Window",
+      "Constitution",
+      "Quick Sheath",
+      "Constitution",
+      "Evade Window"
+    ]
+  },
+  "highmetalalpha+": {
+    "name": "High Metal Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 640\n Fire: 0\n Water: -5\n Thunder: -10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Earplugs",
+      "Ice Resistance",
+      "Earplugs",
+      "Ice Attack",
+      "Defense Boost",
+      "Ice Attack",
+      "Defense Boost",
+      "Capacity Boost",
+      "Ice Resistance",
+      "Heavy Artillery"
+    ]
+  },
+  "banbaroalpha+": {
+    "name": "Banbaro Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 650\n Fire: -10\n Water: 10\n Thunder: -5\n Ice: 15\n Dragon: -15",
+    "skills": [
+      "Resentment",
+      "Mushroomancer",
+      "Speed Eating",
+      "Offensive Guard",
+      "Health Boost",
+      "Offensive Guard",
+      "Mushroomancer",
+      "Offensive Guard",
+      "Speed Eating",
+      "Mushroomancer"
+    ]
+  },
+  "anjaalpha+": {
+    "name": "Anja Alpha +",
+    "setBonus": "Anjanath Dominance - Increases stamina cap. (2 pieces)",
+    "resistances": "Defense: 660\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Fire Resistance",
+      "Fire Attack",
+      "Special Ammo Boost",
+      "Marathon Runner",
+      "Fire Attack",
+      "Special Ammo Boost",
+      "Fire Resistance",
+      "Artillery",
+      "Artillery",
+      "Marathon Runner"
+    ]
+  },
+  "fulguranjaalpha+": {
+    "name": "Fulgur Anja Alpha +",
+    "setBonus": "Anjanath Dominance - Increases stamina cap. (2 pieces)",
+    "resistances": "Defense: 730\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Weakness Exploit",
+      "Resuscitate",
+      "Stun Resistance",
+      "Flinch Free",
+      "Thunder Attack",
+      "Item Prolonger",
+      "Weakness Exploit",
+      "Item Prolonger",
+      "Thunder Attack",
+      "Special Ammo Boost"
+    ]
+  },
+  "rathianalpha+": {
+    "name": "Rathian Alpha +",
+    "setBonus": "Rathian Essence - Extends the duration of your poison's effect on monsters. (2 pieces)",
+    "resistances": "Defense: 650\n Fire: 10\n Water: 0\n Thunder: -10\n Ice: 0\n Dragon: -15",
+    "skills": [
+      "Health Boost",
+      "Poison Attack",
+      "Recovery Up",
+      "Botanist",
+      "Poison Attack",
+      "Botanist",
+      "Poison Resistance",
+      "Health Boost",
+      "Poison Resistance",
+      "Recovery Up"
+    ]
+  },
+  "rathheartalpha+": {
+    "name": "Rath Heart Alpha +",
+    "setBonus": "Rathian Essence - Extends the duration of your poison's effect on monsters. (2 pieces)",
+    "resistances": "Defense: 660\n Fire: 15\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -20",
+    "skills": [
+      "Evade Extender",
+      "Cliffhanger",
+      "Handicraft",
+      "Tool Specialist",
+      "Windproof",
+      "Handicraft",
+      "Poison Resistance",
+      "Handicraft",
+      "Windproof",
+      "Tool Specialist"
+    ]
+  },
+  "lumualpha+": {
+    "name": "Lumu Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 650\n Fire: -15\n Water: 10\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Windproof",
+      "Stamina Surge",
+      "Master Mounter",
+      "Artillery",
+      "Windproof",
+      "Artillery",
+      "Windproof",
+      "Divine Blessing",
+      "Windproof",
+      "Stamina Surge"
+    ]
+  },
+  "lumuphantasmalpha+": {
+    "name": "Lumu Phantasm Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 660\n Fire: -15\n Water: -15\n Thunder: 10\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Weakness Exploit",
+      "Wide-Range",
+      "Wide-Range",
+      "Maximum Might",
+      "Sleep Attack",
+      "Maximum Might",
+      "Sleep Attack",
+      "Wide-Range",
+      "Sleep Resistance",
+      "Wide-Range"
+    ]
+  },
+  "baanalpha+": {
+    "name": "Baan Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 670\n Fire: 0\n Water: 10\n Thunder: 0\n Ice: -5\n Dragon: -10",
+    "skills": [
+      "Tremor Resistance",
+      "Slugger",
+      "Bleeding Resistance",
+      "Sleep Attack",
+      "Sleep Attack",
+      "Guard",
+      "Sleep Resistance",
+      "Guard",
+      "Bleeding Resistance",
+      "Guard"
+    ]
+  },
+  "bonebeta+": {
+    "name": "Bone Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 570\n Fire: 10\n Water: 0\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Health Boost",
+      "Partbreaker",
+      "Attack Boost",
+      "Slugger",
+      "Horn Maestro",
+      "Slugger"
+    ]
+  },
+  "alloybeta+": {
+    "name": "Alloy Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 570\n Fire: -10\n Water: 0\n Thunder: -10\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Windproof",
+      "Water Resistance",
+      "Defense Boost",
+      "Poison Resistance",
+      "Windproof",
+      "Windproof",
+      "Speed Sharpening"
+    ]
+  },
+  "vespoidbeta+": {
+    "name": "Vespoid Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: -10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
+    "skills": [
+      "Quick Sheath",
+      "Windproof",
+      "Paralysis Attack",
+      "Paralysis Resistance",
+      "Critical Draw"
+    ]
+  },
+  "hornetaurbeta+": {
+    "name": "Hornetaur Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: -5\n Water: -5\n Thunder: 0\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Dragon Attack",
+      "Weakness Exploit",
+      "Effluvial Expert",
+      "Free Meal",
+      "Weakness Exploit",
+      "Handicraft"
+    ]
+  },
+  "kestodonbeta+": {
+    "name": "Kestodon Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 4\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Focus",
+      "Affinity Sliding"
+    ]
+  },
+  "gajaubeta+": {
+    "name": "Gajau Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 0\n Water: 5\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Water Attack",
+      "Aquatic/Polar Mobility"
+    ]
+  },
+  "shamosbeta+": {
+    "name": "Shamos Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 2\n Water: 2\n Thunder: 0\n Ice: -3\n Dragon: 0",
+    "skills": [
+      "Geologist",
+      "Detector"
+    ]
+  },
+  "gastodonbeta+": {
+    "name": "Gastodon Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 3\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Blast Resistance",
+      "Flinch Free"
+    ]
+  },
+  "barnosbeta+": {
+    "name": "Barnos Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: 1\n Water: 1\n Thunder: 0\n Ice: 1\n Dragon: -2",
+    "skills": [
+      "Iron Skin",
+      "Heat Guard"
+    ]
+  },
+  "wulgbeta+": {
+    "name": "Wulg Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: -3\n Water: 2\n Thunder: -2\n Ice: 3\n Dragon: 2",
+    "skills": [
+      "Ice Resistance",
+      "Master Mounter"
+    ]
+  },
+  "cortosbeta+": {
+    "name": "Cortos Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 116\n Fire: -3\n Water: 2\n Thunder: 0\n Ice: 2\n Dragon: 0",
+    "skills": [
+      "Hunger Resistance",
+      "Jump Master"
+    ]
+  },
+  "jagrasbeta+": {
+    "name": "Jagras Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: -10\n Water: 10\n Thunder: -5\n Ice: -5\n Dragon: 5",
+    "skills": [
+      "Attack Boost",
+      "Speed Eating",
+      "Attack Boost",
+      "Evade Extender",
+      "Recovery Up",
+      "Evade Extender",
+      "Recovery Up",
+      "Free Meal"
+    ]
+  },
+  "tzitzibeta+": {
+    "name": "Tzitzi Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: 0\n Water: 0\n Thunder: -15\n Ice: -10\n Dragon: 0",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Water Attack",
+      "Constitution",
+      "Stun Resistance",
+      "Wide-Range",
+      "Wide-Range",
+      "Sleep Resistance",
+      "Wide-Range"
+    ]
+  },
+  "girrosbeta+": {
+    "name": "Girros Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: 0\n Water: -15\n Thunder: 10\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Horn Maestro",
+      "Paralysis Resistance",
+      "Free Elem/Ammo Up",
+      "Effluvia Resistance",
+      "Effluvial Expert",
+      "Paralysis Attack"
+    ]
+  },
+  "dodogamabeta+": {
+    "name": "Dodogama Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 600\n Fire: 10\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Blast Resistance",
+      "Blast Attack",
+      "Blast Attack",
+      "Bombardier",
+      "Artillery",
+      "Capacity Boost"
+    ]
+  },
+  "kulubeta+": {
+    "name": "Kulu Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 580\n Fire: 0\n Water: -15\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Slinger Capacity",
+      "Critical Eye",
+      "Stamina Surge",
+      "Critical Boost",
+      "Item Prolonger",
+      "Critical Eye",
+      "Item Prolonger"
+    ]
+  },
+  "pukeibeta+": {
+    "name": "Pukei Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 590\n Fire: 0\n Water: 15\n Thunder: -15\n Ice: 0\n Dragon: 5",
+    "skills": [
+      "Survival Expert",
+      "Peak Performance",
+      "Item Prolonger",
+      "Peak Performance",
+      "Survival Expert",
+      "Poison Attack",
+      "Item Prolonger",
+      "Poison Resistance"
+    ]
+  },
+  "coralpukeibeta+": {
+    "name": "Coral Pukei Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 660\n Fire: 0\n Water: 15\n Thunder: -10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Critical Draw",
+      "Item Prolonger",
+      "Power Prolonger",
+      "Partbreaker",
+      "Water Attack",
+      "Partbreaker",
+      "Item Prolonger"
+    ]
+  },
+  "barrothbeta+": {
+    "name": "Barroth Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 590\n Fire: -15\n Water: -5\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Guard",
+      "Stamina Thief",
+      "Marathon Runner",
+      "Agitator",
+      "Stun Resistance"
+    ]
+  },
+  "jyurabeta+": {
+    "name": "Jyura Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 590\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Focus",
+      "Latent Power",
+      "Water Attack",
+      "Latent Power",
+      "Water Attack",
+      "Ice Resistance",
+      "Water Attack",
+      "Focus"
+    ]
+  },
+  "beobeta+": {
+    "name": "Beo Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 590\n Fire: -15\n Water: 0\n Thunder: -10\n Ice: 15\n Dragon: 10",
+    "skills": [
+      "Aquatic/Polar Mobility",
+      "Stamina Surge",
+      "Ice Attack",
+      "Earplugs",
+      "Health Boost",
+      "Earplugs"
+    ]
+  },
+  "kadachibeta+": {
+    "name": "Kadachi Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 600\n Fire: 0\n Water: -15\n Thunder: 15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Constitution",
+      "Evade Extender",
+      "Jump Master",
+      "Thunder Attack",
+      "Evade Extender",
+      "Thunder Attack",
+      "Thunder Resistance"
+    ]
+  },
+  "viperkadachibeta+": {
+    "name": "Viper Kadachi Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 660\n Fire: 5\n Water: 15\n Thunder: -15\n Ice: -10\n Dragon: 5",
+    "skills": [
+      "Paralysis Attack",
+      "Evade Extender",
+      "Quick Sheath",
+      "Poison Attack",
+      "Evade Window",
+      "Constitution",
+      "Evade Window"
+    ]
+  },
+  "highmetalbeta+": {
+    "name": "High Metal Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 640\n Fire: 0\n Water: -5\n Thunder: -10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Earplugs",
+      "Ice Resistance",
+      "Earplugs",
+      "Ice Attack",
+      "Defense Boost",
+      "Ice Attack",
+      "Defense Boost",
+      "Capacity Boost",
+      "Ice Resistance",
+      "Heavy Artillery"
+    ]
+  },
+  "banbarobeta+": {
+    "name": "Banbaro Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 650\n Fire: -10\n Water: 10\n Thunder: -5\n Ice: 15\n Dragon: -15",
+    "skills": [
+      "Resentment",
+      "Speed Eating",
+      "Health Boost",
+      "Offensive Guard",
+      "Mushroomancer",
+      "Mushroomancer"
+    ]
+  },
+  "anjabeta+": {
+    "name": "Anja Beta +",
+    "setBonus": "Anjanath Dominance - Increases stamina cap. (2 pieces)",
+    "resistances": "Defense: 660\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Fire Attack",
+      "Special Ammo Boost",
+      "Marathon Runner",
+      "Fire Attack",
+      "Special Ammo Boost",
+      "Fire Resistance",
+      "Artillery"
+    ]
+  },
+  "fulguranjabeta+": {
+    "name": "Fulgur Anja Beta +",
+    "setBonus": "Anjanath Dominance - Increases stamina cap. (2 pieces)",
+    "resistances": "Defense: 730\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Weakness Exploit",
+      "Stun Resistance",
+      "Flinch Free",
+      "Item Prolonger",
+      "Weakness Exploit",
+      "Item Prolonger",
+      "Thunder Attack"
+    ]
+  },
+  "rathianbeta+": {
+    "name": "Rathian Beta +",
+    "setBonus": "Rathian Essence - Extends the duration of your poison's effect on monsters. (2 pieces)",
+    "resistances": "Defense: 650\n Fire: 10\n Water: 0\n Thunder: -10\n Ice: 0\n Dragon: -15",
+    "skills": [
+      "Health Boost",
+      "Poison Attack",
+      "Recovery Up",
+      "Botanist",
+      "Poison Attack",
+      "Poison Resistance",
+      "Health Boost",
+      "Recovery Up"
+    ]
+  },
+  "rathheartbeta+": {
+    "name": "Rath Heart Beta +",
+    "setBonus": "Rathian Essence - Extends the duration of your poison's effect on monsters. (2 pieces)",
+    "resistances": "Defense: 660\n Fire: 15\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -20",
+    "skills": [
+      "Evade Extender",
+      "Tool Specialist",
+      "Windproof",
+      "Poison Resistance",
+      "Handicraft",
+      "Tool Specialist"
+    ]
+  },
+  "lumubeta+": {
+    "name": "Lumu Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 650\n Fire: -15\n Water: 10\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Stamina Surge",
+      "Master Mounter",
+      "Windproof",
+      "Artillery",
+      "Windproof",
+      "Divine Blessing",
+      "Windproof"
+    ]
+  },
+  "lumuphantasmbeta+": {
+    "name": "Lumu Phantasm Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 660\n Fire: -15\n Water: -15\n Thunder: 10\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Weakness Exploit",
+      "Wide-Range",
+      "Maximum Might",
+      "Sleep Attack",
+      "Sleep Resistance"
+    ]
+  },
+  "baanbeta+": {
+    "name": "Baan Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 670\n Fire: 0\n Water: 10\n Thunder: 0\n Ice: -5\n Dragon: -10",
+    "skills": [
+      "Tremor Resistance",
+      "Sleep Attack",
+      "Sleep Attack",
+      "Guard",
+      "Guard",
+      "Bleeding Resistance"
+    ]
+  },
+  "artianalpha+": {
+    "name": "Artian Alpha +",
+    "setBonus": "Ancient Divinity - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 710\n Fire: 5\n Water: -10\n Thunder: -10\n Ice: 10\n Dragon: 15",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Slinger Capacity",
+      "Critical Eye",
+      "Peak Performance",
+      "Free Elem/Ammo Up",
+      "Tool Specialist",
+      "Critical Eye",
+      "Tool Specialist",
+      "Peak Performance",
+      "Slinger Capacity"
+    ]
+  },
+  "artianbeta+": {
+    "name": "Artian Beta +",
+    "setBonus": "Ancient Divinity - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 710\n Fire: 5\n Water: -10\n Thunder: -10\n Ice: 10\n Dragon: 15",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Slinger Capacity",
+      "Critical Eye",
+      "Peak Performance",
+      "Free Elem/Ammo Up",
+      "Critical Eye",
+      "Tool Specialist",
+      "Peak Performance"
+    ]
+  },
+  "clockworkalpha+": {
+    "name": "Clockwork Alpha +",
+    "setBonus": "Commission Alchemy - Raises the maximum level of the Bombardier skill. (3 pieces)",
+    "resistances": "Defense: 710\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: -5\n Dragon: -5",
+    "skills": [
+      "Partbreaker",
+      "Agitator",
+      "Agitator",
+      "Special Ammo Boost",
+      "Tremor Resistance",
+      "Bombardier",
+      "Partbreaker",
+      "Sleep Functionality",
+      "Critical Boost",
+      "Bombardier"
+    ]
+  },
+  "clockworkbeta+": {
+    "name": "Clockwork Beta +",
+    "setBonus": "Commission Alchemy - Raises the maximum level of the Bombardier skill. (3 pieces)",
+    "resistances": "Defense: 710\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: -5\n Dragon: -5",
+    "skills": [
+      "Partbreaker",
+      "Agitator",
+      "Agitator",
+      "Bombardier",
+      "Partbreaker",
+      "Critical Boost",
+      "Bombardier"
+    ]
+  },
+  "ingotalpha+": {
+    "name": "Ingot Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 680\n Fire: -10\n Water: 0\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Windproof",
+      "Thunder Attack",
+      "Thunder Resistance",
+      "Free Elem/Ammo Up",
+      "Health Boost",
+      "Thunder Attack",
+      "Windproof",
+      "Free Elem/Ammo Up",
+      "Defense Boost",
+      "Free Elem/Ammo Up"
+    ]
+  },
+  "ingotbeta+": {
+    "name": "Ingot Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 680\n Fire: -10\n Water: 0\n Thunder: 15\n Ice: -5\n Dragon: 0",
+    "skills": [
+      "Thunder Attack",
+      "Thunder Resistance",
+      "Free Elem/Ammo Up",
+      "Health Boost",
+      "Thunder Attack",
+      "Windproof",
+      "Free Elem/Ammo Up",
+      "Defense Boost",
+      "Free Elem/Ammo Up"
+    ]
+  },
+  "pearlspringalpha+": {
+    "name": "Pearlspring Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 120\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 5\n Dragon: 0",
+    "skills": [
+      "Recovery Up"
+    ]
+  },
+  "guildworkalpha+": {
+    "name": "Guildwork Alpha +",
+    "setBonus": "Guild Pride - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "resistances": "Defense: 810\n Fire: 10\n Water: 5\n Thunder: 5\n Ice: 10\n Dragon: 10",
+    "skills": [
+      "Honey Hunter",
+      "Botanist",
+      "Flinch Free",
+      "Cliffhanger",
+      "Botanist",
+      "Geologist",
+      "Forager's Luck",
+      "Detector",
+      "Geologist",
+      "Flinch Free"
+    ]
+  },
+  "guildworkbeta+": {
+    "name": "Guildwork Beta +",
+    "setBonus": "Guild Pride - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "resistances": "Defense: 810\n Fire: 10\n Water: 5\n Thunder: 5\n Ice: 10\n Dragon: 10",
+    "skills": [
+      "Honey Hunter",
+      "Botanist",
+      "Cliffhanger",
+      "Botanist",
+      "Geologist",
+      "Forager's Luck",
+      "Flinch Free"
+    ]
+  },
+  "ruinernergibeta+": {
+    "name": "Ruiner Nergi Beta +",
+    "setBonus": "Nergigante Ambition - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (2 pieces)",
+    "resistances": "Defense: 830\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Maximum Might",
+      "Stamina Surge",
+      "Attack Boost",
+      "Agitator",
+      "Earplugs",
+      "Attack Boost",
+      "Earplugs"
+    ]
+  },
+  "ruinernergialpha+": {
+    "name": "Ruiner Nergi Alpha +",
+    "setBonus": "Nergigante Ambition - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (2 pieces)",
+    "resistances": "Defense: 830\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Stamina Surge",
+      "Maximum Might",
+      "Stamina Surge",
+      "Maximum Might",
+      "Attack Boost",
+      "Agitator",
+      "Earplugs",
+      "Attack Boost",
+      "Earplugs",
+      "Agitator"
+    ]
+  },
+  "silversolbeta+": {
+    "name": "Silver Sol Beta +",
+    "setBonus": "Silver Rathalos Essence - Raises the maximum level of the Slinger Capacity skill. (2 pieces)",
+    "resistances": "Defense: 820\n Fire: 20\n Water: -15\n Thunder: -10\n Ice: -10\n Dragon: 15",
+    "skills": [
+      "Windproof",
+      "Critical Boost",
+      "Slinger Capacity",
+      "Windproof",
+      "Critical Boost",
+      "Slinger Capacity"
+    ]
+  },
+  "silversolalpha+": {
+    "name": "Silver Sol Alpha +",
+    "setBonus": "Silver Rathalos Essence - Raises the maximum level of the Slinger Capacity skill. (2 pieces)",
+    "resistances": "Defense: 820\n Fire: 20\n Water: -15\n Thunder: -10\n Ice: -10\n Dragon: 15",
+    "skills": [
+      "Windproof",
+      "Fire Attack",
+      "Fire Attack",
+      "Critical Boost",
+      "Windproof",
+      "Slinger Capacity",
+      "Windproof",
+      "Critical Boost",
+      "Fire Attack",
+      "Slinger Capacity"
+    ]
+  },
+  "goldenlunebeta+": {
+    "name": "Golden Lune Beta +",
+    "setBonus": "Gold Rathian Essence - Raises the maximum level of the Divine Blessing skill. (2 pieces)",
+    "resistances": "Defense: 810\n Fire: 15\n Water: -10\n Thunder: -20\n Ice: 0\n Dragon: 20",
+    "skills": [
+      "Health Boost",
+      "Divine Blessing",
+      "Resentment",
+      "Divine Blessing",
+      "Weakness Exploit"
+    ]
+  },
+  "goldenlunaalpha+": {
+    "name": "Golden Luna Alpha +",
+    "setBonus": "Gold Rathian Essence - Raises the maximum level of the Divine Blessing skill. (2 pieces)",
+    "resistances": "Defense: 810\n Fire: 15\n Water: -10\n Thunder: -20\n Ice: 0\n Dragon: 20",
+    "skills": [
+      "Health Boost",
+      "Poison Attack",
+      "Resentment",
+      "Divine Blessing",
+      "Poison Attack",
+      "Resentment",
+      "Health Boost",
+      "Divine Blessing",
+      "Spread/Power Shots",
+      "Weakness Exploit"
+    ]
+  },
+  "zinogrebeta+": {
+    "name": "Zinogre Beta +",
+    "setBonus": "Zinogre Essence - Raises the maximum level of the Latent Power skill. (3 pieces)",
+    "resistances": "Defense: 790\n Fire: -5\n Water: -5\n Thunder: 20\n Ice: -20\n Dragon: 5",
+    "skills": [
+      "Critical Boost",
+      "Power Prolonger",
+      "Latent Power",
+      "Recovery Speed",
+      "Latent Power",
+      "Power Prolonger",
+      "Thunder Attack",
+      "Latent Power"
+    ]
+  },
+  "zinogrealpha+": {
+    "name": "Zinogre Alpha +",
+    "setBonus": "Zinogre Essence - Raises the maximum level of the Latent Power skill. (3 pieces)",
+    "resistances": "Defense: 790\n Fire: -5\n Water: -5\n Thunder: 20\n Ice: -20\n Dragon: 5",
+    "skills": [
+      "Critical Boost",
+      "Power Prolonger",
+      "Normal Shots",
+      "Latent Power",
+      "Recovery Speed",
+      "Latent Power",
+      "Thunder Attack",
+      "Power Prolonger",
+      "Thunder Attack",
+      "Latent Power"
+    ]
+  },
+  "yiangarugabeta+": {
+    "name": "Yian Garuga Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 770\n Fire: 10\n Water: -15\n Thunder: 10\n Ice: -10\n Dragon: -10",
+    "skills": [
+      "Critical Eye",
+      "Resentment",
+      "Earplugs",
+      "Critical Eye",
+      "Earplugs",
+      "Resentment",
+      "Critical Eye"
+    ]
+  },
+  "yiangarugaalpha+": {
+    "name": "Yian Garuga Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 770\n Fire: 10\n Water: -15\n Thunder: 10\n Ice: -10\n Dragon: -10",
+    "skills": [
+      "Critical Eye",
+      "Resentment",
+      "Earplugs",
+      "Critical Eye",
+      "Earplugs",
+      "Poison Attack",
+      "Resentment",
+      "Piercing Shots",
+      "Critical Eye"
+    ]
+  },
+  "zorahbeta+": {
+    "name": "Zorah Beta +",
+    "setBonus": "Zorah Magdaros Essence - Raises the maximum level of the Artillery skill. (3 pieces)",
+    "resistances": "Defense: 800\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
+    "skills": [
+      "Flinch Free",
+      "Tremor Resistance",
+      "Flinch Free",
+      "Tremor Resistance",
+      "Earplugs"
+    ]
+  },
+  "zorahalpha+": {
+    "name": "Zorah Alpha +",
+    "setBonus": "Zorah Magdaros Essence - Raises the maximum level of the Artillery skill. (3 pieces)",
+    "resistances": "Defense: 800\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
+    "skills": [
+      "Artillery",
+      "Flinch Free",
+      "Tremor Resistance",
+      "Artillery",
+      "Free Meal",
+      "Flinch Free",
+      "Tremor Resistance",
+      "Artillery",
+      "Earplugs",
+      "Handicraft"
+    ]
+  },
+  "sharaishvaldabeta+": {
+    "name": "Shara Ishvalda Beta +",
+    "setBonus": "Shara Ishvalda Divinity - While wearing a mantle, gain Windproof Lv3, Earplugs Lv3, Tremor Res Lv3, and Flinch Free. (4 pieces)",
+    "resistances": "Defense: 810\n Fire: 0\n Water: -10\n Thunder: 15\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Recovery Up",
+      "Coalescence",
+      "Critical Boost",
+      "Health Boost",
+      "Defense Boost",
+      "Partbreaker"
+    ]
+  },
+  "sharaishvaldaalpha+": {
+    "name": "Shara Ishvalda Alpha +",
+    "setBonus": "Shara Ishvalda Divinity - While wearing a mantle, gain Windproof Lv3, Earplugs Lv3, Tremor Res Lv3, and Flinch Free. (4 pieces)",
+    "resistances": "Defense: 810\n Fire: 0\n Water: -10\n Thunder: 15\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Recovery Up",
+      "Partbreaker",
+      "Health Boost",
+      "Coalescence",
+      "Critical Boost",
+      "Coalescence",
+      "Health Boost",
+      "Recovery Up",
+      "Defense Boost",
+      "Partbreaker"
+    ]
+  },
+  "namiellebeta+": {
+    "name": "Namielle Beta +",
+    "setBonus": "Namielle Divinity - Continually attacking a monster activates Free Element/Ammo Up Lv2 and increases elemental damage. (2 pieces)",
+    "resistances": "Defense: 790\n Fire: -15\n Water: 20\n Thunder: 15\n Ice: 0\n Dragon: -10",
+    "skills": [
+      "Constitution",
+      "Maximum Might",
+      "Blight Resistance",
+      "Tool Specialist",
+      "Tool Specialist",
+      "Constitution",
+      "Stamina Surge",
+      "Stamina Surge"
+    ]
+  },
+  "namiellealpha+": {
+    "name": "Namielle Alpha +",
+    "setBonus": "Namielle Divinity - Continually attacking a monster activates Free Element/Ammo Up Lv2 and increases elemental damage. (2 pieces)",
+    "resistances": "Defense: 790\n Fire: -15\n Water: 20\n Thunder: 15\n Ice: 0\n Dragon: -10",
+    "skills": [
+      "Constitution",
+      "Maximum Might",
+      "Blight Resistance",
+      "Tool Specialist",
+      "Maximum Might",
+      "Tool Specialist",
+      "Constitution",
+      "Stamina Surge",
+      "Blight Resistance",
+      "Stamina Surge"
+    ]
+  },
+  "kirinbeta+": {
+    "name": "Kirin Beta +",
+    "setBonus": "Kirin Divinity - High chance of increased quest rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "resistances": "Defense: 770\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Marathon Runner",
+      "Critical Eye",
+      "Divine Blessing",
+      "Thunder Attack",
+      "Blight Resistance",
+      "Free Elem/Ammo Up"
+    ]
+  },
+  "kirinalpha+": {
+    "name": "Kirin Alpha +",
+    "setBonus": "Kirin Divinity - High chance of increased quest rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "resistances": "Defense: 770\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Marathon Runner",
+      "Divine Blessing",
+      "Critical Eye",
+      "Divine Blessing",
+      "Thunder Attack",
+      "Marathon Runner",
+      "Blight Resistance",
+      "Free Elem/Ammo Up",
+      "Free Elem/Ammo Up",
+      "Critical Eye"
+    ]
+  },
+  "kushalabeta+": {
+    "name": "Kushala Beta +",
+    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "resistances": "Defense: 780\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
+    "skills": [
+      "Ice Attack",
+      "Evade Window",
+      "Handicraft",
+      "Evade Window",
+      "Ice Attack",
+      "Evade Extender"
+    ]
+  },
+  "kushalaalpha+": {
+    "name": "Kushala Alpha +",
+    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "resistances": "Defense: 780\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
+    "skills": [
+      "Ice Attack",
+      "Evade Window",
+      "Handicraft",
+      "Evade Window",
+      "Ice Attack",
+      "Evade Extender",
+      "Handicraft",
+      "Evade Extender"
+    ]
+  },
+  "teostrabeta+": {
+    "name": "Teostra Beta +",
+    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "resistances": "Defense: 780\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
+    "skills": [
+      "Critical Eye",
+      "Latent Power",
+      "Latent Power",
+      "Heat Guard",
+      "Weakness Exploit",
+      "Blast Attack",
+      "Blast Attack",
+      "Latent Power"
+    ]
+  },
+  "teostraalpha+": {
+    "name": "Teostra Alpha +",
+    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "resistances": "Defense: 780\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
+    "skills": [
+      "Critical Eye",
+      "Latent Power",
+      "Latent Power",
+      "Special Ammo Boost",
+      "Heat Guard",
+      "Weakness Exploit",
+      "Blast Attack",
+      "Weakness Exploit",
+      "Blast Attack",
+      "Latent Power"
+    ]
+  },
+  "blackveilhazakbeta+": {
+    "name": "Blackveil Hazak Beta +",
+    "setBonus": "Vaal Soulvein - Allows recovery to exceed the red portion of the health gauge. (2 pieces)",
+    "resistances": "Defense: 780\n Fire: -10\n Water: 20\n Thunder: 5\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Peak Performance",
+      "Recovery Speed",
+      "Dragon Attack",
+      "Recovery Up",
+      "Speed Eating",
+      "Effluvia Resistance"
+    ]
+  },
+  "blackveilhazakalpha+": {
+    "name": "Blackveil Hazak Alpha +",
+    "setBonus": "Vaal Soulvein - Allows recovery to exceed the red portion of the health gauge. (2 pieces)",
+    "resistances": "Defense: 780\n Fire: -10\n Water: 20\n Thunder: 5\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Dragon Attack",
+      "Peak Performance",
+      "Recovery Speed",
+      "Dragon Attack",
+      "Recovery Up",
+      "Speed Eating",
+      "Peak Performance",
+      "Speed Eating",
+      "Dragon Attack",
+      "Effluvia Resistance"
+    ]
+  },
+  "velkhanabeta+": {
+    "name": "Velkhana Beta +",
+    "setBonus": "Velkhana Divinity - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 770\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 20\n Dragon: -5",
+    "skills": [
+      "Divine Blessing",
+      "Quick Sheath",
+      "Quick Sheath",
+      "Flinch Free",
+      "Flinch Free",
+      "Critical Draw"
+    ]
+  },
+  "velkhanaalpha+": {
+    "name": "Velkhana Alpha +",
+    "setBonus": "Velkhana Divinity - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "resistances": "Defense: 770\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 20\n Dragon: -5",
+    "skills": [
+      "Divine Blessing",
+      "Coalescence",
+      "Critical Draw",
+      "Quick Sheath",
+      "Quick Sheath",
+      "Flinch Free",
+      "Flinch Free",
+      "Coalescence",
+      "Critical Draw",
+      "Coalescence"
+    ]
+  },
+  "guildpalacebeta+": {
+    "name": "Guild Palace Beta +",
+    "setBonus": "Guild Pride - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "resistances": "Defense: 770\n Fire: 5\n Water: 10\n Thunder: 10\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Health Boost",
+      "Offensive Guard",
+      "Agitator",
+      "Resuscitate",
+      "Health Boost",
+      "Heroics"
+    ]
+  },
+  "guildpalacealpha+": {
+    "name": "Guild Palace Alpha +",
+    "setBonus": "Guild Pride - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "resistances": "Defense: 770\n Fire: 5\n Water: 10\n Thunder: 10\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Health Boost",
+      "Offensive Guard",
+      "Agitator",
+      "Heroics",
+      "Heroics",
+      "Offensive Guard",
+      "Agitator",
+      "Resuscitate",
+      "Health Boost",
+      "Heroics"
+    ]
+  },
+  "savagejhobeta+": {
+    "name": "Savage Jho Beta +",
+    "setBonus": "Deviljho Essence - Raises the maximum level of the Stamina Thief skill. (3 pieces)",
+    "resistances": "Defense: 780\n Fire: 10\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Partbreaker",
+      "Speed Eating",
+      "Stamina Thief",
+      "Stamina Thief",
+      "Stamina Thief",
+      "Speed Eating"
+    ]
+  },
+  "savagejhoalpha+": {
+    "name": "Savage Jho Alpha +",
+    "setBonus": "Deviljho Essence - Raises the maximum level of the Stamina Thief skill. (3 pieces)",
+    "resistances": "Defense: 780\n Fire: 10\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Handicraft",
+      "Partbreaker",
+      "Handicraft",
+      "Speed Eating",
+      "Partbreaker",
+      "Stamina Thief",
+      "Handicraft",
+      "Stamina Thief",
+      "Stamina Thief",
+      "Speed Eating"
+    ]
+  },
+  "seethingbazelbeta+": {
+    "name": "Seething Bazel Beta +",
+    "setBonus": "Bazelgeuse Ambition - Above a certain health threshold, you withstand an attack that would normally cart you (once only). (2 pieces)",
+    "resistances": "Defense: 770\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: -20\n Dragon: -10",
+    "skills": [
+      "Earplugs",
+      "Blast Attack",
+      "Guard",
+      "Critical Draw",
+      "Bombardier",
+      "Earplugs",
+      "Jump Master"
+    ]
+  },
+  "seethingbazelalpha+": {
+    "name": "Seething Bazel Alpha +",
+    "setBonus": "Bazelgeuse Ambition - Above a certain health threshold, you withstand an attack that would normally cart you (once only). (2 pieces)",
+    "resistances": "Defense: 770\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: -20\n Dragon: -10",
+    "skills": [
+      "Earplugs",
+      "Blast Attack",
+      "Blast Resistance",
+      "Guard",
+      "Earplugs",
+      "Critical Draw",
+      "Critical Draw",
+      "Bombardier",
+      "Earplugs",
+      "Jump Master"
+    ]
+  },
+  "damascusbeta+": {
+    "name": "Damascus Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 760\n Fire: 20\n Water: -10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Defense Boost",
+      "Focus",
+      "Handicraft",
+      "Focus",
+      "Defense Boost",
+      "Guard"
+    ]
+  },
+  "damascusalpha+": {
+    "name": "Damascus Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 760\n Fire: 20\n Water: -10\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Defense Boost",
+      "Speed Sharpening",
+      "Defense Boost",
+      "Focus",
+      "Handicraft",
+      "Speed Sharpening",
+      "Focus",
+      "Guard",
+      "Defense Boost",
+      "Guard"
+    ]
+  },
+  "doberbeta+": {
+    "name": "Dober Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 760\n Fire: -10\n Water: 0\n Thunder: -5\n Ice: -5\n Dragon: 20",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Attack Boost",
+      "Effluvia Resistance",
+      "Stamina Surge",
+      "Mushroomancer",
+      "Stun Resistance",
+      "Attack Boost",
+      "Attack Boost",
+      "Mushroomancer"
+    ]
+  },
+  "doberalpha+": {
+    "name": "Dober Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 760\n Fire: -10\n Water: 0\n Thunder: -5\n Ice: -5\n Dragon: 20",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Stamina Surge",
+      "Attack Boost",
+      "Effluvia Resistance",
+      "Stamina Surge",
+      "Mushroomancer",
+      "Stun Resistance",
+      "Attack Boost",
+      "Attack Boost",
+      "Mushroomancer"
+    ]
+  },
+  "blackbeltbeta+": {
+    "name": "Black Belt Beta +",
+    "setBonus": "Instructor's Guidance - High chance of increased capture rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "resistances": "Defense: 750\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
+    "skills": [
+      "Marathon Runner",
+      "Mushroomancer",
+      "Wide-Range",
+      "Recovery Up",
+      "Wide-Range"
+    ]
+  },
+  "blackbeltalpha+": {
+    "name": "Black Belt Alpha +",
+    "setBonus": "Instructor's Guidance - High chance of increased capture rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "resistances": "Defense: 750\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
+    "skills": [
+      "Marathon Runner",
+      "Mushroomancer",
+      "Wide-Range",
+      "Mushroomancer",
+      "Wide-Range",
+      "Horn Maestro",
+      "Recovery Up",
+      "Marathon Runner",
+      "Recovery Up",
+      "Wide-Range"
+    ]
+  },
+  "brutetigrexbeta+": {
+    "name": "Brute Tigrex Beta +",
+    "setBonus": "Tigrex Essence - Raises the maximum level of the Free Meal skill. (3 pieces)",
+    "resistances": "Defense: 790\n Fire: 15\n Water: -20\n Thunder: -10\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Attack Boost",
+      "Free Meal",
+      "Attack Boost",
+      "Weakness Exploit",
+      "Attack Boost",
+      "Health Boost",
+      "Recovery Up",
+      "Weakness Exploit",
+      "Weakness Exploit",
+      "Agitator"
+    ]
+  },
+  "brutetigrexalpha+": {
+    "name": "Brute Tigrex Alpha +",
+    "setBonus": "Tigrex Essence - Raises the maximum level of the Free Meal skill. (3 pieces)",
+    "resistances": "Defense: 790\n Fire: 15\n Water: -20\n Thunder: -10\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Attack Boost",
+      "Free Meal",
+      "Attack Boost",
+      "Weakness Exploit",
+      "Attack Boost",
+      "Health Boost",
+      "Recovery Up",
+      "Weakness Exploit",
+      "Weakness Exploit",
+      "Agitator"
+    ]
+  },
+  "tigrexbeta+": {
+    "name": "Tigrex Beta +",
+    "setBonus": "Tigrex Essence - Raises the maximum level of the Free Meal skill. (3 pieces)",
+    "resistances": "Defense: 710\n Fire: 10\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -10",
+    "skills": [
+      "Earplugs",
+      "Attack Boost",
+      "Earplugs",
+      "Attack Boost",
+      "Speed Eating",
+      "Earplugs",
+      "Speed Eating"
+    ]
+  },
+  "tigrexalpha+": {
+    "name": "Tigrex Alpha +",
+    "setBonus": "Tigrex Essence - Raises the maximum level of the Free Meal skill. (3 pieces)",
+    "resistances": "Defense: 710\n Fire: 10\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -10",
+    "skills": [
+      "Earplugs",
+      "Attack Boost",
+      "Earplugs",
+      "Free Meal",
+      "Attack Boost",
+      "Speed Eating",
+      "Earplugs",
+      "Free Meal",
+      "Free Meal",
+      "Speed Eating"
+    ]
+  },
+  "brachydiosbeta+": {
+    "name": "Brachydios Beta +",
+    "setBonus": "Brachydios Essence - Raises the maximum level of the Agitator skill. (3 pieces)",
+    "resistances": "Defense: 710\n Fire: 15\n Water: -10\n Thunder: 5\n Ice: -15\n Dragon: 5",
+    "skills": [
+      "Agitator",
+      "Stamina Thief",
+      "Agitator",
+      "Blast Resistance",
+      "Agitator",
+      "Blast Attack",
+      "Agitator",
+      "Artillery"
+    ]
+  },
+  "brachydiosalpha+": {
+    "name": "Brachydios Alpha +",
+    "setBonus": "Brachydios Essence - Raises the maximum level of the Agitator skill. (3 pieces)",
+    "resistances": "Defense: 710\n Fire: 15\n Water: -10\n Thunder: 5\n Ice: -15\n Dragon: 5",
+    "skills": [
+      "Agitator",
+      "Capacity Boost",
+      "Stamina Thief",
+      "Agitator",
+      "Blast Resistance",
+      "Agitator",
+      "Blast Attack",
+      "Stamina Thief",
+      "Agitator",
+      "Artillery"
+    ]
+  },
+  "acidicglavenusbeta+": {
+    "name": "Acidic Glavenus Beta +",
+    "setBonus": "Glavenus Essence - Raises  the maximum level of the Maximum Might skill. (3 pieces)",
+    "resistances": "Defense: 750\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 10\n Dragon: -5",
+    "skills": [
+      "Maximum Might",
+      "Effluvia Resistance",
+      "Handicraft",
+      "Stamina Surge",
+      "Stun Resistance",
+      "Handicraft",
+      "Maximum Might"
+    ]
+  },
+  "acidicglavenusalpha+": {
+    "name": "Acidic Glavenus Alpha +",
+    "setBonus": "Glavenus Essence - Raises  the maximum level of the Maximum Might skill. (3 pieces)",
+    "resistances": "Defense: 750\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 10\n Dragon: -5",
+    "skills": [
+      "Maximum Might",
+      "Effluvia Resistance",
+      "Handicraft",
+      "Stamina Surge",
+      "Stun Resistance",
+      "Handicraft",
+      "Iron Skin",
+      "Handicraft",
+      "Stamina Surge",
+      "Maximum Might"
+    ]
+  },
+  "rajangbeta+": {
+    "name": "Rajang Beta +",
+    "setBonus": "Rajang's Rage - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (2 pieces)",
+    "resistances": "Defense: 790\n Fire: 10\n Water: 0\n Thunder: 15\n Ice: -25\n Dragon: 10",
+    "skills": [
+      "Weakness Exploit",
+      "Resentment",
+      "Resentment",
+      "Weakness Exploit",
+      "Attack Boost",
+      "Resentment"
+    ]
+  },
+  "rajangalpha+": {
+    "name": "Rajang Alpha +",
+    "setBonus": "Rajang's Rage - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (2 pieces)",
+    "resistances": "Defense: 790\n Fire: 10\n Water: 0\n Thunder: 15\n Ice: -25\n Dragon: 10",
+    "skills": [
+      "Weakness Exploit",
+      "Handicraft",
+      "Resentment",
+      "Speed Sharpening",
+      "Handicraft",
+      "Resentment",
+      "Weakness Exploit",
+      "Handicraft",
+      "Attack Boost",
+      "Resentment"
+    ]
+  },
+  "glavenusbeta+": {
+    "name": "Glavenus Beta +",
+    "setBonus": "Glavenus Essence - Raises  the maximum level of the Maximum Might skill. (3 pieces)",
+    "resistances": "Defense: 710\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -5\n Dragon: -5",
+    "skills": [
+      "Focus",
+      "Handicraft",
+      "Power Prolonger",
+      "Maximum Might",
+      "Focus",
+      "Maximum Might",
+      "Maximum Might",
+      "Handicraft"
+    ]
+  },
+  "glavenusalpha+": {
+    "name": "Glavenus Alpha +",
+    "setBonus": "Glavenus Essence - Raises  the maximum level of the Maximum Might skill. (3 pieces)",
+    "resistances": "Defense: 710\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -5\n Dragon: -5",
+    "skills": [
+      "Focus",
+      "Handicraft",
+      "Power Prolonger",
+      "Maximum Might",
+      "Focus",
+      "Maximum Might",
+      "Normal Shots",
+      "Maximum Might",
+      "Heat Guard",
+      "Handicraft"
+    ]
+  },
+  "nargacugabeta+": {
+    "name": "Nargacuga Beta +",
+    "setBonus": "Nargacuga Essence - Greatly reduces sharpness loss. Bows and bowguns have a chance not to expend coatings or ammo. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: -10\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Piercing Shots",
+      "Peak Performance",
+      "Evade Window",
+      "Stamina Surge",
+      "Stamina Surge",
+      "Evade Window",
+      "Evade Window"
+    ]
+  },
+  "nargacugaalpha+": {
+    "name": "Nargacuga Alpha +",
+    "setBonus": "Nargacuga Essence - Greatly reduces sharpness loss. Bows and bowguns have a chance not to expend coatings or ammo. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: -10\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Piercing Shots",
+      "Peak Performance",
+      "Evade Window",
+      "Speed Crawler",
+      "Stamina Surge",
+      "Stealth",
+      "Stamina Surge",
+      "Evade Window",
+      "Peak Performance",
+      "Evade Window"
+    ]
+  },
+  "uragaanbeta+": {
+    "name": "Uragaan Beta +",
+    "setBonus": "Uragaan Ambition - Allows you to guard against ordinarily unblockable attacks. (2 pieces)",
+    "resistances": "Defense: 720\n Fire: 20\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: -10",
+    "skills": [
+      "Blast Resistance",
+      "Partbreaker",
+      "Iron Skin",
+      "Guard",
+      "Partbreaker",
+      "Guard"
+    ]
+  },
+  "uragaanalpha+": {
+    "name": "Uragaan Alpha +",
+    "setBonus": "Uragaan Ambition - Allows you to guard against ordinarily unblockable attacks. (2 pieces)",
+    "resistances": "Defense: 720\n Fire: 20\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: -10",
+    "skills": [
+      "Blast Resistance",
+      "Flinch Free",
+      "Blast Resistance",
+      "Partbreaker",
+      "Iron Skin",
+      "Guard",
+      "Partbreaker",
+      "Guard",
+      "Guard",
+      "Offensive Guard"
+    ]
+  },
+  "lavasiothbeta+": {
+    "name": "Lavasioth Beta +",
+    "setBonus": "-",
+    "resistances": "Defense: 700\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Fire Attack",
+      "Quick Sheath",
+      "Heat Guard",
+      "Fire Attack",
+      "Recovery Up",
+      "Peak Performance",
+      "Recovery Up",
+      "Quick Sheath",
+      "Fire Attack",
+      "Spread/Power Shots"
+    ]
+  },
+  "lavasiothalpha+": {
+    "name": "Lavasioth Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 700\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: 10",
+    "skills": [
+      "Fire Attack",
+      "Quick Sheath",
+      "Heat Guard",
+      "Fire Attack",
+      "Recovery Up",
+      "Peak Performance",
+      "Recovery Up",
+      "Quick Sheath",
+      "Fire Attack",
+      "Spread/Power Shots"
+    ]
+  },
+  "deathgaronbeta+": {
+    "name": "Death Garon Beta +",
+    "setBonus": "Odogaron Essence - Weapon sharpness does not decrease for a set time after sharpening. (3 pieces)",
+    "resistances": "Defense: 740\n Fire: -10\n Water: -15\n Thunder: -10\n Ice: -10\n Dragon: 20",
+    "skills": [
+      "Latent Power",
+      "Dragon Resistance",
+      "Critical Eye",
+      "Dragon Attack",
+      "Power Prolonger",
+      "Dragon Attack",
+      "Tool Specialist"
+    ]
+  },
+  "deathgarongreavesalpha+": {
+    "name": "Death Garon Greaves Alpha +",
+    "setBonus": "Odogaron Essence - Weapon sharpness does not decrease for a set time after sharpening. (3 pieces)",
+    "resistances": "Defense: 740\n Fire: -10\n Water: -15\n Thunder: -10\n Ice: -10\n Dragon: 20",
+    "skills": [
+      "Latent Power",
+      "Tool Specialist",
+      "Dragon Resistance",
+      "Critical Eye",
+      "Dragon Attack",
+      "Power Prolonger",
+      "Dragon Attack",
+      "Latent Power",
+      "Power Prolonger",
+      "Tool Specialist"
+    ]
+  },
+  "odogaronbeta+": {
+    "name": "Odogaron Beta +",
+    "setBonus": "Odogaron Essence - Weapon sharpness does not decrease for a set time after sharpening. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Bleeding Resistance",
+      "Critical Eye",
+      "Speed Sharpening",
+      "Critical Eye",
+      "Constitution",
+      "Critical Eye",
+      "Critical Eye",
+      "Quick Sheath"
+    ]
+  },
+  "odogaronalpha+": {
+    "name": "Odogaron Alpha +",
+    "setBonus": "Odogaron Essence - Weapon sharpness does not decrease for a set time after sharpening. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
+    "skills": [
+      "Bleeding Resistance",
+      "Critical Eye",
+      "Bleeding Resistance",
+      "Speed Sharpening",
+      "Critical Eye",
+      "Constitution",
+      "Critical Eye",
+      "Speed Sharpening",
+      "Critical Eye",
+      "Quick Sheath"
+    ]
+  },
+  "shriekinglegiabeta+": {
+    "name": "Shrieking Legia Beta +",
+    "setBonus": "Legiana Ambition - Increases max bow charge level by one. (3 pieces)",
+    "resistances": "Defense: 730\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Hunger Resistance",
+      "Focus",
+      "Critical Draw",
+      "Evade Extender",
+      "Marathon Runner"
+    ]
+  },
+  "shriekinglegiaalpha+": {
+    "name": "Shrieking Legia Alpha +",
+    "setBonus": "Legiana Ambition - Increases max bow charge level by one. (3 pieces)",
+    "resistances": "Defense: 730\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Hunger Resistance",
+      "Evade Extender",
+      "Focus",
+      "Marathon Runner",
+      "Critical Draw",
+      "Hunger Resistance",
+      "Focus",
+      "Evade Extender",
+      "Spread/Power Shots",
+      "Marathon Runner"
+    ]
+  },
+  "legianabeta+": {
+    "name": "Legiana Beta +",
+    "setBonus": "Legiana Ambition - Increases max bow charge level by one. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Divine Blessing",
+      "Evade Window",
+      "Divine Blessing",
+      "Airborne",
+      "Evade Window",
+      "Windproof",
+      "Ice Attack",
+      "Ice Resistance"
+    ]
+  },
+  "legianaalpha+": {
+    "name": "Legiana Alpha +",
+    "setBonus": "Legiana Ambition - Increases max bow charge level by one. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Ice Attack",
+      "Divine Blessing",
+      "Evade Window",
+      "Divine Blessing",
+      "Airborne",
+      "Evade Window",
+      "Windproof",
+      "Ice Attack",
+      "Ice Resistance",
+      "Critical Draw"
+    ]
+  },
+  "diablosnerobeta+": {
+    "name": "Diablos Nero Beta +",
+    "setBonus": "Diablos Ambition - Raises the maximum level of the Slugger skill to 5. (3 pieces)",
+    "resistances": "Defense: 740\n Fire: 10\n Water: -15\n Thunder: 0\n Ice: -20\n Dragon: 10",
+    "skills": [
+      "Partbreaker",
+      "Resentment",
+      "Marathon Runner",
+      "Slugger",
+      "Marathon Runner",
+      "Slugger",
+      "Resentment"
+    ]
+  },
+  "diablosneroalpha+": {
+    "name": "Diablos Nero Alpha +",
+    "setBonus": "Diablos Ambition - Raises the maximum level of the Slugger skill to 5. (3 pieces)",
+    "resistances": "Defense: 740\n Fire: 10\n Water: -15\n Thunder: 0\n Ice: -20\n Dragon: 10",
+    "skills": [
+      "Partbreaker",
+      "Resentment",
+      "Resentment",
+      "Marathon Runner",
+      "Slugger",
+      "Marathon Runner",
+      "Partbreaker",
+      "Slugger",
+      "Slugger",
+      "Resentment"
+    ]
+  },
+  "diablosbeta+": {
+    "name": "Diablos Beta +",
+    "setBonus": "Diablos Ambition - Raises the maximum level of the Slugger skill to 5. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
+    "skills": [
+      "Critical Draw",
+      "Slugger",
+      "Heroics",
+      "Tremor Resistance",
+      "Heroics",
+      "Marathon Runner",
+      "Tremor Resistance",
+      "Slugger"
+    ]
+  },
+  "diablosalpha+": {
+    "name": "Diablos Alpha +",
+    "setBonus": "Diablos Ambition - Raises the maximum level of the Slugger skill to 5. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
+    "skills": [
+      "Critical Draw",
+      "Slugger",
+      "Slugger",
+      "Heroics",
+      "Tremor Resistance",
+      "Heroics",
+      "Critical Draw",
+      "Marathon Runner",
+      "Tremor Resistance",
+      "Slugger"
+    ]
+  },
+  "rathsoulbeta+": {
+    "name": "Rath Soul Beta +",
+    "setBonus": "Rathalos Essence - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (3 pieces)",
+    "resistances": "Defense: 740\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: -15\n Dragon: -20",
+    "skills": [
+      "Critical Boost",
+      "Free Elem/Ammo Up",
+      "Windproof",
+      "Partbreaker",
+      "Windproof",
+      "Windproof",
+      "Critical Boost"
+    ]
+  },
+  "rathsoulalpha+": {
+    "name": "Rath Soul Alpha +",
+    "setBonus": "Rathalos Essence - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (3 pieces)",
+    "resistances": "Defense: 740\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: -15\n Dragon: -20",
+    "skills": [
+      "Critical Boost",
+      "Cliffhanger",
+      "Free Elem/Ammo Up",
+      "Partbreaker",
+      "Windproof",
+      "Partbreaker",
+      "Windproof",
+      "Piercing Shots",
+      "Windproof",
+      "Critical Boost"
+    ]
+  },
+  "rathalosbeta+": {
+    "name": "Rathalos Beta +",
+    "setBonus": "Rathalos Essence - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Attack Boost",
+      "Weakness Exploit",
+      "Jump Master",
+      "Fire Attack",
+      "Attack Boost",
+      "Slinger Capacity"
+    ]
+  },
+  "rathalosalpha+": {
+    "name": "Rathalos Alpha +",
+    "setBonus": "Rathalos Essence - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (3 pieces)",
+    "resistances": "Defense: 700\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
+    "skills": [
+      "Attack Boost",
+      "Fire Attack",
+      "Fire Attack",
+      "Weakness Exploit",
+      "Weakness Exploit",
+      "Jump Master",
+      "Fire Attack",
+      "Focus",
+      "Attack Boost",
+      "Slinger Capacity"
+    ]
+  },
+  "bariothbeta+": {
+    "name": "Barioth Beta +",
+    "setBonus": "Barioth Hidden Art - Adds a stun effect to draw attacks and slightly increases attack power. (2 pieces)",
+    "resistances": "Defense: 690\n Fire: -15\n Water: 10\n Thunder: -10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Power Prolonger",
+      "Evade Extender",
+      "Power Prolonger",
+      "Recovery Up",
+      "Constitution",
+      "Quick Sheath",
+      "Constitution",
+      "Quick Sheath"
+    ]
+  },
+  "bariothalpha+": {
+    "name": "Barioth Alpha +",
+    "setBonus": "Barioth Hidden Art - Adds a stun effect to draw attacks and slightly increases attack power. (2 pieces)",
+    "resistances": "Defense: 690\n Fire: -15\n Water: 10\n Thunder: -10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Power Prolonger",
+      "Evade Extender",
+      "Power Prolonger",
+      "Constitution",
+      "Recovery Up",
+      "Constitution",
+      "Recovery Up",
+      "Quick Sheath",
+      "Constitution",
+      "Quick Sheath"
+    ]
+  },
+  "lunastrabeta+": {
+    "name": "Lunastra Beta +",
+    "setBonus": "Lunastra Essence - Raises the maximum level of the Tool Specialist skill. (3 pieces)",
+    "resistances": "Defense: 820\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
+    "skills": [
+      "Tool Specialist",
+      "Peak Performance",
+      "Wide-Range",
+      "Blast Attack",
+      "Tool Specialist",
+      "Health Boost",
+      "Wide-Range",
+      "Tool Specialist"
+    ]
+  },
+  "lunastraalpha+": {
+    "name": "Lunastra Alpha +",
+    "setBonus": "Lunastra Essence - Raises the maximum level of the Tool Specialist skill. (3 pieces)",
+    "resistances": "Defense: 820\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
+    "skills": [
+      "Tool Specialist",
+      "Offensive Guard",
+      "Peak Performance",
+      "Wide-Range",
+      "Blast Attack",
+      "Tool Specialist",
+      "Health Boost",
+      "Blast Attack",
+      "Wide-Range",
+      "Tool Specialist"
+    ]
+  },
+  "clairealpha+": {
+    "name": "Claire Alpha +",
+    "setBonus": "Survivor - Prevents zombie and effluvial buildup. (2 pieces)",
+    "resistances": "Defense: 750\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Agitator",
+      "Evade Window",
+      "Agitator",
+      "Evade Window",
+      "Agitator",
+      "Evade Window",
+      "Agitator",
+      "Stamina Surge",
+      "Normal Shots",
+      "Stamina Surge"
+    ]
+  },
+  "leonalpha+": {
+    "name": "Leon Alpha +",
+    "setBonus": "Survivor - Prevents zombie and effluvial buildup. (2 pieces)",
+    "resistances": "Defense: 750\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: 15\n Dragon: 0",
+    "skills": [
+      "Weakness Exploit",
+      "Agitator",
+      "Weakness Exploit",
+      "Agitator",
+      "Attack Boost",
+      "Agitator",
+      "Attack Boost",
+      "Agitator",
+      "Spread/Power Shots",
+      "Agitator"
+    ]
+  },
+  "stygianzinalpha+": {
+    "name": "Stygian Zin Alpha +",
+    "setBonus": "Zinogre Essence - Raises the maximum level of the Latent Power skill. (3 pieces)",
+    "resistances": "Defense: 800\n Fire: 10\n Water: -20\n Thunder: -25\n Ice: 0\n Dragon: 20",
+    "skills": [
+      "Tremor Resistance",
+      "Latent Power",
+      "Windproof",
+      "Flinch Free",
+      "Dragon Attack",
+      "Partbreaker",
+      "Earplugs",
+      "Latent Power",
+      "Focus",
+      "Elderseal Boost"
+    ]
+  },
+  "stygianzinbeta+": {
+    "name": "Stygian Zin Beta +",
+    "setBonus": "Zinogre Essence - Raises the maximum level of the Latent Power skill. (3 pieces)",
+    "resistances": "Defense: 800\n Fire: 10\n Water: -20\n Thunder: -25\n Ice: 0\n Dragon: 20",
+    "skills": [
+      "Tremor Resistance",
+      "Latent Power",
+      "Windproof",
+      "Flinch Free",
+      "Partbreaker",
+      "Earplugs",
+      "Latent Power",
+      "Focus"
+    ]
+  },
+  "safi'jiivaalpha+": {
+    "name": "Safi'jiiva Alpha +",
+    "setBonus": "Safi'jiiva Seal - Elem., abnormal status, & affinity up with weapon drawn. Take damage when attacking, but can be recovered by continually attacking. (3 pieces)",
+    "resistances": "Defense: 840\n Fire: 10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: -5",
+    "skills": [
+      "Critical Boost",
+      "Evade Window",
+      "Blight Resistance",
+      "Maximum Might",
+      "Evade Window",
+      "Maximum Might",
+      "Critical Boost",
+      "Maximum Might"
+    ]
+  },
+  "safi'jiivabeta+": {
+    "name": "Safi'jiiva Beta +",
+    "setBonus": "Safi'jiiva Seal - Elem., abnormal status, & affinity up with weapon drawn. Take damage when attacking, but can be recovered by continually attacking. (3 pieces)",
+    "resistances": "Defense: 840\n Fire: 10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: -5",
+    "skills": [
+      "Critical Boost",
+      "Evade Window",
+      "Blight Resistance",
+      "Critical Boost",
+      "Blight Resistance",
+      "Evade Window",
+      "Critical Boost"
+    ]
+  },
+  "oolongalpha+": {
+    "name": "Oolong Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 600\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 20\n Dragon: 5",
+    "skills": [
+      "Critical Eye",
+      "Stamina Surge",
+      "Coalescence",
+      "Constitution",
+      "Health Boost"
+    ]
+  },
+  "dragonsealearringsalpha": {
+    "name": "Dragonseal Earrings Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 60\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Elderseal Boost"
+    ]
+  },
+  "origin": {
+    "name": "Origin",
+    "setBonus": "-",
+    "resistances": "Defense: 30\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Forager's Luck"
+    ]
+  },
+  "pulverizingfeather": {
+    "name": "Pulverizing Feather",
+    "setBonus": "-",
+    "resistances": "Defense: 32\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
+    "skills": [
+      "Bombardier"
+    ]
+  },
+  "butterflym": {
+    "name": "Butterfly M",
+    "setBonus": "-",
+    "resistances": "Defense: 110\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Stun Resistance",
+      "Health Boost",
+      "Critical Eye",
+      "Defense Boost",
+      "Marathon Runner"
+    ]
+  }
+}

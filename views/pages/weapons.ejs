@@ -33,11 +33,10 @@
   <input class="form-control form-control__spacer" type="text" id="search-input" onkeyup="searchMenu()"
     placeholder="Search for names.." title="Type in a name">
   <div class="page-container__center page-container__center--flex" id="item-container">
-    <% for (let [k, v] of MONSTER_MAP) {%>
-    <a class="link-none list-item__center" href=/monsters/<%= k %>>
-      <% const monster = MONSTER_MAP.get(k); %>
-      <img class="link-none__img" src=<%= monster.thumbnail %>>
-      <%= monster.title %>
+    <% for (let [k, v] of WEAPON_MAP) {%>
+    <a class="link-none list-item__center" href=/weapons/<%= k %>>
+      <% const weapon = WEAPON_MAP.get(k); %>
+      <%= weapon.title %>
     </a>
     <% } %>
   </div>

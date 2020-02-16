@@ -30,16 +30,71 @@
       <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
     </nav>
   </div>
-  <input class="form-control form-control__spacer" type="text" id="search-input" onkeyup="searchMenu()"
-    placeholder="Search for names.." title="Type in a name">
-  <div class="page-container__center page-container__center--flex" id="item-container">
-    <% for (let [k, v] of MONSTER_MAP) {%>
-    <a class="link-none list-item__center" href=/monsters/<%= k %>>
-      <% const monster = MONSTER_MAP.get(k); %>
-      <img class="link-none__img" src=<%= monster.thumbnail %>>
-      <%= monster.title %>
-    </a>
-    <% } %>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%= WEAPON_NAME %>
+        <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <tbody>
+          <tr>
+            <td width="15%">Type</td>
+            <td><%= WEAPON_TYPE %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Attack</td>
+            <td><%= WEAPON_ATTACK %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Defense</td>
+            <td><%= WEAPON_DEFENSE %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Sharpness</td>
+            <td><%= WEAPON_SHARPNESS %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Affinity</td>
+            <td><%= WEAPON_AFFINITY %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Elemental Attack</td>
+            <td><%= WEAPON_ELEMENTALATTACK %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Rarity</td>
+            <td><%= WEAPON_RARITY %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Gem Slots</td>
+            <td><%= WEAPON_GEMSLOTS %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Wyvernheart</td>
+            <td><%= WEAPON_WYVERNHEART %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Phials</td>
+            <td><%= WEAPON_PHIALS %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Notes</td>
+            <td><%= WEAPON_NOTES %></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 
   <div class="page-footer">
@@ -49,23 +104,7 @@
 </body>
 
 <script>
-  function searchMenu() {
-    let input = document.getElementById("search-input");
-    let filter = input.value.toUpperCase();
-    let ul = document.getElementById("item-container");
-    let li = ul.getElementsByTagName("a");
 
-    for (i = 0; i < li.length; i++) {
-      let a = li[i];
-      txtValue = a.textContent || a.innerText;
-
-      if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        li[i].style.display = "";
-      } else {
-        li[i].style.display = "none";
-      }
-    }
-  }
 </script>
 
 </html>
