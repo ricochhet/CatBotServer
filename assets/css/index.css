@@ -70,6 +70,7 @@ a:hover, button:hover {
 .page-container__center--flex {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .page-container__content-container {
