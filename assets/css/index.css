@@ -68,9 +68,13 @@ a:hover, button:hover {
 }
 
 .page-container__center--flex {
-    display: flex;
+    /*display: flex;
     flex-wrap: wrap;
+    justify-content: center;*/
+    display: grid;
     justify-content: center;
+    grid-template-columns: repeat(auto-fill, 450px);
+    grid-gap: 5px;
 }
 
 .page-container__content-container {
