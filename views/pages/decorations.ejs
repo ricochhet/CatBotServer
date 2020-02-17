@@ -40,7 +40,8 @@
     placeholder="Search for names.." title="Type in a name">
   <div class="page-container__center page-container__center--flex" id="item-container">
     <% for (let [k, v] of DECORATION_MAP) {%>
-    <a class="link-none list-item__center" href=/decorations/<%= k.split("/").join('+') %>>
+    <a class="link-none link-none__blue list-item__center list-item__no-auto"
+      href=/decorations/<%= k.split("/").join('+') %>>
       <% const decoration = DECORATION_MAP.get(k); %>
       <%= decoration.name %>
     </a>

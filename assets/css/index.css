@@ -325,6 +325,15 @@ a:hover, button:hover {
     padding: .5rem;
 }
 
+.link-none__no-padding {
+    text-decoration: none;
+    color: #343a40;
+}
+
+.link-none__blue {
+    color: #047bf8;
+}
+
 .link-none__block {
     display: block;
 }
@@ -333,6 +342,10 @@ a:hover, button:hover {
     width: 48px;
     height: 48px;
     vertical-align: middle;
+}
+
+.link-none__no-padding:hover {
+    text-decoration: underline;
 }
 
 .link-none:hover {
@@ -504,6 +517,11 @@ a:hover, button:hover {
     max-width: 290px;
     display: inline-block;
     text-align: left;
+}
+
+.list-grouped__standard--size {
+    width: 700px;
+    max-width: 100%;
 }
 
 .list-grouped h6 {
@@ -822,6 +840,10 @@ a:hover, button:hover {
     width: 450px;
     margin: auto;
     transition: 0.2s;
+}
+
+.list-item__no-auto {
+    margin: 2px;
 }
 
 .list-item:hover, .list-item__center:hover {
