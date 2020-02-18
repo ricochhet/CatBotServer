@@ -53,6 +53,8 @@ for (const i of Object.keys(skillDB)) {
   skillMap.set(i, skillDB[i]);
 }
 
+let questIDDB = require('../databases/questids.json');
+
 module.exports = {
   express,
   app,
@@ -72,7 +74,9 @@ module.exports = {
       listDecorations: 'pages/decorations.ejs',
       getDecorations: 'pages/decoration.ejs',
       listSkills: 'pages/skills.ejs',
-      getSkills: 'pages/skill.ejs'
+      getSkills: 'pages/skill.ejs',
+
+      listQuestIDs: 'pages/questids.ejs'
     },
     staticName,
     port
@@ -231,6 +235,12 @@ module.exports = {
           SKILL_RANKS: skillRanks
         });
       }
+    });
+
+    router.get('/questids', (res, req, next) => {
+      req.render(renders.listQuestIDs, {
+        QUESTID_MAP: questIDDB
+      });
     });
 
     app.use('/', router);

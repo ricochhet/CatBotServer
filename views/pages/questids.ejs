@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CatBot Database</title>
+  <link rel="stylesheet" type="text/css" href="../css/default.css">
+  <link rel="stylesheet" type="text/css" href="../css/index.css">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="../css/icons/catbot.png" />
+  <meta name="theme-color" content="#8fde5d" />
+  <meta property="og:url" content="https://mhdb.catbot.xyz/" />
+  <meta property="og:title" content="CatBot" />
+  <meta property="og:image" content="https://mhdb.catbot.xyz/css/icons/catbot.png" />
+  <meta property="og:description"
+    content="CatBot is a Discord bot dedicated to providing information on Monster Hunter World: Iceborne, CatBot offers information on monsters, weapons, armors, and more!" />
+  <meta name="description"
+    content="CatBot is a Discord bot dedicated to providing information on Monster Hunter World: Iceborne, CatBot offers information on monsters, weapons, armors, and more!">
+  <meta name="keywords"
+    content="catbot,discord bot,catbot bot,catbotxyz,discord,catbot mhw,mhw,mhworld,monster hunter,iceborne,monster hunter world,monster hunter world iceborne">
+  <link rel='icon' href='favicon.ico' type='../favicon.ico' />
+</head>
+
+<body>
+  <div class="navigation-bar__light">
+    <h5><img src="../css/icons/catbot.png" /> CatBot</h5>
+    <nav>
+      <a class="link-none" href="https://catbot.xyz">Bot</a>
+      <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
+      <a class="link-none"
+        href="https://discordapp.com/oauth2/authorize?client_id=573958899582107653&permissions=339008&scope=bot">Invite</a>
+      <a class="link-none" href="https://top.gg/bot/573958899582107653/vote">Vote</a>
+      <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
+    </nav>
+  </div>
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> Quest IDs <span
+          class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% for (const i of Object.keys(QUESTID_MAP)) {%>
+          <tr>
+            <td><%= QUESTID_MAP[i].id %></td>
+            <td><%= QUESTID_MAP[i].name %></td>
+          </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-footer">
+    <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.
+      ❤️</p>
+  </div>
+</body>
+
+<script>
+  function searchMenu() {
+    let input = document.getElementById("search-input");
+    let filter = input.value.toUpperCase();
+    let ul = document.getElementById("item-container");
+    let li = ul.getElementsByTagName("a");
+
+    for (i = 0; i < li.length; i++) {
+      let a = li[i];
+      txtValue = a.textContent || a.innerText;
+
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        li[i].style.display = "";
+      } else {
+        li[i].style.display = "none";
+      }
+    }
+  }
+</script>
+
+</html>

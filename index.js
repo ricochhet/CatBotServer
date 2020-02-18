@@ -18,7 +18,9 @@ EC.Connect(
     getDecorations: 'pages/decoration.ejs',
 
     listSkills: 'pages/skills.ejs',
-    getSkills: 'pages/skill.ejs'
+    getSkills: 'pages/skill.ejs',
+
+    listQuestIDs: 'pages/questids.ejs'
   },
   'assets',
   8080
