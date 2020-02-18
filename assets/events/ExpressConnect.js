@@ -25,6 +25,13 @@ for (const i of Object.keys(itemDB)) {
   itemMap.set(i, itemDB[i]);
 }
 
+let itemIDDB = require('../databases/itemids.json');
+let itemIDMap = new Map();
+
+for (const i of Object.keys(itemIDDB)) {
+  itemIDMap.set(itemIDDB[i].Name, itemIDDB[i]);
+}
+
 let armorDB = require('../databases/armors.json');
 let armorMap = new Map();
 
@@ -138,15 +145,20 @@ module.exports = {
     router.get(`/items/:id`, (res, req, next) => {
       if (itemMap.has(res.params.id)) {
         const item = itemMap.get(res.params.id);
+        let itemID = ['no data provided'];
+        if (itemIDMap.has(item.name)) {
+          itemID = itemIDMap.get(item.name);
+        }
 
         req.render(renders.getItem, {
           ITEM_NAME: item.name,
           ITEM_DESCRIPTION: item.description,
           ITEM_RARITY: item.rarity,
           ITEM_CARRYLIMIT: item.carryLimit,
-          ITEM_VALUE: item.value
+          ITEM_VALUE: item.value,
+          ITEM_ID: itemID
         });
-      }
+      } 
     });
 
     router.get('/armors', (res, req, next) => {
