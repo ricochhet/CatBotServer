@@ -25,7 +25,7 @@ if (data[1]) {
 *********************************
 */
 
-/*mhw.writeData({
+mhw.writeData({
     delim: ',',
     input: './api/spreadsheets/ItemTableFixed - Item.csv',
     output: './api/databases/itemids.json'
@@ -40,5 +40,5 @@ mhw.writeData({
 mhw.writeItems("./api/databases/items.json");
 mhw.writeArmors("./api/databases/armors.json");
 mhw.writeDecorations("./api/databases/decorations.json");
-mhw.writeSkills("./api/databases/skills.json");*/
+mhw.writeSkills("./api/databases/skills.json");
 mhw.writeWeapons("./api/databases/weapons.json");

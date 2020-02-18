@@ -95,6 +95,10 @@ module.exports = {
             levelThree = key.ammo[i].capacities[2];
           }
 
+          if (levelOne == 0 && levelTwo == 0 && levelThree) {
+            ammos = [];
+          }
+
           ammos.push(
             `${key.ammo[i].type}\nLV1 - ${levelOne}\nLV2 - ${levelTwo}\nLV3 - ${levelThree}`
           );
@@ -126,6 +130,22 @@ module.exports = {
       if (key.damageType) {
         if (key.damageType == null) damage = '-';
         damageType = key.damageType;
+      }
+
+      if (!Array.isArray(ammos) || !ammos.length) {
+        ammos = '-';
+      }
+
+      if (!Array.isArray(elements) || !elements.length) {
+        elements = '-';
+      }
+
+      if (!Array.isArray(slots) || !slots.length) {
+        slots = '-';
+      }
+
+      if (!Array.isArray(coatings) || !coatings.length) {
+        coatings = '-';
       }
 
       db[key.name.toLowerCase().replace(/ /g, '')] = {
