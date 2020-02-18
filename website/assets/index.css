@@ -276,7 +276,7 @@ a:hover, button:hover {
 .link-underline {
     color: inherit;
     text-decoration: none;
-    border-bottom: 1px dashed #000;
+    border-bottom: 1px dashed #fff;
 }
 
 .color-dark__muted {
