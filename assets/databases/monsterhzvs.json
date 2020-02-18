@@ -600,7 +600,7 @@
             "ice": 0,
             "dragon": 25,
             "stun": 100,
-            "flinch": 250,
+            "flinch": "-",
             "trip": 3,
             "timer": 13,
             "wound": "-",
@@ -819,7 +819,7 @@
             "ice": 0,
             "dragon": 10,
             "stun": "-",
-            "flinch": 200,
+            "flinch": "-",
             "trip": 2,
             "timer": 5,
             "wound": "-",
@@ -1424,7 +1424,7 @@
             "thunder": 5,
             "ice": 0,
             "dragon": 0,
-            "stun": 100,
+            "stun": "-",
             "flinch": 80,
             "trip": "-",
             "timer": "-",
@@ -1994,7 +1994,7 @@
             "stun": 100,
             "flinch": 250,
             "trip": 2,
-            "timer": "-",
+            "timer": 8,
             "wound": 1000,
             "sever": "-",
             "notes": "-"
@@ -2124,7 +2124,7 @@
             "flinch": 300,
             "trip": "-",
             "timer": "-",
-            "wound": 600,
+            "wound": 300,
             "sever": "-",
             "notes": "-"
         },
@@ -2563,7 +2563,7 @@
             "trip": "-",
             "timer": "-",
             "wound": "-",
-            "sever": "-",
+            "sever": 540,
             "notes": "-"
         }
     },
@@ -3037,8 +3037,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 220,
-            "trip": "-",
-            "timer": "-",
+            "trip": "B",
+            "timer": 6,
             "wound": 220,
             "sever": "-",
             "notes": "-"
@@ -3073,8 +3073,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 200,
-            "trip": "-",
-            "timer": "-",
+            "trip": "B",
+            "timer": 6,
             "wound": 200,
             "sever": "-",
             "notes": "-"
@@ -3109,8 +3109,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 250,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 4,
             "wound": 250,
             "sever": "-",
             "notes": "-"
@@ -3461,7 +3461,7 @@
             "timer": 3,
             "wound": 700,
             "sever": "-",
-            "notes": "-"
+            "notes": "x2 Break"
         },
         "neck": {
             "ke": 1,
@@ -5875,8 +5875,8 @@
             "dragon": 10,
             "stun": 100,
             "flinch": 250,
-            "trip": "-",
-            "timer": "-",
+            "trip": 5,
+            "timer": 8,
             "wound": 1000,
             "sever": "-",
             "notes": "-"
@@ -5929,8 +5929,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 200,
-            "trip": "-",
-            "timer": "-",
+            "trip": "B,2",
+            "timer": 8,
             "wound": 200,
             "sever": "-",
             "notes": "L,R"
@@ -5982,7 +5982,7 @@
             "ice": 5,
             "dragon": 5,
             "stun": "-",
-            "flinch": "-",
+            "flinch": 200,
             "trip": "-",
             "timer": "-",
             "wound": "-",
@@ -6000,7 +6000,7 @@
             "ice": 5,
             "dragon": 5,
             "stun": "-",
-            "flinch": 200,
+            "flinch": "-",
             "trip": "-",
             "timer": "-",
             "wound": "-",
@@ -6026,7 +6026,7 @@
             "timer": "-",
             "wound": 280,
             "sever": "-",
-            "notes": "-"
+            "notes": "x2 Break"
         },
         "horn broken": {
             "ke": 3,
@@ -6060,7 +6060,7 @@
             "flinch": 190,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
+            "wound": 100,
             "sever": "-",
             "notes": "-"
         },
@@ -6080,7 +6080,7 @@
             "timer": 6,
             "wound": 150,
             "sever": "-",
-            "notes": "-"
+            "notes": "60s"
         },
         "head black": {
             "ke": 1,
@@ -6150,7 +6150,7 @@
             "flinch": 280,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
+            "wound": 100,
             "sever": "-",
             "notes": "L,R"
         },
@@ -6170,7 +6170,7 @@
             "timer": 6,
             "wound": 120,
             "sever": "-",
-            "notes": "L,R"
+            "notes": "L,R 60s"
         },
         "forearms black": {
             "ke": 1,
@@ -6222,7 +6222,7 @@
             "flinch": 180,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
+            "wound": 60,
             "sever": "-",
             "notes": "L,R"
         },
@@ -6242,7 +6242,7 @@
             "timer": 6,
             "wound": 150,
             "sever": "-",
-            "notes": "L,R"
+            "notes": "L,R 60s"
         },
         "wings black": {
             "ke": 2,
@@ -6277,7 +6277,7 @@
             "trip": "-",
             "timer": "-",
             "wound": "-",
-            "sever": 450,
+            "sever": "-",
             "notes": "-"
         },
         "tail tip": {
@@ -6294,8 +6294,8 @@
             "flinch": "-",
             "trip": "-",
             "timer": "-",
-            "wound": "-",
-            "sever": "-",
+            "wound": 100,
+            "sever": 450,
             "notes": "-"
         },
         "tail tip white": {
@@ -6314,7 +6314,7 @@
             "timer": 6,
             "wound": 120,
             "sever": "-",
-            "notes": "-"
+            "notes": "60s"
         },
         "tail tip black": {
             "ke": 4,
@@ -6330,7 +6330,7 @@
             "flinch": "-",
             "trip": "B",
             "timer": 6,
-            "wound": 150,
+            "wound": 120,
             "sever": "-",
             "notes": "-"
         }
@@ -6349,8 +6349,8 @@
             "dragon": 0,
             "stun": 100,
             "flinch": 180,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 8,
             "wound": "-",
             "sever": "-",
             "notes": "-"
@@ -6385,8 +6385,8 @@
             "dragon": 0,
             "stun": 100,
             "flinch": 300,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 8,
             "wound": 500,
             "sever": "-",
             "notes": "-"
@@ -6421,8 +6421,8 @@
             "dragon": 0,
             "stun": "-",
             "flinch": 200,
-            "trip": "-",
-            "timer": "-",
+            "trip": 2,
+            "timer": 8,
             "wound": "-",
             "sever": "-",
             "notes": "L,R"
@@ -6439,8 +6439,8 @@
             "dragon": 0,
             "stun": "-",
             "flinch": 150,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 8,
             "wound": 150,
             "sever": "-",
             "notes": "L,R"
@@ -6457,8 +6457,8 @@
             "dragon": 0,
             "stun": "-",
             "flinch": 250,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 8,
             "wound": 250,
             "sever": "-",
             "notes": "-"
@@ -6478,7 +6478,7 @@
             "dragon": 0,
             "stun": 100,
             "flinch": 300,
-            "trip": " ",
+            "trip": "-",
             "timer": "-",
             "wound": 600,
             "sever": "-",
@@ -7159,8 +7159,8 @@
             "dragon": 0,
             "stun": 100,
             "flinch": 400,
-            "trip": "-",
-            "timer": "-",
+            "trip": 1,
+            "timer": 10,
             "wound": 400,
             "sever": 600,
             "notes": "x2 Break"
@@ -7177,11 +7177,11 @@
             "dragon": 0,
             "stun": "-",
             "flinch": 250,
-            "trip": "-",
-            "timer": "-",
-            "wound": "-",
+            "trip": 1,
+            "timer": 10,
+            "wound": 250,
             "sever": "-",
-            "notes": "Break"
+            "notes": "-"
         },
         "forelegs rampage": {
             "ke": 1,
@@ -7253,7 +7253,7 @@
             "timer": "-",
             "wound": 800,
             "sever": "-",
-            "notes": "Break"
+            "notes": "-"
         },
         "tail rampage": {
             "ke": 3,
@@ -7584,8 +7584,8 @@
             "flinch": 400,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
-            "sever": "-",
+            "wound": 100,
+            "sever": 400,
             "notes": "-"
         },
         "head white": {
@@ -7601,10 +7601,10 @@
             "stun": 100,
             "flinch": "-",
             "trip": "B",
-            "timer": "-",
-            "wound": 400,
+            "timer": 6,
+            "wound": 140,
             "sever": "-",
-            "notes": "-"
+            "notes": "60s"
         },
         "head black": {
             "ke": 1,
@@ -7619,8 +7619,8 @@
             "stun": 100,
             "flinch": "-",
             "trip": "B",
-            "timer": "-",
-            "wound": "-",
+            "timer": 6,
+            "wound": 140,
             "sever": "-",
             "notes": "-"
         },
@@ -7674,8 +7674,8 @@
             "flinch": 320,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
-            "sever": "-",
+            "wound": 100,
+            "sever": 400,
             "notes": "L,R"
         },
         "forearms white": {
@@ -7691,10 +7691,10 @@
             "stun": "-",
             "flinch": "-",
             "trip": "B",
-            "timer": "-",
-            "wound": 400,
+            "timer": 6,
+            "wound": 110,
             "sever": "-",
-            "notes": "L,R"
+            "notes": "L,R 90s"
         },
         "forearms black": {
             "ke": 1,
@@ -7709,8 +7709,8 @@
             "stun": "-",
             "flinch": "-",
             "trip": "B",
-            "timer": "-",
-            "wound": "-",
+            "timer": 6,
+            "wound": 150,
             "sever": "-",
             "notes": "L,R"
         },
@@ -7746,8 +7746,8 @@
             "flinch": 320,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
-            "sever": "-",
+            "wound": 60,
+            "sever": 200,
             "notes": "L,R"
         },
         "wings white": {
@@ -7763,10 +7763,10 @@
             "stun": "-",
             "flinch": "-",
             "trip": "B",
-            "timer": "-",
-            "wound": 200,
+            "timer": 6,
+            "wound": 170,
             "sever": "-",
-            "notes": "L,R"
+            "notes": "L,R 60s"
         },
         "wings black": {
             "ke": 2,
@@ -7781,10 +7781,10 @@
             "stun": "-",
             "flinch": "-",
             "trip": "B",
-            "timer": "-",
-            "wound": "-",
+            "timer": 6,
+            "wound": 190,
             "sever": "-",
-            "notes": "-"
+            "notes": "L,R"
         },
         "tail": {
             "ke": 4,
@@ -7818,7 +7818,7 @@
             "flinch": "-",
             "trip": "-",
             "timer": "-",
-            "wound": "-",
+            "wound": 100,
             "sever": 450,
             "notes": "-"
         },
@@ -7835,10 +7835,10 @@
             "stun": "-",
             "flinch": "-",
             "trip": "B",
-            "timer": "-",
-            "wound": "-",
+            "timer": 6,
+            "wound": 150,
             "sever": "-",
-            "notes": "-"
+            "notes": "60s"
         },
         "tail tip black": {
             "ke": 4,
@@ -7853,8 +7853,8 @@
             "stun": "-",
             "flinch": "-",
             "trip": "B",
-            "timer": "-",
-            "wound": "-",
+            "timer": 6,
+            "wound": 200,
             "sever": "-",
             "notes": "-"
         }
@@ -8142,9 +8142,9 @@
             "ice": 30,
             "dragon": 30,
             "stun": "-",
-            "flinch": "-",
-            "trip": "-",
-            "timer": "-",
+            "flinch": 1500,
+            "trip": 1,
+            "timer": 12,
             "wound": 3000,
             "sever": "-",
             "notes": "-"
@@ -8524,8 +8524,8 @@
             "dragon": 30,
             "stun": 100,
             "flinch": 300,
-            "trip": "-",
-            "timer": "-",
+            "trip": "Chrg",
+            "timer": 12,
             "wound": 600,
             "sever": "-",
             "notes": "-"
@@ -8580,7 +8580,7 @@
             "flinch": 300,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
+            "wound": 600,
             "sever": "-",
             "notes": "-"
         },
@@ -8725,8 +8725,8 @@
             "dragon": 15,
             "stun": 100,
             "flinch": 215,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 12,
             "wound": 430,
             "sever": "-",
             "notes": "-"
@@ -8833,8 +8833,8 @@
             "dragon": 10,
             "stun": "-",
             "flinch": 200,
-            "trip": "-",
-            "timer": "-",
+            "trip": 1,
+            "timer": 8,
             "wound": "-",
             "sever": "-",
             "notes": "L,R"
@@ -8850,9 +8850,9 @@
             "ice": 5,
             "dragon": 10,
             "stun": "-",
-            "flinch": "-",
-            "trip": "-",
-            "timer": "-",
+            "flinch": 260,
+            "trip": "^",
+            "timer": 12,
             "wound": "-",
             "sever": "-",
             "notes": "-"
@@ -8868,7 +8868,7 @@
             "ice": 5,
             "dragon": 10,
             "stun": "-",
-            "flinch": 260,
+            "flinch": "-",
             "trip": "-",
             "timer": "-",
             "wound": "-",
@@ -8944,8 +8944,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 350,
-            "trip": "-",
-            "timer": "-",
+            "trip": 2,
+            "timer": 10,
             "wound": "-",
             "sever": "-",
             "notes": "-"
@@ -9007,24 +9007,6 @@
             "sever": "-",
             "notes": "-"
         },
-        "head casing top": {
-            "ke": 1,
-            "slash": 55,
-            "blunt": 60,
-            "ranged": 35,
-            "fire": 5,
-            "water": 15,
-            "thunder": 0,
-            "ice": 20,
-            "dragon": 5,
-            "stun": "-",
-            "flinch": 190,
-            "trip": "-",
-            "timer": "-",
-            "wound": 190,
-            "sever": "-",
-            "notes": "4L,4R"
-        },
         "head casing bottom": {
             "ke": 1,
             "slash": 50,
@@ -9042,6 +9024,24 @@
             "wound": 1380,
             "sever": "-",
             "notes": "-"
+        },
+        "head casing top": {
+            "ke": 1,
+            "slash": 55,
+            "blunt": 60,
+            "ranged": 35,
+            "fire": 5,
+            "water": 15,
+            "thunder": 0,
+            "ice": 20,
+            "dragon": 5,
+            "stun": "-",
+            "flinch": 190,
+            "trip": "-",
+            "timer": "-",
+            "wound": 190,
+            "sever": "-",
+            "notes": "4L,4R"
         },
         "wings": {
             "ke": 1,
@@ -9077,7 +9077,7 @@
             "timer": "-",
             "wound": "-",
             "sever": "-",
-            "notes": "-"
+            "notes": "L,R"
         },
         "forelegs": {
             "ke": 2,
@@ -9091,8 +9091,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 180,
-            "trip": "-",
-            "timer": "-",
+            "trip": "B,2",
+            "timer": 10,
             "wound": 360,
             "sever": "-",
             "notes": "L,R"
@@ -9217,8 +9217,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 360,
-            "trip": "B",
-            "timer": "-",
+            "trip": "B,2",
+            "timer": 10,
             "wound": 360,
             "sever": "-",
             "notes": "L,R"
@@ -9274,8 +9274,8 @@
             "dragon": 10,
             "stun": 100,
             "flinch": 210,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 14,
             "wound": 420,
             "sever": "-",
             "notes": "-"
@@ -9382,8 +9382,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 270,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 14,
             "wound": 270,
             "sever": "-",
             "notes": "-"
@@ -9585,10 +9585,10 @@
             "ice": 10,
             "dragon": 0,
             "stun": 100,
-            "flinch": "-",
+            "flinch": 350,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
+            "wound": 700,
             "sever": "-",
             "notes": "-"
         },
@@ -9621,7 +9621,7 @@
             "ice": 5,
             "dragon": 0,
             "stun": "-",
-            "flinch": "-",
+            "flinch": 400,
             "trip": "-",
             "timer": "-",
             "wound": "-",
@@ -9639,10 +9639,10 @@
             "ice": 3,
             "dragon": 0,
             "stun": "-",
-            "flinch": "-",
+            "flinch": 300,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
+            "wound": 300,
             "sever": "-",
             "notes": "-"
         },
@@ -9657,10 +9657,10 @@
             "ice": 10,
             "dragon": 0,
             "stun": "-",
-            "flinch": "-",
+            "flinch": 350,
             "trip": "-",
             "timer": "-",
-            "wound": "-",
+            "wound": 700,
             "sever": "-",
             "notes": "-"
         },
@@ -9675,7 +9675,7 @@
             "ice": 5,
             "dragon": 0,
             "stun": "-",
-            "flinch": "-",
+            "flinch": 400,
             "trip": "-",
             "timer": "-",
             "wound": "-",
@@ -9693,11 +9693,11 @@
             "ice": 8,
             "dragon": 0,
             "stun": "-",
-            "flinch": "-",
+            "flinch": 350,
             "trip": "-",
             "timer": "-",
             "wound": "-",
-            "sever": "-",
+            "sever": 550,
             "notes": "-"
         },
         "head charged": {
@@ -9990,7 +9990,7 @@
             "flinch": 220,
             "trip": "-",
             "timer": "-",
-            "wound": 440,
+            "wound": 220,
             "sever": "-",
             "notes": "-"
         },
@@ -10060,8 +10060,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 180,
-            "trip": "-",
-            "timer": "-",
+            "trip": 2,
+            "timer": 8,
             "wound": 360,
             "sever": "-",
             "notes": "L,R"
@@ -10078,8 +10078,8 @@
             "dragon": 10,
             "stun": "-",
             "flinch": 200,
-            "trip": "-",
-            "timer": "-",
+            "trip": 2,
+            "timer": 8,
             "wound": "-",
             "sever": "-",
             "notes": "L,R"
@@ -11197,8 +11197,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 300,
-            "trip": "B",
-            "timer": "-",
+            "trip": 2,
+            "timer": 10,
             "wound": 300,
             "sever": "-",
             "notes": "-"
@@ -11233,8 +11233,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 400,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 10,
             "wound": 400,
             "sever": "-",
             "notes": "-"
@@ -11653,8 +11653,8 @@
             "dragon": 15,
             "stun": 100,
             "flinch": 215,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 12,
             "wound": 430,
             "sever": "-",
             "notes": "-"
@@ -11761,8 +11761,8 @@
             "dragon": 10,
             "stun": "-",
             "flinch": 200,
-            "trip": "-",
-            "timer": "-",
+            "trip": 1,
+            "timer": 8,
             "wound": "-",
             "sever": "-",
             "notes": "L,R"
@@ -11779,8 +11779,8 @@
             "dragon": 10,
             "stun": "-",
             "flinch": 260,
-            "trip": "-",
-            "timer": "-",
+            "trip": "^",
+            "timer": 12,
             "wound": "-",
             "sever": "-",
             "notes": "-"
@@ -11890,8 +11890,8 @@
             "dragon": 5,
             "stun": "-",
             "flinch": 350,
-            "trip": "-",
-            "timer": "-",
+            "trip": 2,
+            "timer": 8,
             "wound": 700,
             "sever": "-",
             "notes": "-"
