@@ -209,7 +209,7 @@
   },
   "anja": {
     "name": "Anja",
-    "setBonus": "Anjanath Power - Temporarily reduces stamina depletion when health is at 40% or lower. (3 pieces)",
+    "setBonus": "Anjanath Power - undefined (3 pieces)",
     "resistances": "Defense: 100\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
     "skills": [
       "Fire Attack",
@@ -317,7 +317,7 @@
   },
   "legiana": {
     "name": "Legiana",
-    "setBonus": "Legiana Blessing - Good chance of increased quest rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "setBonus": "Legiana Blessing - undefined (3 pieces)",
     "resistances": "Defense: 150\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
     "skills": [
       "Divine Blessing",
@@ -329,7 +329,7 @@
   },
   "odogaron": {
     "name": "Odogaron",
-    "setBonus": "Odogaron Power - Adds a stun effect to draw attacks and slightly increases attack power. (3 pieces)",
+    "setBonus": "Odogaron Power - undefined (3 pieces)",
     "resistances": "Defense: 150\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
     "skills": [
       "Bleeding Resistance",
@@ -341,7 +341,7 @@
   },
   "rathalos": {
     "name": "Rathalos",
-    "setBonus": "Rathalos Power - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (3 pieces)",
+    "setBonus": "Rathalos Power - undefined (3 pieces)",
     "resistances": "Defense: 150\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
     "skills": [
       "Attack Boost",
@@ -353,7 +353,7 @@
   },
   "diablos": {
     "name": "Diablos",
-    "setBonus": "Diablos Power - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (3 pieces)",
+    "setBonus": "Diablos Power - undefined (3 pieces)",
     "resistances": "Defense: 160\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
     "skills": [
       "Critical Draw",
@@ -365,7 +365,7 @@
   },
   "kirin": {
     "name": "Kirin",
-    "setBonus": "Kirin Blessing - High chance of increased capture rewards. (No effect when joining mid-quest.) (4 pieces)",
+    "setBonus": "Kirin Blessing - undefined (4 pieces)",
     "resistances": "Defense: 170\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
     "skills": [
       "Marathon Runner",
@@ -835,7 +835,7 @@
   },
   "anjaalpha": {
     "name": "Anja Alpha",
-    "setBonus": "Anjanath Will - Temporarily reduces stamina depletion when health is at 40% or lower. (2 pieces)",
+    "setBonus": "Anjanath Will - undefined (2 pieces)",
     "resistances": "Defense: 220\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
     "skills": [
       "Fire Resistance",
@@ -851,7 +851,7 @@
   },
   "anjabeta": {
     "name": "Anja Beta",
-    "setBonus": "Anjanath Will - Temporarily reduces stamina depletion when health is at 40% or lower. (2 pieces)",
+    "setBonus": "Anjanath Will - undefined (2 pieces)",
     "resistances": "Defense: 220\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
     "skills": [
       "Fire Attack",
@@ -972,7 +972,7 @@
   },
   "rathheartalpha": {
     "name": "Rath Heart Alpha",
-    "setBonus": "Pink Rathian Mastery - Extends the duration of your poison's effect on monsters. (3 pieces)",
+    "setBonus": "Pink Rathian Mastery - undefined (3 pieces)",
     "resistances": "Defense: 260\n Fire: 15\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -20",
     "skills": [
       "Poison Attack",
@@ -987,7 +987,7 @@
   },
   "rathheartbeta": {
     "name": "Rath Heart Beta",
-    "setBonus": "Pink Rathian Mastery - Extends the duration of your poison's effect on monsters. (3 pieces)",
+    "setBonus": "Pink Rathian Mastery - undefined (3 pieces)",
     "resistances": "Defense: 260\n Fire: 15\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -20",
     "skills": [
       "Evade Extender",
@@ -1086,7 +1086,7 @@
   },
   "zorahalpha": {
     "name": "Zorah Alpha",
-    "setBonus": "Zorah Magdaros Mastery - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (3 pieces)",
+    "setBonus": "Zorah Magdaros Mastery - undefined (3 pieces)",
     "resistances": "Defense: 220\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
     "skills": [
       "Blast Attack",
@@ -1103,7 +1103,7 @@
   },
   "zorahbeta": {
     "name": "Zorah Beta",
-    "setBonus": "Zorah Magdaros Mastery - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (3 pieces)",
+    "setBonus": "Zorah Magdaros Mastery - undefined (3 pieces)",
     "resistances": "Defense: 220\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
     "skills": [
       "Handicraft",
@@ -1245,7 +1245,7 @@
   },
   "legianaalpha": {
     "name": "Legiana Alpha",
-    "setBonus": "Legiana Favor - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "setBonus": "Legiana Favor - undefined (2 pieces)",
     "resistances": "Defense: 270\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
     "skills": [
       "Ice Attack",
@@ -1262,7 +1262,7 @@
   },
   "legianabeta": {
     "name": "Legiana Beta",
-    "setBonus": "Legiana Favor - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "setBonus": "Legiana Favor - undefined (2 pieces)",
     "resistances": "Defense: 270\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
     "skills": [
       "Divine Blessing",
@@ -1274,7 +1274,7 @@
   },
   "odogaronalpha": {
     "name": "Odogaron Alpha",
-    "setBonus": "Odogaron Mastery - Adds a stun effect to draw attacks and slightly increases attack power. (2 pieces)",
+    "setBonus": "Odogaron Mastery - undefined (2 pieces)",
     "resistances": "Defense: 270\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
     "skills": [
       "Bleeding Resistance",
@@ -1291,7 +1291,7 @@
   },
   "odogaronbeta": {
     "name": "Odogaron Beta",
-    "setBonus": "Odogaron Mastery - Adds a stun effect to draw attacks and slightly increases attack power. (2 pieces)",
+    "setBonus": "Odogaron Mastery - undefined (2 pieces)",
     "resistances": "Defense: 270\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
     "skills": [
       "Bleeding Resistance",
@@ -1303,7 +1303,7 @@
   },
   "rathalosalpha": {
     "name": "Rathalos Alpha",
-    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "setBonus": "Rathalos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 270\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
     "skills": [
       "Attack Boost",
@@ -1320,7 +1320,7 @@
   },
   "rathalosbeta": {
     "name": "Rathalos Beta",
-    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "setBonus": "Rathalos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 270\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
     "skills": [
       "Attack Boost",
@@ -1332,7 +1332,7 @@
   },
   "rathsoulalpha": {
     "name": "Rath Soul Alpha",
-    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "setBonus": "Rathalos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 280\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: -15\n Dragon: -20",
     "skills": [
       "Critical Boost",
@@ -1349,7 +1349,7 @@
   },
   "rathsoulbeta": {
     "name": "Rath Soul Beta",
-    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "setBonus": "Rathalos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 280\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: -15\n Dragon: -20",
     "skills": [
       "Critical Boost",
@@ -1361,7 +1361,7 @@
   },
   "diablosalpha": {
     "name": "Diablos Alpha",
-    "setBonus": "Diablos Mastery - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (2 pieces)",
+    "setBonus": "Diablos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 270\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
     "skills": [
       "Critical Draw",
@@ -1378,7 +1378,7 @@
   },
   "diablosbeta": {
     "name": "Diablos Beta",
-    "setBonus": "Diablos Mastery - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (2 pieces)",
+    "setBonus": "Diablos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 270\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
     "skills": [
       "Critical Draw",
@@ -1390,7 +1390,7 @@
   },
   "diablosneroalpha": {
     "name": "Diablos Nero Alpha",
-    "setBonus": "Diablos Mastery - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (2 pieces)",
+    "setBonus": "Diablos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 280\n Fire: 10\n Water: -15\n Thunder: 0\n Ice: -20\n Dragon: 10",
     "skills": [
       "Focus",
@@ -1405,7 +1405,7 @@
   },
   "diablosnerobeta": {
     "name": "Diablos Nero Beta",
-    "setBonus": "Diablos Mastery - Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning. (2 pieces)",
+    "setBonus": "Diablos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 280\n Fire: 10\n Water: -15\n Thunder: 0\n Ice: -20\n Dragon: 10",
     "skills": [
       "Focus",
@@ -1417,7 +1417,7 @@
   },
   "uragaanalpha": {
     "name": "Uragaan Alpha",
-    "setBonus": "Uragaan Protection - Allows you to guard against ordinarily unblockable attacks. (3 pieces)",
+    "setBonus": "Uragaan Protection - undefined (3 pieces)",
     "resistances": "Defense: 300\n Fire: 20\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: -10",
     "skills": [
       "Thunder Resistance",
@@ -1431,7 +1431,7 @@
   },
   "uragaanbeta": {
     "name": "Uragaan Beta",
-    "setBonus": "Uragaan Protection - Allows you to guard against ordinarily unblockable attacks. (3 pieces)",
+    "setBonus": "Uragaan Protection - undefined (3 pieces)",
     "resistances": "Defense: 300\n Fire: 20\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: -10",
     "skills": [
       "Thunder Resistance",
@@ -1443,7 +1443,7 @@
   },
   "bazelalpha": {
     "name": "Bazel Alpha",
-    "setBonus": "Bazelgeuse Protection - Above a certain health threshold, you withstand an attack that would normally cart you (once only). (3 pieces)",
+    "setBonus": "Bazelgeuse Protection - undefined (3 pieces)",
     "resistances": "Defense: 290\n Fire: 15\n Water: 5\n Thunder: -20\n Ice: -10\n Dragon: -10",
     "skills": [
       "Earplugs",
@@ -1460,7 +1460,7 @@
   },
   "bazelbeta": {
     "name": "Bazel Beta",
-    "setBonus": "Bazelgeuse Protection - Above a certain health threshold, you withstand an attack that would normally cart you (once only). (3 pieces)",
+    "setBonus": "Bazelgeuse Protection - undefined (3 pieces)",
     "resistances": "Defense: 290\n Fire: 15\n Water: 5\n Thunder: -20\n Ice: -10\n Dragon: -10",
     "skills": [
       "Earplugs",
@@ -1568,7 +1568,7 @@
   },
   "nergigantealpha": {
     "name": "Nergigante Alpha",
-    "setBonus": "Nergigante Hunger - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (3 pieces)",
+    "setBonus": "Nergigante Hunger - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
     "skills": [
       "Attack Boost",
@@ -1585,7 +1585,7 @@
   },
   "nergigantebeta": {
     "name": "Nergigante Beta",
-    "setBonus": "Nergigante Hunger - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (3 pieces)",
+    "setBonus": "Nergigante Hunger - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
     "skills": [
       "Maximum Might",
@@ -1597,7 +1597,7 @@
   },
   "teostraalpha": {
     "name": "Teostra Alpha",
-    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "setBonus": "Teostra Technique - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
     "skills": [
       "Latent Power",
@@ -1612,7 +1612,7 @@
   },
   "teostrabeta": {
     "name": "Teostra Beta",
-    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "setBonus": "Teostra Technique - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
     "skills": [
       "Latent Power",
@@ -1624,7 +1624,7 @@
   },
   "kushalaalpha": {
     "name": "Kushala Alpha",
-    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "setBonus": "Kushala Daora Flight - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
     "skills": [
       "Ice Attack",
@@ -1641,7 +1641,7 @@
   },
   "kushalabeta": {
     "name": "Kushala Beta",
-    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "setBonus": "Kushala Daora Flight - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
     "skills": [
       "Ice Attack",
@@ -1653,7 +1653,7 @@
   },
   "vaalhazakalpha": {
     "name": "Vaal Hazak Alpha",
-    "setBonus": "Vaal Hazak Vitality - Allows recovery to exceed the red portion of the health gauge. (3 pieces)",
+    "setBonus": "Vaal Hazak Vitality - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: -20\n Water: 20\n Thunder: 5\n Ice: -5\n Dragon: -15",
     "skills": [
       "Dragon Attack",
@@ -1670,7 +1670,7 @@
   },
   "vaalhazakbeta": {
     "name": "Vaal Hazak Beta",
-    "setBonus": "Vaal Hazak Vitality - Allows recovery to exceed the red portion of the health gauge. (3 pieces)",
+    "setBonus": "Vaal Hazak Vitality - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: -20\n Water: 20\n Thunder: 5\n Ice: -5\n Dragon: -15",
     "skills": [
       "Peak Performance",
@@ -1682,7 +1682,7 @@
   },
   "kirinalpha": {
     "name": "Kirin Alpha",
-    "setBonus": "Kirin Favor - High chance of increased capture rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "setBonus": "Kirin Favor - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
     "skills": [
       "Marathon Runner",
@@ -1699,7 +1699,7 @@
   },
   "kirinbeta": {
     "name": "Kirin Beta",
-    "setBonus": "Kirin Favor - High chance of increased capture rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "setBonus": "Kirin Favor - undefined (3 pieces)",
     "resistances": "Defense: 320\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
     "skills": [
       "Marathon Runner",
@@ -1711,7 +1711,7 @@
   },
   "xeno'jiivaalpha": {
     "name": "Xeno'jiiva Alpha",
-    "setBonus": "Xeno'jiiva Divinity - Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo. (3 pieces)",
+    "setBonus": "Xeno'jiiva Divinity - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: -15\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: -20",
     "skills": [
       "Special Ammo Boost",
@@ -1728,7 +1728,7 @@
   },
   "xeno'jiivabeta": {
     "name": "Xeno'jiiva Beta",
-    "setBonus": "Xeno'jiiva Divinity - Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo. (3 pieces)",
+    "setBonus": "Xeno'jiiva Divinity - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: -15\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: -20",
     "skills": [
       "Flinch Free",
@@ -1740,7 +1740,7 @@
   },
   "guildcrossalpha": {
     "name": "Guild Cross Alpha",
-    "setBonus": "Guild Guidance - High chance of increased quest rewards. (No effect when joining mid-quest.) (4 pieces)",
+    "setBonus": "Guild Guidance - undefined (4 pieces)",
     "resistances": "Defense: 310\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
     "skills": [
       "Thunder Resistance",
@@ -1757,7 +1757,7 @@
   },
   "guildcrossbeta": {
     "name": "Guild Cross Beta",
-    "setBonus": "Guild Guidance - High chance of increased quest rewards. (No effect when joining mid-quest.) (4 pieces)",
+    "setBonus": "Guild Guidance - undefined (4 pieces)",
     "resistances": "Defense: 310\n Fire: 0\n Water: 0\n Thunder: 0\n Ice: 0\n Dragon: 0",
     "skills": [
       "Divine Blessing",
@@ -1777,7 +1777,7 @@
   },
   "commissionalpha": {
     "name": "Commission Alpha",
-    "setBonus": "Commission Guidance - Lets you carve one additional time. (No effect when joining mid-quest.) (4 pieces)",
+    "setBonus": "Commission Guidance - undefined (4 pieces)",
     "resistances": "Defense: 350\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: 10",
     "skills": [
       "Master Gatherer",
@@ -1794,7 +1794,7 @@
   },
   "commissionbeta": {
     "name": "Commission Beta",
-    "setBonus": "Commission Guidance - Lets you carve one additional time. (No effect when joining mid-quest.) (4 pieces)",
+    "setBonus": "Commission Guidance - undefined (4 pieces)",
     "resistances": "Defense: 350\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: 10",
     "skills": [
       "Tool Specialist",
@@ -1937,7 +1937,7 @@
   },
   "kiringamma": {
     "name": "Kirin Gamma",
-    "setBonus": "Kirin Favor - High chance of increased capture rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "setBonus": "Kirin Favor - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
     "skills": [
       "Blight Resistance",
@@ -1968,7 +1968,7 @@
   },
   "lunastraalpha": {
     "name": "Lunastra Alpha",
-    "setBonus": "Lunastra Favor - Increases stamina cap. (2 pieces)",
+    "setBonus": "Lunastra Favor - undefined (2 pieces)",
     "resistances": "Defense: 350\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
     "skills": [
       "Evade Extender",
@@ -1985,7 +1985,7 @@
   },
   "lunastrabeta": {
     "name": "Lunastra Beta",
-    "setBonus": "Lunastra Favor - Increases stamina cap. (2 pieces)",
+    "setBonus": "Lunastra Favor - undefined (2 pieces)",
     "resistances": "Defense: 350\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
     "skills": [
       "Evade Extender",
@@ -1997,7 +1997,7 @@
   },
   "vaalhazakgamma": {
     "name": "Vaal Hazak Gamma",
-    "setBonus": "Vaal Hazak Vitality - Allows recovery to exceed the red portion of the health gauge. (3 pieces)",
+    "setBonus": "Vaal Hazak Vitality - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: -20\n Water: 20\n Thunder: 5\n Ice: -5\n Dragon: -15",
     "skills": [
       "Recovery Up",
@@ -2013,7 +2013,7 @@
   },
   "drachenalpha": {
     "name": "Drachen Alpha",
-    "setBonus": "-",
+    "setBonus": "Soul of the Dragoon - undefined (2 pieces)",
     "resistances": "Defense: 360\n Fire: -10\n Water: -10\n Thunder: 15\n Ice: -10\n Dragon: 20",
     "skills": [
       "Critical Boost",
@@ -2030,7 +2030,7 @@
   },
   "azurestarlordalpha": {
     "name": "Azure Starlord Alpha",
-    "setBonus": "Rathalos Mastery - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "setBonus": "Rathalos Mastery - undefined (2 pieces)",
     "resistances": "Defense: 280\n Fire: 10\n Water: 10\n Thunder: 0\n Ice: 0\n Dragon: 15",
     "skills": [
       "Agitator",
@@ -2059,8 +2059,8 @@
   },
   "lunastragamma": {
     "name": "Lunastra Gamma",
-    "setBonus": "Lunastra Favor - Increases stamina cap. (2 pieces)",
-    "resistances": "Defense: 350\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
+    "setBonus": "Lunastra Favor - undefined (2 pieces)",
+    "resistances": "Defense: 360\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
     "skills": [
       "Peak Performance",
       "Wide-Range",
@@ -2076,7 +2076,7 @@
   },
   "xeno'jiivagamma": {
     "name": "Xeno'jiiva Gamma",
-    "setBonus": "Xeno'jiiva Divinity - Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo. (3 pieces)",
+    "setBonus": "Xeno'jiiva Divinity - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: -15\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: -20",
     "skills": [
       "Blight Resistance",
@@ -2090,7 +2090,7 @@
   },
   "zorahgamma": {
     "name": "Zorah Gamma",
-    "setBonus": "Zorah Magdaros Mastery - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (3 pieces)",
+    "setBonus": "Zorah Magdaros Mastery - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
     "skills": [
       "Windproof",
@@ -2105,7 +2105,7 @@
   },
   "nergigantegamma": {
     "name": "Nergigante Gamma",
-    "setBonus": "Nergigante Hunger - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (3 pieces)",
+    "setBonus": "Nergigante Hunger - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
     "skills": [
       "Agitator",
@@ -2120,7 +2120,7 @@
   },
   "kushalagamma": {
     "name": "Kushala Gamma",
-    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "setBonus": "Kushala Daora Flight - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
     "skills": [
       "Handicraft",
@@ -2133,7 +2133,7 @@
   },
   "teostragamma": {
     "name": "Teostra Gamma",
-    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "setBonus": "Teostra Technique - undefined (3 pieces)",
     "resistances": "Defense: 360\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
     "skills": [
       "Critical Eye",
@@ -2458,7 +2458,7 @@
       "Thunder Resistance",
       "Thunder Attack",
       "Thunder Resistance",
-      "Thunder Attack"
+      "Constitution"
     ]
   },
   "viperkadachialpha+": {
@@ -2514,7 +2514,7 @@
   },
   "anjaalpha+": {
     "name": "Anja Alpha +",
-    "setBonus": "Anjanath Dominance - Increases stamina cap. (2 pieces)",
+    "setBonus": "Anjanath Dominance - undefined (2 pieces)",
     "resistances": "Defense: 660\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
     "skills": [
       "Fire Resistance",
@@ -2531,7 +2531,7 @@
   },
   "fulguranjaalpha+": {
     "name": "Fulgur Anja Alpha +",
-    "setBonus": "Anjanath Dominance - Increases stamina cap. (2 pieces)",
+    "setBonus": "Anjanath Dominance - undefined (2 pieces)",
     "resistances": "Defense: 730\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: -15\n Dragon: 0",
     "skills": [
       "Weakness Exploit",
@@ -2548,7 +2548,7 @@
   },
   "rathianalpha+": {
     "name": "Rathian Alpha +",
-    "setBonus": "Rathian Essence - Extends the duration of your poison's effect on monsters. (2 pieces)",
+    "setBonus": "Rathian Essence - undefined (2 pieces)",
     "resistances": "Defense: 650\n Fire: 10\n Water: 0\n Thunder: -10\n Ice: 0\n Dragon: -15",
     "skills": [
       "Health Boost",
@@ -2565,7 +2565,7 @@
   },
   "rathheartalpha+": {
     "name": "Rath Heart Alpha +",
-    "setBonus": "Rathian Essence - Extends the duration of your poison's effect on monsters. (2 pieces)",
+    "setBonus": "Rathian Essence - undefined (2 pieces)",
     "resistances": "Defense: 660\n Fire: 15\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -20",
     "skills": [
       "Evade Extender",
@@ -2945,7 +2945,7 @@
   },
   "anjabeta+": {
     "name": "Anja Beta +",
-    "setBonus": "Anjanath Dominance - Increases stamina cap. (2 pieces)",
+    "setBonus": "Anjanath Dominance - undefined (2 pieces)",
     "resistances": "Defense: 660\n Fire: 15\n Water: -15\n Thunder: -5\n Ice: -5\n Dragon: 0",
     "skills": [
       "Fire Attack",
@@ -2959,7 +2959,7 @@
   },
   "fulguranjabeta+": {
     "name": "Fulgur Anja Beta +",
-    "setBonus": "Anjanath Dominance - Increases stamina cap. (2 pieces)",
+    "setBonus": "Anjanath Dominance - undefined (2 pieces)",
     "resistances": "Defense: 730\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: -15\n Dragon: 0",
     "skills": [
       "Weakness Exploit",
@@ -2973,7 +2973,7 @@
   },
   "rathianbeta+": {
     "name": "Rathian Beta +",
-    "setBonus": "Rathian Essence - Extends the duration of your poison's effect on monsters. (2 pieces)",
+    "setBonus": "Rathian Essence - undefined (2 pieces)",
     "resistances": "Defense: 650\n Fire: 10\n Water: 0\n Thunder: -10\n Ice: 0\n Dragon: -15",
     "skills": [
       "Health Boost",
@@ -2988,7 +2988,7 @@
   },
   "rathheartbeta+": {
     "name": "Rath Heart Beta +",
-    "setBonus": "Rathian Essence - Extends the duration of your poison's effect on monsters. (2 pieces)",
+    "setBonus": "Rathian Essence - undefined (2 pieces)",
     "resistances": "Defense: 660\n Fire: 15\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -20",
     "skills": [
       "Evade Extender",
@@ -3040,7 +3040,7 @@
   },
   "artianalpha+": {
     "name": "Artian Alpha +",
-    "setBonus": "Ancient Divinity - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (2 pieces)",
+    "setBonus": "Ancient Divinity - undefined (2 pieces)",
     "resistances": "Defense: 710\n Fire: 5\n Water: -10\n Thunder: -10\n Ice: 10\n Dragon: 15",
     "skills": [
       "Free Elem/Ammo Up",
@@ -3057,7 +3057,7 @@
   },
   "artianbeta+": {
     "name": "Artian Beta +",
-    "setBonus": "Ancient Divinity - Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits. (2 pieces)",
+    "setBonus": "Ancient Divinity - undefined (2 pieces)",
     "resistances": "Defense: 710\n Fire: 5\n Water: -10\n Thunder: -10\n Ice: 10\n Dragon: 15",
     "skills": [
       "Free Elem/Ammo Up",
@@ -3072,7 +3072,7 @@
   },
   "clockworkalpha+": {
     "name": "Clockwork Alpha +",
-    "setBonus": "Commission Alchemy - Raises the maximum level of the Bombardier skill. (3 pieces)",
+    "setBonus": "Commission Alchemy - undefined (3 pieces)",
     "resistances": "Defense: 710\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: -5\n Dragon: -5",
     "skills": [
       "Partbreaker",
@@ -3089,7 +3089,7 @@
   },
   "clockworkbeta+": {
     "name": "Clockwork Beta +",
-    "setBonus": "Commission Alchemy - Raises the maximum level of the Bombardier skill. (3 pieces)",
+    "setBonus": "Commission Alchemy - undefined (3 pieces)",
     "resistances": "Defense: 710\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: -5\n Dragon: -5",
     "skills": [
       "Partbreaker",
@@ -3144,7 +3144,7 @@
   },
   "guildworkalpha+": {
     "name": "Guildwork Alpha +",
-    "setBonus": "Guild Pride - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "setBonus": "Guild Pride - undefined (2 pieces)",
     "resistances": "Defense: 810\n Fire: 10\n Water: 5\n Thunder: 5\n Ice: 10\n Dragon: 10",
     "skills": [
       "Honey Hunter",
@@ -3161,7 +3161,7 @@
   },
   "guildworkbeta+": {
     "name": "Guildwork Beta +",
-    "setBonus": "Guild Pride - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "setBonus": "Guild Pride - undefined (2 pieces)",
     "resistances": "Defense: 810\n Fire: 10\n Water: 5\n Thunder: 5\n Ice: 10\n Dragon: 10",
     "skills": [
       "Honey Hunter",
@@ -3175,7 +3175,7 @@
   },
   "ruinernergibeta+": {
     "name": "Ruiner Nergi Beta +",
-    "setBonus": "Nergigante Ambition - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (2 pieces)",
+    "setBonus": "Nergigante Ambition - undefined (2 pieces)",
     "resistances": "Defense: 830\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
     "skills": [
       "Maximum Might",
@@ -3189,7 +3189,7 @@
   },
   "ruinernergialpha+": {
     "name": "Ruiner Nergi Alpha +",
-    "setBonus": "Nergigante Ambition - Regenerates your health as you continually attack a monster. Recovery varies by weapon. (2 pieces)",
+    "setBonus": "Nergigante Ambition - undefined (2 pieces)",
     "resistances": "Defense: 830\n Fire: 5\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
     "skills": [
       "Stamina Surge",
@@ -3206,7 +3206,7 @@
   },
   "silversolbeta+": {
     "name": "Silver Sol Beta +",
-    "setBonus": "Silver Rathalos Essence - Raises the maximum level of the Slinger Capacity skill. (2 pieces)",
+    "setBonus": "Silver Rathalos Essence - undefined (2 pieces)",
     "resistances": "Defense: 820\n Fire: 20\n Water: -15\n Thunder: -10\n Ice: -10\n Dragon: 15",
     "skills": [
       "Windproof",
@@ -3219,7 +3219,7 @@
   },
   "silversolalpha+": {
     "name": "Silver Sol Alpha +",
-    "setBonus": "Silver Rathalos Essence - Raises the maximum level of the Slinger Capacity skill. (2 pieces)",
+    "setBonus": "Silver Rathalos Essence - undefined (2 pieces)",
     "resistances": "Defense: 820\n Fire: 20\n Water: -15\n Thunder: -10\n Ice: -10\n Dragon: 15",
     "skills": [
       "Windproof",
@@ -3236,7 +3236,7 @@
   },
   "goldenlunebeta+": {
     "name": "Golden Lune Beta +",
-    "setBonus": "Gold Rathian Essence - Raises the maximum level of the Divine Blessing skill. (2 pieces)",
+    "setBonus": "Gold Rathian Essence - undefined (2 pieces)",
     "resistances": "Defense: 810\n Fire: 15\n Water: -10\n Thunder: -20\n Ice: 0\n Dragon: 20",
     "skills": [
       "Health Boost",
@@ -3246,9 +3246,9 @@
       "Weakness Exploit"
     ]
   },
-  "goldenlunaalpha+": {
-    "name": "Golden Luna Alpha +",
-    "setBonus": "Gold Rathian Essence - Raises the maximum level of the Divine Blessing skill. (2 pieces)",
+  "goldenlunealpha+": {
+    "name": "Golden Lune Alpha +",
+    "setBonus": "Gold Rathian Essence - undefined (2 pieces)",
     "resistances": "Defense: 810\n Fire: 15\n Water: -10\n Thunder: -20\n Ice: 0\n Dragon: 20",
     "skills": [
       "Health Boost",
@@ -3265,7 +3265,7 @@
   },
   "zinogrebeta+": {
     "name": "Zinogre Beta +",
-    "setBonus": "Zinogre Essence - Raises the maximum level of the Latent Power skill. (3 pieces)",
+    "setBonus": "Zinogre Essence - undefined (3 pieces)",
     "resistances": "Defense: 790\n Fire: -5\n Water: -5\n Thunder: 20\n Ice: -20\n Dragon: 5",
     "skills": [
       "Critical Boost",
@@ -3280,7 +3280,7 @@
   },
   "zinogrealpha+": {
     "name": "Zinogre Alpha +",
-    "setBonus": "Zinogre Essence - Raises the maximum level of the Latent Power skill. (3 pieces)",
+    "setBonus": "Zinogre Essence - undefined (3 pieces)",
     "resistances": "Defense: 790\n Fire: -5\n Water: -5\n Thunder: 20\n Ice: -20\n Dragon: 5",
     "skills": [
       "Critical Boost",
@@ -3327,7 +3327,7 @@
   },
   "zorahbeta+": {
     "name": "Zorah Beta +",
-    "setBonus": "Zorah Magdaros Essence - Raises the maximum level of the Artillery skill. (3 pieces)",
+    "setBonus": "Zorah Magdaros Essence - undefined (3 pieces)",
     "resistances": "Defense: 800\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
     "skills": [
       "Flinch Free",
@@ -3339,7 +3339,7 @@
   },
   "zorahalpha+": {
     "name": "Zorah Alpha +",
-    "setBonus": "Zorah Magdaros Essence - Raises the maximum level of the Artillery skill. (3 pieces)",
+    "setBonus": "Zorah Magdaros Essence - undefined (3 pieces)",
     "resistances": "Defense: 800\n Fire: 20\n Water: -15\n Thunder: -5\n Ice: -10\n Dragon: -15",
     "skills": [
       "Artillery",
@@ -3356,7 +3356,7 @@
   },
   "sharaishvaldabeta+": {
     "name": "Shara Ishvalda Beta +",
-    "setBonus": "Shara Ishvalda Divinity - While wearing a mantle, gain Windproof Lv3, Earplugs Lv3, Tremor Res Lv3, and Flinch Free. (4 pieces)",
+    "setBonus": "Shara Ishvalda Divinity - undefined (4 pieces)",
     "resistances": "Defense: 810\n Fire: 0\n Water: -10\n Thunder: 15\n Ice: -15\n Dragon: 0",
     "skills": [
       "Recovery Up",
@@ -3369,7 +3369,7 @@
   },
   "sharaishvaldaalpha+": {
     "name": "Shara Ishvalda Alpha +",
-    "setBonus": "Shara Ishvalda Divinity - While wearing a mantle, gain Windproof Lv3, Earplugs Lv3, Tremor Res Lv3, and Flinch Free. (4 pieces)",
+    "setBonus": "Shara Ishvalda Divinity - undefined (4 pieces)",
     "resistances": "Defense: 810\n Fire: 0\n Water: -10\n Thunder: 15\n Ice: -15\n Dragon: 0",
     "skills": [
       "Recovery Up",
@@ -3386,7 +3386,7 @@
   },
   "namiellebeta+": {
     "name": "Namielle Beta +",
-    "setBonus": "Namielle Divinity - Continually attacking a monster activates Free Element/Ammo Up Lv2 and increases elemental damage. (2 pieces)",
+    "setBonus": "Namielle Divinity - undefined (2 pieces)",
     "resistances": "Defense: 790\n Fire: -15\n Water: 20\n Thunder: 15\n Ice: 0\n Dragon: -10",
     "skills": [
       "Constitution",
@@ -3401,7 +3401,7 @@
   },
   "namiellealpha+": {
     "name": "Namielle Alpha +",
-    "setBonus": "Namielle Divinity - Continually attacking a monster activates Free Element/Ammo Up Lv2 and increases elemental damage. (2 pieces)",
+    "setBonus": "Namielle Divinity - undefined (2 pieces)",
     "resistances": "Defense: 790\n Fire: -15\n Water: 20\n Thunder: 15\n Ice: 0\n Dragon: -10",
     "skills": [
       "Constitution",
@@ -3418,7 +3418,7 @@
   },
   "kirinbeta+": {
     "name": "Kirin Beta +",
-    "setBonus": "Kirin Divinity - High chance of increased quest rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "setBonus": "Kirin Divinity - undefined (3 pieces)",
     "resistances": "Defense: 770\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
     "skills": [
       "Marathon Runner",
@@ -3431,7 +3431,7 @@
   },
   "kirinalpha+": {
     "name": "Kirin Alpha +",
-    "setBonus": "Kirin Divinity - High chance of increased quest rewards. (No effect when joining mid-quest.) (3 pieces)",
+    "setBonus": "Kirin Divinity - undefined (3 pieces)",
     "resistances": "Defense: 770\n Fire: -15\n Water: -10\n Thunder: 20\n Ice: -10\n Dragon: 10",
     "skills": [
       "Marathon Runner",
@@ -3448,7 +3448,7 @@
   },
   "kushalabeta+": {
     "name": "Kushala Beta +",
-    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "setBonus": "Kushala Daora Flight - undefined (3 pieces)",
     "resistances": "Defense: 780\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
     "skills": [
       "Ice Attack",
@@ -3461,7 +3461,7 @@
   },
   "kushalaalpha+": {
     "name": "Kushala Alpha +",
-    "setBonus": "Kushala Daora Flight - Negates all wind pressure. (3 pieces)",
+    "setBonus": "Kushala Daora Flight - undefined (3 pieces)",
     "resistances": "Defense: 780\n Fire: 0\n Water: 10\n Thunder: -15\n Ice: 20\n Dragon: -10",
     "skills": [
       "Ice Attack",
@@ -3476,7 +3476,7 @@
   },
   "teostrabeta+": {
     "name": "Teostra Beta +",
-    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "setBonus": "Teostra Technique - undefined (3 pieces)",
     "resistances": "Defense: 780\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
     "skills": [
       "Critical Eye",
@@ -3491,7 +3491,7 @@
   },
   "teostraalpha+": {
     "name": "Teostra Alpha +",
-    "setBonus": "Teostra Technique - Prevents your weapon from losing sharpness during critical hits. (3 pieces)",
+    "setBonus": "Teostra Technique - undefined (3 pieces)",
     "resistances": "Defense: 780\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -15\n Dragon: 5",
     "skills": [
       "Critical Eye",
@@ -3508,7 +3508,7 @@
   },
   "blackveilhazakbeta+": {
     "name": "Blackveil Hazak Beta +",
-    "setBonus": "Vaal Soulvein - Allows recovery to exceed the red portion of the health gauge. (2 pieces)",
+    "setBonus": "Vaal Soulvein - undefined (2 pieces)",
     "resistances": "Defense: 780\n Fire: -10\n Water: 20\n Thunder: 5\n Ice: 5\n Dragon: -15",
     "skills": [
       "Peak Performance",
@@ -3521,7 +3521,7 @@
   },
   "blackveilhazakalpha+": {
     "name": "Blackveil Hazak Alpha +",
-    "setBonus": "Vaal Soulvein - Allows recovery to exceed the red portion of the health gauge. (2 pieces)",
+    "setBonus": "Vaal Soulvein - undefined (2 pieces)",
     "resistances": "Defense: 780\n Fire: -10\n Water: 20\n Thunder: 5\n Ice: 5\n Dragon: -15",
     "skills": [
       "Dragon Attack",
@@ -3538,7 +3538,7 @@
   },
   "velkhanabeta+": {
     "name": "Velkhana Beta +",
-    "setBonus": "Velkhana Divinity - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "setBonus": "Velkhana Divinity - undefined (2 pieces)",
     "resistances": "Defense: 770\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 20\n Dragon: -5",
     "skills": [
       "Divine Blessing",
@@ -3551,7 +3551,7 @@
   },
   "velkhanaalpha+": {
     "name": "Velkhana Alpha +",
-    "setBonus": "Velkhana Divinity - Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits. (2 pieces)",
+    "setBonus": "Velkhana Divinity - undefined (2 pieces)",
     "resistances": "Defense: 770\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 20\n Dragon: -5",
     "skills": [
       "Divine Blessing",
@@ -3568,10 +3568,12 @@
   },
   "guildpalacebeta+": {
     "name": "Guild Palace Beta +",
-    "setBonus": "Guild Pride - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "setBonus": "Guild Pride - undefined (2 pieces)",
     "resistances": "Defense: 770\n Fire: 5\n Water: 10\n Thunder: 10\n Ice: 5\n Dragon: 5",
     "skills": [
       "Health Boost",
+      "Agitator",
+      "Heroics",
       "Offensive Guard",
       "Agitator",
       "Resuscitate",
@@ -3581,7 +3583,7 @@
   },
   "guildpalacealpha+": {
     "name": "Guild Palace Alpha +",
-    "setBonus": "Guild Pride - Good chance of increased quest rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "setBonus": "Guild Pride - undefined (2 pieces)",
     "resistances": "Defense: 770\n Fire: 5\n Water: 10\n Thunder: 10\n Ice: 5\n Dragon: 5",
     "skills": [
       "Health Boost",
@@ -3598,7 +3600,7 @@
   },
   "savagejhobeta+": {
     "name": "Savage Jho Beta +",
-    "setBonus": "Deviljho Essence - Raises the maximum level of the Stamina Thief skill. (3 pieces)",
+    "setBonus": "Deviljho Essence - undefined (3 pieces)",
     "resistances": "Defense: 780\n Fire: 10\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
     "skills": [
       "Partbreaker",
@@ -3611,7 +3613,7 @@
   },
   "savagejhoalpha+": {
     "name": "Savage Jho Alpha +",
-    "setBonus": "Deviljho Essence - Raises the maximum level of the Stamina Thief skill. (3 pieces)",
+    "setBonus": "Deviljho Essence - undefined (3 pieces)",
     "resistances": "Defense: 780\n Fire: 10\n Water: 5\n Thunder: -15\n Ice: 5\n Dragon: -15",
     "skills": [
       "Handicraft",
@@ -3628,7 +3630,7 @@
   },
   "seethingbazelbeta+": {
     "name": "Seething Bazel Beta +",
-    "setBonus": "Bazelgeuse Ambition - Above a certain health threshold, you withstand an attack that would normally cart you (once only). (2 pieces)",
+    "setBonus": "Bazelgeuse Ambition - undefined (2 pieces)",
     "resistances": "Defense: 770\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: -20\n Dragon: -10",
     "skills": [
       "Earplugs",
@@ -3642,7 +3644,7 @@
   },
   "seethingbazelalpha+": {
     "name": "Seething Bazel Alpha +",
-    "setBonus": "Bazelgeuse Ambition - Above a certain health threshold, you withstand an attack that would normally cart you (once only). (2 pieces)",
+    "setBonus": "Bazelgeuse Ambition - undefined (2 pieces)",
     "resistances": "Defense: 770\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: -20\n Dragon: -10",
     "skills": [
       "Earplugs",
@@ -3722,7 +3724,7 @@
   },
   "blackbeltbeta+": {
     "name": "Black Belt Beta +",
-    "setBonus": "Instructor's Guidance - High chance of increased capture rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "setBonus": "Instructor's Guidance - undefined (2 pieces)",
     "resistances": "Defense: 750\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
     "skills": [
       "Marathon Runner",
@@ -3734,7 +3736,7 @@
   },
   "blackbeltalpha+": {
     "name": "Black Belt Alpha +",
-    "setBonus": "Instructor's Guidance - High chance of increased capture rewards. (No effect when joining mid-quest.) (2 pieces)",
+    "setBonus": "Instructor's Guidance - undefined (2 pieces)",
     "resistances": "Defense: 750\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 10",
     "skills": [
       "Marathon Runner",
@@ -3751,7 +3753,7 @@
   },
   "brutetigrexbeta+": {
     "name": "Brute Tigrex Beta +",
-    "setBonus": "Tigrex Essence - Raises the maximum level of the Free Meal skill. (3 pieces)",
+    "setBonus": "Tigrex Essence - undefined (3 pieces)",
     "resistances": "Defense: 790\n Fire: 15\n Water: -20\n Thunder: -10\n Ice: 0\n Dragon: 0",
     "skills": [
       "Attack Boost",
@@ -3768,7 +3770,7 @@
   },
   "brutetigrexalpha+": {
     "name": "Brute Tigrex Alpha +",
-    "setBonus": "Tigrex Essence - Raises the maximum level of the Free Meal skill. (3 pieces)",
+    "setBonus": "Tigrex Essence - undefined (3 pieces)",
     "resistances": "Defense: 790\n Fire: 15\n Water: -20\n Thunder: -10\n Ice: 0\n Dragon: 0",
     "skills": [
       "Attack Boost",
@@ -3785,7 +3787,7 @@
   },
   "tigrexbeta+": {
     "name": "Tigrex Beta +",
-    "setBonus": "Tigrex Essence - Raises the maximum level of the Free Meal skill. (3 pieces)",
+    "setBonus": "Tigrex Essence - undefined (3 pieces)",
     "resistances": "Defense: 710\n Fire: 10\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -10",
     "skills": [
       "Earplugs",
@@ -3799,7 +3801,7 @@
   },
   "tigrexalpha+": {
     "name": "Tigrex Alpha +",
-    "setBonus": "Tigrex Essence - Raises the maximum level of the Free Meal skill. (3 pieces)",
+    "setBonus": "Tigrex Essence - undefined (3 pieces)",
     "resistances": "Defense: 710\n Fire: 10\n Water: 0\n Thunder: -15\n Ice: 0\n Dragon: -10",
     "skills": [
       "Earplugs",
@@ -3816,7 +3818,7 @@
   },
   "brachydiosbeta+": {
     "name": "Brachydios Beta +",
-    "setBonus": "Brachydios Essence - Raises the maximum level of the Agitator skill. (3 pieces)",
+    "setBonus": "Brachydios Essence - undefined (3 pieces)",
     "resistances": "Defense: 710\n Fire: 15\n Water: -10\n Thunder: 5\n Ice: -15\n Dragon: 5",
     "skills": [
       "Agitator",
@@ -3831,7 +3833,7 @@
   },
   "brachydiosalpha+": {
     "name": "Brachydios Alpha +",
-    "setBonus": "Brachydios Essence - Raises the maximum level of the Agitator skill. (3 pieces)",
+    "setBonus": "Brachydios Essence - undefined (3 pieces)",
     "resistances": "Defense: 710\n Fire: 15\n Water: -10\n Thunder: 5\n Ice: -15\n Dragon: 5",
     "skills": [
       "Agitator",
@@ -3848,7 +3850,7 @@
   },
   "acidicglavenusbeta+": {
     "name": "Acidic Glavenus Beta +",
-    "setBonus": "Glavenus Essence - Raises  the maximum level of the Maximum Might skill. (3 pieces)",
+    "setBonus": "Glavenus Essence - undefined (3 pieces)",
     "resistances": "Defense: 750\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 10\n Dragon: -5",
     "skills": [
       "Maximum Might",
@@ -3862,7 +3864,7 @@
   },
   "acidicglavenusalpha+": {
     "name": "Acidic Glavenus Alpha +",
-    "setBonus": "Glavenus Essence - Raises  the maximum level of the Maximum Might skill. (3 pieces)",
+    "setBonus": "Glavenus Essence - undefined (3 pieces)",
     "resistances": "Defense: 750\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 10\n Dragon: -5",
     "skills": [
       "Maximum Might",
@@ -3879,7 +3881,7 @@
   },
   "rajangbeta+": {
     "name": "Rajang Beta +",
-    "setBonus": "Rajang's Rage - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (2 pieces)",
+    "setBonus": "Rajang's Rage - undefined (2 pieces)",
     "resistances": "Defense: 790\n Fire: 10\n Water: 0\n Thunder: 15\n Ice: -25\n Dragon: 10",
     "skills": [
       "Weakness Exploit",
@@ -3892,7 +3894,7 @@
   },
   "rajangalpha+": {
     "name": "Rajang Alpha +",
-    "setBonus": "Rajang's Rage - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (2 pieces)",
+    "setBonus": "Rajang's Rage - undefined (2 pieces)",
     "resistances": "Defense: 790\n Fire: 10\n Water: 0\n Thunder: 15\n Ice: -25\n Dragon: 10",
     "skills": [
       "Weakness Exploit",
@@ -3909,7 +3911,7 @@
   },
   "glavenusbeta+": {
     "name": "Glavenus Beta +",
-    "setBonus": "Glavenus Essence - Raises  the maximum level of the Maximum Might skill. (3 pieces)",
+    "setBonus": "Glavenus Essence - undefined (3 pieces)",
     "resistances": "Defense: 710\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -5\n Dragon: -5",
     "skills": [
       "Focus",
@@ -3924,7 +3926,7 @@
   },
   "glavenusalpha+": {
     "name": "Glavenus Alpha +",
-    "setBonus": "Glavenus Essence - Raises  the maximum level of the Maximum Might skill. (3 pieces)",
+    "setBonus": "Glavenus Essence - undefined (3 pieces)",
     "resistances": "Defense: 710\n Fire: 15\n Water: -15\n Thunder: 5\n Ice: -5\n Dragon: -5",
     "skills": [
       "Focus",
@@ -3941,7 +3943,7 @@
   },
   "nargacugabeta+": {
     "name": "Nargacuga Beta +",
-    "setBonus": "Nargacuga Essence - Greatly reduces sharpness loss. Bows and bowguns have a chance not to expend coatings or ammo. (3 pieces)",
+    "setBonus": "Nargacuga Essence - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: -10\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
     "skills": [
       "Piercing Shots",
@@ -3955,7 +3957,7 @@
   },
   "nargacugaalpha+": {
     "name": "Nargacuga Alpha +",
-    "setBonus": "Nargacuga Essence - Greatly reduces sharpness loss. Bows and bowguns have a chance not to expend coatings or ammo. (3 pieces)",
+    "setBonus": "Nargacuga Essence - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: -10\n Water: 10\n Thunder: -15\n Ice: 0\n Dragon: 0",
     "skills": [
       "Piercing Shots",
@@ -3972,7 +3974,7 @@
   },
   "uragaanbeta+": {
     "name": "Uragaan Beta +",
-    "setBonus": "Uragaan Ambition - Allows you to guard against ordinarily unblockable attacks. (2 pieces)",
+    "setBonus": "Uragaan Ambition - undefined (2 pieces)",
     "resistances": "Defense: 720\n Fire: 20\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: -10",
     "skills": [
       "Blast Resistance",
@@ -3985,7 +3987,7 @@
   },
   "uragaanalpha+": {
     "name": "Uragaan Alpha +",
-    "setBonus": "Uragaan Ambition - Allows you to guard against ordinarily unblockable attacks. (2 pieces)",
+    "setBonus": "Uragaan Ambition - undefined (2 pieces)",
     "resistances": "Defense: 720\n Fire: 20\n Water: -15\n Thunder: 5\n Ice: -10\n Dragon: -10",
     "skills": [
       "Blast Resistance",
@@ -4036,7 +4038,7 @@
   },
   "deathgaronbeta+": {
     "name": "Death Garon Beta +",
-    "setBonus": "Odogaron Essence - Weapon sharpness does not decrease for a set time after sharpening. (3 pieces)",
+    "setBonus": "Odogaron Essence - undefined (3 pieces)",
     "resistances": "Defense: 740\n Fire: -10\n Water: -15\n Thunder: -10\n Ice: -10\n Dragon: 20",
     "skills": [
       "Latent Power",
@@ -4048,9 +4050,9 @@
       "Tool Specialist"
     ]
   },
-  "deathgarongreavesalpha+": {
-    "name": "Death Garon Greaves Alpha +",
-    "setBonus": "Odogaron Essence - Weapon sharpness does not decrease for a set time after sharpening. (3 pieces)",
+  "deathgaronalpha+": {
+    "name": "Death Garon Alpha +",
+    "setBonus": "Odogaron Essence - undefined (3 pieces)",
     "resistances": "Defense: 740\n Fire: -10\n Water: -15\n Thunder: -10\n Ice: -10\n Dragon: 20",
     "skills": [
       "Latent Power",
@@ -4067,7 +4069,7 @@
   },
   "odogaronbeta+": {
     "name": "Odogaron Beta +",
-    "setBonus": "Odogaron Essence - Weapon sharpness does not decrease for a set time after sharpening. (3 pieces)",
+    "setBonus": "Odogaron Essence - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
     "skills": [
       "Bleeding Resistance",
@@ -4082,7 +4084,7 @@
   },
   "odogaronalpha+": {
     "name": "Odogaron Alpha +",
-    "setBonus": "Odogaron Essence - Weapon sharpness does not decrease for a set time after sharpening. (3 pieces)",
+    "setBonus": "Odogaron Essence - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: 10\n Water: 10\n Thunder: -10\n Ice: -15\n Dragon: 0",
     "skills": [
       "Bleeding Resistance",
@@ -4099,7 +4101,7 @@
   },
   "shriekinglegiabeta+": {
     "name": "Shrieking Legia Beta +",
-    "setBonus": "Legiana Ambition - Increases max bow charge level by one. (3 pieces)",
+    "setBonus": "Legiana Ambition - undefined (3 pieces)",
     "resistances": "Defense: 730\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 15\n Dragon: 0",
     "skills": [
       "Hunger Resistance",
@@ -4111,7 +4113,7 @@
   },
   "shriekinglegiaalpha+": {
     "name": "Shrieking Legia Alpha +",
-    "setBonus": "Legiana Ambition - Increases max bow charge level by one. (3 pieces)",
+    "setBonus": "Legiana Ambition - undefined (3 pieces)",
     "resistances": "Defense: 730\n Fire: -15\n Water: 10\n Thunder: -5\n Ice: 15\n Dragon: 0",
     "skills": [
       "Hunger Resistance",
@@ -4128,7 +4130,7 @@
   },
   "legianabeta+": {
     "name": "Legiana Beta +",
-    "setBonus": "Legiana Ambition - Increases max bow charge level by one. (3 pieces)",
+    "setBonus": "Legiana Ambition - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
     "skills": [
       "Divine Blessing",
@@ -4143,7 +4145,7 @@
   },
   "legianaalpha+": {
     "name": "Legiana Alpha +",
-    "setBonus": "Legiana Ambition - Increases max bow charge level by one. (3 pieces)",
+    "setBonus": "Legiana Ambition - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: -5\n Water: 10\n Thunder: -15\n Ice: 15\n Dragon: 0",
     "skills": [
       "Ice Attack",
@@ -4160,7 +4162,7 @@
   },
   "diablosnerobeta+": {
     "name": "Diablos Nero Beta +",
-    "setBonus": "Diablos Ambition - Raises the maximum level of the Slugger skill to 5. (3 pieces)",
+    "setBonus": "Diablos Ambition - undefined (3 pieces)",
     "resistances": "Defense: 740\n Fire: 10\n Water: -15\n Thunder: 0\n Ice: -20\n Dragon: 10",
     "skills": [
       "Partbreaker",
@@ -4174,7 +4176,7 @@
   },
   "diablosneroalpha+": {
     "name": "Diablos Nero Alpha +",
-    "setBonus": "Diablos Ambition - Raises the maximum level of the Slugger skill to 5. (3 pieces)",
+    "setBonus": "Diablos Ambition - undefined (3 pieces)",
     "resistances": "Defense: 740\n Fire: 10\n Water: -15\n Thunder: 0\n Ice: -20\n Dragon: 10",
     "skills": [
       "Partbreaker",
@@ -4191,7 +4193,7 @@
   },
   "diablosbeta+": {
     "name": "Diablos Beta +",
-    "setBonus": "Diablos Ambition - Raises the maximum level of the Slugger skill to 5. (3 pieces)",
+    "setBonus": "Diablos Ambition - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
     "skills": [
       "Critical Draw",
@@ -4206,7 +4208,7 @@
   },
   "diablosalpha+": {
     "name": "Diablos Alpha +",
-    "setBonus": "Diablos Ambition - Raises the maximum level of the Slugger skill to 5. (3 pieces)",
+    "setBonus": "Diablos Ambition - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: 15\n Water: -10\n Thunder: 0\n Ice: -15\n Dragon: 10",
     "skills": [
       "Critical Draw",
@@ -4223,7 +4225,7 @@
   },
   "rathsoulbeta+": {
     "name": "Rath Soul Beta +",
-    "setBonus": "Rathalos Essence - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (3 pieces)",
+    "setBonus": "Rathalos Essence - undefined (3 pieces)",
     "resistances": "Defense: 740\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: -15\n Dragon: -20",
     "skills": [
       "Critical Boost",
@@ -4237,7 +4239,7 @@
   },
   "rathsoulalpha+": {
     "name": "Rath Soul Alpha +",
-    "setBonus": "Rathalos Essence - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (3 pieces)",
+    "setBonus": "Rathalos Essence - undefined (3 pieces)",
     "resistances": "Defense: 740\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: -15\n Dragon: -20",
     "skills": [
       "Critical Boost",
@@ -4254,7 +4256,7 @@
   },
   "rathalosbeta+": {
     "name": "Rathalos Beta +",
-    "setBonus": "Rathalos Essence - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (3 pieces)",
+    "setBonus": "Rathalos Essence - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
     "skills": [
       "Attack Boost",
@@ -4267,7 +4269,7 @@
   },
   "rathalosalpha+": {
     "name": "Rathalos Alpha +",
-    "setBonus": "Rathalos Essence - Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power. (3 pieces)",
+    "setBonus": "Rathalos Essence - undefined (3 pieces)",
     "resistances": "Defense: 700\n Fire: 15\n Water: 5\n Thunder: -10\n Ice: 5\n Dragon: -15",
     "skills": [
       "Attack Boost",
@@ -4284,7 +4286,7 @@
   },
   "bariothbeta+": {
     "name": "Barioth Beta +",
-    "setBonus": "Barioth Hidden Art - Adds a stun effect to draw attacks and slightly increases attack power. (2 pieces)",
+    "setBonus": "Barioth Hidden Art - undefined (2 pieces)",
     "resistances": "Defense: 690\n Fire: -15\n Water: 10\n Thunder: -10\n Ice: 15\n Dragon: 0",
     "skills": [
       "Power Prolonger",
@@ -4299,7 +4301,7 @@
   },
   "bariothalpha+": {
     "name": "Barioth Alpha +",
-    "setBonus": "Barioth Hidden Art - Adds a stun effect to draw attacks and slightly increases attack power. (2 pieces)",
+    "setBonus": "Barioth Hidden Art - undefined (2 pieces)",
     "resistances": "Defense: 690\n Fire: -15\n Water: 10\n Thunder: -10\n Ice: 15\n Dragon: 0",
     "skills": [
       "Power Prolonger",
@@ -4316,7 +4318,7 @@
   },
   "lunastrabeta+": {
     "name": "Lunastra Beta +",
-    "setBonus": "Lunastra Essence - Raises the maximum level of the Tool Specialist skill. (3 pieces)",
+    "setBonus": "Lunastra Essence - undefined (3 pieces)",
     "resistances": "Defense: 820\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
     "skills": [
       "Tool Specialist",
@@ -4331,7 +4333,7 @@
   },
   "lunastraalpha+": {
     "name": "Lunastra Alpha +",
-    "setBonus": "Lunastra Essence - Raises the maximum level of the Tool Specialist skill. (3 pieces)",
+    "setBonus": "Lunastra Essence - undefined (3 pieces)",
     "resistances": "Defense: 820\n Fire: 15\n Water: 5\n Thunder: 5\n Ice: -15\n Dragon: -10",
     "skills": [
       "Tool Specialist",
@@ -4348,7 +4350,7 @@
   },
   "clairealpha+": {
     "name": "Claire Alpha +",
-    "setBonus": "Survivor - Prevents zombie and effluvial buildup. (2 pieces)",
+    "setBonus": "Survivor - undefined (2 pieces)",
     "resistances": "Defense: 750\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: 15\n Dragon: 0",
     "skills": [
       "Agitator",
@@ -4365,7 +4367,7 @@
   },
   "leonalpha+": {
     "name": "Leon Alpha +",
-    "setBonus": "Survivor - Prevents zombie and effluvial buildup. (2 pieces)",
+    "setBonus": "Survivor - undefined (2 pieces)",
     "resistances": "Defense: 750\n Fire: 15\n Water: 10\n Thunder: 10\n Ice: 15\n Dragon: 0",
     "skills": [
       "Weakness Exploit",
@@ -4382,7 +4384,7 @@
   },
   "stygianzinalpha+": {
     "name": "Stygian Zin Alpha +",
-    "setBonus": "Zinogre Essence - Raises the maximum level of the Latent Power skill. (3 pieces)",
+    "setBonus": "Zinogre Essence - undefined (3 pieces)",
     "resistances": "Defense: 800\n Fire: 10\n Water: -20\n Thunder: -25\n Ice: 0\n Dragon: 20",
     "skills": [
       "Tremor Resistance",
@@ -4399,7 +4401,7 @@
   },
   "stygianzinbeta+": {
     "name": "Stygian Zin Beta +",
-    "setBonus": "Zinogre Essence - Raises the maximum level of the Latent Power skill. (3 pieces)",
+    "setBonus": "Zinogre Essence - undefined (3 pieces)",
     "resistances": "Defense: 800\n Fire: 10\n Water: -20\n Thunder: -25\n Ice: 0\n Dragon: 20",
     "skills": [
       "Tremor Resistance",
@@ -4414,11 +4416,13 @@
   },
   "safi'jiivaalpha+": {
     "name": "Safi'jiiva Alpha +",
-    "setBonus": "Safi'jiiva Seal - Elem., abnormal status, & affinity up with weapon drawn. Take damage when attacking, but can be recovered by continually attacking. (3 pieces)",
+    "setBonus": "Safi'jiiva Seal - undefined (3 pieces)",
     "resistances": "Defense: 840\n Fire: 10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: -5",
     "skills": [
       "Critical Boost",
       "Evade Window",
+      "Blight Resistance",
+      "Critical Boost",
       "Blight Resistance",
       "Maximum Might",
       "Evade Window",
@@ -4429,7 +4433,7 @@
   },
   "safi'jiivabeta+": {
     "name": "Safi'jiiva Beta +",
-    "setBonus": "Safi'jiiva Seal - Elem., abnormal status, & affinity up with weapon drawn. Take damage when attacking, but can be recovered by continually attacking. (3 pieces)",
+    "setBonus": "Safi'jiiva Seal - undefined (3 pieces)",
     "resistances": "Defense: 840\n Fire: 10\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: -5",
     "skills": [
       "Critical Boost",
@@ -4443,7 +4447,7 @@
   },
   "oolongalpha+": {
     "name": "Oolong Alpha +",
-    "setBonus": "-",
+    "setBonus": "Joyful Blessing - undefined (3 pieces)",
     "resistances": "Defense: 600\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 20\n Dragon: 5",
     "skills": [
       "Critical Eye",
@@ -4487,6 +4491,341 @@
       "Critical Eye",
       "Defense Boost",
       "Marathon Runner"
+    ]
+  },
+  "queenbeetlealpha": {
+    "name": "Queen Beetle Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Stun Resistance",
+      "Defense Boost",
+      "Stun Resistance",
+      "Health Boost",
+      "Health Boost",
+      "Critical Eye",
+      "Defense Boost",
+      "Marathon Runner",
+      "Critical Eye",
+      "Marathon Runner"
+    ]
+  },
+  "queenbeetlebeta": {
+    "name": "Queen Beetle Beta",
+    "setBonus": "-",
+    "resistances": "Defense: 210\n Fire: -5\n Water: -5\n Thunder: 10\n Ice: 0\n Dragon: 10",
+    "skills": [
+      "Stun Resistance",
+      "Health Boost",
+      "Critical Eye",
+      "Defense Boost",
+      "Marathon Runner"
+    ]
+  },
+  "diver": {
+    "name": "Diver",
+    "setBonus": "-",
+    "resistances": "Defense: 110\n Fire: 5\n Water: 20\n Thunder: 5\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Marathon Runner",
+      "Critical Eye",
+      "Quick Sheath",
+      "Aquatic/Polar Mobility",
+      "Hunger Resistance"
+    ]
+  },
+  "diveralpha": {
+    "name": "Diver Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 230\n Fire: 5\n Water: 20\n Thunder: 5\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Marathon Runner",
+      "Critical Eye",
+      "Quick Sheath",
+      "Aquatic/Polar Mobility",
+      "Hunger Resistance"
+    ]
+  },
+  "harvest": {
+    "name": "Harvest",
+    "setBonus": "-",
+    "resistances": "Defense: 130\n Fire: 20\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Focus",
+      "Tremor Resistance",
+      "Resentment",
+      "Constitution",
+      "Mushroomancer"
+    ]
+  },
+  "harvestalpha": {
+    "name": "Harvest Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 260\n Fire: 20\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Focus",
+      "Tremor Resistance",
+      "Resentment",
+      "Constitution",
+      "Mushroomancer"
+    ]
+  },
+  "orion": {
+    "name": "Orion",
+    "setBonus": "-",
+    "resistances": "Defense: 150\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 20\n Dragon: 5",
+    "skills": [
+      "Recovery Up",
+      "Flinch Free",
+      "Windproof",
+      "Health Boost",
+      "Heroics"
+    ]
+  },
+  "orionalpha": {
+    "name": "Orion Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 290\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 20\n Dragon: 5",
+    "skills": [
+      "Recovery Up",
+      "Flinch Free",
+      "Windproof",
+      "Health Boost",
+      "Heroics"
+    ]
+  },
+  "aloyalpha": {
+    "name": "Aloy Alpha",
+    "setBonus": "Anjanath Will - undefined (2 pieces)",
+    "resistances": "Defense: 230\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Affinity Sliding",
+      "Marathon Runner",
+      "Weakness Exploit",
+      "Scenthound",
+      "Stealth",
+      "Slinger Capacity"
+    ]
+  },
+  "aloygamma": {
+    "name": "Aloy Gamma",
+    "setBonus": "Anjanath Will - undefined (2 pieces)",
+    "resistances": "Defense: 320\n Fire: 5\n Water: 5\n Thunder: 5\n Ice: 5\n Dragon: 5",
+    "skills": [
+      "Critical Boost",
+      "Marathon Runner",
+      "Affinity Sliding",
+      "Weakness Exploit",
+      "Slinger Capacity",
+      "Weakness Exploit",
+      "Stealth",
+      "Marathon Runner",
+      "Slinger Capacity"
+    ]
+  },
+  "ryu": {
+    "name": "Ryu",
+    "setBonus": "-",
+    "resistances": "Defense: 60\n Fire: 10\n Water: 0\n Thunder: 25\n Ice: -15\n Dragon: 10",
+    "skills": [
+      "Attack Boost",
+      "Health Boost",
+      "Latent Power",
+      "Latent Power",
+      "Defense Boost"
+    ]
+  },
+  "ryualpha": {
+    "name": "Ryu Alpha",
+    "setBonus": "Rathalos Mastery - undefined (2 pieces)",
+    "resistances": "Defense: 300\n Fire: 10\n Water: 0\n Thunder: 25\n Ice: -15\n Dragon: 10",
+    "skills": [
+      "Attack Boost",
+      "Constitution",
+      "Health Boost",
+      "Resuscitate",
+      "Agitator",
+      "Agitator",
+      "Defense Boost",
+      "Constitution"
+    ]
+  },
+  "sakuraalpha": {
+    "name": "Sakura Alpha",
+    "setBonus": "Pink Rathian Mastery - undefined (3 pieces)",
+    "resistances": "Defense: 250\n Fire: 0\n Water: 20\n Thunder: 0\n Ice: 20\n Dragon: -10",
+    "skills": [
+      "Attack Boost",
+      "Evade Window",
+      "Resuscitate",
+      "Stamina Surge",
+      "Latent Power"
+    ]
+  },
+  "geraltalpha": {
+    "name": "Geralt Alpha",
+    "setBonus": "Witcher's Knowledge - undefined (2 pieces)",
+    "resistances": "Defense: 350\n Fire: 10\n Water: 5\n Thunder: -10\n Ice: -5\n Dragon: 15",
+    "skills": [
+      "Recovery Speed",
+      "Weakness Exploit",
+      "Attack Boost",
+      "Health Boost",
+      "Recovery Speed",
+      "Marathon Runner",
+      "Weakness Exploit",
+      "Bombardier",
+      "Critical Eye",
+      "Marathon Runner"
+    ]
+  },
+  "cirialpha": {
+    "name": "Ciri Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 350\n Fire: -10\n Water: -5\n Thunder: 10\n Ice: 5\n Dragon: 15",
+    "skills": [
+      "Free Elem/Ammo Up",
+      "Evade Window",
+      "Evade Window",
+      "Divine Blessing",
+      "Free Elem/Ammo Up",
+      "Razor Sharp/Spare Shot",
+      "Free Elem/Ammo Up",
+      "Evade Window",
+      "Constitution",
+      "Evade Window"
+    ]
+  },
+  "acrobatearringsalpha+": {
+    "name": "Acrobat Earrings Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 158\n Fire: 1\n Water: 1\n Thunder: 1\n Ice: 1\n Dragon: 1",
+    "skills": [
+      "Safe Landing"
+    ]
+  },
+  "showmanearringsalpha+": {
+    "name": "Showman Earrings Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 162\n Fire: 1\n Water: 1\n Thunder: 1\n Ice: 1\n Dragon: 1",
+    "skills": [
+      "Provoker"
+    ]
+  },
+  "astralalpha+": {
+    "name": "Astral Alpha +",
+    "setBonus": "Appreciation Blessing - undefined (3 pieces)",
+    "resistances": "Defense: 700\n Fire: 10\n Water: 10\n Thunder: 10\n Ice: 10\n Dragon: 10",
+    "skills": [
+      "Wide-Range",
+      "Critical Boost",
+      "Divine Blessing",
+      "Flinch Free",
+      "Weakness Exploit"
+    ]
+  },
+  "banukalpha+": {
+    "name": "Banuk Alpha +",
+    "setBonus": "Anjanath Dominance - undefined (2 pieces)",
+    "resistances": "Defense: 800\n Fire: 10\n Water: 0\n Thunder: 10\n Ice: 10\n Dragon: 10",
+    "skills": [
+      "Focus",
+      "Aquatic/Polar Mobility",
+      "Marathon Runner",
+      "Stamina Surge",
+      "Focus",
+      "Stamina Surge",
+      "Marathon Runner",
+      "Aquatic/Polar Mobility",
+      "Resuscitate",
+      "Stamina Surge"
+    ]
+  },
+  "buffbodyalpha+": {
+    "name": "Buff Body Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 616\n Fire: 8\n Water: -4\n Thunder: 0\n Ice: -4\n Dragon: -12",
+    "skills": [
+      "Agitator",
+      "Fortify",
+      "Attack Boost",
+      "Resuscitate",
+      "Agitator",
+      "Heroics",
+      "Attack Boost",
+      "Heroics"
+    ]
+  },
+  "duffelpenguinmaskalpha+": {
+    "name": "Duffel Penguin Mask Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 138\n Fire: -1\n Water: 3\n Thunder: 0\n Ice: 4\n Dragon: 0",
+    "skills": [
+      "Evade Window"
+    ]
+  },
+  "sealeddragonclothalpha+": {
+    "name": "Sealed Dragon Cloth Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 152\n Fire: -3\n Water: 0\n Thunder: 0\n Ice: 1\n Dragon: 5",
+    "skills": [
+      "Resentment"
+    ]
+  },
+  "wyverianearsalpha+": {
+    "name": "Wyverian Ears Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 140\n Fire: 1\n Water: 1\n Thunder: 1\n Ice: 1\n Dragon: 5",
+    "skills": [
+      "Mushroomancer",
+      "Survival Expert"
+    ]
+  },
+  "shield-weaver+": {
+    "name": "Shield-Weaver +",
+    "setBonus": "Power Cell - undefined (5 pieces)",
+    "resistances": "Defense: 660\n Fire: -5\n Water: -5\n Thunder: 15\n Ice: -5\n Dragon: 10",
+    "skills": [
+      "Health Boost",
+      "Thunder Attack",
+      "Thunder Attack",
+      "Resentment",
+      "Resentment",
+      "Weakness Exploit"
+    ]
+  },
+  "defenderalpha": {
+    "name": "Defender Alpha",
+    "setBonus": "-",
+    "resistances": "Defense: 250\n Fire: 10\n Water: 0\n Thunder: 0\n Ice: 10\n Dragon: 15",
+    "skills": [
+      "Health Boost",
+      "Recovery Up",
+      "Recovery Up",
+      "Marathon Runner",
+      "Marathon Runner",
+      "Divine Blessing",
+      "Health Boost",
+      "Divine Blessing",
+      "Marathon Runner",
+      "Divine Blessing"
+    ]
+  },
+  "guardianalpha+": {
+    "name": "Guardian Alpha +",
+    "setBonus": "-",
+    "resistances": "Defense: 250\n Fire: 10\n Water: 0\n Thunder: 0\n Ice: 10\n Dragon: 15",
+    "skills": [
+      "Health Boost",
+      "Recovery Up",
+      "Recovery Up",
+      "Marathon Runner",
+      "Marathon Runner",
+      "Divine Blessing",
+      "Health Boost",
+      "Divine Blessing",
+      "Marathon Runner",
+      "Divine Blessing"
     ]
   }
 }

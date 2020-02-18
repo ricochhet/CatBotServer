@@ -1,10 +1,13 @@
 const fs = require('fs');
-const fetch = require("node-fetch");
+const fetch = require('node-fetch');
 
 const itemsURL = `https://mhw-db.com/items`;
 const armorsURL = `https://mhw-db.com/armor/sets`;
 const decorationsURL = `https://mhw-db.com/decorations`;
 const skillsURL = `https://mhw-db.com/skills`;
+const weaponsURL = `https://mhw-db.com/weapons`;
+
+const csvManager = require('./src/csvToJson');
 
 async function getData(url) {
   const response = await fetch(url);
@@ -12,7 +15,147 @@ async function getData(url) {
 }
 
 module.exports = {
-  writeItems: async function (writeTo) {
+  writeData: async function(
+    data = { delim: `,`, input: 'file.csv', output: 'file.json' }
+  ) {
+    csvManager.fieldDelimiter(data.delim).getJsonFromCsv(data.input);
+    csvManager.formatValueByType().getJsonFromCsv(data.input);
+    csvManager.generateJsonFileFromCsv(data.input, data.output);
+  },
+  writeWeapons: async function(writeTo) {
+    const weaponsAPIDatabase = await getData(weaponsURL);
+    const db = {};
+
+    for (let key of weaponsAPIDatabase) {
+      let affinity = '-';
+      if (key.attributes.affinity) {
+        if (key.attributes.affinity == 0) affinity = '-';
+        affinity = key.attributes.affinity;
+      }
+
+      let defense = '-';
+      if (key.attributes.defense) {
+        if (key.attributes.defense == 0) defense = '-';
+        defense = key.attributes.defense;
+      }
+
+      let sharpness = '-';
+      if (key.durability) {
+        if (key.durability[5]) {
+          const s = [
+            key.durability[5].red,
+            key.durability[5].orange,
+            key.durability[5].yellow,
+            key.durability[5].green,
+            key.durability[5].blue,
+            key.durability[5].white,
+            key.durability[5].purple
+          ];
+
+          sharpness = `Red: ${s[0]}\nOrange: ${s[1]}\nYellow: ${s[2]}\nGreen: ${s[3]}\nBlue: ${s[4]}\nWhite: ${s[5]}\nPurple: ${s[6]}`;
+        }
+      }
+
+      let elderseal = '-';
+      if (key.elderseal) {
+        if (key.elderseal == null) elderseal = '-';
+        elderseal = key.elderseal;
+      }
+
+      let shelling = '-';
+      if (key.shelling) {
+        shelling = `${key.shelling.type} LV${key.shelling.level}`;
+      }
+
+      let specialAmmo = '-';
+      if (key.specialAmmo) {
+        specialAmmo = key.specialAmmo;
+      }
+
+      let deviation = '-';
+      if (key.deviation) {
+        deviation = key.deviation;
+      }
+
+      let ammos = [];
+      if (key.ammo) {
+        for (const i in key.ammo) {
+          let levelOne = 0;
+          if (key.ammo[i].capacities[0]) {
+            levelOne = key.ammo[i].capacities[0];
+          }
+
+          let levelTwo = 0;
+          if (key.ammo[i].capacities[1]) {
+            levelTwo = key.ammo[i].capacities[1];
+          }
+
+          let levelThree = 0;
+          if (key.ammo[i].capacities[2]) {
+            levelThree = key.ammo[i].capacities[2];
+          }
+
+          ammos.push(
+            `${key.ammo[i].type}\nLV1 - ${levelOne}\nLV2 - ${levelTwo}\nLV3 - ${levelThree}`
+          );
+        }
+      }
+
+      let elements = [];
+      if (key.elements) {
+        for (const i in key.elements) {
+          elements.push(
+            `${key.elements[i].type} - ${key.elements[i].damage} Damage`
+          );
+        }
+      }
+
+      let slots = [];
+      if (key.slots) {
+        for (const i in key.slots) {
+          slots.push(`Rank - ${key.slots[i].rank}`);
+        }
+      }
+
+      let coatings = [];
+      if (key.coatings) {
+        coatings = `${key.coatings.join('\n ')}`;
+      }
+
+      let damageType = '-';
+      if (key.damageType) {
+        if (key.damageType == null) damage = '-';
+        damageType = key.damageType;
+      }
+
+      db[key.name.toLowerCase().replace(/ /g, '')] = {
+        name: key.name,
+        type: key.type,
+        rarity: key.rarity,
+        displayAttack: key.display,
+        rawAttack: key.raw,
+        damageType: damageType,
+        affinity: affinity,
+        defense: defense,
+        sharpness: sharpness,
+        elderseal: elderseal,
+        shelling: shelling,
+        specialAmmo: specialAmmo,
+        deviation: deviation,
+        ammos: ammos,
+        elements: elements,
+        slots: slots,
+        coatings: coatings
+      };
+    }
+
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
+      if (err) {
+        console.log(err);
+      }
+    });
+  },
+  writeItems: async function(writeTo) {
     const itemsAPIDatabase = await getData(itemsURL);
     const db = {};
 
@@ -23,7 +166,7 @@ module.exports = {
         rarity: key.rarity,
         carryLimit: key.carryLimit,
         value: key.value
-      }
+      };
     }
 
     const items = new Map();
@@ -31,13 +174,13 @@ module.exports = {
       items.set(i, db[i]);
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
       if (err) {
         console.log(err);
       }
     });
   },
-  writeDecorations: async function (writeTo) {
+  writeDecorations: async function(writeTo) {
     const decorationsAPIDatabase = await getData(decorationsURL);
     const db = {};
 
@@ -52,17 +195,17 @@ module.exports = {
           rarity: key.rarity,
           slot: key.slot,
           skills: skills
-        }
+        };
       }
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
       if (err) {
         console.log(err);
       }
     });
   },
-  writeSkills: async function (writeTo) {
+  writeSkills: async function(writeTo) {
     const skillAPIDatabase = await getData(skillsURL);
     const db = {};
 
@@ -76,17 +219,17 @@ module.exports = {
           name: key.name,
           description: key.description,
           ranks: ranks
-        }
+        };
       }
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
       if (err) {
         console.log(err);
       }
     });
   },
-  writeArmors: async function (writeTo) {
+  writeArmors: async function(writeTo) {
     const armorsAPIDatabase = await getData(armorsURL);
     const db = {};
 
@@ -108,10 +251,14 @@ module.exports = {
         name: key.name,
         rank: key.rank,
         setBonus: setBonus
-      }
+      };
 
       if (key.pieces[0] && key.pieces[0].skills[0]) {
-        if (!key.pieces[0].skills[0].skillName === undefined || !key.pieces[0].skills[0].skillName === null || !key.pieces[0].skills[0].skillName == '') {
+        if (
+          !key.pieces[0].skills[0].skillName === undefined ||
+          !key.pieces[0].skills[0].skillName === null ||
+          !key.pieces[0].skills[0].skillName == ''
+        ) {
           for (let i of key.pieces[0].skills) {
             headSkills.push(i.skillName);
           }
@@ -119,7 +266,11 @@ module.exports = {
       }
 
       if (key.pieces[1] && key.pieces[1].skills[0]) {
-        if (!key.pieces[1].skills[0].skillName === undefined || !key.pieces[1].skills[0].skillName === null || !key.pieces[1].skills[0].skillName == '') {
+        if (
+          !key.pieces[1].skills[0].skillName === undefined ||
+          !key.pieces[1].skills[0].skillName === null ||
+          !key.pieces[1].skills[0].skillName == ''
+        ) {
           for (let i of key.pieces[1].skills) {
             chestSkills.push(i.skillName);
           }
@@ -127,7 +278,11 @@ module.exports = {
       }
 
       if (key.pieces[2] && key.pieces[2].skills[0]) {
-        if (!key.pieces[2].skills[0].skillName === undefined || !key.pieces[2].skills[0].skillName === null || !key.pieces[2].skills[0].skillName == '') {
+        if (
+          !key.pieces[2].skills[0].skillName === undefined ||
+          !key.pieces[2].skills[0].skillName === null ||
+          !key.pieces[2].skills[0].skillName == ''
+        ) {
           for (let i of key.pieces[2].skills) {
             armSkills.push(i.skillName);
           }
@@ -135,7 +290,11 @@ module.exports = {
       }
 
       if (key.pieces[3] && key.pieces[3].skills[0]) {
-        if (!key.pieces[3].skills[0].skillName === undefined || !key.pieces[3].skills[0].skillName === null || !key.pieces[3].skills[0].skillName == '') {
+        if (
+          !key.pieces[3].skills[0].skillName === undefined ||
+          !key.pieces[3].skills[0].skillName === null ||
+          !key.pieces[3].skills[0].skillName == ''
+        ) {
           for (let i of key.pieces[3].skills) {
             waistSkills.push(i.skillName);
           }
@@ -143,7 +302,11 @@ module.exports = {
       }
 
       if (key.pieces[4] && key.pieces[3].skills[0]) {
-        if (!key.pieces[4].skills[0].skillName === undefined || !key.pieces[4].skills[0].skillName === null || !key.pieces[4].skills[0].skillName == '') {
+        if (
+          !key.pieces[4].skills[0].skillName === undefined ||
+          !key.pieces[4].skills[0].skillName === null ||
+          !key.pieces[4].skills[0].skillName == ''
+        ) {
           for (let i of key.pieces[4].skills) {
             legSkills.push(i.skillName);
           }
@@ -164,7 +327,7 @@ module.exports = {
           head_dragon_resistances: key.pieces[0].resistances.dragon,
           head_slots: key.pieces[0].slots.length,
           head_skills: headSkills
-        }
+        };
       }
 
       if (key.pieces[1]) {
@@ -181,7 +344,7 @@ module.exports = {
           chest_dragon_resistances: key.pieces[1].resistances.dragon,
           chest_slots: key.pieces[1].slots.length,
           chest_skills: chestSkills
-        }
+        };
       }
 
       if (key.pieces[2]) {
@@ -198,7 +361,7 @@ module.exports = {
           arm_dragon_resistances: key.pieces[2].resistances.dragon,
           arm_slots: key.pieces[2].slots.length,
           arm_skills: armSkills
-        }
+        };
       }
 
       if (key.pieces[3]) {
@@ -215,7 +378,7 @@ module.exports = {
           waist_dragon_resistances: key.pieces[3].resistances.dragon,
           waist_slots: key.pieces[3].slots.length,
           waist_skills: waistSkills
-        }
+        };
       }
 
       if (key.pieces[4]) {
@@ -232,7 +395,7 @@ module.exports = {
           leg_dragon_resistances: key.pieces[4].resistances.dragon,
           leg_slots: key.pieces[4].slots.length,
           leg_skills: legSkills
-        }
+        };
       }
     }
 
@@ -269,7 +432,7 @@ module.exports = {
         dragonResistance += armor.head.head_dragon_resistances;
 
         if (armor.head.head_skills != undefined) {
-          head = (armor.head.head_skills);
+          head = armor.head.head_skills;
         }
       }
 
@@ -283,7 +446,7 @@ module.exports = {
         dragonResistance += armor.chest.chest_dragon_resistances;
 
         if (armor.chest.chest_skills != undefined) {
-          chest = (armor.chest.chest_skills);
+          chest = armor.chest.chest_skills;
         }
       }
 
@@ -297,7 +460,7 @@ module.exports = {
         dragonResistance += armor.arm.arm_dragon_resistances;
 
         if (armor.arm.arm_skills != undefined) {
-          arm = (armor.arm.arm_skills);
+          arm = armor.arm.arm_skills;
         }
       }
 
@@ -311,7 +474,7 @@ module.exports = {
         dragonResistance += armor.waist.waist_dragon_resistances;
 
         if (armor.waist.waist_skills != undefined) {
-          waist = (armor.waist.waist_skills);
+          waist = armor.waist.waist_skills;
         }
       }
 
@@ -325,7 +488,7 @@ module.exports = {
         dragonResistance += armor.leg.leg_dragon_resistances;
 
         if (armor.leg.leg_skills != undefined) {
-          leg = (armor.leg.leg_skills);
+          leg = armor.leg.leg_skills;
         }
       }
 
@@ -337,13 +500,13 @@ module.exports = {
         setBonus: armor.setBonus,
         resistances: resistances,
         skills: armorSkills
-      }
+      };
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), (err) => {
+    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
       if (err) {
         console.log(err);
       }
     });
-  },
-}
+  }
+};

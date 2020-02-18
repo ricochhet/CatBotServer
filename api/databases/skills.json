@@ -1384,5 +1384,40 @@
     "ranks": [
       "LV1 - Enhances attacks even more with weapon drawn. Take damage when attacking, but can be recovered by continually attacking."
     ]
+  },
+  "ancientarmory": {
+    "name": "Ancient Armory",
+    "description": "Increases defense and eliminates damage reactions. Taking several hits knoocks it out, but reactivates over time.",
+    "ranks": [
+      "LV1 - Increases defense and eliminates damage reactions. Taking several hits knoocks it out, but reactivates over time."
+    ]
+  },
+  "gratitudes'sblessing": {
+    "name": "Gratitudes's Blessing",
+    "description": "Greatly increases odds of getting special Grand Appreciation rewards. (No effect when joining mid-quest.)",
+    "ranks": [
+      "LV1 - Greatly increases odds of getting special Grand Appreciation rewards. (No effect when joining mid-quest.)"
+    ]
+  },
+  "gratitude'sgift": {
+    "name": "Gratitude's Gift",
+    "description": "Increases odds of getting special Grand Appreciation rewards. (No effect when joining mid-quest.)",
+    "ranks": [
+      "LV1 - Increases odds of getting special Grand Appreciation rewards. (No effect when joining mid-quest.)"
+    ]
+  },
+  "joy'sgratitude": {
+    "name": "Joy's Gratitude",
+    "description": "Greatly increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)",
+    "ranks": [
+      "LV1 - Greatly increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)"
+    ]
+  },
+  "joy'sgift": {
+    "name": "Joy's Gift",
+    "description": "Increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)",
+    "ranks": [
+      "LV1 - Increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)"
+    ]
   }
 }

@@ -25,7 +25,20 @@ if (data[1]) {
 *********************************
 */
 
-mhw.writeItems("./databases/formatted/items.json");
-mhw.writeArmors("./databases/formatted/armors.json");
-mhw.writeDecorations("./databases/formatted/decorations.json");
-mhw.writeSkills("./databases/formatted/skills.json");
+/*mhw.writeData({
+    delim: ',',
+    input: './api/spreadsheets/ItemTableFixed - Item.csv',
+    output: './api/databases/itemids.json'
+});
+
+mhw.writeData({
+    delim: ',',
+    input: './api/spreadsheets/Quest IDs - Sheet1.csv',
+    output: './api/databases/questids.json'
+});
+
+mhw.writeItems("./api/databases/items.json");
+mhw.writeArmors("./api/databases/armors.json");
+mhw.writeDecorations("./api/databases/decorations.json");
+mhw.writeSkills("./api/databases/skills.json");*/
+mhw.writeWeapons("./api/databases/weapons.json");
