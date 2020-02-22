@@ -14,14 +14,14 @@ module.exports = {
       mhw.writeData({
         delim: ',',
         input: './api/sheets/Quest IDs - Sheet1.csv',
-        output: './api/build/bot/databases/questids.json'
+        output: './api/build/bot/questids.json'
       });
 
-      mhw.writeItems('./api/build/bot/databases/items.json');
-      mhw.writeArmors('./api/build/bot/databases/armors.json');
-      mhw.writeDecorations('./api/build/bot/databases/decorations.json');
-      mhw.writeSkills('./api/build/bot/databases/skills.json');
-      mhw.writeWeapons('./api/build/bot/databases/weapons.json');
+      mhw.writeItems('./api/build/bot/items.json');
+      mhw.writeArmors('./api/build/bot/armors.json');
+      mhw.writeDecorations('./api/build/bot/decorations.json');
+      mhw.writeSkills('./api/build/bot/skills.json');
+      mhw.writeWeapons('./api/build/bot/weapons.json');
     } else {
       if (active) console.log(`Rebuilding advanced databases...`);
       const mhw = require('../mhw');

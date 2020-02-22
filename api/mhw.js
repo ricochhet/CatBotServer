@@ -355,7 +355,7 @@ module.exports = {
           h2: handicraft2,
           h3: handicraft3,
           h4: handicraft4,
-          h5: handicraft5,
+          h5: handicraft5
         },
         elderseal: elderseal,
         shelling: shelling,
@@ -421,12 +421,21 @@ module.exports = {
         }
 
         let nameString = key.name.toLowerCase().replace(/ /g, '');
-        db[nameString.split('/').join('+')] = {
-          name: key.name,
-          rarity: key.rarity,
-          slot: key.slot,
-          skills: skills
-        };
+        if (!advanced) {
+          db[nameString] = {
+            name: key.name,
+            rarity: key.rarity,
+            slot: key.slot,
+            skills: skills
+          };
+        } else {
+          db[nameString.split('/').join('+')] = {
+            name: key.name,
+            rarity: key.rarity,
+            slot: key.slot,
+            skills: skills
+          };
+        }
       }
     }
 
@@ -568,28 +577,37 @@ module.exports = {
         slots = '-';
       }
 
-      let resistances = `Defense (Base): ${totalDefense}\nDefense (Max): ${maxDefense}\nDefense (Augmented): ${augDefense}\nFire: ${fireResistance}\nWater: ${waterResistance}\nThunder: ${thunderResistance}\nIce: ${iceResistance}\nDragon: ${dragonResistance}`;
+      let defenses = `Base: ${totalDefense}\nMax: ${maxDefense}\nAugmented: ${augDefense}`;
+      let resistances = `🔥 ${fireResistance}\n💧 ${waterResistance}\n⚡ ${thunderResistance}\n❄ ${iceResistance}\n🐉 ${dragonResistance}`;
       if (advanced) {
-        resistances = {
-          baseDefense: totalDefense,
-          maxDefense: maxDefense,
-          augDefense: augDefense,
-          fireResistance: fireResistance,
-          waterResistance: waterResistance,
-          thunderResistance: thunderResistance,
-          iceResistance: iceResistance,
-          dragonResistance,
-          dragonResistance
+        db[key.name.toLowerCase().replace(/ /g, '')] = {
+          name: key.name,
+          setBonus: setBonus,
+          defenses: {
+            base: totalDefense,
+            max: maxDefense,
+            augmented: augDefense
+          },
+          resistances: {
+            fire: fireResistance,
+            water: waterResistance,
+            thunder: thunderResistance,
+            ice: iceResistance,
+            dragon: dragonResistance,
+          },
+          skills: armorSkills,
+          slots: slots
+        };
+      } else {
+        db[key.name.toLowerCase().replace(/ /g, '')] = {
+          name: key.name,
+          setBonus: setBonus,
+          defenses: defenses,
+          resistances: resistances,
+          skills: armorSkills,
+          slots: slots
         };
       }
-
-      db[key.name.toLowerCase().replace(/ /g, '')] = {
-        name: key.name,
-        setBonus: setBonus,
-        resistances: resistances,
-        skills: armorSkills,
-        slots: slots
-      };
     }
 
     fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {

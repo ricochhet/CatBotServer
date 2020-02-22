@@ -174,6 +174,7 @@ module.exports = {
         req.render(renders.getArmor, {
           ARMOR_NAME: armor.name,
           ARMOR_SETBONUS: armor.setBonus,
+          ARMOR_DEFENSES: armor.defenses,
           ARMOR_RESISTANCES: armor.resistances,
           ARMOR_SKILLS: armor.skills,
           ARMOR_SLOTS: armor.slots

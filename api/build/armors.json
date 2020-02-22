@@ -2,15 +2,17 @@
   "leather": {
     "name": "Leather",
     "setBonus": "-",
+    "defenses": {
+      "base": 10,
+      "max": 190,
+      "augmented": 340
+    },
     "resistances": {
-      "baseDefense": 10,
-      "maxDefense": 190,
-      "augDefense": 340,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -23,15 +25,17 @@
   "chainmail": {
     "name": "Chainmail",
     "setBonus": "-",
+    "defenses": {
+      "base": 10,
+      "max": 190,
+      "augmented": 340
+    },
     "resistances": {
-      "baseDefense": 10,
-      "maxDefense": 190,
-      "augDefense": 340,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -44,15 +48,17 @@
   "hunter's": {
     "name": "Hunter's",
     "setBonus": "-",
+    "defenses": {
+      "base": 30,
+      "max": 210,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 30,
-      "maxDefense": 210,
-      "augDefense": 360,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -81,15 +87,17 @@
   "bone": {
     "name": "Bone",
     "setBonus": "-",
+    "defenses": {
+      "base": 30,
+      "max": 210,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 30,
-      "maxDefense": 210,
-      "augDefense": 360,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -118,15 +126,17 @@
   "vespoid": {
     "name": "Vespoid",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 220,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 220,
-      "augDefense": 370,
-      "fireResistance": -10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 10
+      "fire": -10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 10
     },
     "skills": [
       {
@@ -155,15 +165,17 @@
   "kestodon": {
     "name": "Kestodon",
     "setBonus": "-",
+    "defenses": {
+      "base": 12,
+      "max": 48,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 12,
-      "maxDefense": 48,
-      "augDefense": 78,
-      "fireResistance": 4,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 4,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -176,15 +188,17 @@
   "gajau": {
     "name": "Gajau",
     "setBonus": "-",
+    "defenses": {
+      "base": 12,
+      "max": 48,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 12,
-      "maxDefense": 48,
-      "augDefense": 78,
-      "fireResistance": 0,
-      "waterResistance": 5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -197,15 +211,17 @@
   "jagras": {
     "name": "Jagras",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 220,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 220,
-      "augDefense": 370,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 5
+      "fire": -10,
+      "water": 10,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -234,15 +250,17 @@
   "kulu": {
     "name": "Kulu",
     "setBonus": "-",
+    "defenses": {
+      "base": 50,
+      "max": 230,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 50,
-      "maxDefense": 230,
-      "augDefense": 380,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -271,15 +289,17 @@
   "alloy": {
     "name": "Alloy",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 200,
+      "augmented": 330
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 200,
-      "augDefense": 330,
-      "fireResistance": -10,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 5
+      "fire": -10,
+      "water": 5,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 5
     },
     "skills": [
       {
@@ -308,15 +328,17 @@
   "pukei": {
     "name": "Pukei",
     "setBonus": "-",
+    "defenses": {
+      "base": 60,
+      "max": 220,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 60,
-      "maxDefense": 220,
-      "augDefense": 350,
-      "fireResistance": 0,
-      "waterResistance": 15,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": 15,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -345,15 +367,17 @@
   "barroth": {
     "name": "Barroth",
     "setBonus": "-",
+    "defenses": {
+      "base": 70,
+      "max": 230,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 70,
-      "maxDefense": 230,
-      "augDefense": 360,
-      "fireResistance": -15,
-      "waterResistance": -5,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": -5,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -382,15 +406,17 @@
   "jyura": {
     "name": "Jyura",
     "setBonus": "-",
+    "defenses": {
+      "base": 70,
+      "max": 230,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 70,
-      "maxDefense": 230,
-      "augDefense": 360,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -419,15 +445,17 @@
   "kadachi": {
     "name": "Kadachi",
     "setBonus": "-",
+    "defenses": {
+      "base": 80,
+      "max": 240,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 80,
-      "maxDefense": 240,
-      "augDefense": 370,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -456,15 +484,17 @@
   "highmetal": {
     "name": "High Metal",
     "setBonus": "-",
+    "defenses": {
+      "base": 90,
+      "max": 230,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 90,
-      "maxDefense": 230,
-      "augDefense": 350,
-      "fireResistance": 0,
-      "waterResistance": -5,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -5,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -493,15 +523,17 @@
   "kingbeetle": {
     "name": "King Beetle",
     "setBonus": "-",
+    "defenses": {
+      "base": 110,
+      "max": 250,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 110,
-      "maxDefense": 250,
-      "augDefense": 370,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -530,15 +562,17 @@
   "butterfly": {
     "name": "Butterfly",
     "setBonus": "-",
+    "defenses": {
+      "base": 110,
+      "max": 250,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 110,
-      "maxDefense": 250,
-      "augDefense": 370,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -567,15 +601,17 @@
   "shamos": {
     "name": "Shamos",
     "setBonus": "-",
+    "defenses": {
+      "base": 22,
+      "max": 50,
+      "augmented": 74
+    },
     "resistances": {
-      "baseDefense": 22,
-      "maxDefense": 50,
-      "augDefense": 74,
-      "fireResistance": 2,
-      "waterResistance": 2,
-      "thunderResistance": 0,
-      "iceResistance": -3,
-      "dragonResistance": 0
+      "fire": 2,
+      "water": 2,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": 0
     },
     "skills": [
       {
@@ -588,15 +624,17 @@
   "hornetaur": {
     "name": "Hornetaur",
     "setBonus": "-",
+    "defenses": {
+      "base": 90,
+      "max": 230,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 90,
-      "maxDefense": 230,
-      "augDefense": 350,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -631,15 +669,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 100,
+      "max": 240,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 100,
-      "maxDefense": 240,
-      "augDefense": 360,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": -15,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -668,15 +708,17 @@
   "rathian": {
     "name": "Rathian",
     "setBonus": "-",
+    "defenses": {
+      "base": 110,
+      "max": 250,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 110,
-      "maxDefense": 250,
-      "augDefense": 370,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": 0,
-      "dragonResistance": -15
+      "fire": 10,
+      "water": 0,
+      "thunder": -10,
+      "ice": 0,
+      "dragon": -15
     },
     "skills": [
       {
@@ -705,15 +747,17 @@
   "tzitzi": {
     "name": "Tzitzi",
     "setBonus": "-",
+    "defenses": {
+      "base": 90,
+      "max": 230,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 90,
-      "maxDefense": 230,
-      "augDefense": 350,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": -15,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -742,15 +786,17 @@
   "lumu": {
     "name": "Lumu",
     "setBonus": "-",
+    "defenses": {
+      "base": 100,
+      "max": 240,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 100,
-      "maxDefense": 240,
-      "augDefense": 360,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -779,15 +825,17 @@
   "girros": {
     "name": "Girros",
     "setBonus": "-",
+    "defenses": {
+      "base": 100,
+      "max": 240,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 100,
-      "maxDefense": 240,
-      "augDefense": 360,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": -15,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -816,15 +864,17 @@
   "baan": {
     "name": "Baan",
     "setBonus": "-",
+    "defenses": {
+      "base": 120,
+      "max": 260,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 120,
-      "maxDefense": 260,
-      "augDefense": 380,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": -5,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": 0,
+      "ice": -5,
+      "dragon": -10
     },
     "skills": [
       {
@@ -853,15 +903,17 @@
   "ingot": {
     "name": "Ingot",
     "setBonus": "-",
+    "defenses": {
+      "base": 140,
+      "max": 260,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 140,
-      "maxDefense": 260,
-      "augDefense": 360,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -890,15 +942,17 @@
   "deathstench": {
     "name": "Death Stench",
     "setBonus": "-",
+    "defenses": {
+      "base": 160,
+      "max": 280,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 160,
-      "maxDefense": 280,
-      "augDefense": 380,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 10,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": -20
     },
     "skills": [
       {
@@ -927,15 +981,17 @@
   "brigade": {
     "name": "Brigade",
     "setBonus": "-",
+    "defenses": {
+      "base": 140,
+      "max": 260,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 140,
-      "maxDefense": 260,
-      "augDefense": 360,
-      "fireResistance": 5,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 5,
+      "water": 0,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -970,15 +1026,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 150,
+      "max": 270,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 150,
-      "maxDefense": 270,
-      "augDefense": 370,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1013,15 +1071,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 150,
+      "max": 270,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 150,
-      "maxDefense": 270,
-      "augDefense": 370,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 10,
+      "thunder": -10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1056,15 +1116,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 150,
+      "max": 270,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 150,
-      "maxDefense": 270,
-      "augDefense": 370,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 15,
+      "water": 5,
+      "thunder": -10,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -1099,15 +1161,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 160,
+      "max": 280,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 160,
-      "maxDefense": 280,
-      "augDefense": 380,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": -15,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -10,
+      "thunder": 0,
+      "ice": -15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1142,15 +1206,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 170,
+      "max": 290,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 170,
-      "maxDefense": 290,
-      "augDefense": 390,
-      "fireResistance": -15,
-      "waterResistance": -10,
-      "thunderResistance": 20,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": -15,
+      "water": -10,
+      "thunder": 20,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1179,15 +1245,17 @@
   "leatheralpha": {
     "name": "Leather Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 160,
+      "max": 270,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 160,
-      "maxDefense": 270,
-      "augDefense": 350,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1216,15 +1284,17 @@
   "leatherbeta": {
     "name": "Leather Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 160,
+      "max": 270,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 160,
-      "maxDefense": 270,
-      "augDefense": 350,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1258,15 +1328,17 @@
   "chainmailalpha": {
     "name": "Chainmail Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 160,
+      "max": 270,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 160,
-      "maxDefense": 270,
-      "augDefense": 350,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1299,15 +1371,17 @@
   "chainmailbeta": {
     "name": "Chainmail Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 160,
+      "max": 270,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 160,
-      "maxDefense": 270,
-      "augDefense": 350,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1341,15 +1415,17 @@
   "hunter'salpha": {
     "name": "Hunter's Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 180,
+      "max": 290,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 180,
-      "maxDefense": 290,
-      "augDefense": 370,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1390,15 +1466,17 @@
   "hunter'sbeta": {
     "name": "Hunter's Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 180,
+      "max": 290,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 180,
-      "maxDefense": 290,
-      "augDefense": 370,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1448,15 +1526,17 @@
   "bonealpha": {
     "name": "Bone Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 180,
+      "max": 290,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 180,
-      "maxDefense": 290,
-      "augDefense": 370,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1497,15 +1577,17 @@
   "bonebeta": {
     "name": "Bone Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 180,
+      "max": 290,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 180,
-      "maxDefense": 290,
-      "augDefense": 370,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1555,15 +1637,17 @@
   "alloyalpha": {
     "name": "Alloy Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 180,
+      "max": 290,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 180,
-      "maxDefense": 290,
-      "augDefense": 370,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1604,15 +1688,17 @@
   "alloybeta": {
     "name": "Alloy Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 180,
+      "max": 290,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 180,
-      "maxDefense": 290,
-      "augDefense": 370,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -1662,15 +1748,17 @@
   "kingbeetlealpha": {
     "name": "King Beetle Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1732,15 +1820,17 @@
   "kingbeetlebeta": {
     "name": "King Beetle Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1802,15 +1892,17 @@
   "butterflyalpha": {
     "name": "Butterfly Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1872,15 +1964,17 @@
   "butterflybeta": {
     "name": "Butterfly Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1942,15 +2036,17 @@
   "vespoidalpha": {
     "name": "Vespoid Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 190,
+      "max": 300,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 190,
-      "maxDefense": 300,
-      "augDefense": 380,
-      "fireResistance": -10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 10
+      "fire": -10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 10
     },
     "skills": [
       {
@@ -1987,15 +2083,17 @@
   "vespoidbeta": {
     "name": "Vespoid Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 190,
+      "max": 300,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 190,
-      "maxDefense": 300,
-      "augDefense": 380,
-      "fireResistance": -10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 10
+      "fire": -10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 10
     },
     "skills": [
       {
@@ -2045,15 +2143,17 @@
   "hornetauralpha": {
     "name": "Hornetaur Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 190,
+      "max": 300,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 190,
-      "maxDefense": 300,
-      "augDefense": 380,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -2102,15 +2202,17 @@
   "hornetaurbeta": {
     "name": "Hornetaur Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 190,
+      "max": 300,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 190,
-      "maxDefense": 300,
-      "augDefense": 380,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -2160,15 +2262,17 @@
   "mosswinealpha": {
     "name": "Mosswine Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 62,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 62,
-      "augDefense": 78,
-      "fireResistance": 2,
-      "waterResistance": 2,
-      "thunderResistance": 2,
-      "iceResistance": 2,
-      "dragonResistance": 2
+      "fire": 2,
+      "water": 2,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": 2
     },
     "skills": [
       {
@@ -2181,15 +2285,17 @@
   "kestodonalpha": {
     "name": "Kestodon Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 62,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 62,
-      "augDefense": 78,
-      "fireResistance": 4,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 4,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2206,15 +2312,17 @@
   "kestodonbeta": {
     "name": "Kestodon Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 62,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 62,
-      "augDefense": 78,
-      "fireResistance": 4,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 4,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2232,15 +2340,17 @@
   "gajaualpha": {
     "name": "Gajau Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 62,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 62,
-      "augDefense": 78,
-      "fireResistance": 0,
-      "waterResistance": 5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2257,15 +2367,17 @@
   "gajaubeta": {
     "name": "Gajau Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 62,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 62,
-      "augDefense": 78,
-      "fireResistance": 0,
-      "waterResistance": 5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2287,15 +2399,17 @@
   "shamosalpha": {
     "name": "Shamos Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 62,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 62,
-      "augDefense": 78,
-      "fireResistance": 2,
-      "waterResistance": 2,
-      "thunderResistance": 0,
-      "iceResistance": -3,
-      "dragonResistance": 0
+      "fire": 2,
+      "water": 2,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2312,15 +2426,17 @@
   "shamosbeta": {
     "name": "Shamos Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 40,
+      "max": 62,
+      "augmented": 78
+    },
     "resistances": {
-      "baseDefense": 40,
-      "maxDefense": 62,
-      "augDefense": 78,
-      "fireResistance": 2,
-      "waterResistance": 2,
-      "thunderResistance": 0,
-      "iceResistance": -3,
-      "dragonResistance": 0
+      "fire": 2,
+      "water": 2,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2338,15 +2454,17 @@
   "jagrasalpha": {
     "name": "Jagras Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 5
+      "fire": -10,
+      "water": 10,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -2387,15 +2505,17 @@
   "jagrasbeta": {
     "name": "Jagras Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 5
+      "fire": -10,
+      "water": 10,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -2445,15 +2565,17 @@
   "kulualpha": {
     "name": "Kulu Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2498,15 +2620,17 @@
   "kulubeta": {
     "name": "Kulu Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2560,15 +2684,17 @@
   "tzitzialpha": {
     "name": "Tzitzi Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": -15,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2613,15 +2739,17 @@
   "tzitzibeta": {
     "name": "Tzitzi Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": -15,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2675,15 +2803,17 @@
   "girrosalpha": {
     "name": "Girros Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": -15,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -2720,15 +2850,17 @@
   "girrosbeta": {
     "name": "Girros Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": -15,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -2778,15 +2910,17 @@
   "pukeialpha": {
     "name": "Pukei Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": 0,
-      "waterResistance": 15,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": 15,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -2827,15 +2961,17 @@
   "pukeibeta": {
     "name": "Pukei Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": 0,
-      "waterResistance": 15,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": 15,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -2893,15 +3029,17 @@
   "barrothalpha": {
     "name": "Barroth Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": -15,
-      "waterResistance": -5,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": -5,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -2942,15 +3080,17 @@
   "barrothbeta": {
     "name": "Barroth Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": -15,
-      "waterResistance": -5,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": -5,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3015,15 +3155,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 220,
+      "max": 330,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 330,
-      "augDefense": 410,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": -15,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3079,15 +3221,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 220,
+      "max": 330,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 330,
-      "augDefense": 410,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": -15,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3141,15 +3285,17 @@
   "jyuraalpha": {
     "name": "Jyura Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 220,
+      "max": 330,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 330,
-      "augDefense": 410,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3186,15 +3332,17 @@
   "jyurabeta": {
     "name": "Jyura Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 220,
+      "max": 330,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 330,
-      "augDefense": 410,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3244,15 +3392,17 @@
   "kadachialpha": {
     "name": "Kadachi Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 220,
+      "max": 330,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 330,
-      "augDefense": 410,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3293,15 +3443,17 @@
   "kadachibeta": {
     "name": "Kadachi Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 220,
+      "max": 330,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 330,
-      "augDefense": 410,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3359,15 +3511,17 @@
   "lumualpha": {
     "name": "Lumu Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 220,
+      "max": 330,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 330,
-      "augDefense": 410,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3404,15 +3558,17 @@
   "lumubeta": {
     "name": "Lumu Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 220,
+      "max": 330,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 330,
-      "augDefense": 410,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3466,15 +3622,17 @@
   "rathianalpha": {
     "name": "Rathian Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 230,
+      "max": 340,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 230,
-      "maxDefense": 340,
-      "augDefense": 420,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": 0,
-      "dragonResistance": -15
+      "fire": 10,
+      "water": 0,
+      "thunder": -10,
+      "ice": 0,
+      "dragon": -15
     },
     "skills": [
       {
@@ -3515,15 +3673,17 @@
   "rathianbeta": {
     "name": "Rathian Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 230,
+      "max": 340,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 230,
-      "maxDefense": 340,
-      "augDefense": 420,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": 0,
-      "dragonResistance": -15
+      "fire": 10,
+      "water": 0,
+      "thunder": -10,
+      "ice": 0,
+      "dragon": -15
     },
     "skills": [
       {
@@ -3591,15 +3751,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 260,
+      "max": 360,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 260,
-      "maxDefense": 360,
-      "augDefense": 420,
-      "fireResistance": 15,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": -20
     },
     "skills": [
       {
@@ -3646,15 +3808,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 260,
+      "max": 360,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 260,
-      "maxDefense": 360,
-      "augDefense": 420,
-      "fireResistance": 15,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": -20
     },
     "skills": [
       {
@@ -3708,15 +3872,17 @@
   "baanalpha": {
     "name": "Baan Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 230,
+      "max": 330,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 230,
-      "maxDefense": 330,
-      "augDefense": 390,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": -5,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": 0,
+      "ice": -5,
+      "dragon": -10
     },
     "skills": [
       {
@@ -3753,15 +3919,17 @@
   "baanbeta": {
     "name": "Baan Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 230,
+      "max": 330,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 230,
-      "maxDefense": 330,
-      "augDefense": 390,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": -5,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": 0,
+      "ice": -5,
+      "dragon": -10
     },
     "skills": [
       {
@@ -3815,15 +3983,17 @@
   "gastodonalpha": {
     "name": "Gastodon Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 48,
+      "max": 70,
+      "augmented": 86
+    },
     "resistances": {
-      "baseDefense": 48,
-      "maxDefense": 70,
-      "augDefense": 86,
-      "fireResistance": 3,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 3,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3840,15 +4010,17 @@
   "gastodonbeta": {
     "name": "Gastodon Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 48,
+      "max": 70,
+      "augmented": 86
+    },
     "resistances": {
-      "baseDefense": 48,
-      "maxDefense": 70,
-      "augDefense": 86,
-      "fireResistance": 3,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 3,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -3866,15 +4038,17 @@
   "barnosalpha": {
     "name": "Barnos Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 48,
+      "max": 70,
+      "augmented": 86
+    },
     "resistances": {
-      "baseDefense": 48,
-      "maxDefense": 70,
-      "augDefense": 86,
-      "fireResistance": 1,
-      "waterResistance": 1,
-      "thunderResistance": 0,
-      "iceResistance": 1,
-      "dragonResistance": -2
+      "fire": 1,
+      "water": 1,
+      "thunder": 0,
+      "ice": 1,
+      "dragon": -2
     },
     "skills": [
       {
@@ -3891,15 +4065,17 @@
   "barnosbeta": {
     "name": "Barnos Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 48,
+      "max": 70,
+      "augmented": 86
+    },
     "resistances": {
-      "baseDefense": 48,
-      "maxDefense": 70,
-      "augDefense": 86,
-      "fireResistance": 1,
-      "waterResistance": 1,
-      "thunderResistance": 0,
-      "iceResistance": 1,
-      "dragonResistance": -2
+      "fire": 1,
+      "water": 1,
+      "thunder": 0,
+      "ice": 1,
+      "dragon": -2
     },
     "skills": [
       {
@@ -3917,15 +4093,17 @@
   "dodogamaalpha": {
     "name": "Dodogama Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 240,
+      "max": 350,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 240,
-      "maxDefense": 350,
-      "augDefense": 430,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -3962,15 +4140,17 @@
   "dodogamabeta": {
     "name": "Dodogama Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 240,
+      "max": 350,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 240,
-      "maxDefense": 350,
-      "augDefense": 430,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -4026,15 +4206,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 220,
+      "max": 320,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 320,
-      "augDefense": 380,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -10,
-      "dragonResistance": -15
+      "fire": 20,
+      "water": -15,
+      "thunder": -5,
+      "ice": -10,
+      "dragon": -15
     },
     "skills": [
       {
@@ -4089,15 +4271,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 220,
+      "max": 320,
+      "augmented": 380
+    },
     "resistances": {
-      "baseDefense": 220,
-      "maxDefense": 320,
-      "augDefense": 380,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -10,
-      "dragonResistance": -15
+      "fire": 20,
+      "water": -15,
+      "thunder": -5,
+      "ice": -10,
+      "dragon": -15
     },
     "skills": [
       {
@@ -4147,15 +4331,17 @@
   "highmetalalpha": {
     "name": "High Metal Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 250,
+      "max": 350,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 250,
-      "maxDefense": 350,
-      "augDefense": 410,
-      "fireResistance": 0,
-      "waterResistance": -5,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -5,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -4204,15 +4390,17 @@
   "highmetalbeta": {
     "name": "High Metal Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 250,
+      "max": 350,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 250,
-      "maxDefense": 350,
-      "augDefense": 410,
-      "fireResistance": 0,
-      "waterResistance": -5,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -5,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -4266,15 +4454,17 @@
   "ingotalpha": {
     "name": "Ingot Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 250,
+      "max": 350,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 250,
-      "maxDefense": 350,
-      "augDefense": 410,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -4311,15 +4501,17 @@
   "ingotbeta": {
     "name": "Ingot Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 250,
+      "max": 350,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 250,
-      "maxDefense": 350,
-      "augDefense": 410,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -4369,15 +4561,17 @@
   "brigadealpha": {
     "name": "Brigade Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 260,
+      "max": 360,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 260,
-      "maxDefense": 360,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 5,
+      "water": 0,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -4431,15 +4625,17 @@
   "brigadebeta": {
     "name": "Brigade Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 260,
+      "max": 360,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 260,
-      "maxDefense": 360,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 5,
+      "water": 0,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -4493,15 +4689,17 @@
   "fauxfelynealpha": {
     "name": "Faux Felyne Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 56,
+      "max": 76,
+      "augmented": 88
+    },
     "resistances": {
-      "baseDefense": 56,
-      "maxDefense": 76,
-      "augDefense": 88,
-      "fireResistance": 2,
-      "waterResistance": 2,
-      "thunderResistance": 2,
-      "iceResistance": 2,
-      "dragonResistance": 2
+      "fire": 2,
+      "water": 2,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": 2
     },
     "skills": [
       {
@@ -4514,15 +4712,17 @@
   "strategistalpha": {
     "name": "Strategist Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 56,
+      "max": 76,
+      "augmented": 88
+    },
     "resistances": {
-      "baseDefense": 56,
-      "maxDefense": 76,
-      "augDefense": 88,
-      "fireResistance": 2,
-      "waterResistance": 2,
-      "thunderResistance": 2,
-      "iceResistance": 2,
-      "dragonResistance": 2
+      "fire": 2,
+      "water": 2,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": 2
     },
     "skills": [
       {
@@ -4540,15 +4740,17 @@
   "lavasiothalpha": {
     "name": "Lavasioth Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 280,
+      "max": 380,
+      "augmented": 440
+    },
     "resistances": {
-      "baseDefense": 280,
-      "maxDefense": 380,
-      "augDefense": 440,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -4606,15 +4808,17 @@
   "lavasiothbeta": {
     "name": "Lavasioth Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 280,
+      "max": 380,
+      "augmented": 440
+    },
     "resistances": {
-      "baseDefense": 280,
-      "maxDefense": 380,
-      "augDefense": 440,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -4687,15 +4891,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 270,
+      "max": 370,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 270,
-      "maxDefense": 370,
-      "augDefense": 430,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -4755,15 +4961,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 270,
+      "max": 370,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 270,
-      "maxDefense": 370,
-      "augDefense": 430,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -4824,15 +5032,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 270,
+      "max": 370,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 270,
-      "maxDefense": 370,
-      "augDefense": 430,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 10,
+      "thunder": -10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -4892,15 +5102,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 270,
+      "max": 370,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 270,
-      "maxDefense": 370,
-      "augDefense": 430,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 10,
+      "thunder": -10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -4961,15 +5173,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 270,
+      "max": 370,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 270,
-      "maxDefense": 370,
-      "augDefense": 430,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 15,
+      "water": 5,
+      "thunder": -10,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -5029,15 +5243,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 270,
+      "max": 370,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 270,
-      "maxDefense": 370,
-      "augDefense": 430,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 15,
+      "water": 5,
+      "thunder": -10,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -5098,15 +5314,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 280,
+      "max": 340,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 280,
-      "maxDefense": 340,
-      "augDefense": 410,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": -15,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 10,
+      "thunder": 10,
+      "ice": -15,
+      "dragon": -20
     },
     "skills": [
       {
@@ -5175,15 +5393,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 280,
+      "max": 340,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 280,
-      "maxDefense": 340,
-      "augDefense": 410,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": -15,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 10,
+      "thunder": 10,
+      "ice": -15,
+      "dragon": -20
     },
     "skills": [
       {
@@ -5248,15 +5468,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 270,
+      "max": 370,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 270,
-      "maxDefense": 370,
-      "augDefense": 430,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": -15,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -10,
+      "thunder": 0,
+      "ice": -15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -5316,15 +5538,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 270,
+      "max": 370,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 270,
-      "maxDefense": 370,
-      "augDefense": 430,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": -15,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -10,
+      "thunder": 0,
+      "ice": -15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -5389,15 +5613,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 280,
+      "max": 340,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 280,
-      "maxDefense": 340,
-      "augDefense": 410,
-      "fireResistance": 10,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": -20,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": -15,
+      "thunder": 0,
+      "ice": -20,
+      "dragon": 10
     },
     "skills": [
       {
@@ -5462,15 +5688,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 280,
+      "max": 340,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 280,
-      "maxDefense": 340,
-      "augDefense": 410,
-      "fireResistance": 10,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": -20,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": -15,
+      "thunder": 0,
+      "ice": -20,
+      "dragon": 10
     },
     "skills": [
       {
@@ -5534,15 +5762,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 300,
+      "max": 360,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 300,
-      "maxDefense": 360,
-      "augDefense": 430,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -10,
-      "dragonResistance": -10
+      "fire": 20,
+      "water": -15,
+      "thunder": 5,
+      "ice": -10,
+      "dragon": -10
     },
     "skills": [
       {
@@ -5610,15 +5840,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 300,
+      "max": 360,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 300,
-      "maxDefense": 360,
-      "augDefense": 430,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -10,
-      "dragonResistance": -10
+      "fire": 20,
+      "water": -15,
+      "thunder": 5,
+      "ice": -10,
+      "dragon": -10
     },
     "skills": [
       {
@@ -5682,15 +5914,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 290,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 290,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -20,
-      "iceResistance": -10,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": -20,
+      "ice": -10,
+      "dragon": -10
     },
     "skills": [
       {
@@ -5758,15 +5992,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 290,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 290,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -20,
-      "iceResistance": -10,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": -20,
+      "ice": -10,
+      "dragon": -10
     },
     "skills": [
       {
@@ -5824,15 +6060,17 @@
   "damascusalpha": {
     "name": "Damascus Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 300,
+      "max": 360,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 300,
-      "maxDefense": 360,
-      "augDefense": 430,
-      "fireResistance": 20,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 20,
+      "water": -10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -5898,15 +6136,17 @@
   "damascusbeta": {
     "name": "Damascus Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 300,
+      "max": 360,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 300,
-      "maxDefense": 360,
-      "augDefense": 430,
-      "fireResistance": 20,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 20,
+      "water": -10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -5972,15 +6212,17 @@
   "doberalpha": {
     "name": "Dober Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 300,
+      "max": 360,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 300,
-      "maxDefense": 360,
-      "augDefense": 430,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 20
+      "fire": -10,
+      "water": 0,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 20
     },
     "skills": [
       {
@@ -6038,15 +6280,17 @@
   "doberbeta": {
     "name": "Dober Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 300,
+      "max": 360,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 300,
-      "maxDefense": 360,
-      "augDefense": 430,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 20
+      "fire": -10,
+      "water": 0,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 20
     },
     "skills": [
       {
@@ -6104,15 +6348,17 @@
   "deathstenchalpha": {
     "name": "Death Stench Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 310,
+      "max": 370,
+      "augmented": 440
+    },
     "resistances": {
-      "baseDefense": 310,
-      "maxDefense": 370,
-      "augDefense": 440,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 10,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": -20
     },
     "skills": [
       {
@@ -6170,15 +6416,17 @@
   "deathstenchbeta": {
     "name": "Death Stench Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 310,
+      "max": 370,
+      "augmented": 440
+    },
     "resistances": {
-      "baseDefense": 310,
-      "maxDefense": 370,
-      "augDefense": 440,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 10,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": -20
     },
     "skills": [
       {
@@ -6240,15 +6488,17 @@
   "skullalpha": {
     "name": "Skull Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 64,
+      "max": 76,
+      "augmented": 90
+    },
     "resistances": {
-      "baseDefense": 64,
-      "maxDefense": 76,
-      "augDefense": 90,
-      "fireResistance": -3,
-      "waterResistance": -1,
-      "thunderResistance": -1,
-      "iceResistance": -1,
-      "dragonResistance": 2
+      "fire": -3,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": 2
     },
     "skills": [
       {
@@ -6272,15 +6522,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 5,
+      "water": 5,
+      "thunder": -15,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -6348,15 +6600,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 5,
+      "water": 5,
+      "thunder": -15,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -6420,15 +6674,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": 5
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
     },
     "skills": [
       {
@@ -6480,15 +6736,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": 5
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
     },
     "skills": [
       {
@@ -6548,15 +6806,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 20,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": -15,
+      "ice": 20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -6611,15 +6871,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 20,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": -15,
+      "ice": 20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -6687,15 +6949,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": -20,
-      "waterResistance": 20,
-      "thunderResistance": 5,
-      "iceResistance": -5,
-      "dragonResistance": -15
+      "fire": -20,
+      "water": 20,
+      "thunder": 5,
+      "ice": -5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -6767,15 +7031,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": -20,
-      "waterResistance": 20,
-      "thunderResistance": 5,
-      "iceResistance": -5,
-      "dragonResistance": -15
+      "fire": -20,
+      "water": 20,
+      "thunder": 5,
+      "ice": -5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -6851,15 +7117,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": -15,
-      "waterResistance": -10,
-      "thunderResistance": 20,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": -15,
+      "water": -10,
+      "thunder": 20,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -6914,15 +7182,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": -15,
-      "waterResistance": -10,
-      "thunderResistance": 20,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": -15,
+      "water": -10,
+      "thunder": 20,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -6994,15 +7264,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 10,
-      "dragonResistance": -20
+      "fire": -15,
+      "water": 10,
+      "thunder": 10,
+      "ice": 10,
+      "dragon": -20
     },
     "skills": [
       {
@@ -7078,15 +7350,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 10,
-      "dragonResistance": -20
+      "fire": -15,
+      "water": 10,
+      "thunder": 10,
+      "ice": 10,
+      "dragon": -20
     },
     "skills": [
       {
@@ -7154,15 +7428,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 310,
+      "max": 340,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 310,
-      "maxDefense": 340,
-      "augDefense": 410,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -7238,15 +7514,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 310,
+      "max": 340,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 310,
-      "maxDefense": 340,
-      "augDefense": 410,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -7312,15 +7590,17 @@
   "dragonkingeyepatchalpha": {
     "name": "Dragonking Eyepatch Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 70,
+      "max": 76,
+      "augmented": 90
+    },
     "resistances": {
-      "baseDefense": 70,
-      "maxDefense": 76,
-      "augDefense": 90,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -7344,15 +7624,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 350,
+      "max": 380,
+      "augmented": 450
+    },
     "resistances": {
-      "baseDefense": 350,
-      "maxDefense": 380,
-      "augDefense": 450,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 10,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 10,
+      "thunder": 10,
+      "ice": 10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -7420,15 +7702,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 350,
+      "max": 380,
+      "augmented": 450
+    },
     "resistances": {
-      "baseDefense": 350,
-      "maxDefense": 380,
-      "augDefense": 450,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 10,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 10,
+      "thunder": 10,
+      "ice": 10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -7478,15 +7762,17 @@
   "deviljhoalpha": {
     "name": "Deviljho Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 290,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 290,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 10,
-      "dragonResistance": -15
+      "fire": 5,
+      "water": 5,
+      "thunder": -15,
+      "ice": 10,
+      "dragon": -15
     },
     "skills": [
       {
@@ -7548,15 +7834,17 @@
   "deviljhobeta": {
     "name": "Deviljho Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 290,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 290,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 10,
-      "dragonResistance": -15
+      "fire": 5,
+      "water": 5,
+      "thunder": -15,
+      "ice": 10,
+      "dragon": -15
     },
     "skills": [
       {
@@ -7618,15 +7906,17 @@
   "sealedeyepatchalpha": {
     "name": "Sealed Eyepatch Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 46,
+      "max": 68,
+      "augmented": 84
+    },
     "resistances": {
-      "baseDefense": 46,
-      "maxDefense": 68,
-      "augDefense": 84,
-      "fireResistance": 3,
-      "waterResistance": 2,
-      "thunderResistance": 0,
-      "iceResistance": 2,
-      "dragonResistance": 0
+      "fire": 3,
+      "water": 2,
+      "thunder": 0,
+      "ice": 2,
+      "dragon": 0
     },
     "skills": [
       {
@@ -7648,15 +7938,17 @@
   "shadowshadesalpha": {
     "name": "Shadow Shades Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 46,
+      "max": 68,
+      "augmented": 84
+    },
     "resistances": {
-      "baseDefense": 46,
-      "maxDefense": 68,
-      "augDefense": 84,
-      "fireResistance": 4,
-      "waterResistance": 0,
-      "thunderResistance": 4,
-      "iceResistance": 2,
-      "dragonResistance": 0
+      "fire": 4,
+      "water": 0,
+      "thunder": 4,
+      "ice": 2,
+      "dragon": 0
     },
     "skills": [
       {
@@ -7682,15 +7974,17 @@
   "blossom": {
     "name": "Blossom",
     "setBonus": "-",
+    "defenses": {
+      "base": 90,
+      "max": 230,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 90,
-      "maxDefense": 230,
-      "augDefense": 350,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 20,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 5,
+      "thunder": 20,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -7719,15 +8013,17 @@
   "queenbeetle": {
     "name": "Queen Beetle",
     "setBonus": "-",
+    "defenses": {
+      "base": 110,
+      "max": 250,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 110,
-      "maxDefense": 250,
-      "augDefense": 370,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -7756,15 +8052,17 @@
   "blossomalpha": {
     "name": "Blossom Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 200,
+      "max": 310,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 200,
-      "maxDefense": 310,
-      "augDefense": 390,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 20,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 5,
+      "thunder": 20,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -7834,15 +8132,17 @@
   "kulu-ya-kuheadalpha": {
     "name": "Kulu-Ya-Ku Head Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 46,
+      "max": 68,
+      "augmented": 84
+    },
     "resistances": {
-      "baseDefense": 46,
-      "maxDefense": 68,
-      "augDefense": 84,
-      "fireResistance": 2,
-      "waterResistance": 0,
-      "thunderResistance": 2,
-      "iceResistance": 3,
-      "dragonResistance": 2
+      "fire": 2,
+      "water": 0,
+      "thunder": 2,
+      "ice": 3,
+      "dragon": 2
     },
     "skills": [
       {
@@ -7864,15 +8164,17 @@
   "wigglerheadalpha": {
     "name": "Wiggler Head Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 46,
+      "max": 68,
+      "augmented": 84
+    },
     "resistances": {
-      "baseDefense": 46,
-      "maxDefense": 68,
-      "augDefense": 84,
-      "fireResistance": 0,
-      "waterResistance": 4,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 4
+      "fire": 0,
+      "water": 4,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 4
     },
     "skills": [
       {
@@ -7894,15 +8196,17 @@
   "kulvetarothalpha": {
     "name": "Kulve Taroth Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": 20,
-      "waterResistance": -10,
-      "thunderResistance": 15,
-      "iceResistance": -20,
-      "dragonResistance": -10
+      "fire": 20,
+      "water": -10,
+      "thunder": 15,
+      "ice": -20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -7972,15 +8276,17 @@
   "kulvetarothbeta": {
     "name": "Kulve Taroth Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": 20,
-      "waterResistance": -10,
-      "thunderResistance": 15,
-      "iceResistance": -20,
-      "dragonResistance": -10
+      "fire": 20,
+      "water": -10,
+      "thunder": 15,
+      "ice": -20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -8076,15 +8382,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": -15,
-      "waterResistance": -10,
-      "thunderResistance": 20,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": -15,
+      "water": -10,
+      "thunder": 20,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -8158,15 +8466,17 @@
   "dantealpha": {
     "name": "Dante Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 15,
-      "iceResistance": -15,
-      "dragonResistance": 15
+      "fire": 15,
+      "water": -15,
+      "thunder": 15,
+      "ice": -15,
+      "dragon": 15
     },
     "skills": [
       {
@@ -8247,15 +8557,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 350,
+      "max": 380,
+      "augmented": 450
+    },
     "resistances": {
-      "baseDefense": 350,
-      "maxDefense": 380,
-      "augDefense": 450,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": -10
     },
     "skills": [
       {
@@ -8352,15 +8664,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 350,
+      "max": 380,
+      "augmented": 450
+    },
     "resistances": {
-      "baseDefense": 350,
-      "maxDefense": 380,
-      "augDefense": 450,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": -10
     },
     "skills": [
       {
@@ -8440,15 +8754,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": -20,
-      "waterResistance": 20,
-      "thunderResistance": 5,
-      "iceResistance": -5,
-      "dragonResistance": -15
+      "fire": -20,
+      "water": 20,
+      "thunder": 5,
+      "ice": -5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -8541,15 +8857,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": -10,
-      "waterResistance": -10,
-      "thunderResistance": 15,
-      "iceResistance": -10,
-      "dragonResistance": 20
+      "fire": -10,
+      "water": -10,
+      "thunder": 15,
+      "ice": -10,
+      "dragon": 20
     },
     "skills": [
       {
@@ -8638,15 +8956,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 280,
+      "max": 340,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 280,
-      "maxDefense": 340,
-      "augDefense": 410,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 15
+      "fire": 10,
+      "water": 10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 15
     },
     "skills": [
       {
@@ -8696,15 +9016,17 @@
   "kulvetarothgamma": {
     "name": "Kulve Taroth Gamma",
     "setBonus": "-",
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": 20,
-      "waterResistance": -10,
-      "thunderResistance": 15,
-      "iceResistance": -20,
-      "dragonResistance": -10
+      "fire": 20,
+      "water": -10,
+      "thunder": 15,
+      "ice": -20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -8797,15 +9119,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": -10
     },
     "skills": [
       {
@@ -8893,15 +9217,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 10,
-      "dragonResistance": -20
+      "fire": -15,
+      "water": 10,
+      "thunder": 10,
+      "ice": 10,
+      "dragon": -20
     },
     "skills": [
       {
@@ -8997,15 +9323,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -10,
-      "dragonResistance": -15
+      "fire": 20,
+      "water": -15,
+      "thunder": -5,
+      "ice": -10,
+      "dragon": -15
     },
     "skills": [
       {
@@ -9093,15 +9421,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 5,
+      "water": 5,
+      "thunder": -15,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -9197,15 +9527,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 20,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": -15,
+      "ice": 20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -9277,15 +9609,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 360,
+      "max": 390,
+      "augmented": 460
+    },
     "resistances": {
-      "baseDefense": 360,
-      "maxDefense": 390,
-      "augDefense": 460,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": 5
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
     },
     "skills": [
       {
@@ -9351,15 +9685,17 @@
   "bonealpha+": {
     "name": "Bone Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 570,
+      "max": 650,
+      "augmented": 760
+    },
     "resistances": {
-      "baseDefense": 570,
-      "maxDefense": 650,
-      "augDefense": 760,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -9429,15 +9765,17 @@
   "alloyalpha+": {
     "name": "Alloy Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 570,
+      "max": 650,
+      "augmented": 760
+    },
     "resistances": {
-      "baseDefense": 570,
-      "maxDefense": 650,
-      "augDefense": 760,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -9507,15 +9845,17 @@
   "vespoidalpha+": {
     "name": "Vespoid Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": -10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 10
+      "fire": -10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 10
     },
     "skills": [
       {
@@ -9585,15 +9925,17 @@
   "hornetauralpha+": {
     "name": "Hornetaur Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -9671,15 +10013,17 @@
   "kestodonalpha+": {
     "name": "Kestodon Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 4,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 4,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -9705,15 +10049,17 @@
   "gajaualpha+": {
     "name": "Gajau Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 0,
-      "waterResistance": 5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -9739,15 +10085,17 @@
   "shamosalpha+": {
     "name": "Shamos Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 2,
-      "waterResistance": 2,
-      "thunderResistance": 0,
-      "iceResistance": -3,
-      "dragonResistance": 0
+      "fire": 2,
+      "water": 2,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": 0
     },
     "skills": [
       {
@@ -9773,15 +10121,17 @@
   "gastodonalpha+": {
     "name": "Gastodon Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 3,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 3,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -9803,15 +10153,17 @@
   "barnosalpha+": {
     "name": "Barnos Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 1,
-      "waterResistance": 1,
-      "thunderResistance": 0,
-      "iceResistance": 1,
-      "dragonResistance": -2
+      "fire": 1,
+      "water": 1,
+      "thunder": 0,
+      "ice": 1,
+      "dragon": -2
     },
     "skills": [
       {
@@ -9837,15 +10189,17 @@
   "wulgalpha+": {
     "name": "Wulg Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": -3,
-      "waterResistance": 2,
-      "thunderResistance": -2,
-      "iceResistance": 3,
-      "dragonResistance": 2
+      "fire": -3,
+      "water": 2,
+      "thunder": -2,
+      "ice": 3,
+      "dragon": 2
     },
     "skills": [
       {
@@ -9871,15 +10225,17 @@
   "cortosalpha+": {
     "name": "Cortos Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": -3,
-      "waterResistance": 2,
-      "thunderResistance": 0,
-      "iceResistance": 2,
-      "dragonResistance": 0
+      "fire": -3,
+      "water": 2,
+      "thunder": 0,
+      "ice": 2,
+      "dragon": 0
     },
     "skills": [
       {
@@ -9905,15 +10261,17 @@
   "jagrasalpha+": {
     "name": "Jagras Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 5
+      "fire": -10,
+      "water": 10,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -9991,15 +10349,17 @@
   "tzitzialpha+": {
     "name": "Tzitzi Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": -15,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -10077,15 +10437,17 @@
   "girrosalpha+": {
     "name": "Girros Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": -15,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -10155,15 +10517,17 @@
   "dodogamaalpha+": {
     "name": "Dodogama Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 600,
+      "max": 680,
+      "augmented": 790
+    },
     "resistances": {
-      "baseDefense": 600,
-      "maxDefense": 680,
-      "augDefense": 790,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -10241,15 +10605,17 @@
   "kulualpha+": {
     "name": "Kulu Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -10323,15 +10689,17 @@
   "pukeialpha+": {
     "name": "Pukei Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 590,
+      "max": 670,
+      "augmented": 780
+    },
     "resistances": {
-      "baseDefense": 590,
-      "maxDefense": 670,
-      "augDefense": 780,
-      "fireResistance": 0,
-      "waterResistance": 15,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": 15,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -10405,15 +10773,17 @@
   "coralpukeialpha+": {
     "name": "Coral Pukei Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": 0,
-      "waterResistance": 15,
-      "thunderResistance": -10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 15,
+      "thunder": -10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -10483,15 +10853,17 @@
   "barrothalpha+": {
     "name": "Barroth Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 590,
+      "max": 670,
+      "augmented": 780
+    },
     "resistances": {
-      "baseDefense": 590,
-      "maxDefense": 670,
-      "augDefense": 780,
-      "fireResistance": -15,
-      "waterResistance": -5,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": -5,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -10573,15 +10945,17 @@
   "jyuraalpha+": {
     "name": "Jyura Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 590,
+      "max": 670,
+      "augmented": 780
+    },
     "resistances": {
-      "baseDefense": 590,
-      "maxDefense": 670,
-      "augDefense": 780,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -10659,15 +11033,17 @@
   "beoalpha+": {
     "name": "Beo Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 590,
+      "max": 670,
+      "augmented": 780
+    },
     "resistances": {
-      "baseDefense": 590,
-      "maxDefense": 670,
-      "augDefense": 780,
-      "fireResistance": -15,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 10
+      "fire": -15,
+      "water": 0,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -10737,15 +11113,17 @@
   "kadachialpha+": {
     "name": "Kadachi Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 600,
+      "max": 680,
+      "augmented": 790
+    },
     "resistances": {
-      "baseDefense": 600,
-      "maxDefense": 680,
-      "augDefense": 790,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -10827,15 +11205,17 @@
   "viperkadachialpha+": {
     "name": "Viper Kadachi Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": 5,
-      "waterResistance": 15,
-      "thunderResistance": -15,
-      "iceResistance": -10,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 15,
+      "thunder": -15,
+      "ice": -10,
+      "dragon": 5
     },
     "skills": [
       {
@@ -10909,15 +11289,17 @@
   "highmetalalpha+": {
     "name": "High Metal Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 640,
+      "max": 720,
+      "augmented": 830
+    },
     "resistances": {
-      "baseDefense": 640,
-      "maxDefense": 720,
-      "augDefense": 830,
-      "fireResistance": 0,
-      "waterResistance": -5,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -5,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -11003,15 +11385,17 @@
   "banbaroalpha+": {
     "name": "Banbaro Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 650,
+      "max": 730,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 650,
-      "maxDefense": 730,
-      "augDefense": 840,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": 15,
-      "dragonResistance": -15
+      "fire": -10,
+      "water": 10,
+      "thunder": -5,
+      "ice": 15,
+      "dragon": -15
     },
     "skills": [
       {
@@ -11087,15 +11471,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": -15,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -11179,15 +11565,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 730,
+      "max": 770,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 730,
-      "maxDefense": 770,
-      "augDefense": 850,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -11271,15 +11659,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 650,
+      "max": 730,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 650,
-      "maxDefense": 730,
-      "augDefense": 840,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": 0,
-      "dragonResistance": -15
+      "fire": 10,
+      "water": 0,
+      "thunder": -10,
+      "ice": 0,
+      "dragon": -15
     },
     "skills": [
       {
@@ -11363,15 +11753,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": 15,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": -20
     },
     "skills": [
       {
@@ -11445,15 +11837,17 @@
   "lumualpha+": {
     "name": "Lumu Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 650,
+      "max": 730,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 650,
-      "maxDefense": 730,
-      "augDefense": 840,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -11535,15 +11929,17 @@
   "lumuphantasmalpha+": {
     "name": "Lumu Phantasm Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": -15,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": -15,
+      "water": -15,
+      "thunder": 10,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -11617,15 +12013,17 @@
   "baanalpha+": {
     "name": "Baan Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 670,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 670,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": -5,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": 0,
+      "ice": -5,
+      "dragon": -10
     },
     "skills": [
       {
@@ -11699,15 +12097,17 @@
   "bonebeta+": {
     "name": "Bone Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 570,
+      "max": 650,
+      "augmented": 760
+    },
     "resistances": {
-      "baseDefense": 570,
-      "maxDefense": 650,
-      "augDefense": 760,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -11773,15 +12173,17 @@
   "alloybeta+": {
     "name": "Alloy Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 570,
+      "max": 650,
+      "augmented": 760
+    },
     "resistances": {
-      "baseDefense": 570,
-      "maxDefense": 650,
-      "augDefense": 760,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -11851,15 +12253,17 @@
   "vespoidbeta+": {
     "name": "Vespoid Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": -10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 10
+      "fire": -10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 10
     },
     "skills": [
       {
@@ -11929,15 +12333,17 @@
   "hornetaurbeta+": {
     "name": "Hornetaur Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -12011,15 +12417,17 @@
   "kestodonbeta+": {
     "name": "Kestodon Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 4,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 4,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12045,15 +12453,17 @@
   "gajaubeta+": {
     "name": "Gajau Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 0,
-      "waterResistance": 5,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 5,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12079,15 +12489,17 @@
   "shamosbeta+": {
     "name": "Shamos Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 2,
-      "waterResistance": 2,
-      "thunderResistance": 0,
-      "iceResistance": -3,
-      "dragonResistance": 0
+      "fire": 2,
+      "water": 2,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12113,15 +12525,17 @@
   "gastodonbeta+": {
     "name": "Gastodon Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 3,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 3,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12147,15 +12561,17 @@
   "barnosbeta+": {
     "name": "Barnos Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": 1,
-      "waterResistance": 1,
-      "thunderResistance": 0,
-      "iceResistance": 1,
-      "dragonResistance": -2
+      "fire": 1,
+      "water": 1,
+      "thunder": 0,
+      "ice": 1,
+      "dragon": -2
     },
     "skills": [
       {
@@ -12181,15 +12597,17 @@
   "wulgbeta+": {
     "name": "Wulg Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": -3,
-      "waterResistance": 2,
-      "thunderResistance": -2,
-      "iceResistance": 3,
-      "dragonResistance": 2
+      "fire": -3,
+      "water": 2,
+      "thunder": -2,
+      "ice": 3,
+      "dragon": 2
     },
     "skills": [
       {
@@ -12215,15 +12633,17 @@
   "cortosbeta+": {
     "name": "Cortos Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 116,
+      "max": 132,
+      "augmented": 154
+    },
     "resistances": {
-      "baseDefense": 116,
-      "maxDefense": 132,
-      "augDefense": 154,
-      "fireResistance": -3,
-      "waterResistance": 2,
-      "thunderResistance": 0,
-      "iceResistance": 2,
-      "dragonResistance": 0
+      "fire": -3,
+      "water": 2,
+      "thunder": 0,
+      "ice": 2,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12245,15 +12665,17 @@
   "jagrasbeta+": {
     "name": "Jagras Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 5
+      "fire": -10,
+      "water": 10,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -12327,15 +12749,17 @@
   "tzitzibeta+": {
     "name": "Tzitzi Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": -10,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": -15,
+      "ice": -10,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12409,15 +12833,17 @@
   "girrosbeta+": {
     "name": "Girros Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": -15,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -12479,15 +12905,17 @@
   "dodogamabeta+": {
     "name": "Dodogama Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 600,
+      "max": 680,
+      "augmented": 790
+    },
     "resistances": {
-      "baseDefense": 600,
-      "maxDefense": 680,
-      "augDefense": 790,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -12549,15 +12977,17 @@
   "kulubeta+": {
     "name": "Kulu Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 580,
+      "max": 660,
+      "augmented": 770
+    },
     "resistances": {
-      "baseDefense": 580,
-      "maxDefense": 660,
-      "augDefense": 770,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12619,15 +13049,17 @@
   "pukeibeta+": {
     "name": "Pukei Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 590,
+      "max": 670,
+      "augmented": 780
+    },
     "resistances": {
-      "baseDefense": 590,
-      "maxDefense": 670,
-      "augDefense": 780,
-      "fireResistance": 0,
-      "waterResistance": 15,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 5
+      "fire": 0,
+      "water": 15,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 5
     },
     "skills": [
       {
@@ -12705,15 +13137,17 @@
   "coralpukeibeta+": {
     "name": "Coral Pukei Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": 0,
-      "waterResistance": 15,
-      "thunderResistance": -10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 15,
+      "thunder": -10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12783,15 +13217,17 @@
   "barrothbeta+": {
     "name": "Barroth Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 590,
+      "max": 670,
+      "augmented": 780
+    },
     "resistances": {
-      "baseDefense": 590,
-      "maxDefense": 670,
-      "augDefense": 780,
-      "fireResistance": -15,
-      "waterResistance": -5,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": -5,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12861,15 +13297,17 @@
   "jyurabeta+": {
     "name": "Jyura Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 590,
+      "max": 670,
+      "augmented": 780
+    },
     "resistances": {
-      "baseDefense": 590,
-      "maxDefense": 670,
-      "augDefense": 780,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -12947,15 +13385,17 @@
   "beobeta+": {
     "name": "Beo Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 590,
+      "max": 670,
+      "augmented": 780
+    },
     "resistances": {
-      "baseDefense": 590,
-      "maxDefense": 670,
-      "augDefense": 780,
-      "fireResistance": -15,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 10
+      "fire": -15,
+      "water": 0,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -13021,15 +13461,17 @@
   "kadachibeta+": {
     "name": "Kadachi Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 600,
+      "max": 680,
+      "augmented": 790
+    },
     "resistances": {
-      "baseDefense": 600,
-      "maxDefense": 680,
-      "augDefense": 790,
-      "fireResistance": 0,
-      "waterResistance": -15,
-      "thunderResistance": 15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -15,
+      "thunder": 15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -13111,15 +13553,17 @@
   "viperkadachibeta+": {
     "name": "Viper Kadachi Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": 5,
-      "waterResistance": 15,
-      "thunderResistance": -15,
-      "iceResistance": -10,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 15,
+      "thunder": -15,
+      "ice": -10,
+      "dragon": 5
     },
     "skills": [
       {
@@ -13189,15 +13633,17 @@
   "highmetalbeta+": {
     "name": "High Metal Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 640,
+      "max": 720,
+      "augmented": 830
+    },
     "resistances": {
-      "baseDefense": 640,
-      "maxDefense": 720,
-      "augDefense": 830,
-      "fireResistance": 0,
-      "waterResistance": -5,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -5,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -13287,15 +13733,17 @@
   "banbarobeta+": {
     "name": "Banbaro Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 650,
+      "max": 730,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 650,
-      "maxDefense": 730,
-      "augDefense": 840,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": 15,
-      "dragonResistance": -15
+      "fire": -10,
+      "water": 10,
+      "thunder": -5,
+      "ice": 15,
+      "dragon": -15
     },
     "skills": [
       {
@@ -13371,15 +13819,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": -15,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -13455,15 +13905,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 730,
+      "max": 770,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 730,
-      "maxDefense": 770,
-      "augDefense": 850,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -13543,15 +13995,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 650,
+      "max": 730,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 650,
-      "maxDefense": 730,
-      "augDefense": 840,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -10,
-      "iceResistance": 0,
-      "dragonResistance": -15
+      "fire": 10,
+      "water": 0,
+      "thunder": -10,
+      "ice": 0,
+      "dragon": -15
     },
     "skills": [
       {
@@ -13627,15 +14081,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": 15,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": -20
     },
     "skills": [
       {
@@ -13709,15 +14165,17 @@
   "lumubeta+": {
     "name": "Lumu Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 650,
+      "max": 730,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 650,
-      "maxDefense": 730,
-      "augDefense": 840,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -13795,15 +14253,17 @@
   "lumuphantasmbeta+": {
     "name": "Lumu Phantasm Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 660,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": -15,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": -15,
+      "water": -15,
+      "thunder": 10,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -13861,15 +14321,17 @@
   "baanbeta+": {
     "name": "Baan Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 670,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 670,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": 0,
-      "iceResistance": -5,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": 0,
+      "ice": -5,
+      "dragon": -10
     },
     "skills": [
       {
@@ -13933,15 +14395,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 5,
-      "waterResistance": -10,
-      "thunderResistance": -10,
-      "iceResistance": 10,
-      "dragonResistance": 15
+      "fire": 5,
+      "water": -10,
+      "thunder": -10,
+      "ice": 10,
+      "dragon": 15
     },
     "skills": [
       {
@@ -14029,15 +14493,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 5,
-      "waterResistance": -10,
-      "thunderResistance": -10,
-      "iceResistance": 10,
-      "dragonResistance": 15
+      "fire": 5,
+      "water": -10,
+      "thunder": -10,
+      "ice": 10,
+      "dragon": 15
     },
     "skills": [
       {
@@ -14113,15 +14579,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": -5,
-      "dragonResistance": -5
+      "fire": 10,
+      "water": 10,
+      "thunder": 10,
+      "ice": -5,
+      "dragon": -5
     },
     "skills": [
       {
@@ -14209,15 +14677,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": -5,
-      "dragonResistance": -5
+      "fire": 10,
+      "water": 10,
+      "thunder": 10,
+      "ice": -5,
+      "dragon": -5
     },
     "skills": [
       {
@@ -14287,15 +14757,17 @@
   "ingotalpha+": {
     "name": "Ingot Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 680,
+      "max": 730,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 680,
-      "maxDefense": 730,
-      "augDefense": 840,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -14369,15 +14841,17 @@
   "ingotbeta+": {
     "name": "Ingot Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 680,
+      "max": 730,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 680,
-      "maxDefense": 730,
-      "augDefense": 840,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -14451,15 +14925,17 @@
   "pearlspringalpha+": {
     "name": "Pearlspring Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 120,
+      "max": 136,
+      "augmented": 158
+    },
     "resistances": {
-      "baseDefense": 120,
-      "maxDefense": 136,
-      "augDefense": 158,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 5,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 5,
+      "dragon": 0
     },
     "skills": [
       {
@@ -14492,15 +14968,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 810,
+      "max": 840,
+      "augmented": 900
+    },
     "resistances": {
-      "baseDefense": 810,
-      "maxDefense": 840,
-      "augDefense": 900,
-      "fireResistance": 10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 10,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -14605,15 +15083,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 810,
+      "max": 840,
+      "augmented": 900
+    },
     "resistances": {
-      "baseDefense": 810,
-      "maxDefense": 840,
-      "augDefense": 900,
-      "fireResistance": 10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 10,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -14701,15 +15181,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 830,
+      "max": 860,
+      "augmented": 920
+    },
     "resistances": {
-      "baseDefense": 830,
-      "maxDefense": 860,
-      "augDefense": 920,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 5,
+      "water": 5,
+      "thunder": -15,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -14793,15 +15275,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 830,
+      "max": 860,
+      "augmented": 920
+    },
     "resistances": {
-      "baseDefense": 830,
-      "maxDefense": 860,
-      "augDefense": 920,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 5,
+      "water": 5,
+      "thunder": -15,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -14894,15 +15378,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 820,
+      "max": 850,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 820,
-      "maxDefense": 850,
-      "augDefense": 910,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 15
+      "fire": 20,
+      "water": -15,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 15
     },
     "skills": [
       {
@@ -14987,15 +15473,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 820,
+      "max": 850,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 820,
-      "maxDefense": 850,
-      "augDefense": 910,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 15
+      "fire": 20,
+      "water": -15,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 15
     },
     "skills": [
       {
@@ -15092,15 +15580,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 810,
+      "max": 840,
+      "augmented": 900
+    },
     "resistances": {
-      "baseDefense": 810,
-      "maxDefense": 840,
-      "augDefense": 900,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": -20,
-      "iceResistance": 0,
-      "dragonResistance": 20
+      "fire": 15,
+      "water": -10,
+      "thunder": -20,
+      "ice": 0,
+      "dragon": 20
     },
     "skills": [
       {
@@ -15181,15 +15671,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 810,
+      "max": 840,
+      "augmented": 900
+    },
     "resistances": {
-      "baseDefense": 810,
-      "maxDefense": 840,
-      "augDefense": 900,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": -20,
-      "iceResistance": 0,
-      "dragonResistance": 20
+      "fire": 15,
+      "water": -10,
+      "thunder": -20,
+      "ice": 0,
+      "dragon": 20
     },
     "skills": [
       {
@@ -15277,15 +15769,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 790,
+      "max": 830,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 790,
-      "maxDefense": 830,
-      "augDefense": 910,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 20,
-      "iceResistance": -20,
-      "dragonResistance": 5
+      "fire": -5,
+      "water": -5,
+      "thunder": 20,
+      "ice": -20,
+      "dragon": 5
     },
     "skills": [
       {
@@ -15365,15 +15859,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 790,
+      "max": 830,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 790,
-      "maxDefense": 830,
-      "augDefense": 910,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 20,
-      "iceResistance": -20,
-      "dragonResistance": 5
+      "fire": -5,
+      "water": -5,
+      "thunder": 20,
+      "ice": -20,
+      "dragon": 5
     },
     "skills": [
       {
@@ -15447,15 +15943,17 @@
   "yiangarugabeta+": {
     "name": "Yian Garuga Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 770,
+      "max": 810,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 810,
-      "augDefense": 890,
-      "fireResistance": 10,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": -10,
-      "dragonResistance": -10
+      "fire": 10,
+      "water": -15,
+      "thunder": 10,
+      "ice": -10,
+      "dragon": -10
     },
     "skills": [
       {
@@ -15529,15 +16027,17 @@
   "yiangarugaalpha+": {
     "name": "Yian Garuga Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 770,
+      "max": 810,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 810,
-      "augDefense": 890,
-      "fireResistance": 10,
-      "waterResistance": -15,
-      "thunderResistance": 10,
-      "iceResistance": -10,
-      "dragonResistance": -10
+      "fire": 10,
+      "water": -15,
+      "thunder": 10,
+      "ice": -10,
+      "dragon": -10
     },
     "skills": [
       {
@@ -15617,15 +16117,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 800,
+      "max": 830,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 800,
-      "maxDefense": 830,
-      "augDefense": 890,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -10,
-      "dragonResistance": -15
+      "fire": 20,
+      "water": -15,
+      "thunder": -5,
+      "ice": -10,
+      "dragon": -15
     },
     "skills": [
       {
@@ -15705,15 +16207,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 800,
+      "max": 830,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 800,
-      "maxDefense": 830,
-      "augDefense": 890,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": -5,
-      "iceResistance": -10,
-      "dragonResistance": -15
+      "fire": 20,
+      "water": -15,
+      "thunder": -5,
+      "ice": -10,
+      "dragon": -15
     },
     "skills": [
       {
@@ -15814,15 +16318,17 @@
         "pieces": 5
       }
     ],
+    "defenses": {
+      "base": 810,
+      "max": 840,
+      "augmented": 900
+    },
     "resistances": {
-      "baseDefense": 810,
-      "maxDefense": 840,
-      "augDefense": 900,
-      "fireResistance": 0,
-      "waterResistance": -10,
-      "thunderResistance": 15,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -10,
+      "thunder": 15,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -15907,15 +16413,17 @@
         "pieces": 5
       }
     ],
+    "defenses": {
+      "base": 810,
+      "max": 840,
+      "augmented": 900
+    },
     "resistances": {
-      "baseDefense": 810,
-      "maxDefense": 840,
-      "augDefense": 900,
-      "fireResistance": 0,
-      "waterResistance": -10,
-      "thunderResistance": 15,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": -10,
+      "thunder": 15,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -16016,15 +16524,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 790,
+      "max": 820,
+      "augmented": 880
+    },
     "resistances": {
-      "baseDefense": 790,
-      "maxDefense": 820,
-      "augDefense": 880,
-      "fireResistance": -15,
-      "waterResistance": 20,
-      "thunderResistance": 15,
-      "iceResistance": 0,
-      "dragonResistance": -10
+      "fire": -15,
+      "water": 20,
+      "thunder": 15,
+      "ice": 0,
+      "dragon": -10
     },
     "skills": [
       {
@@ -16113,15 +16623,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 790,
+      "max": 820,
+      "augmented": 880
+    },
     "resistances": {
-      "baseDefense": 790,
-      "maxDefense": 820,
-      "augDefense": 880,
-      "fireResistance": -15,
-      "waterResistance": 20,
-      "thunderResistance": 15,
-      "iceResistance": 0,
-      "dragonResistance": -10
+      "fire": -15,
+      "water": 20,
+      "thunder": 15,
+      "ice": 0,
+      "dragon": -10
     },
     "skills": [
       {
@@ -16213,15 +16725,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 770,
+      "max": 800,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 800,
-      "augDefense": 860,
-      "fireResistance": -15,
-      "waterResistance": -10,
-      "thunderResistance": 20,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": -15,
+      "water": -10,
+      "thunder": 20,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -16309,15 +16823,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 770,
+      "max": 800,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 800,
-      "augDefense": 860,
-      "fireResistance": -15,
-      "waterResistance": -10,
-      "thunderResistance": 20,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": -15,
+      "water": -10,
+      "thunder": 20,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -16405,15 +16921,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 780,
+      "max": 810,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 780,
-      "maxDefense": 810,
-      "augDefense": 870,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 20,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": -15,
+      "ice": 20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -16493,15 +17011,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 780,
+      "max": 810,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 780,
-      "maxDefense": 810,
-      "augDefense": 870,
-      "fireResistance": 0,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 20,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 10,
+      "thunder": -15,
+      "ice": 20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -16569,15 +17089,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 780,
+      "max": 810,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 780,
-      "maxDefense": 810,
-      "augDefense": 870,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": 5
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
     },
     "skills": [
       {
@@ -16665,15 +17187,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 780,
+      "max": 810,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 780,
-      "maxDefense": 810,
-      "augDefense": 870,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": 5
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
     },
     "skills": [
       {
@@ -16753,15 +17277,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 780,
+      "max": 810,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 780,
-      "maxDefense": 810,
-      "augDefense": 870,
-      "fireResistance": -10,
-      "waterResistance": 20,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": -10,
+      "water": 20,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -16845,15 +17371,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 780,
+      "max": 810,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 780,
-      "maxDefense": 810,
-      "augDefense": 870,
-      "fireResistance": -10,
-      "waterResistance": 20,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": -10,
+      "water": 20,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -16954,15 +17482,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 770,
+      "max": 800,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 800,
-      "augDefense": 860,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": 20,
-      "dragonResistance": -5
+      "fire": -15,
+      "water": 10,
+      "thunder": -5,
+      "ice": 20,
+      "dragon": -5
     },
     "skills": [
       {
@@ -17043,15 +17573,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 770,
+      "max": 800,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 800,
-      "augDefense": 860,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": 20,
-      "dragonResistance": -5
+      "fire": -15,
+      "water": 10,
+      "thunder": -5,
+      "ice": 20,
+      "dragon": -5
     },
     "skills": [
       {
@@ -17144,15 +17676,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 770,
+      "max": 810,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 810,
-      "augDefense": 890,
-      "fireResistance": 5,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 10,
+      "thunder": 10,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -17245,15 +17779,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 770,
+      "max": 810,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 810,
-      "augDefense": 890,
-      "fireResistance": 5,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 10,
+      "thunder": 10,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -17337,15 +17873,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 780,
+      "max": 820,
+      "augmented": 900
+    },
     "resistances": {
-      "baseDefense": 780,
-      "maxDefense": 820,
-      "augDefense": 900,
-      "fireResistance": 10,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 10,
+      "water": 5,
+      "thunder": -15,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -17425,15 +17963,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 780,
+      "max": 820,
+      "augmented": 900
+    },
     "resistances": {
-      "baseDefense": 780,
-      "maxDefense": 820,
-      "augDefense": 900,
-      "fireResistance": 10,
-      "waterResistance": 5,
-      "thunderResistance": -15,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 10,
+      "water": 5,
+      "thunder": -15,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -17513,15 +18053,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 770,
+      "max": 810,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 810,
-      "augDefense": 890,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": -20,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": -10,
+      "ice": -20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -17609,15 +18151,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 770,
+      "max": 810,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 770,
-      "maxDefense": 810,
-      "augDefense": 890,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": -20,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": -10,
+      "ice": -20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -17695,15 +18239,17 @@
   "damascusbeta+": {
     "name": "Damascus Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 760,
+      "max": 800,
+      "augmented": 880
+    },
     "resistances": {
-      "baseDefense": 760,
-      "maxDefense": 800,
-      "augDefense": 880,
-      "fireResistance": 20,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 20,
+      "water": -10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -17789,15 +18335,17 @@
   "damascusalpha+": {
     "name": "Damascus Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 760,
+      "max": 800,
+      "augmented": 880
+    },
     "resistances": {
-      "baseDefense": 760,
-      "maxDefense": 800,
-      "augDefense": 880,
-      "fireResistance": 20,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 20,
+      "water": -10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -17883,15 +18431,17 @@
   "doberbeta+": {
     "name": "Dober Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 760,
+      "max": 800,
+      "augmented": 880
+    },
     "resistances": {
-      "baseDefense": 760,
-      "maxDefense": 800,
-      "augDefense": 880,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 20
+      "fire": -10,
+      "water": 0,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 20
     },
     "skills": [
       {
@@ -17977,15 +18527,17 @@
   "doberalpha+": {
     "name": "Dober Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 760,
+      "max": 800,
+      "augmented": 880
+    },
     "resistances": {
-      "baseDefense": 760,
-      "maxDefense": 800,
-      "augDefense": 880,
-      "fireResistance": -10,
-      "waterResistance": 0,
-      "thunderResistance": -5,
-      "iceResistance": -5,
-      "dragonResistance": 20
+      "fire": -10,
+      "water": 0,
+      "thunder": -5,
+      "ice": -5,
+      "dragon": 20
     },
     "skills": [
       {
@@ -18077,15 +18629,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 750,
+      "max": 790,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 750,
-      "maxDefense": 790,
-      "augDefense": 870,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 10
+      "fire": 5,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 10
     },
     "skills": [
       {
@@ -18165,15 +18719,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 750,
+      "max": 790,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 750,
-      "maxDefense": 790,
-      "augDefense": 870,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 10
+      "fire": 5,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 10
     },
     "skills": [
       {
@@ -18261,15 +18817,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 790,
+      "max": 830,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 790,
-      "maxDefense": 830,
-      "augDefense": 910,
-      "fireResistance": 15,
-      "waterResistance": -20,
-      "thunderResistance": -10,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": -20,
+      "thunder": -10,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -18349,15 +18907,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 790,
+      "max": 830,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 790,
-      "maxDefense": 830,
-      "augDefense": 910,
-      "fireResistance": 15,
-      "waterResistance": -20,
-      "thunderResistance": -10,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": -20,
+      "thunder": -10,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -18433,15 +18993,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": -10
+      "fire": 10,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": -10
     },
     "skills": [
       {
@@ -18521,15 +19083,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": -10
+      "fire": 10,
+      "water": 0,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": -10
     },
     "skills": [
       {
@@ -18613,15 +19177,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": 5
+      "fire": 15,
+      "water": -10,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
     },
     "skills": [
       {
@@ -18697,15 +19263,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": 5
+      "fire": 15,
+      "water": -10,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
     },
     "skills": [
       {
@@ -18781,15 +19349,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 750,
+      "max": 790,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 750,
-      "maxDefense": 790,
-      "augDefense": 870,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": 10,
-      "dragonResistance": -5
+      "fire": -15,
+      "water": 10,
+      "thunder": -5,
+      "ice": 10,
+      "dragon": -5
     },
     "skills": [
       {
@@ -18869,15 +19439,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 750,
+      "max": 790,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 750,
-      "maxDefense": 790,
-      "augDefense": 870,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": 10,
-      "dragonResistance": -5
+      "fire": -15,
+      "water": 10,
+      "thunder": -5,
+      "ice": 10,
+      "dragon": -5
     },
     "skills": [
       {
@@ -18962,15 +19534,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 790,
+      "max": 830,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 790,
-      "maxDefense": 830,
-      "augDefense": 910,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 15,
-      "iceResistance": -25,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -25,
+      "dragon": 10
     },
     "skills": [
       {
@@ -19059,15 +19633,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 790,
+      "max": 830,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 790,
-      "maxDefense": 830,
-      "augDefense": 910,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 15,
-      "iceResistance": -25,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -25,
+      "dragon": 10
     },
     "skills": [
       {
@@ -19151,15 +19727,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -5,
-      "dragonResistance": -5
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -5,
+      "dragon": -5
     },
     "skills": [
       {
@@ -19227,15 +19805,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 710,
+      "max": 760,
+      "augmented": 870
+    },
     "resistances": {
-      "baseDefense": 710,
-      "maxDefense": 760,
-      "augDefense": 870,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -5,
-      "dragonResistance": -5
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -5,
+      "dragon": -5
     },
     "skills": [
       {
@@ -19315,15 +19895,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 10,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -19395,15 +19977,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": -10,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": -10,
+      "water": 10,
+      "thunder": -15,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -19487,15 +20071,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 720,
+      "max": 770,
+      "augmented": 880
+    },
     "resistances": {
-      "baseDefense": 720,
-      "maxDefense": 770,
-      "augDefense": 880,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -10,
-      "dragonResistance": -10
+      "fire": 20,
+      "water": -15,
+      "thunder": 5,
+      "ice": -10,
+      "dragon": -10
     },
     "skills": [
       {
@@ -19567,15 +20153,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 720,
+      "max": 770,
+      "augmented": 880
+    },
     "resistances": {
-      "baseDefense": 720,
-      "maxDefense": 770,
-      "augDefense": 880,
-      "fireResistance": 20,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -10,
-      "dragonResistance": -10
+      "fire": 20,
+      "water": -15,
+      "thunder": 5,
+      "ice": -10,
+      "dragon": -10
     },
     "skills": [
       {
@@ -19653,15 +20241,17 @@
   "lavasiothbeta+": {
     "name": "Lavasioth Beta +",
     "setBonus": "-",
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -19743,15 +20333,17 @@
   "lavasiothalpha+": {
     "name": "Lavasioth Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 15,
-      "waterResistance": -15,
-      "thunderResistance": 5,
-      "iceResistance": -10,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -15,
+      "thunder": 5,
+      "ice": -10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -19835,15 +20427,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 740,
+      "max": 780,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 740,
-      "maxDefense": 780,
-      "augDefense": 860,
-      "fireResistance": -10,
-      "waterResistance": -15,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 20
+      "fire": -10,
+      "water": -15,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 20
     },
     "skills": [
       {
@@ -19931,15 +20525,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 740,
+      "max": 780,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 740,
-      "maxDefense": 780,
-      "augDefense": 860,
-      "fireResistance": -10,
-      "waterResistance": -15,
-      "thunderResistance": -10,
-      "iceResistance": -10,
-      "dragonResistance": 20
+      "fire": -10,
+      "water": -15,
+      "thunder": -10,
+      "ice": -10,
+      "dragon": 20
     },
     "skills": [
       {
@@ -20027,15 +20623,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 10,
+      "thunder": -10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -20111,15 +20709,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": -15,
-      "dragonResistance": 0
+      "fire": 10,
+      "water": 10,
+      "thunder": -10,
+      "ice": -15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -20195,15 +20795,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 730,
+      "max": 770,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 730,
-      "maxDefense": 770,
-      "augDefense": 850,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": -5,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -20267,15 +20869,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 730,
+      "max": 770,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 730,
-      "maxDefense": 770,
-      "augDefense": 850,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": -5,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": -5,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -20375,15 +20979,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -20467,15 +21073,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": -5,
-      "waterResistance": 10,
-      "thunderResistance": -15,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -5,
+      "water": 10,
+      "thunder": -15,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -20551,15 +21159,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 740,
+      "max": 780,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 740,
-      "maxDefense": 780,
-      "augDefense": 860,
-      "fireResistance": 10,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": -20,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": -15,
+      "thunder": 0,
+      "ice": -20,
+      "dragon": 10
     },
     "skills": [
       {
@@ -20639,15 +21249,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 740,
+      "max": 780,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 740,
-      "maxDefense": 780,
-      "augDefense": 860,
-      "fireResistance": 10,
-      "waterResistance": -15,
-      "thunderResistance": 0,
-      "iceResistance": -20,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": -15,
+      "thunder": 0,
+      "ice": -20,
+      "dragon": 10
     },
     "skills": [
       {
@@ -20731,15 +21343,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": -15,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -10,
+      "thunder": 0,
+      "ice": -15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -20823,15 +21437,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 15,
-      "waterResistance": -10,
-      "thunderResistance": 0,
-      "iceResistance": -15,
-      "dragonResistance": 10
+      "fire": 15,
+      "water": -10,
+      "thunder": 0,
+      "ice": -15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -20911,15 +21527,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 740,
+      "max": 780,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 740,
-      "maxDefense": 780,
-      "augDefense": 860,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": -15,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 10,
+      "thunder": 10,
+      "ice": -15,
+      "dragon": -20
     },
     "skills": [
       {
@@ -20995,15 +21613,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 740,
+      "max": 780,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 740,
-      "maxDefense": 780,
-      "augDefense": 860,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": -15,
-      "dragonResistance": -20
+      "fire": 15,
+      "water": 10,
+      "thunder": 10,
+      "ice": -15,
+      "dragon": -20
     },
     "skills": [
       {
@@ -21083,15 +21703,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 15,
+      "water": 5,
+      "thunder": -10,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -21163,15 +21785,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 750,
+      "augmented": 860
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 750,
-      "augDefense": 860,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": 5,
-      "dragonResistance": -15
+      "fire": 15,
+      "water": 5,
+      "thunder": -10,
+      "ice": 5,
+      "dragon": -15
     },
     "skills": [
       {
@@ -21251,15 +21875,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 690,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 690,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -21339,15 +21965,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 690,
+      "max": 740,
+      "augmented": 850
+    },
     "resistances": {
-      "baseDefense": 690,
-      "maxDefense": 740,
-      "augDefense": 850,
-      "fireResistance": -15,
-      "waterResistance": 10,
-      "thunderResistance": -10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": -15,
+      "water": 10,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -21431,15 +22059,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 820,
+      "max": 850,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 820,
-      "maxDefense": 850,
-      "augDefense": 910,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": -10
     },
     "skills": [
       {
@@ -21527,15 +22157,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 820,
+      "max": 850,
+      "augmented": 910
+    },
     "resistances": {
-      "baseDefense": 820,
-      "maxDefense": 850,
-      "augDefense": 910,
-      "fireResistance": 15,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": -15,
-      "dragonResistance": -10
+      "fire": 15,
+      "water": 5,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": -10
     },
     "skills": [
       {
@@ -21628,15 +22260,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 750,
+      "max": 780,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 750,
-      "maxDefense": 780,
-      "augDefense": 840,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": 10,
+      "thunder": 10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -21733,15 +22367,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 750,
+      "max": 780,
+      "augmented": 840
+    },
     "resistances": {
-      "baseDefense": 750,
-      "maxDefense": 780,
-      "augDefense": 840,
-      "fireResistance": 15,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 15,
-      "dragonResistance": 0
+      "fire": 15,
+      "water": 10,
+      "thunder": 10,
+      "ice": 15,
+      "dragon": 0
     },
     "skills": [
       {
@@ -21829,15 +22465,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 800,
+      "max": 840,
+      "augmented": 920
+    },
     "resistances": {
-      "baseDefense": 800,
-      "maxDefense": 840,
-      "augDefense": 920,
-      "fireResistance": 10,
-      "waterResistance": -20,
-      "thunderResistance": -25,
-      "iceResistance": 0,
-      "dragonResistance": 20
+      "fire": 10,
+      "water": -20,
+      "thunder": -25,
+      "ice": 0,
+      "dragon": 20
     },
     "skills": [
       {
@@ -21929,15 +22567,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 800,
+      "max": 840,
+      "augmented": 920
+    },
     "resistances": {
-      "baseDefense": 800,
-      "maxDefense": 840,
-      "augDefense": 920,
-      "fireResistance": 10,
-      "waterResistance": -20,
-      "thunderResistance": -25,
-      "iceResistance": 0,
-      "dragonResistance": 20
+      "fire": 10,
+      "water": -20,
+      "thunder": -25,
+      "ice": 0,
+      "dragon": 20
     },
     "skills": [
       {
@@ -22030,15 +22670,17 @@
         "pieces": 5
       }
     ],
+    "defenses": {
+      "base": 840,
+      "max": 870,
+      "augmented": 930
+    },
     "resistances": {
-      "baseDefense": 840,
-      "maxDefense": 870,
-      "augDefense": 930,
-      "fireResistance": 10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": -5
+      "fire": 10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": -5
     },
     "skills": [
       {
@@ -22147,15 +22789,17 @@
         "pieces": 5
       }
     ],
+    "defenses": {
+      "base": 840,
+      "max": 870,
+      "augmented": 930
+    },
     "resistances": {
-      "baseDefense": 840,
-      "maxDefense": 870,
-      "augDefense": 930,
-      "fireResistance": 10,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": -5
+      "fire": 10,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": -5
     },
     "skills": [
       {
@@ -22256,15 +22900,17 @@
         "pieces": 5
       }
     ],
+    "defenses": {
+      "base": 600,
+      "max": 680,
+      "augmented": 790
+    },
     "resistances": {
-      "baseDefense": 600,
-      "maxDefense": 680,
-      "augDefense": 790,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 20,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 5,
+      "thunder": 5,
+      "ice": 20,
+      "dragon": 5
     },
     "skills": [
       {
@@ -22322,15 +22968,17 @@
   "dragonsealearringsalpha": {
     "name": "Dragonseal Earrings Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 60,
+      "max": 72,
+      "augmented": 86
+    },
     "resistances": {
-      "baseDefense": 60,
-      "maxDefense": 72,
-      "augDefense": 86,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -22343,15 +22991,17 @@
   "origin": {
     "name": "Origin",
     "setBonus": "-",
+    "defenses": {
+      "base": 30,
+      "max": 210,
+      "augmented": 360
+    },
     "resistances": {
-      "baseDefense": 30,
-      "maxDefense": 210,
-      "augDefense": 360,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -22364,15 +23014,17 @@
   "pulverizingfeather": {
     "name": "Pulverizing Feather",
     "setBonus": "-",
+    "defenses": {
+      "base": 32,
+      "max": 56,
+      "augmented": 76
+    },
     "resistances": {
-      "baseDefense": 32,
-      "maxDefense": 56,
-      "augDefense": 76,
-      "fireResistance": 0,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 0,
-      "dragonResistance": 0
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
     },
     "skills": [
       {
@@ -22385,15 +23037,17 @@
   "butterflym": {
     "name": "Butterfly M",
     "setBonus": "-",
+    "defenses": {
+      "base": 110,
+      "max": 250,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 110,
-      "maxDefense": 250,
-      "augDefense": 370,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -22422,15 +23076,17 @@
   "queenbeetlealpha": {
     "name": "Queen Beetle Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -22488,15 +23144,17 @@
   "queenbeetlebeta": {
     "name": "Queen Beetle Beta",
     "setBonus": "-",
+    "defenses": {
+      "base": 210,
+      "max": 320,
+      "augmented": 400
+    },
     "resistances": {
-      "baseDefense": 210,
-      "maxDefense": 320,
-      "augDefense": 400,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 0,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 10
     },
     "skills": [
       {
@@ -22546,15 +23204,17 @@
   "diver": {
     "name": "Diver",
     "setBonus": "-",
+    "defenses": {
+      "base": 110,
+      "max": 250,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 110,
-      "maxDefense": 250,
-      "augDefense": 370,
-      "fireResistance": 5,
-      "waterResistance": 20,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 20,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -22583,15 +23243,17 @@
   "diveralpha": {
     "name": "Diver Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 230,
+      "max": 340,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 230,
-      "maxDefense": 340,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 20,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 20,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -22641,15 +23303,17 @@
   "harvest": {
     "name": "Harvest",
     "setBonus": "-",
+    "defenses": {
+      "base": 130,
+      "max": 270,
+      "augmented": 390
+    },
     "resistances": {
-      "baseDefense": 130,
-      "maxDefense": 270,
-      "augDefense": 390,
-      "fireResistance": 20,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 20,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -22678,15 +23342,17 @@
   "harvestalpha": {
     "name": "Harvest Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 260,
+      "max": 360,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 260,
-      "maxDefense": 360,
-      "augDefense": 420,
-      "fireResistance": 20,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 20,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -22756,15 +23422,17 @@
   "orion": {
     "name": "Orion",
     "setBonus": "-",
+    "defenses": {
+      "base": 150,
+      "max": 270,
+      "augmented": 370
+    },
     "resistances": {
-      "baseDefense": 150,
-      "maxDefense": 270,
-      "augDefense": 370,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 20,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 5,
+      "thunder": 5,
+      "ice": 20,
+      "dragon": 5
     },
     "skills": [
       {
@@ -22793,15 +23461,17 @@
   "orionalpha": {
     "name": "Orion Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 290,
+      "max": 390,
+      "augmented": 450
+    },
     "resistances": {
-      "baseDefense": 290,
-      "maxDefense": 390,
-      "augDefense": 450,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 20,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 5,
+      "thunder": 5,
+      "ice": 20,
+      "dragon": 5
     },
     "skills": [
       {
@@ -22878,15 +23548,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 230,
+      "max": 340,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 230,
-      "maxDefense": 340,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -22955,15 +23627,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 320,
+      "max": 350,
+      "augmented": 420
+    },
     "resistances": {
-      "baseDefense": 320,
-      "maxDefense": 350,
-      "augDefense": 420,
-      "fireResistance": 5,
-      "waterResistance": 5,
-      "thunderResistance": 5,
-      "iceResistance": 5,
-      "dragonResistance": 5
+      "fire": 5,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 5
     },
     "skills": [
       {
@@ -23041,15 +23715,17 @@
   "ryu": {
     "name": "Ryu",
     "setBonus": "-",
+    "defenses": {
+      "base": 60,
+      "max": 220,
+      "augmented": 350
+    },
     "resistances": {
-      "baseDefense": 60,
-      "maxDefense": 220,
-      "augDefense": 350,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 25,
-      "iceResistance": -15,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 25,
+      "ice": -15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -23089,15 +23765,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 300,
+      "max": 360,
+      "augmented": 430
+    },
     "resistances": {
-      "baseDefense": 300,
-      "maxDefense": 360,
-      "augDefense": 430,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 25,
-      "iceResistance": -15,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 25,
+      "ice": -15,
+      "dragon": 10
     },
     "skills": [
       {
@@ -23177,15 +23855,17 @@
         "pieces": 3
       }
     ],
+    "defenses": {
+      "base": 250,
+      "max": 350,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 250,
-      "maxDefense": 350,
-      "augDefense": 410,
-      "fireResistance": 0,
-      "waterResistance": 20,
-      "thunderResistance": 0,
-      "iceResistance": 20,
-      "dragonResistance": -10
+      "fire": 0,
+      "water": 20,
+      "thunder": 0,
+      "ice": 20,
+      "dragon": -10
     },
     "skills": [
       {
@@ -23266,15 +23946,17 @@
         "pieces": 4
       }
     ],
+    "defenses": {
+      "base": 350,
+      "max": 380,
+      "augmented": 450
+    },
     "resistances": {
-      "baseDefense": 350,
-      "maxDefense": 380,
-      "augDefense": 450,
-      "fireResistance": 10,
-      "waterResistance": 5,
-      "thunderResistance": -10,
-      "iceResistance": -5,
-      "dragonResistance": 15
+      "fire": 10,
+      "water": 5,
+      "thunder": -10,
+      "ice": -5,
+      "dragon": 15
     },
     "skills": [
       {
@@ -23352,15 +24034,17 @@
   "cirialpha": {
     "name": "Ciri Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 350,
+      "max": 380,
+      "augmented": 450
+    },
     "resistances": {
-      "baseDefense": 350,
-      "maxDefense": 380,
-      "augDefense": 450,
-      "fireResistance": -10,
-      "waterResistance": -5,
-      "thunderResistance": 10,
-      "iceResistance": 5,
-      "dragonResistance": 15
+      "fire": -10,
+      "water": -5,
+      "thunder": 10,
+      "ice": 5,
+      "dragon": 15
     },
     "skills": [
       {
@@ -23442,15 +24126,17 @@
   "acrobatearringsalpha+": {
     "name": "Acrobat Earrings Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 158,
+      "max": 166,
+      "augmented": 182
+    },
     "resistances": {
-      "baseDefense": 158,
-      "maxDefense": 166,
-      "augDefense": 182,
-      "fireResistance": 1,
-      "waterResistance": 1,
-      "thunderResistance": 1,
-      "iceResistance": 1,
-      "dragonResistance": 1
+      "fire": 1,
+      "water": 1,
+      "thunder": 1,
+      "ice": 1,
+      "dragon": 1
     },
     "skills": [
       {
@@ -23476,15 +24162,17 @@
   "showmanearringsalpha+": {
     "name": "Showman Earrings Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 162,
+      "max": 168,
+      "augmented": 180
+    },
     "resistances": {
-      "baseDefense": 162,
-      "maxDefense": 168,
-      "augDefense": 180,
-      "fireResistance": 1,
-      "waterResistance": 1,
-      "thunderResistance": 1,
-      "iceResistance": 1,
-      "dragonResistance": 1
+      "fire": 1,
+      "water": 1,
+      "thunder": 1,
+      "ice": 1,
+      "dragon": 1
     },
     "skills": [
       {
@@ -23521,15 +24209,17 @@
         "pieces": 5
       }
     ],
+    "defenses": {
+      "base": 700,
+      "max": 780,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 700,
-      "maxDefense": 780,
-      "augDefense": 890,
-      "fireResistance": 10,
-      "waterResistance": 10,
-      "thunderResistance": 10,
-      "iceResistance": 10,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 10,
+      "thunder": 10,
+      "ice": 10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -23597,15 +24287,17 @@
         "pieces": 2
       }
     ],
+    "defenses": {
+      "base": 800,
+      "max": 830,
+      "augmented": 890
+    },
     "resistances": {
-      "baseDefense": 800,
-      "maxDefense": 830,
-      "augDefense": 890,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 10,
-      "iceResistance": 10,
-      "dragonResistance": 10
+      "fire": 10,
+      "water": 0,
+      "thunder": 10,
+      "ice": 10,
+      "dragon": 10
     },
     "skills": [
       {
@@ -23707,15 +24399,17 @@
   "buffbodyalpha+": {
     "name": "Buff Body Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 616,
+      "max": 648,
+      "augmented": 712
+    },
     "resistances": {
-      "baseDefense": 616,
-      "maxDefense": 648,
-      "augDefense": 712,
-      "fireResistance": 8,
-      "waterResistance": -4,
-      "thunderResistance": 0,
-      "iceResistance": -4,
-      "dragonResistance": -12
+      "fire": 8,
+      "water": -4,
+      "thunder": 0,
+      "ice": -4,
+      "dragon": -12
     },
     "skills": [
       {
@@ -23781,15 +24475,17 @@
   "duffelpenguinmaskalpha+": {
     "name": "Duffel Penguin Mask Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 138,
+      "max": 154,
+      "augmented": 176
+    },
     "resistances": {
-      "baseDefense": 138,
-      "maxDefense": 154,
-      "augDefense": 176,
-      "fireResistance": -1,
-      "waterResistance": 3,
-      "thunderResistance": 0,
-      "iceResistance": 4,
-      "dragonResistance": 0
+      "fire": -1,
+      "water": 3,
+      "thunder": 0,
+      "ice": 4,
+      "dragon": 0
     },
     "skills": [
       {
@@ -23807,15 +24503,17 @@
   "sealeddragonclothalpha+": {
     "name": "Sealed Dragon Cloth Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 152,
+      "max": 158,
+      "augmented": 170
+    },
     "resistances": {
-      "baseDefense": 152,
-      "maxDefense": 158,
-      "augDefense": 170,
-      "fireResistance": -3,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 1,
-      "dragonResistance": 5
+      "fire": -3,
+      "water": 0,
+      "thunder": 0,
+      "ice": 1,
+      "dragon": 5
     },
     "skills": [
       {
@@ -23837,15 +24535,17 @@
   "wyverianearsalpha+": {
     "name": "Wyverian Ears Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 140,
+      "max": 156,
+      "augmented": 178
+    },
     "resistances": {
-      "baseDefense": 140,
-      "maxDefense": 156,
-      "augDefense": 178,
-      "fireResistance": 1,
-      "waterResistance": 1,
-      "thunderResistance": 1,
-      "iceResistance": 1,
-      "dragonResistance": 5
+      "fire": 1,
+      "water": 1,
+      "thunder": 1,
+      "ice": 1,
+      "dragon": 5
     },
     "skills": [
       {
@@ -23873,15 +24573,17 @@
         "pieces": 5
       }
     ],
+    "defenses": {
+      "base": 660,
+      "max": 690,
+      "augmented": 750
+    },
     "resistances": {
-      "baseDefense": 660,
-      "maxDefense": 690,
-      "augDefense": 750,
-      "fireResistance": -5,
-      "waterResistance": -5,
-      "thunderResistance": 15,
-      "iceResistance": -5,
-      "dragonResistance": 10
+      "fire": -5,
+      "water": -5,
+      "thunder": 15,
+      "ice": -5,
+      "dragon": 10
     },
     "skills": [
       {
@@ -23959,15 +24661,17 @@
   "defenderalpha": {
     "name": "Defender Alpha",
     "setBonus": "-",
+    "defenses": {
+      "base": 250,
+      "max": 350,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 250,
-      "maxDefense": 350,
-      "augDefense": 410,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 10,
-      "dragonResistance": 15
+      "fire": 10,
+      "water": 0,
+      "thunder": 0,
+      "ice": 10,
+      "dragon": 15
     },
     "skills": [
       {
@@ -24025,15 +24729,17 @@
   "guardianalpha+": {
     "name": "Guardian Alpha +",
     "setBonus": "-",
+    "defenses": {
+      "base": 250,
+      "max": 350,
+      "augmented": 410
+    },
     "resistances": {
-      "baseDefense": 250,
-      "maxDefense": 350,
-      "augDefense": 410,
-      "fireResistance": 10,
-      "waterResistance": 0,
-      "thunderResistance": 0,
-      "iceResistance": 10,
-      "dragonResistance": 15
+      "fire": 10,
+      "water": 0,
+      "thunder": 0,
+      "ice": 10,
+      "dragon": 15
     },
     "skills": [
       {
