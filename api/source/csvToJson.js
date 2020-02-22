@@ -1,8 +1,8 @@
 "use strict";
 
-let fileUtils = require("././util/fileUtils");
-let stringUtils = require("././util/stringUtils");
-let jsonUtils = require("././util/jsonUtils");
+let fileUtils = require("./util/fileUtils");
+let stringUtils = require("./util/stringUtils");
+let jsonUtils = require("./util/jsonUtils");
 
 const newLine = /\r?\n/;
 const defaultFieldDelimiter = ";";

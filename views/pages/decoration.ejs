@@ -3,14 +3,14 @@
 
 <head>
   <title>CatBot Database</title>
-  <link rel="stylesheet" type="text/css" href="../css/default.css">
-  <link rel="stylesheet" type="text/css" href="../css/index.css">
+  <link rel="stylesheet" type="text/css" href="../default.css">
+  <link rel="stylesheet" type="text/css" href="../index.css">
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta charset="UTF-8">
   <meta property="og:type" content="website">
-  <link rel="icon" href="../css/icons/catbot.png" />
+  <link rel="icon" href="../icons/catbot.png" />
   <meta name="theme-color" content="#8fde5d" />
   <meta property="og:url" content="https://mhdb.catbot.xyz/" />
   <meta property="og:title" content="CatBot" />
@@ -26,8 +26,14 @@
 
 <body>
   <div class="navigation-bar__light">
-    <h5><img src="../css/icons/catbot.png" /> CatBot</h5>
+    <h5><img src="../icons/catbot.png" /> CatBot</h5>
     <nav>
+      <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox">
+          <input type="checkbox" id="checkbox" />
+          <div class="slider round"></div>
+        </label>
+      </div>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
       <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
       <a class="link-none"
@@ -39,25 +45,45 @@
 
   <div class="page-container__center">
     <div class="table-responsive">
-      <div class="table-header"> <%= DECORATION_NAME %>
+      <div class="table-header"> <%- DECORATION_NAME %>
         <span class="color-dark__muted text-style__small"></span>
       </div>
       <table class="table">
         <tbody>
           <tr>
             <td width="15%">Rarity</td>
-            <td><%= DECORATION_RARITY %></td>
+            <td><%- DECORATION_RARITY %></td>
           </tr>
 
           <tr>
             <td width="15%">Slot Size</td>
-            <td><%= DECORATION_SLOT %></td>
+            <td><%- DECORATION_SLOT %></td>
           </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- DECORATION_NAME %> Skills <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
           <tr>
-            <td width="15%">Skills</td>
-            <td><%= DECORATION_SKILLS %></td>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Level</th>
           </tr>
+        </thead>
+        <tbody>
+          <% for (let k of DECORATION_SKILLS) {%>
+          <tr>
+            <td><%- k.name %></td>
+            <td><%- k.description %></td>
+            <td><%- k.level %></td>
+          </tr>
+          <% } %>
         </tbody>
       </table>
     </div>
@@ -68,7 +94,7 @@
       ❤️</p>
   </div>
 </body>
-
+<script src="../index.js"></script>
 <script>
 
 </script>

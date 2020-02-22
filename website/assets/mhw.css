@@ -1,6 +1,9 @@
 body {
   background-color: #180e0d;
   color: #fff;
+  position: relative;
+  background: url('./icons/mhw_bg.jpg') top no-repeat fixed;
+  background-size: cover;
 }
 
 .card-command {
@@ -11,7 +14,7 @@ body {
 }
 
 .card-command::before {
-  background: url('./icon-corn-gray_top_d.svg') no-repeat;
+  background: url('./icons/icon-corn-gray_top_d.svg') no-repeat;
   display: block;
   content: "";
   position: absolute;
@@ -22,7 +25,7 @@ body {
 }
 
 .card-command::after {
-  background: url('./icon-corn-gray_bottom_d.svg') no-repeat;
+  background: url('./icons/icon-corn-gray_bottom_d.svg') no-repeat;
   display: block;
   content: "";
   position: absolute;
@@ -100,7 +103,7 @@ body {
 }
 
 .btn-main::before {
-  background: url('./icon-corn-gray_top_d.svg') no-repeat;
+  background: url('./icons/icon-corn-gray_top_d.svg') no-repeat;
   display: block;
   content: "";
   position: absolute;
@@ -111,7 +114,7 @@ body {
 }
 
 .btn-main::after {
-  background: url('./icon-corn-gray_bottom_d.svg') no-repeat;
+  background: url('./icons/icon-corn-gray_bottom_d.svg') no-repeat;
   display: block;
   content: "";
   position: absolute;
@@ -129,9 +132,9 @@ body {
 }
 
 .btn-main:hover::before {
-  background: url('./icon-corn-top_on.svg') no-repeat;
+  background: url('./icons/icon-corn-top_on.svg') no-repeat;
 }
 
 .btn-main:hover::after {
-  background: url('./icon-corn-bottom_on.svg') no-repeat;
+  background: url('./icons/icon-corn-bottom_on.svg') no-repeat;
 }

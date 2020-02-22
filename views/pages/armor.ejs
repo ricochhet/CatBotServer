@@ -3,14 +3,14 @@
 
 <head>
   <title>CatBot Database</title>
-  <link rel="stylesheet" type="text/css" href="../css/default.css">
-  <link rel="stylesheet" type="text/css" href="../css/index.css">
+  <link rel="stylesheet" type="text/css" href="../default.css">
+  <link rel="stylesheet" type="text/css" href="../index.css">
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta charset="UTF-8">
   <meta property="og:type" content="website">
-  <link rel="icon" href="../css/icons/catbot.png" />
+  <link rel="icon" href="../icons/catbot.png" />
   <meta name="theme-color" content="#8fde5d" />
   <meta property="og:url" content="https://mhdb.catbot.xyz/" />
   <meta property="og:title" content="CatBot" />
@@ -26,8 +26,14 @@
 
 <body>
   <div class="navigation-bar__light">
-    <h5><img src="../css/icons/catbot.png" /> CatBot</h5>
+    <h5><img src="../icons/catbot.png" /> CatBot</h5>
     <nav>
+      <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox">
+          <input type="checkbox" id="checkbox" />
+          <div class="slider round"></div>
+        </label>
+      </div>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
       <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
       <a class="link-none"
@@ -39,25 +45,120 @@
 
   <div class="page-container__center">
     <div class="table-responsive">
-      <div class="table-header"> <%= ARMOR_NAME %>
-        <span class="color-dark__muted text-style__small"></span>
+      <div class="table-header"> <%- ARMOR_NAME %> Set Bonus <span class="color-dark__muted text-style__small"></span>
       </div>
       <table class="table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Pieces</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% for (let k of ARMOR_SETBONUS) {%>
+          <tr>
+            <td><%- k.name %></td>
+            <td><%- k.description %></td>
+            <td><%- k.pieces %></td>
+          </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- ARMOR_NAME %> Defense <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Base Defense</th>
+            <th>Max Defense</th>
+            <th>Augmented Defense</th>
+          </tr>
+        </thead>
         <tbody>
           <tr>
-            <td width="15%">Set Bonus</td>
-            <td><%= ARMOR_SETBONUS %></td>
+            <td><%- ARMOR_RESISTANCES.baseDefense %></td>
+            <td><%- ARMOR_RESISTANCES.maxDefense %></td>
+            <td><%- ARMOR_RESISTANCES.augDefense %></td>
           </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- ARMOR_NAME %> Resistances <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
           <tr>
-            <td width="15%">Resistances</td>
-            <td><%= ARMOR_RESISTANCES %></td>
+            <th>Fire</th>
+            <th>Water</th>
+            <th>Thunder</th>
+            <th>Ice</th>
+            <th>Dragon</th>
           </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><%- ARMOR_RESISTANCES.fireResistance %></td>
+            <td><%- ARMOR_RESISTANCES.waterResistance %></td>
+            <td><%- ARMOR_RESISTANCES.thunderResistance %></td>
+            <td><%- ARMOR_RESISTANCES.iceResistance %></td>
+            <td><%- ARMOR_RESISTANCES.dragonResistance %></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- ARMOR_NAME %> Skills <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
           <tr>
-            <td width="15%">Skills</td>
-            <td><%= ARMOR_SKILLS %></td>
+            <th>Name</th>
+            <th>Rank</th>
           </tr>
+        </thead>
+        <tbody>
+          <% for (let k of ARMOR_SKILLS) {%>
+          <tr>
+            <td><%- k.name %></td>
+            <td><%- k.rank %></td>
+          </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- ARMOR_NAME %> Deco Slots <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Rank</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% for (let k of ARMOR_SLOTS) {%>
+          <tr>
+            <td><%- k.name %></td>
+            <td><%- k.rank %></td>
+          </tr>
+          <% } %>
         </tbody>
       </table>
     </div>
@@ -68,7 +169,7 @@
       ❤️</p>
   </div>
 </body>
-
+<script src="../index.js"></script>
 <script>
 
 </script>

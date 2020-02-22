@@ -3,14 +3,14 @@
 
 <head>
   <title>CatBot Database</title>
-  <link rel="stylesheet" type="text/css" href="../css/default.css">
-  <link rel="stylesheet" type="text/css" href="../css/index.css">
+  <link rel="stylesheet" type="text/css" href="../default.css">
+  <link rel="stylesheet" type="text/css" href="../index.css">
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta charset="UTF-8">
   <meta property="og:type" content="website">
-  <link rel="icon" href="../css/icons/catbot.png" />
+  <link rel="icon" href="../icons/catbot.png" />
   <meta name="theme-color" content="#8fde5d" />
   <meta property="og:url" content="https://mhdb.catbot.xyz/" />
   <meta property="og:title" content="CatBot" />
@@ -26,8 +26,14 @@
 
 <body>
   <div class="navigation-bar__light">
-    <h5><img src="../css/icons/catbot.png" /> CatBot</h5>
+    <h5><img src="../icons/catbot.png" /> CatBot</h5>
     <nav>
+      <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox">
+          <input type="checkbox" id="checkbox" />
+          <div class="slider round"></div>
+        </label>
+      </div>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
       <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
       <a class="link-none"
@@ -39,65 +45,209 @@
 
   <div class="page-container__center">
     <div class="table-responsive">
-      <div class="table-header"> <%= WEAPON_NAME %>
+      <div class="table-header"> <%- WEAPON_NAME %>
         <span class="color-dark__muted text-style__small"></span>
       </div>
       <table class="table">
         <tbody>
           <tr>
             <td width="15%">Type</td>
-            <td><%= WEAPON_TYPE %></td>
-          </tr>
-
-          <tr>
-            <td width="15%">Attack</td>
-            <td><%= WEAPON_ATTACK %></td>
-          </tr>
-
-          <tr>
-            <td width="15%">Defense</td>
-            <td><%= WEAPON_DEFENSE %></td>
-          </tr>
-
-          <tr>
-            <td width="15%">Sharpness</td>
-            <td><%= WEAPON_SHARPNESS %></td>
-          </tr>
-
-          <tr>
-            <td width="15%">Affinity</td>
-            <td><%= WEAPON_AFFINITY %></td>
-          </tr>
-
-          <tr>
-            <td width="15%">Elemental Attack</td>
-            <td><%= WEAPON_ELEMENTALATTACK %></td>
+            <td><%- WEAPON_TYPE %></td>
           </tr>
 
           <tr>
             <td width="15%">Rarity</td>
-            <td><%= WEAPON_RARITY %></td>
+            <td><%- WEAPON_RARITY %></td>
           </tr>
 
           <tr>
-            <td width="15%">Gem Slots</td>
-            <td><%= WEAPON_GEMSLOTS %></td>
+            <td width="15%">Bloated Attack</td>
+            <td><%- WEAPON_DISPLAYATTACK %></td>
           </tr>
 
           <tr>
-            <td width="15%">Wyvernheart</td>
-            <td><%= WEAPON_WYVERNHEART %></td>
+            <td width="15%">Raw Attack</td>
+            <td><%- WEAPON_RAWATTACK %></td>
           </tr>
 
           <tr>
-            <td width="15%">Phials</td>
-            <td><%= WEAPON_PHIALS %></td>
+            <td width="15%">Damage Type</td>
+            <td><%- WEAPON_DMGTYPE %></td>
           </tr>
 
           <tr>
-            <td width="15%">Notes</td>
-            <td><%= WEAPON_NOTES %></td>
+            <td width="15%">Affinity</td>
+            <td><%- WEAPON_AFFINITY %></td>
           </tr>
+
+          <tr>
+            <td width="15%">Defense</td>
+            <td><%- WEAPON_DEFENSE %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Elderseal</td>
+            <td><%- WEAPON_ELDERSEAL %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Shelling</td>
+            <td><%- WEAPON_SHELLING.type %> <%- WEAPON_SHELLING.level %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Special Ammo</td>
+            <td><%- WEAPON_SPECIALAMMO %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Deviation</td>
+            <td><%- WEAPON_DEVIATION %></td>
+          </tr>
+
+          <tr>
+            <td width="15%">Coatings</td>
+            <td><%- WEAPON_COATINGS %></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- WEAPON_NAME %> Sharpness Hits <span
+          class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Red</th>
+            <th>Orange</th>
+            <th>Yellow</th>
+            <th>Green</th>
+            <th>Blue</th>
+            <th>White</th>
+            <th>Purple</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Base</td>
+            <td><%- WEAPON_SHARPNESS.base.red %></td>
+            <td><%- WEAPON_SHARPNESS.base.orange %></td>
+            <td><%- WEAPON_SHARPNESS.base.yellow %></td>
+            <td><%- WEAPON_SHARPNESS.base.green %></td>
+            <td><%- WEAPON_SHARPNESS.base.blue %></td>
+            <td><%- WEAPON_SHARPNESS.base.white %></td>
+            <td><%- WEAPON_SHARPNESS.base.purple %></td>
+          </tr>
+
+          <tr>
+            <td>Handicraft LV1</td>
+            <td><%- WEAPON_SHARPNESS.h1.red %></td>
+            <td><%- WEAPON_SHARPNESS.h1.orange %></td>
+            <td><%- WEAPON_SHARPNESS.h1.yellow %></td>
+            <td><%- WEAPON_SHARPNESS.h1.green %></td>
+            <td><%- WEAPON_SHARPNESS.h1.blue %></td>
+            <td><%- WEAPON_SHARPNESS.h1.white %></td>
+            <td><%- WEAPON_SHARPNESS.h1.purple %></td>
+          </tr>
+
+          <tr>
+            <td>Handicraft LV2</td>
+            <td><%- WEAPON_SHARPNESS.h2.red %></td>
+            <td><%- WEAPON_SHARPNESS.h2.orange %></td>
+            <td><%- WEAPON_SHARPNESS.h2.yellow %></td>
+            <td><%- WEAPON_SHARPNESS.h2.green %></td>
+            <td><%- WEAPON_SHARPNESS.h2.blue %></td>
+            <td><%- WEAPON_SHARPNESS.h2.white %></td>
+            <td><%- WEAPON_SHARPNESS.h2.purple %></td>
+          </tr>
+
+          <tr>
+            <td>Handicraft LV3</td>
+            <td><%- WEAPON_SHARPNESS.h3.red %></td>
+            <td><%- WEAPON_SHARPNESS.h3.orange %></td>
+            <td><%- WEAPON_SHARPNESS.h3.yellow %></td>
+            <td><%- WEAPON_SHARPNESS.h3.green %></td>
+            <td><%- WEAPON_SHARPNESS.h3.blue %></td>
+            <td><%- WEAPON_SHARPNESS.h3.white %></td>
+            <td><%- WEAPON_SHARPNESS.h3.purple %></td>
+          </tr>
+
+          <tr>
+            <td>Handicraft LV4</td>
+            <td><%- WEAPON_SHARPNESS.h4.red %></td>
+            <td><%- WEAPON_SHARPNESS.h4.orange %></td>
+            <td><%- WEAPON_SHARPNESS.h4.yellow %></td>
+            <td><%- WEAPON_SHARPNESS.h4.green %></td>
+            <td><%- WEAPON_SHARPNESS.h4.blue %></td>
+            <td><%- WEAPON_SHARPNESS.h4.white %></td>
+            <td><%- WEAPON_SHARPNESS.h4.purple %></td>
+          </tr>
+
+          <tr>
+            <td>Handicraft LV5</td>
+            <td><%- WEAPON_SHARPNESS.h5.red %></td>
+            <td><%- WEAPON_SHARPNESS.h5.orange %></td>
+            <td><%- WEAPON_SHARPNESS.h5.yellow %></td>
+            <td><%- WEAPON_SHARPNESS.h5.green %></td>
+            <td><%- WEAPON_SHARPNESS.h5.blue %></td>
+            <td><%- WEAPON_SHARPNESS.h5.white %></td>
+            <td><%- WEAPON_SHARPNESS.h5.purple %></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- WEAPON_NAME %> Elements <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Damage</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% for (let k of WEAPON_ELEMENTS) {%>
+          <tr>
+            <td><%- k.type %></td>
+            <td><%- k.damage %></td>
+          </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- WEAPON_NAME %> Ammos <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Type</th>
+            <th>Level 1</th>
+            <th>Level 2</th>
+            <th>Level 3</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% for (let k of WEAPON_AMMOS) {%>
+          <tr>
+            <td><%- k.type %></td>
+            <td><%- k.lv1 %></td>
+            <td><%- k.lv2 %></td>
+            <td><%- k.lv3 %></td>
+          </tr>
+          <% } %>
         </tbody>
       </table>
     </div>
@@ -108,7 +258,7 @@
       ❤️</p>
   </div>
 </body>
-
+<script src="../index.js"></script>
 <script>
 
 </script>

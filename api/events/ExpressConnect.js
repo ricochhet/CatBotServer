@@ -5,9 +5,9 @@ const bodyParser = require('body-parser');
 const router = express.Router();
 
 /* API MAPS */
-let monsterDB = require('../databases/monsters.json');
+let monsterDB = require('../build/monsters.json');
 let monsterMap = new Map();
-let monsterHZVDB = require('../databases/monsterhzvs.json');
+let monsterHZVDB = require('../build/monsterhzvs.json');
 let monsterHZVMap = new Map();
 
 for (const i of Object.keys(monsterDB)) {
@@ -18,49 +18,49 @@ for (const i of Object.keys(monsterHZVDB)) {
   monsterHZVMap.set(i, monsterHZVDB[i]);
 }
 
-let itemDB = require('../databases/items.json');
+let itemDB = require('../build/items.json');
 let itemMap = new Map();
 
 for (const i of Object.keys(itemDB)) {
   itemMap.set(i, itemDB[i]);
 }
 
-let itemIDDB = require('../databases/itemids.json');
+let itemIDDB = require('../build/itemids.json');
 let itemIDMap = new Map();
 
 for (const i of Object.keys(itemIDDB)) {
   itemIDMap.set(itemIDDB[i].Name, itemIDDB[i]);
 }
 
-let armorDB = require('../databases/armors.json');
+let armorDB = require('../build/armors.json');
 let armorMap = new Map();
 
 for (const i of Object.keys(armorDB)) {
   armorMap.set(i, armorDB[i]);
 }
 
-let weaponDB = require('../databases/weapons.json');
+let weaponDB = require('../build/weapons.json');
 let weaponMap = new Map();
 
 for (const i of Object.keys(weaponDB)) {
   weaponMap.set(i, weaponDB[i]);
 }
 
-let decorationDB = require('../databases/decorations.json');
+let decorationDB = require('../build/decorations.json');
 let decorationMap = new Map();
 
 for (const i of Object.keys(decorationDB)) {
   decorationMap.set(i, decorationDB[i]);
 }
 
-let skillDB = require('../databases/skills.json');
+let skillDB = require('../build/skills.json');
 let skillMap = new Map();
 
 for (const i of Object.keys(skillDB)) {
   skillMap.set(i, skillDB[i]);
 }
 
-let questIDDB = require('../databases/questids.json');
+let questIDDB = require('../build/questids.json');
 
 module.exports = {
   express,
@@ -118,10 +118,10 @@ module.exports = {
           MONSTER_NAME: monster.title,
           MONSTER_DESCRIPTION: monster.description,
           MONSTER_ICON: monster.thumbnail,
-          MONSTER_ELEMENTS: monsterElements,
-          MONSTER_AILMENTS: monsterAilments,
-          MONSTER_BLIGHTS: monsterBlights,
-          MONSTER_LOCATIONS: monsterLocations,
+          MONSTER_ELEMENTS: monsterElements.split('\n').join('<br>'),
+          MONSTER_AILMENTS: monsterAilments.split('\n').join('<br>'),
+          MONSTER_BLIGHTS: monsterBlights.split('\n').join('<br>'),
+          MONSTER_LOCATIONS: monsterLocations.split('\n').join('<br>'),
           MONSTER_INFO: monster.info,
           MONSTER_HZV_SLASH: monster.hzv.slash,
           MONSTER_HZV_BLUNT: monster.hzv.blunt,
@@ -158,7 +158,7 @@ module.exports = {
           ITEM_VALUE: item.value,
           ITEM_ID: itemID
         });
-      } 
+      }
     });
 
     router.get('/armors', (res, req, next) => {
@@ -170,13 +170,13 @@ module.exports = {
     router.get('/armors/:id', (res, req, next) => {
       if (armorMap.has(res.params.id)) {
         const armor = armorMap.get(res.params.id);
-        const armorSkills = armor.skills.join(', ');
 
         req.render(renders.getArmor, {
           ARMOR_NAME: armor.name,
           ARMOR_SETBONUS: armor.setBonus,
           ARMOR_RESISTANCES: armor.resistances,
-          ARMOR_SKILLS: armorSkills
+          ARMOR_SKILLS: armor.skills,
+          ARMOR_SLOTS: armor.slots
         });
       }
     });
@@ -191,19 +191,31 @@ module.exports = {
       if (weaponMap.has(res.params.id)) {
         const weapon = weaponMap.get(res.params.id);
 
+        let coatingArray = '-';
+        if (Array.isArray(weapon.coatings) && weapon.coatings.length > 0) {
+          coatingArray = weapon.coatings.join('<br>');
+        } else {
+          coatingArray = weapon.coatings;
+        }
+
         req.render(renders.getWeapon, {
-          WEAPON_NAME: weapon.title,
+          WEAPON_NAME: weapon.name,
           WEAPON_TYPE: weapon.type,
-          WEAPON_ATTACK: weapon.attack,
+          WEAPON_RARITY: weapon.rarity,
+          WEAPON_DISPLAYATTACK: weapon.displayAttack,
+          WEAPON_RAWATTACK: weapon.rawAttack,
+          WEAPON_DMGTYPE: weapon.damageType,
+          WEAPON_AFFINITY: weapon.affinity,
           WEAPON_DEFENSE: weapon.defense,
           WEAPON_SHARPNESS: weapon.sharpness,
-          WEAPON_AFFINITY: weapon.affinity,
-          WEAPON_ELEMENTALATTACK: weapon.elementalattack,
-          WEAPON_RARITY: weapon.rarity,
-          WEAPON_GEMSLOTS: weapon.gemslots,
-          WEAPON_WYVERNHEART: weapon.wyvernheart,
-          WEAPON_PHIALS: weapon.phials,
-          WEAPON_NOTES: weapon.notes
+          WEAPON_ELDERSEAL: weapon.elderseal,
+          WEAPON_SHELLING: weapon.shelling,
+          WEAPON_SPECIALAMMO: weapon.specialAmmo,
+          WEAPON_DEVIATION: weapon.deviation,
+          WEAPON_AMMOS: weapon.ammos,
+          WEAPON_ELEMENTS: weapon.elements,
+          WEAPON_SLOTS: weapon.slots,
+          WEAPON_COATINGS: coatingArray
         });
       }
     });
@@ -215,17 +227,16 @@ module.exports = {
     });
 
     router.get('/decorations/:id', (res, req, next) => {
-      const modifiedParams = res.params.id.split('+').join('/');
+      let modifiedParams = res.params.id;
 
       if (decorationMap.has(modifiedParams)) {
         const decoration = decorationMap.get(modifiedParams);
-        const decorationSkills = decoration.skills.join(', ');
 
         req.render(renders.getDecorations, {
           DECORATION_NAME: decoration.name,
           DECORATION_RARITY: decoration.rarity,
           DECORATION_SLOT: decoration.slot,
-          DECORATION_SKILLS: decorationSkills
+          DECORATION_SKILLS: decoration.skills
         });
       }
     });
@@ -239,12 +250,11 @@ module.exports = {
     router.get('/skills/:id', (res, req, next) => {
       if (skillMap.has(res.params.id)) {
         const skill = skillMap.get(res.params.id);
-        const skillRanks = skill.ranks.join(', ');
 
         req.render(renders.getSkills, {
           SKILL_NAME: skill.name,
           SKILL_DESCRIPTION: skill.description,
-          SKILL_RANKS: skillRanks
+          SKILL_RANKS: skill.ranks
         });
       }
     });

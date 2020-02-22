@@ -11,7 +11,7 @@ function rippleEffect(e) {
   const posY = e.clientY - rect.top;
   const size = Math.max(width, height);
   const effect = document.createElement('DIV');
-  
+
   effect.className = 'effect';
   effect.style.width = size + 'px';
   effect.style.height = size + 'px';
@@ -25,3 +25,28 @@ function rippleEffect(e) {
     parent.removeChild(effect);
   }, 750);
 }
+
+const toggleSwitch = document.querySelector(
+  '.theme-switch input[type="checkbox"]'
+);
+const currentTheme = localStorage.getItem('theme');
+
+if (currentTheme) {
+  document.documentElement.setAttribute('data-theme', currentTheme);
+
+  if (currentTheme === 'dark') {
+    toggleSwitch.checked = true;
+  }
+}
+
+function switchTheme(e) {
+  if (e.target.checked) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    localStorage.setItem('theme', 'dark');
+  } else {
+    document.documentElement.setAttribute('data-theme', 'light');
+    localStorage.setItem('theme', 'light');
+  }
+}
+
+toggleSwitch.addEventListener('change', switchTheme, false);

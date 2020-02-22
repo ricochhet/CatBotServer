@@ -3,14 +3,14 @@
 
 <head>
   <title>CatBot Database</title>
-  <link rel="stylesheet" type="text/css" href="../css/default.css">
-  <link rel="stylesheet" type="text/css" href="../css/index.css">
+  <link rel="stylesheet" type="text/css" href="../default.css">
+  <link rel="stylesheet" type="text/css" href="../index.css">
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta charset="UTF-8">
   <meta property="og:type" content="website">
-  <link rel="icon" href="../css/icons/catbot.png" />
+  <link rel="icon" href="../icons/catbot.png" />
   <meta name="theme-color" content="#8fde5d" />
   <meta property="og:url" content="https://mhdb.catbot.xyz/" />
   <meta property="og:title" content="CatBot" />
@@ -26,8 +26,14 @@
 
 <body>
   <div class="navigation-bar__light">
-    <h5><img src="../css/icons/catbot.png" /> CatBot</h5>
+    <h5><img src="../icons/catbot.png" /> CatBot</h5>
     <nav>
+      <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox">
+          <input type="checkbox" id="checkbox" />
+          <div class="slider round"></div>
+        </label>
+      </div>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
       <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
       <a class="link-none"
@@ -50,8 +56,8 @@
         <tbody>
           <% for (const i of Object.keys(QUESTID_MAP)) {%>
           <tr>
-            <td><%= QUESTID_MAP[i].id %></td>
-            <td><%= QUESTID_MAP[i].name %></td>
+            <td><%= QUESTID_MAP[i].QuestID %></td>
+            <td><%= QUESTID_MAP[i].Name %></td>
           </tr>
           <% } %>
         </tbody>
@@ -64,7 +70,7 @@
       ❤️</p>
   </div>
 </body>
-
+<script src="../index.js"></script>
 <script>
   function searchMenu() {
     let input = document.getElementById("search-input");

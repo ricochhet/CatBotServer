@@ -7,7 +7,7 @@ const decorationsURL = `https://mhw-db.com/decorations`;
 const skillsURL = `https://mhw-db.com/skills`;
 const weaponsURL = `https://mhw-db.com/weapons`;
 
-const csvManager = require('./src/csvToJson');
+const csvManager = require('./source/csvToJson');
 
 async function getData(url) {
   const response = await fetch(url);
@@ -16,13 +16,20 @@ async function getData(url) {
 
 module.exports = {
   writeData: async function(
-    data = { delim: `,`, input: 'file.csv', output: 'file.json' }
+    data = { delim: `,`, input: 'file.csv', output: 'file.json' },
+    advanced
   ) {
-    csvManager.fieldDelimiter(data.delim).getJsonFromCsv(data.input);
-    csvManager.formatValueByType().getJsonFromCsv(data.input);
-    csvManager.generateJsonFileFromCsv(data.input, data.output);
+    if (!advanced) {
+      csvManager.fieldDelimiter(data.delim).getJsonFromCsv(data.input);
+      csvManager.formatValueByType().getJsonFromCsv(data.input);
+      csvManager.generateJsonFileFromCsv(data.input, data.output);
+    } else {
+      csvManager.fieldDelimiter(data.delim).getJsonFromCsv(data.input);
+      csvManager.formatValueByType().getJsonFromCsv(data.input);
+      csvManager.generateJsonFileFromCsv(data.input, data.output);
+    }
   },
-  writeWeapons: async function(writeTo) {
+  writeWeapons: async function(writeTo, advanced) {
     const weaponsAPIDatabase = await getData(weaponsURL);
     const db = {};
 
@@ -40,7 +47,142 @@ module.exports = {
       }
 
       let sharpness = '-';
+      let handicraft1 = '-';
+      let handicraft2 = '-';
+      let handicraft3 = '-';
+      let handicraft4 = '-';
+      let handicraft5 = '-';
       if (key.durability) {
+        if (key.durability[0]) {
+          const s = [
+            key.durability[0].red,
+            key.durability[0].orange,
+            key.durability[0].yellow,
+            key.durability[0].green,
+            key.durability[0].blue,
+            key.durability[0].white,
+            key.durability[0].purple
+          ];
+
+          if (!advanced) {
+            sharpness = `Red: ${s[0]}\nOrange: ${s[1]}\nYellow: ${s[2]}\nGreen: ${s[3]}\nBlue: ${s[4]}\nWhite: ${s[5]}\nPurple: ${s[6]}`;
+          } else {
+            sharpness = {
+              red: s[0],
+              orange: s[1],
+              yellow: s[2],
+              green: s[3],
+              blue: s[4],
+              white: s[5],
+              purple: s[6]
+            };
+          }
+        }
+
+        if (key.durability[1]) {
+          const s = [
+            key.durability[1].red,
+            key.durability[1].orange,
+            key.durability[1].yellow,
+            key.durability[1].green,
+            key.durability[1].blue,
+            key.durability[1].white,
+            key.durability[1].purple
+          ];
+
+          if (!advanced) {
+            handicraft1 = `Red: ${s[0]}\nOrange: ${s[1]}\nYellow: ${s[2]}\nGreen: ${s[3]}\nBlue: ${s[4]}\nWhite: ${s[5]}\nPurple: ${s[6]}`;
+          } else {
+            handicraft1 = {
+              red: s[0],
+              orange: s[1],
+              yellow: s[2],
+              green: s[3],
+              blue: s[4],
+              white: s[5],
+              purple: s[6]
+            };
+          }
+        }
+
+        if (key.durability[2]) {
+          const s = [
+            key.durability[2].red,
+            key.durability[2].orange,
+            key.durability[2].yellow,
+            key.durability[2].green,
+            key.durability[2].blue,
+            key.durability[2].white,
+            key.durability[2].purple
+          ];
+
+          if (!advanced) {
+            handicraft2 = `Red: ${s[0]}\nOrange: ${s[1]}\nYellow: ${s[2]}\nGreen: ${s[3]}\nBlue: ${s[4]}\nWhite: ${s[5]}\nPurple: ${s[6]}`;
+          } else {
+            handicraft2 = {
+              red: s[0],
+              orange: s[1],
+              yellow: s[2],
+              green: s[3],
+              blue: s[4],
+              white: s[5],
+              purple: s[6]
+            };
+          }
+        }
+
+        if (key.durability[3]) {
+          const s = [
+            key.durability[3].red,
+            key.durability[3].orange,
+            key.durability[3].yellow,
+            key.durability[3].green,
+            key.durability[3].blue,
+            key.durability[3].white,
+            key.durability[3].purple
+          ];
+
+          if (!advanced) {
+            handicraft3 = `Red: ${s[0]}\nOrange: ${s[1]}\nYellow: ${s[2]}\nGreen: ${s[3]}\nBlue: ${s[4]}\nWhite: ${s[5]}\nPurple: ${s[6]}`;
+          } else {
+            handicraft3 = {
+              red: s[0],
+              orange: s[1],
+              yellow: s[2],
+              green: s[3],
+              blue: s[4],
+              white: s[5],
+              purple: s[6]
+            };
+          }
+        }
+
+        if (key.durability[4]) {
+          const s = [
+            key.durability[4].red,
+            key.durability[4].orange,
+            key.durability[4].yellow,
+            key.durability[4].green,
+            key.durability[4].blue,
+            key.durability[4].white,
+            key.durability[4].purple
+          ];
+
+          if (!advanced) {
+            handicraft4 = `Red: ${s[0]}\nOrange: ${s[1]}\nYellow: ${s[2]}\nGreen: ${s[3]}\nBlue: ${s[4]}\nWhite: ${s[5]}\nPurple: ${s[6]}`;
+          } else {
+            handicraft4 = {
+              red: s[0],
+              orange: s[1],
+              yellow: s[2],
+              green: s[3],
+              blue: s[4],
+              white: s[5],
+              purple: s[6]
+            };
+          }
+        }
+
         if (key.durability[5]) {
           const s = [
             key.durability[5].red,
@@ -52,7 +194,19 @@ module.exports = {
             key.durability[5].purple
           ];
 
-          sharpness = `Red: ${s[0]}\nOrange: ${s[1]}\nYellow: ${s[2]}\nGreen: ${s[3]}\nBlue: ${s[4]}\nWhite: ${s[5]}\nPurple: ${s[6]}`;
+          if (!advanced) {
+            handicraft5 = `Red: ${s[0]}\nOrange: ${s[1]}\nYellow: ${s[2]}\nGreen: ${s[3]}\nBlue: ${s[4]}\nWhite: ${s[5]}\nPurple: ${s[6]}`;
+          } else {
+            handicraft5 = {
+              red: s[0],
+              orange: s[1],
+              yellow: s[2],
+              green: s[3],
+              blue: s[4],
+              white: s[5],
+              purple: s[6]
+            };
+          }
         }
       }
 
@@ -64,7 +218,14 @@ module.exports = {
 
       let shelling = '-';
       if (key.shelling) {
-        shelling = `${key.shelling.type} LV${key.shelling.level}`;
+        if (!advanced) {
+          shelling = `${key.shelling.type} LV${key.shelling.level}`;
+        } else {
+          shelling = {
+            type: key.shelling.type,
+            level: key.shelling.level
+          };
+        }
       }
 
       let specialAmmo = '-';
@@ -99,31 +260,62 @@ module.exports = {
             ammos = [];
           }
 
-          ammos.push(
-            `${key.ammo[i].type}\nLV1 - ${levelOne}\nLV2 - ${levelTwo}\nLV3 - ${levelThree}`
-          );
+          if (!advanced) {
+            ammos.push(
+              `${key.ammo[i].type}\nLV1: ${levelOne}\nLV2: ${levelTwo}\nLV3: ${levelThree}`
+            );
+          } else {
+            let obj = {};
+            obj = {
+              type: key.ammo[i].type,
+              lv1: levelOne,
+              lv2: levelTwo,
+              lv3: levelThree
+            };
+
+            ammos.push(obj);
+          }
         }
       }
 
       let elements = [];
       if (key.elements) {
         for (const i in key.elements) {
-          elements.push(
-            `${key.elements[i].type} - ${key.elements[i].damage} Damage`
-          );
+          if (!advanced) {
+            elements.push(
+              `${key.elements[i].type}: ${key.elements[i].damage} damage`
+            );
+          } else {
+            let obj = {};
+            obj = {
+              type: key.elements[i].type,
+              damage: key.elements[i].damage
+            };
+
+            elements.push(obj);
+          }
         }
       }
 
       let slots = [];
       if (key.slots) {
         for (const i in key.slots) {
-          slots.push(`Rank - ${key.slots[i].rank}`);
+          if (!advanced) {
+            slots.push(`Rank: ${key.slots[i].rank}`);
+          } else {
+            let obj = {};
+            obj = {
+              rank: key.slots[i].rank
+            };
+
+            slots.push(obj);
+          }
         }
       }
 
-      let coatings = [];
+      let coatings = '-';
       if (key.coatings) {
-        coatings = `${key.coatings.join('\n ')}`;
+        coatings = key.coatings;
       }
 
       let damageType = '-';
@@ -152,12 +344,19 @@ module.exports = {
         name: key.name,
         type: key.type,
         rarity: key.rarity,
-        displayAttack: key.display,
-        rawAttack: key.raw,
+        displayAttack: key.attack.display,
+        rawAttack: key.attack.raw,
         damageType: damageType,
         affinity: affinity,
         defense: defense,
-        sharpness: sharpness,
+        sharpness: {
+          base: sharpness,
+          h1: handicraft1,
+          h2: handicraft2,
+          h3: handicraft3,
+          h4: handicraft4,
+          h5: handicraft5,
+        },
         elderseal: elderseal,
         shelling: shelling,
         specialAmmo: specialAmmo,
@@ -200,7 +399,7 @@ module.exports = {
       }
     });
   },
-  writeDecorations: async function(writeTo) {
+  writeDecorations: async function(writeTo, advanced) {
     const decorationsAPIDatabase = await getData(decorationsURL);
     const db = {};
 
@@ -208,9 +407,21 @@ module.exports = {
       let skills = [];
 
       for (let i of key.skills) {
-        skills.push(`${i.skillName} - ${i.description} LV${i.level}`);
+        if (!advanced) {
+          skills.push(`${i.skillName}: ${i.description} LV${i.level}`);
+        } else {
+          let obj = {};
+          obj = {
+            name: i.skillName,
+            description: i.description,
+            level: i.level
+          };
 
-        db[key.name.toLowerCase().replace(/ /g, '')] = {
+          skills.push(obj);
+        }
+
+        let nameString = key.name.toLowerCase().replace(/ /g, '');
+        db[nameString.split('/').join('+')] = {
           name: key.name,
           rarity: key.rarity,
           slot: key.slot,
@@ -225,7 +436,7 @@ module.exports = {
       }
     });
   },
-  writeSkills: async function(writeTo) {
+  writeSkills: async function(writeTo, advanced) {
     const skillAPIDatabase = await getData(skillsURL);
     const db = {};
 
@@ -233,7 +444,17 @@ module.exports = {
       let ranks = [];
 
       for (let i of key.ranks) {
-        ranks.push(`LV${i.level} - ${i.description}`);
+        if (!advanced) {
+          ranks.push(`LV${i.level}: ${i.description}`);
+        } else {
+          let obj = {};
+          obj = {
+            level: i.level,
+            description: i.description
+          };
+
+          ranks.push(obj);
+        }
 
         db[key.name.toLowerCase().replace(/ /g, '')] = {
           name: key.name,
@@ -249,185 +470,15 @@ module.exports = {
       }
     });
   },
-  writeArmors: async function(writeTo) {
+  writeArmors: async function(writeTo, advanced) {
     const armorsAPIDatabase = await getData(armorsURL);
     const db = {};
 
     for (let key of armorsAPIDatabase) {
-      let setBonus = '-';
-      let headSkills = [];
-      let chestSkills = [];
-      let armSkills = [];
-      let waistSkills = [];
-      let legSkills = [];
-
-      if (key.bonus) {
-        if (key.bonus.name) {
-          setBonus = `${key.bonus.name} - ${key.bonus.ranks[0].skill.description} (${key.bonus.ranks[0].pieces} pieces)`;
-        }
-      }
-
-      db[key.name.toLowerCase().replace(/ /g, '')] = {
-        name: key.name,
-        rank: key.rank,
-        setBonus: setBonus
-      };
-
-      if (key.pieces[0] && key.pieces[0].skills[0]) {
-        if (
-          !key.pieces[0].skills[0].skillName === undefined ||
-          !key.pieces[0].skills[0].skillName === null ||
-          !key.pieces[0].skills[0].skillName == ''
-        ) {
-          for (let i of key.pieces[0].skills) {
-            headSkills.push(i.skillName);
-          }
-        }
-      }
-
-      if (key.pieces[1] && key.pieces[1].skills[0]) {
-        if (
-          !key.pieces[1].skills[0].skillName === undefined ||
-          !key.pieces[1].skills[0].skillName === null ||
-          !key.pieces[1].skills[0].skillName == ''
-        ) {
-          for (let i of key.pieces[1].skills) {
-            chestSkills.push(i.skillName);
-          }
-        }
-      }
-
-      if (key.pieces[2] && key.pieces[2].skills[0]) {
-        if (
-          !key.pieces[2].skills[0].skillName === undefined ||
-          !key.pieces[2].skills[0].skillName === null ||
-          !key.pieces[2].skills[0].skillName == ''
-        ) {
-          for (let i of key.pieces[2].skills) {
-            armSkills.push(i.skillName);
-          }
-        }
-      }
-
-      if (key.pieces[3] && key.pieces[3].skills[0]) {
-        if (
-          !key.pieces[3].skills[0].skillName === undefined ||
-          !key.pieces[3].skills[0].skillName === null ||
-          !key.pieces[3].skills[0].skillName == ''
-        ) {
-          for (let i of key.pieces[3].skills) {
-            waistSkills.push(i.skillName);
-          }
-        }
-      }
-
-      if (key.pieces[4] && key.pieces[3].skills[0]) {
-        if (
-          !key.pieces[4].skills[0].skillName === undefined ||
-          !key.pieces[4].skills[0].skillName === null ||
-          !key.pieces[4].skills[0].skillName == ''
-        ) {
-          for (let i of key.pieces[4].skills) {
-            legSkills.push(i.skillName);
-          }
-        }
-      }
-
-      if (key.pieces[0]) {
-        db[key.name.toLowerCase().replace(/ /g, '')]['head'] = {
-          head_name: key.pieces[0].name,
-          head_rarity: key.pieces[0].rarity,
-          head_base_defense: key.pieces[0].defense.base,
-          head_max_defense: key.pieces[0].defense.max,
-          head_augmented_defense: key.pieces[0].defense.augmented,
-          head_fire_resistances: key.pieces[0].resistances.fire,
-          head_ice_resistances: key.pieces[0].resistances.ice,
-          head_water_resistances: key.pieces[0].resistances.water,
-          head_thunder_resistances: key.pieces[0].resistances.thunder,
-          head_dragon_resistances: key.pieces[0].resistances.dragon,
-          head_slots: key.pieces[0].slots.length,
-          head_skills: headSkills
-        };
-      }
-
-      if (key.pieces[1]) {
-        db[key.name.toLowerCase().replace(/ /g, '')]['chest'] = {
-          chest_name: key.pieces[1].name,
-          chest_rarity: key.pieces[1].rarity,
-          chest_base_defense: key.pieces[1].defense.base,
-          chest_max_defense: key.pieces[1].defense.max,
-          chest_augmented_defense: key.pieces[1].defense.augmented,
-          chest_fire_resistances: key.pieces[1].resistances.fire,
-          chest_ice_resistances: key.pieces[1].resistances.ice,
-          chest_water_resistances: key.pieces[1].resistances.water,
-          chest_thunder_resistances: key.pieces[1].resistances.thunder,
-          chest_dragon_resistances: key.pieces[1].resistances.dragon,
-          chest_slots: key.pieces[1].slots.length,
-          chest_skills: chestSkills
-        };
-      }
-
-      if (key.pieces[2]) {
-        db[key.name.toLowerCase().replace(/ /g, '')]['arm'] = {
-          arm_name: key.pieces[2].name,
-          arm_rarity: key.pieces[2].rarity,
-          arm_base_defense: key.pieces[2].defense.base,
-          arm_max_defense: key.pieces[2].defense.max,
-          arm_augmented_defense: key.pieces[2].defense.augmented,
-          arm_fire_resistances: key.pieces[2].resistances.fire,
-          arm_ice_resistances: key.pieces[2].resistances.ice,
-          arm_water_resistances: key.pieces[2].resistances.water,
-          arm_thunder_resistances: key.pieces[2].resistances.thunder,
-          arm_dragon_resistances: key.pieces[2].resistances.dragon,
-          arm_slots: key.pieces[2].slots.length,
-          arm_skills: armSkills
-        };
-      }
-
-      if (key.pieces[3]) {
-        db[key.name.toLowerCase().replace(/ /g, '')]['waist'] = {
-          waist_name: key.pieces[3].name,
-          waist_rarity: key.pieces[3].rarity,
-          waist_base_defense: key.pieces[3].defense.base,
-          waist_max_defense: key.pieces[3].defense.max,
-          waist_augmented_defense: key.pieces[3].defense.augmented,
-          waist_fire_resistances: key.pieces[3].resistances.fire,
-          waist_ice_resistances: key.pieces[3].resistances.ice,
-          waist_water_resistances: key.pieces[3].resistances.water,
-          waist_thunder_resistances: key.pieces[3].resistances.thunder,
-          waist_dragon_resistances: key.pieces[3].resistances.dragon,
-          waist_slots: key.pieces[3].slots.length,
-          waist_skills: waistSkills
-        };
-      }
-
-      if (key.pieces[4]) {
-        db[key.name.toLowerCase().replace(/ /g, '')]['leg'] = {
-          leg_name: key.pieces[4].name,
-          leg_rarity: key.pieces[4].rarity,
-          leg_base_defense: key.pieces[4].defense.base,
-          leg_max_defense: key.pieces[4].defense.max,
-          leg_augmented_defense: key.pieces[4].defense.augmented,
-          leg_fire_resistances: key.pieces[4].resistances.fire,
-          leg_ice_resistances: key.pieces[4].resistances.ice,
-          leg_water_resistances: key.pieces[4].resistances.water,
-          leg_thunder_resistances: key.pieces[4].resistances.thunder,
-          leg_dragon_resistances: key.pieces[4].resistances.dragon,
-          leg_slots: key.pieces[4].slots.length,
-          leg_skills: legSkills
-        };
-      }
-    }
-
-    const armors = new Map();
-    for (const i of Object.keys(db)) {
-      armors.set(i, db[i]);
-    }
-
-    for (let key of armors.keys()) {
-      const armor = armors.get(key);
-
       let totalDefense = 0;
+      let maxDefense = 0;
+      let augDefense = 0;
+
       let fireResistance = 0;
       let waterResistance = 0;
       let thunderResistance = 0;
@@ -435,91 +486,109 @@ module.exports = {
       let dragonResistance = 0;
 
       let armorSkills = [];
+      let setBonus = [];
 
-      let head = [];
-      let chest = [];
-      let arm = [];
-      let waist = [];
-      let leg = [];
+      let slots = [];
 
-      if (armor.head != undefined) {
-        totalDefense += armor.head.head_base_defense;
+      if (key.bonus) {
+        if (key.bonus.name) {
+          for (let i of key.bonus.ranks) {
+            if (!advanced) {
+              setBonus.push(
+                `${key.bonus.name}: ${i.description} (${i.pieces} pieces)`
+              );
+            } else {
+              let obj = {};
+              obj = {
+                name: key.bonus.name,
+                description: i.description,
+                pieces: i.pieces
+              };
 
-        fireResistance += armor.head.head_fire_resistances;
-        waterResistance += armor.head.head_water_resistances;
-        thunderResistance += armor.head.head_thunder_resistances;
-        iceResistance += armor.head.head_ice_resistances;
-        dragonResistance += armor.head.head_dragon_resistances;
-
-        if (armor.head.head_skills != undefined) {
-          head = armor.head.head_skills;
+              setBonus.push(obj);
+            }
+          }
         }
       }
 
-      if (armor.chest != undefined) {
-        totalDefense += armor.chest.chest_base_defense;
+      if (key.pieces) {
+        for (const i in key.pieces) {
+          totalDefense += key.pieces[i].defense.base;
+          maxDefense += key.pieces[i].defense.max;
+          augDefense += key.pieces[i].defense.augmented;
 
-        fireResistance += armor.chest.chest_fire_resistances;
-        waterResistance += armor.chest.chest_water_resistances;
-        thunderResistance += armor.chest.chest_thunder_resistances;
-        iceResistance += armor.chest.chest_ice_resistances;
-        dragonResistance += armor.chest.chest_dragon_resistances;
+          fireResistance += key.pieces[i].resistances.fire;
+          waterResistance += key.pieces[i].resistances.water;
+          thunderResistance += key.pieces[i].resistances.thunder;
+          iceResistance += key.pieces[i].resistances.ice;
+          dragonResistance += key.pieces[i].resistances.dragon;
 
-        if (armor.chest.chest_skills != undefined) {
-          chest = armor.chest.chest_skills;
+          for (const v in key.pieces[i].skills) {
+            if (!advanced) {
+              armorSkills.push(key.pieces[i].skills[v].skillName);
+            } else {
+              let obj = {};
+              obj = {
+                name: key.pieces[i].name,
+                rank: key.pieces[i].skills[v].skillName
+              };
+
+              armorSkills.push(obj);
+            }
+          }
+
+          for (const v in key.pieces[i].slots) {
+            if (
+              key.pieces[i].slots.length &&
+              Array.isArray(key.pieces[i].slots)
+            ) {
+              if (!advanced) {
+                slots.push(
+                  `${key.pieces[i].name}: Rank: ${key.pieces[i].slots[v].rank}`
+                );
+              } else {
+                let obj = {};
+                obj = {
+                  name: key.pieces[i].name,
+                  rank: key.pieces[i].slots[v].rank
+                };
+
+                slots.push(obj);
+              }
+            }
+          }
         }
       }
 
-      if (armor.arm != undefined) {
-        totalDefense += armor.arm.arm_base_defense;
-
-        fireResistance += armor.arm.arm_fire_resistances;
-        waterResistance += armor.arm.arm_water_resistances;
-        thunderResistance += armor.arm.arm_thunder_resistances;
-        iceResistance += armor.arm.arm_ice_resistances;
-        dragonResistance += armor.arm.arm_dragon_resistances;
-
-        if (armor.arm.arm_skills != undefined) {
-          arm = armor.arm.arm_skills;
-        }
+      if (!Array.isArray(setBonus) || !setBonus.length) {
+        setBonus = '-';
       }
 
-      if (armor.waist != undefined) {
-        totalDefense += armor.waist.waist_base_defense;
-
-        fireResistance += armor.waist.waist_fire_resistances;
-        waterResistance += armor.waist.waist_water_resistances;
-        thunderResistance += armor.waist.waist_thunder_resistances;
-        iceResistance += armor.waist.waist_ice_resistances;
-        dragonResistance += armor.waist.waist_dragon_resistances;
-
-        if (armor.waist.waist_skills != undefined) {
-          waist = armor.waist.waist_skills;
-        }
+      if (!Array.isArray(slots) || !slots.length) {
+        slots = '-';
       }
 
-      if (armor.leg != undefined) {
-        totalDefense += armor.leg.leg_base_defense;
-
-        fireResistance += armor.leg.leg_fire_resistances;
-        waterResistance += armor.leg.leg_water_resistances;
-        thunderResistance += armor.leg.leg_thunder_resistances;
-        iceResistance += armor.leg.leg_ice_resistances;
-        dragonResistance += armor.leg.leg_dragon_resistances;
-
-        if (armor.leg.leg_skills != undefined) {
-          leg = armor.leg.leg_skills;
-        }
+      let resistances = `Defense (Base): ${totalDefense}\nDefense (Max): ${maxDefense}\nDefense (Augmented): ${augDefense}\nFire: ${fireResistance}\nWater: ${waterResistance}\nThunder: ${thunderResistance}\nIce: ${iceResistance}\nDragon: ${dragonResistance}`;
+      if (advanced) {
+        resistances = {
+          baseDefense: totalDefense,
+          maxDefense: maxDefense,
+          augDefense: augDefense,
+          fireResistance: fireResistance,
+          waterResistance: waterResistance,
+          thunderResistance: thunderResistance,
+          iceResistance: iceResistance,
+          dragonResistance,
+          dragonResistance
+        };
       }
 
-      let resistances = `Defense: ${totalDefense}\n Fire: ${fireResistance}\n Water: ${waterResistance}\n Thunder: ${thunderResistance}\n Ice: ${iceResistance}\n Dragon: ${dragonResistance}`;
-      armorSkills = [...head, ...chest, ...arm, ...waist, ...leg];
-
-      db[key] = {
-        name: armor.name,
-        setBonus: armor.setBonus,
+      db[key.name.toLowerCase().replace(/ /g, '')] = {
+        name: key.name,
+        setBonus: setBonus,
         resistances: resistances,
-        skills: armorSkills
+        skills: armorSkills,
+        slots: slots
       };
     }
 
