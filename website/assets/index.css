@@ -364,7 +364,6 @@ a:hover, button:hover {
     -ms-user-select: none;
     user-select: none;
     border: 1px solid transparent;
-    padding: .375rem .75rem;
     line-height: 1.5;
     border-radius: .25rem;
     padding: .5rem 1rem;
@@ -669,6 +668,13 @@ a:hover, button:hover {
     border-bottom-right-radius: .25rem;
 }
 
+.form-control__input-group--none {
+    border-top-left-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+}
+
 .table-header:first-child {
     border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
 }
@@ -852,52 +858,6 @@ a:hover, button:hover {
     background-color: var(--list-item-color);
 }
 
-:root {
-    --light-item-border: 1px solid rgba(0, 0, 0, .125);
-    --table-header-background: rgba(0, 0, 0, .03);
-    --page-header-wrapper-a: #12191f;
-    --code-block-font-color: #12191f;
-    --light-background-alt: #e9ecef;
-    --card-business-header: #f0f0ff;
-    --light-border-bottom: #dee2e6;
-    --button-fill-color: #007bff;
-    --light-background: #f5f5f5;
-    --light-font-color: #f0f0ff;
-    --list-item-color: #e2e2e2;
-    --dark-font-color: #4a4a4a;
-    --link-none-blue: #047bf8;
-    --light-border: #dbdbdb;
-    --dark-header: #363636;
-    --grey-border: #ced4da;
-    --text-muted: #6c757d;
-    --link-none: #343a40;
-    --font-color: #000;
-    --bg-color: #fff;
-}
-
-[data-theme="dark"] {
-    --light-item-border: 1px solid rgba(32, 34, 37, 1);
-    --table-header-background: rgba(32, 34, 37, 1);
-    --page-header-wrapper-a: #c2c2c2;
-    --code-block-font-color: #c2c2c2;
-    --light-background-alt: #474849;
-    --card-business-header: #f0f0ff;
-    --light-border-bottom: #202225;
-    --button-fill-color: #0053ac;
-    --light-background: #1f1f1f;
-    --light-font-color: #4f4f53;
-    --list-item-color: #292b2f;
-    --dark-font-color: #cacaca;
-    --link-none-blue: #005fc4;
-    --light-border: #555555;
-    --dark-header: #bebebe;
-    --grey-border: #545658;
-    --text-muted: #a4b0bb;
-    --link-none: #99a9b9;
-    --font-color: #ccd9e8;
-    --bg-color: #2f3136;
-}
-
 .theme-switch-wrapper {
     display: inline;
     align-items: center;
@@ -950,4 +910,82 @@ input:checked + .slider:before {
 
 .slider.round:before {
     border-radius: 50%;
+}
+
+.autocomplete {
+    position: relative;
+    display: flex;
+}
+
+.autocomplete-items {
+    position: absolute;
+    border: var(--light-item-border);
+    border-bottom: none;
+    border-top: none;
+    z-index: 99;
+    top: 100%;
+    left: 0;
+    right: 0;
+}
+
+.autocomplete-items div {
+    padding: 10px;
+    cursor: pointer;
+    background-color: var(--bg-color); 
+    border-bottom: var(--light-item-border); 
+}
+
+.autocomplete-items div:hover {
+    background-color: var(--list-item-color); 
+}
+
+.autocomplete-active {
+    background-color: var(--button-fill-color) !important; 
+    color: var(--bg-color); 
+}
+
+:root {
+    --light-item-border: 1px solid rgba(0, 0, 0, .125);
+    --table-header-background: rgba(0, 0, 0, .03);
+    --page-header-wrapper-a: #12191f;
+    --code-block-font-color: #12191f;
+    --light-background-alt: #e9ecef;
+    --card-business-header: #f0f0ff;
+    --light-border-bottom: #dee2e6;
+    --button-fill-color: #007bff;
+    --light-background: #f5f5f5;
+    --light-font-color: #f0f0ff;
+    --list-item-color: #e2e2e2;
+    --dark-font-color: #4a4a4a;
+    --link-none-blue: #047bf8;
+    --light-border: #dbdbdb;
+    --dark-header: #363636;
+    --grey-border: #ced4da;
+    --text-muted: #6c757d;
+    --link-none: #343a40;
+    --font-color: #000;
+    --bg-color: #fff;
+}
+
+[data-theme="dark"] {
+    --light-item-border: 1px solid rgba(32, 34, 37, 1);
+    --table-header-background: rgba(32, 34, 37, 1);
+    --page-header-wrapper-a: #c2c2c2;
+    --code-block-font-color: #c2c2c2;
+    --light-background-alt: #474849;
+    --card-business-header: #f0f0ff;
+    --light-border-bottom: #202225;
+    --button-fill-color: #0053ac;
+    --light-background: #1f1f1f;
+    --light-font-color: #4f4f53;
+    --list-item-color: #292b2f;
+    --dark-font-color: #cacaca;
+    --link-none-blue: #005fc4;
+    --light-border: #555555;
+    --dark-header: #bebebe;
+    --grey-border: #545658;
+    --text-muted: #a4b0bb;
+    --link-none: #99a9b9;
+    --font-color: #ccd9e8;
+    --bg-color: #2f3136;
 }
