@@ -476,11 +476,11 @@
       "Hunger Resistance"
     ],
     "slots": [
-      "Leather Headgear Beta: Rank: 1",
-      "Leather Mail Beta: Rank: 1",
-      "Leather Gloves Beta: Rank: 1",
-      "Leather Belt Beta: Rank: 1",
-      "Leather Trousers Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "chainmailalpha": {
@@ -507,11 +507,11 @@
       "Master Gatherer"
     ],
     "slots": [
-      "Chainmail Headgear Beta: Rank: 1",
-      "Chainmail Armor Beta: Rank: 1",
-      "Chainmail Gloves Beta: Rank: 1",
-      "Chainmail Belt Beta: Rank: 1",
-      "Chainmail Trousers Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "hunter'salpha": {
@@ -544,11 +544,11 @@
       "Scenthound"
     ],
     "slots": [
-      "Hunter's Headgear Beta: Rank: 1",
-      "Hunter's Mail Beta: Rank: 1",
-      "Hunter's Vambraces Beta: Rank: 1",
-      "Hunter's Coil Beta: Rank: 1",
-      "Hunter's Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "bonealpha": {
@@ -581,11 +581,11 @@
       "Entomologist"
     ],
     "slots": [
-      "Bone Helm Beta: Rank: 1",
-      "Bone Mail Beta: Rank: 1",
-      "Bone Vambraces Beta: Rank: 1",
-      "Bone Coil Beta: Rank: 1",
-      "Bone Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "alloyalpha": {
@@ -618,11 +618,11 @@
       "Speed Sharpening"
     ],
     "slots": [
-      "Alloy Helm Beta: Rank: 1",
-      "Alloy Mail Beta: Rank: 1",
-      "Alloy Vambraces Beta: Rank: 1",
-      "Alloy Coil Beta: Rank: 1",
-      "Alloy Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kingbeetlealpha": {
@@ -643,9 +643,9 @@
       "Forager's Luck"
     ],
     "slots": [
-      "King Beetle Brachia Alpha: Rank: 1",
-      "King Beetle Elytra Alpha: Rank: 1",
-      "King Beetle Crura Alpha: Rank: 1"
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kingbeetlebeta": {
@@ -661,14 +661,14 @@
       "Forager's Luck"
     ],
     "slots": [
-      "King Beetle Vertex Beta: Rank: 1",
-      "King Beetle Thorax Beta: Rank: 1",
-      "King Beetle Brachia Beta: Rank: 2",
-      "King Beetle Brachia Beta: Rank: 1",
-      "King Beetle Elytra Beta: Rank: 2",
-      "King Beetle Elytra Beta: Rank: 1",
-      "King Beetle Crura Beta: Rank: 2",
-      "King Beetle Crura Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "butterflyalpha": {
@@ -689,9 +689,9 @@
       "Forager's Luck"
     ],
     "slots": [
-      "Butterfly Brachia Alpha: Rank: 1",
-      "Butterfly Elytra Alpha: Rank: 1",
-      "Butterfly Crura Alpha: Rank: 1"
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "butterflybeta": {
@@ -707,14 +707,14 @@
       "Forager's Luck"
     ],
     "slots": [
-      "Butterfly Vertex Beta: Rank: 1",
-      "Butterfly Thorax Beta: Rank: 1",
-      "Butterfly Brachia Beta: Rank: 2",
-      "Butterfly Brachia Beta: Rank: 1",
-      "Butterfly Elytra Beta: Rank: 2",
-      "Butterfly Elytra Beta: Rank: 1",
-      "Butterfly Crura Beta: Rank: 2",
-      "Butterfly Crura Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "vespoidalpha": {
@@ -746,11 +746,11 @@
       "Honey Hunter"
     ],
     "slots": [
-      "Vespoid Helm Beta: Rank: 1",
-      "Vespoid Mail Beta: Rank: 1",
-      "Vespoid Vambraces Beta: Rank: 1",
-      "Vespoid Coil Beta: Rank: 1",
-      "Vespoid Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "hornetauralpha": {
@@ -785,11 +785,11 @@
       "Handicraft"
     ],
     "slots": [
-      "Hornetaur Helm Beta: Rank: 1",
-      "Hornetaur Mail Beta: Rank: 1",
-      "Hornetaur Vambraces Beta: Rank: 1",
-      "Hornetaur Coil Beta: Rank: 1",
-      "Hornetaur Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "mosswinealpha": {
@@ -822,7 +822,7 @@
       "Affinity Sliding"
     ],
     "slots": [
-      "Kestodon Guards Beta: Rank: 1"
+      "<:cbArm:681250265881509891> Rank: 1"
     ]
   },
   "gajaualpha": {
@@ -846,7 +846,7 @@
       "Aquatic/Polar Mobility"
     ],
     "slots": [
-      "Gajau Boots Beta: Rank: 1"
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "shamosalpha": {
@@ -869,7 +869,7 @@
       "Detector"
     ],
     "slots": [
-      "Shamos Goggles Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "jagrasalpha": {
@@ -902,11 +902,11 @@
       "Speed Crawler"
     ],
     "slots": [
-      "Jagras Helm Beta: Rank: 1",
-      "Jagras Mail Beta: Rank: 1",
-      "Jagras Vambraces Beta: Rank: 1",
-      "Jagras Coil Beta: Rank: 1",
-      "Jagras Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kulualpha": {
@@ -940,12 +940,12 @@
       "Critical Eye"
     ],
     "slots": [
-      "Kulu Headpiece Beta: Rank: 1",
-      "Kulu Headpiece Beta: Rank: 1",
-      "Kulu Mail Beta: Rank: 1",
-      "Kulu Vambraces Beta: Rank: 2",
-      "Kulu Coil Beta: Rank: 2",
-      "Kulu Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "tzitzialpha": {
@@ -979,12 +979,12 @@
       "Sleep Resistance"
     ],
     "slots": [
-      "Tzitzi Headgear Beta: Rank: 1",
-      "Tzitzi Mail Beta: Rank: 1",
-      "Tzitzi Mail Beta: Rank: 1",
-      "Tzitzi Vambraces Beta: Rank: 1",
-      "Tzitzi Coil Beta: Rank: 2",
-      "Tzitzi Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "girrosalpha": {
@@ -1016,11 +1016,11 @@
       "Paralysis Attack"
     ],
     "slots": [
-      "Girros Mask Beta: Rank: 1",
-      "Girros Mail Beta: Rank: 1",
-      "Girros Vambraces Beta: Rank: 1",
-      "Girros Coil Beta: Rank: 1",
-      "Girros Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "pukeialpha": {
@@ -1053,13 +1053,13 @@
       "Botanist"
     ],
     "slots": [
-      "Pukei Hood Beta: Rank: 1",
-      "Pukei Hood Beta: Rank: 1",
-      "Pukei Mail Beta: Rank: 1",
-      "Pukei Vambraces Beta: Rank: 1",
-      "Pukei Vambraces Beta: Rank: 1",
-      "Pukei Coil Beta: Rank: 1",
-      "Pukei Greaves Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "barrothalpha": {
@@ -1092,12 +1092,12 @@
       "Stun Resistance"
     ],
     "slots": [
-      "Barroth Helm Beta: Rank: 1",
-      "Barroth Mail Beta: Rank: 1",
-      "Barroth Vambraces Beta: Rank: 1",
-      "Barroth Coil Beta: Rank: 2",
-      "Barroth Greaves Beta: Rank: 1",
-      "Barroth Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "anjaalpha": {
@@ -1137,12 +1137,12 @@
       "Artillery"
     ],
     "slots": [
-      "Anja Helm Beta: Rank: 2",
-      "Anja Mail Beta: Rank: 1",
-      "Anja Mail Beta: Rank: 1",
-      "Anja Vambraces Beta: Rank: 1",
-      "Anja Coil Beta: Rank: 2",
-      "Anja Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "jyuraalpha": {
@@ -1174,11 +1174,11 @@
       "Focus"
     ],
     "slots": [
-      "Jyura Helm Beta: Rank: 1",
-      "Jyura Mail Beta: Rank: 1",
-      "Jyura Vambraces Beta: Rank: 1",
-      "Jyura Coil Beta: Rank: 1",
-      "Jyura Greaves Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "kadachialpha": {
@@ -1211,13 +1211,13 @@
       "Thunder Resistance"
     ],
     "slots": [
-      "Kadachi Helm Beta: Rank: 2",
-      "Kadachi Mail Beta: Rank: 2",
-      "Kadachi Vambraces Beta: Rank: 2",
-      "Kadachi Coil Beta: Rank: 1",
-      "Kadachi Coil Beta: Rank: 1",
-      "Kadachi Greaves Beta: Rank: 1",
-      "Kadachi Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lumualpha": {
@@ -1249,12 +1249,12 @@
       "Windproof"
     ],
     "slots": [
-      "Lumu Hat Beta: Rank: 2",
-      "Lumu Mail Beta: Rank: 1",
-      "Lumu Vambraces Beta: Rank: 1",
-      "Lumu Coil Beta: Rank: 1",
-      "Lumu Greaves Beta: Rank: 1",
-      "Lumu Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "rathianalpha": {
@@ -1290,11 +1290,11 @@
       "Recovery Up"
     ],
     "slots": [
-      "Rathian Helm Beta: Rank: 1",
-      "Rathian Mail Beta: Rank: 1",
-      "Rathian Vambraces Beta: Rank: 1",
-      "Rathian Coil Beta: Rank: 1",
-      "Rathian Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "rathheartalpha": {
@@ -1331,12 +1331,12 @@
       "Tool Specialist"
     ],
     "slots": [
-      "Rath Heart Helm Beta: Rank: 2",
-      "Rath Heart Mail Beta: Rank: 1",
-      "Rath Heart Mail Beta: Rank: 1",
-      "Rath Heart Braces Beta: Rank: 2",
-      "Rath Heart Coil Beta: Rank: 1",
-      "Rath Heart Greaves Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "baanalpha": {
@@ -1369,11 +1369,11 @@
       "Bleeding Resistance"
     ],
     "slots": [
-      "Baan Helm Beta: Rank: 2",
-      "Baan Mail Beta: Rank: 1",
-      "Baan Vambraces Beta: Rank: 1",
-      "Baan Coil Beta: Rank: 2",
-      "Baan Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "gastodonalpha": {
@@ -1396,7 +1396,7 @@
       "Flinch Free"
     ],
     "slots": [
-      "Gastodon Horn Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "barnosalpha": {
@@ -1419,7 +1419,7 @@
       "Heat Guard"
     ],
     "slots": [
-      "Barnos Jacket Beta: Rank: 1"
+      "<:cbChest:681250266460323852> Rank: 1"
     ]
   },
   "dodogamaalpha": {
@@ -1451,11 +1451,11 @@
       "Capacity Boost"
     ],
     "slots": [
-      "Dodogama Helm Beta: Rank: 1",
-      "Dodogama Mail Beta: Rank: 1",
-      "Dodogama Vambraces Beta: Rank: 1",
-      "Dodogama Coil Beta: Rank: 1",
-      "Dodogama Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "zorahalpha": {
@@ -1494,11 +1494,11 @@
       "Bombardier"
     ],
     "slots": [
-      "Zorah Headgear Beta: Rank: 1",
-      "Zorah Hide Beta: Rank: 2",
-      "Zorah Claws Beta: Rank: 1",
-      "Zorah Spine Beta: Rank: 2",
-      "Zorah Spurs Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "highmetalalpha": {
@@ -1534,11 +1534,11 @@
       "Heavy Artillery"
     ],
     "slots": [
-      "High Metal Helm Beta: Rank: 2",
-      "High Metal Mail Beta: Rank: 2",
-      "High Metal Braces Beta: Rank: 1",
-      "High Metal Coil Beta: Rank: 1",
-      "High Metal Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "ingotalpha": {
@@ -1570,11 +1570,11 @@
       "Defense Boost"
     ],
     "slots": [
-      "Ingot Helm Beta: Rank: 1",
-      "Ingot Mail Beta: Rank: 1",
-      "Ingot Vambraces Beta: Rank: 1",
-      "Ingot Coil Beta: Rank: 3",
-      "Ingot Greaves Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "brigadealpha": {
@@ -1594,8 +1594,8 @@
       "Scholar"
     ],
     "slots": [
-      "Brigade Suit Alpha: Rank: 2",
-      "Brigade Boots Alpha: Rank: 1"
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "brigadebeta": {
@@ -1611,12 +1611,12 @@
       "Scholar"
     ],
     "slots": [
-      "Brigade Lobos Beta: Rank: 1",
-      "Brigade Suit Beta: Rank: 2",
-      "Brigade Suit Beta: Rank: 2",
-      "Brigade Vambraces Beta: Rank: 1",
-      "Brigade Coil Beta: Rank: 1",
-      "Brigade Boots Beta: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "fauxfelynealpha": {
@@ -1638,7 +1638,7 @@
       "Critical Eye"
     ],
     "slots": [
-      "Strategist Spectacles Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "lavasiothalpha": {
@@ -1659,8 +1659,8 @@
       "Spread/Power Shots"
     ],
     "slots": [
-      "Lavasioth Vambraces Alpha: Rank: 2",
-      "Lavasioth Greaves Alpha: Rank: 1"
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lavasiothbeta": {
@@ -1677,13 +1677,13 @@
       "Spread/Power Shots"
     ],
     "slots": [
-      "Lavasioth Helm Beta: Rank: 1",
-      "Lavasioth Helm Beta: Rank: 1",
-      "Lavasioth Mail Beta: Rank: 1",
-      "Lavasioth Mail Beta: Rank: 1",
-      "Lavasioth Vambraces Beta: Rank: 3",
-      "Lavasioth Coil Beta: Rank: 1",
-      "Lavasioth Greaves Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "legianaalpha": {
@@ -1724,11 +1724,11 @@
       "Ice Resistance"
     ],
     "slots": [
-      "Legiana Helm Beta: Rank: 1",
-      "Legiana Mail Beta: Rank: 1",
-      "Legiana Vambraces Beta: Rank: 3",
-      "Legiana Coil Beta: Rank: 2",
-      "Legiana Greaves Beta: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "odogaronalpha": {
@@ -1769,11 +1769,11 @@
       "Quick Sheath"
     ],
     "slots": [
-      "Odogaron Helm Beta: Rank: 2",
-      "Odogaron Mail Beta: Rank: 1",
-      "Odogaron Vambraces Beta: Rank: 1",
-      "Odogaron Coil Beta: Rank: 2",
-      "Odogaron Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "rathalosalpha": {
@@ -1814,11 +1814,11 @@
       "Jump Master"
     ],
     "slots": [
-      "Rathalos Helm Beta: Rank: 1",
-      "Rathalos Mail Beta: Rank: 1",
-      "Rathalos Vambraces Beta: Rank: 1",
-      "Rathalos Coil Beta: Rank: 2",
-      "Rathalos Greaves Beta: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "rathsoulalpha": {
@@ -1842,8 +1842,8 @@
       "Cliffhanger"
     ],
     "slots": [
-      "Rath Soul Mail Alpha: Rank: 1",
-      "Rath Soul Braces Alpha: Rank: 1"
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1"
     ]
   },
   "rathsoulbeta": {
@@ -1862,12 +1862,12 @@
       "Focus"
     ],
     "slots": [
-      "Rath Soul Helm Beta: Rank: 1",
-      "Rath Soul Helm Beta: Rank: 1",
-      "Rath Soul Mail Beta: Rank: 2",
-      "Rath Soul Braces Beta: Rank: 2",
-      "Rath Soul Coil Beta: Rank: 3",
-      "Rath Soul Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "diablosalpha": {
@@ -1908,12 +1908,12 @@
       "Tremor Resistance"
     ],
     "slots": [
-      "Diablos Helm Beta: Rank: 2",
-      "Diablos Mail Beta: Rank: 2",
-      "Diablos Vambraces Beta: Rank: 2",
-      "Diablos Coil Beta: Rank: 2",
-      "Diablos Greaves Beta: Rank: 1",
-      "Diablos Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "diablosneroalpha": {
@@ -1935,9 +1935,9 @@
       "Heroics"
     ],
     "slots": [
-      "Diablos Nero Helm Alpha: Rank: 1",
-      "Diablos Nero Mail Alpha: Rank: 1",
-      "Diablos Nero Greaves Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "diablosnerobeta": {
@@ -1956,13 +1956,13 @@
       "Normal Shots"
     ],
     "slots": [
-      "Diablos Nero Helm Beta: Rank: 3",
-      "Diablos Nero Mail Beta: Rank: 2",
-      "Diablos Nero Mail Beta: Rank: 1",
-      "Diablos Nero Braces Beta: Rank: 2",
-      "Diablos Nero Braces Beta: Rank: 1",
-      "Diablos Nero Coil Beta: Rank: 2",
-      "Diablos Nero Greaves Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "uragaanalpha": {
@@ -1982,12 +1982,12 @@
       "Guard"
     ],
     "slots": [
-      "Uragaan Helm Alpha: Rank: 3",
-      "Uragaan Mail Alpha: Rank: 1",
-      "Uragaan Vambraces Alpha: Rank: 1",
-      "Uragaan Coil Alpha: Rank: 1",
-      "Uragaan Coil Alpha: Rank: 1",
-      "Uragaan Greaves Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "uragaanbeta": {
@@ -2005,13 +2005,13 @@
       "Guard"
     ],
     "slots": [
-      "Uragaan Helm Beta: Rank: 3",
-      "Uragaan Helm Beta: Rank: 1",
-      "Uragaan Mail Beta: Rank: 3",
-      "Uragaan Vambraces Beta: Rank: 2",
-      "Uragaan Coil Beta: Rank: 2",
-      "Uragaan Coil Beta: Rank: 1",
-      "Uragaan Greaves Beta: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "bazelalpha": {
@@ -2034,9 +2034,9 @@
       "Bombardier"
     ],
     "slots": [
-      "Bazel Helm Alpha: Rank: 2",
-      "Bazel Coil Alpha: Rank: 1",
-      "Bazel Greaves Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "bazelbeta": {
@@ -2054,13 +2054,13 @@
       "Bombardier"
     ],
     "slots": [
-      "Bazel Helm Beta: Rank: 3",
-      "Bazel Helm Beta: Rank: 1",
-      "Bazel Mail Beta: Rank: 1",
-      "Bazel Mail Beta: Rank: 1",
-      "Bazel Vambraces Beta: Rank: 3",
-      "Bazel Coil Beta: Rank: 3",
-      "Bazel Greaves Beta: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "damascusalpha": {
@@ -2081,10 +2081,10 @@
       "Defense Boost"
     ],
     "slots": [
-      "Damascus Helm Alpha: Rank: 1",
-      "Damascus Mail Alpha: Rank: 1",
-      "Damascus Coil Alpha: Rank: 1",
-      "Damascus Greaves Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "damascusbeta": {
@@ -2100,15 +2100,15 @@
       "Defense Boost"
     ],
     "slots": [
-      "Damascus Helm Beta: Rank: 3",
-      "Damascus Mail Beta: Rank: 1",
-      "Damascus Mail Beta: Rank: 1",
-      "Damascus Mail Beta: Rank: 1",
-      "Damascus Vambraces Beta: Rank: 1",
-      "Damascus Coil Beta: Rank: 1",
-      "Damascus Coil Beta: Rank: 1",
-      "Damascus Coil Beta: Rank: 1",
-      "Damascus Greaves Beta: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "doberalpha": {
@@ -2129,8 +2129,8 @@
       "Stamina Surge"
     ],
     "slots": [
-      "Dober Mail Alpha: Rank: 1",
-      "Dober Coil Alpha: Rank: 2"
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2"
     ]
   },
   "doberbeta": {
@@ -2147,12 +2147,12 @@
       "Attack Boost"
     ],
     "slots": [
-      "Dober Helm Beta: Rank: 1",
-      "Dober Mail Beta: Rank: 2",
-      "Dober Vambraces Beta: Rank: 1",
-      "Dober Vambraces Beta: Rank: 1",
-      "Dober Coil Beta: Rank: 3",
-      "Dober Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "deathstenchalpha": {
@@ -2173,8 +2173,8 @@
       "Handicraft"
     ],
     "slots": [
-      "Death Stench Brain Alpha: Rank: 2",
-      "Death Stench Grip Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1"
     ]
   },
   "deathstenchbeta": {
@@ -2190,14 +2190,14 @@
       "Handicraft"
     ],
     "slots": [
-      "Death Stench Brain Beta: Rank: 3",
-      "Death Stench Muscle Beta: Rank: 3",
-      "Death Stench Grip Beta: Rank: 1",
-      "Death Stench Grip Beta: Rank: 1",
-      "Death Stench Bowels Beta: Rank: 1",
-      "Death Stench Bowels Beta: Rank: 1",
-      "Death Stench Heel Beta: Rank: 1",
-      "Death Stench Heel Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "skullalpha": {
@@ -2209,7 +2209,7 @@
       "Handicraft"
     ],
     "slots": [
-      "Skull Mask Alpha: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2"
     ]
   },
   "nergigantealpha": {
@@ -2232,9 +2232,9 @@
       "Maximum Might"
     ],
     "slots": [
-      "Nergigante Helm Alpha: Rank: 1",
-      "Nergigante Mail Alpha: Rank: 1",
-      "Nergigante Greaves Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "nergigantebeta": {
@@ -2252,13 +2252,13 @@
       "Maximum Might"
     ],
     "slots": [
-      "Nergigante Helm Beta: Rank: 1",
-      "Nergigante Helm Beta: Rank: 1",
-      "Nergigante Mail Beta: Rank: 2",
-      "Nergigante Mail Beta: Rank: 1",
-      "Nergigante Vambraces Beta: Rank: 1",
-      "Nergigante Coil Beta: Rank: 2",
-      "Nergigante Greaves Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "teostraalpha": {
@@ -2279,7 +2279,7 @@
       "Latent Power"
     ],
     "slots": [
-      "Kaiser Vambraces Alpha: Rank: 1"
+      "<:cbArm:681250265881509891> Rank: 1"
     ]
   },
   "teostrabeta": {
@@ -2297,12 +2297,12 @@
       "Latent Power"
     ],
     "slots": [
-      "Kaiser Crown Beta: Rank: 2",
-      "Kaiser Mail Beta: Rank: 1",
-      "Kaiser Mail Beta: Rank: 1",
-      "Kaiser Vambraces Beta: Rank: 3",
-      "Kaiser Coil Beta: Rank: 2",
-      "Kaiser Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kushalaalpha": {
@@ -2341,14 +2341,14 @@
       "Evade Extender"
     ],
     "slots": [
-      "Kushala Glare Beta: Rank: 1",
-      "Kushala Glare Beta: Rank: 1",
-      "Kushala Glare Beta: Rank: 1",
-      "Kushala Cista Beta: Rank: 2",
-      "Kushala Grip Beta: Rank: 3",
-      "Kushala Cocoon Beta: Rank: 1",
-      "Kushala Cocoon Beta: Rank: 1",
-      "Kushala Crus Beta: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "vaalhazakalpha": {
@@ -2371,10 +2371,10 @@
       "Effluvia Resistance"
     ],
     "slots": [
-      "Vaal Hazak Mail Alpha: Rank: 1",
-      "Vaal Hazak Braces Alpha: Rank: 1",
-      "Vaal Hazak Coil Alpha: Rank: 1",
-      "Vaal Hazak Greaves Alpha: Rank: 1"
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "vaalhazakbeta": {
@@ -2392,16 +2392,16 @@
       "Effluvia Resistance"
     ],
     "slots": [
-      "Vaal Hazak Helm Beta: Rank: 1",
-      "Vaal Hazak Mail Beta: Rank: 1",
-      "Vaal Hazak Mail Beta: Rank: 1",
-      "Vaal Hazak Braces Beta: Rank: 1",
-      "Vaal Hazak Braces Beta: Rank: 1",
-      "Vaal Hazak Braces Beta: Rank: 1",
-      "Vaal Hazak Coil Beta: Rank: 1",
-      "Vaal Hazak Coil Beta: Rank: 1",
-      "Vaal Hazak Greaves Beta: Rank: 1",
-      "Vaal Hazak Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kirinalpha": {
@@ -2440,15 +2440,15 @@
       "Free Elem/Ammo Up"
     ],
     "slots": [
-      "Kirin Horn Beta: Rank: 1",
-      "Kirin Jacket Beta: Rank: 1",
-      "Kirin Longarms Beta: Rank: 1",
-      "Kirin Longarms Beta: Rank: 1",
-      "Kirin Hoop Beta: Rank: 1",
-      "Kirin Hoop Beta: Rank: 1",
-      "Kirin Hoop Beta: Rank: 1",
-      "Kirin Leg Guards Beta: Rank: 1",
-      "Kirin Leg Guards Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "xeno'jiivaalpha": {
@@ -2471,11 +2471,11 @@
       "Flinch Free"
     ],
     "slots": [
-      "Xeno'jiiva Headgear Alpha: Rank: 1",
-      "Xeno'jiiva Hide Alpha: Rank: 1",
-      "Xeno'jiiva Claws Alpha: Rank: 1",
-      "Xeno'jiiva Spine Alpha: Rank: 3",
-      "Xeno'jiiva Spurs Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "xeno'jiivabeta": {
@@ -2493,14 +2493,14 @@
       "Flinch Free"
     ],
     "slots": [
-      "Xeno'jiiva Headgear Beta: Rank: 2",
-      "Xeno'jiiva Hide Beta: Rank: 1",
-      "Xeno'jiiva Hide Beta: Rank: 1",
-      "Xeno'jiiva Claws Beta: Rank: 3",
-      "Xeno'jiiva Spine Beta: Rank: 2",
-      "Xeno'jiiva Spine Beta: Rank: 1",
-      "Xeno'jiiva Spurs Beta: Rank: 1",
-      "Xeno'jiiva Spurs Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "guildcrossalpha": {
@@ -2523,11 +2523,11 @@
       "Airborne"
     ],
     "slots": [
-      "Guild Cross Circlet Alpha: Rank: 1",
-      "Guild Cross Suit Alpha: Rank: 1",
-      "Guild Cross Vambraces Alpha: Rank: 1",
-      "Guild Cross Coil Alpha: Rank: 1",
-      "Guild Cross Boots Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "guildcrossbeta": {
@@ -2545,15 +2545,15 @@
       "Airborne"
     ],
     "slots": [
-      "Guild Cross Circlet Beta: Rank: 1",
-      "Guild Cross Circlet Beta: Rank: 1",
-      "Guild Cross Circlet Beta: Rank: 1",
-      "Guild Cross Suit Beta: Rank: 3",
-      "Guild Cross Vambraces Beta: Rank: 3",
-      "Guild Cross Coil Beta: Rank: 1",
-      "Guild Cross Coil Beta: Rank: 1",
-      "Guild Cross Coil Beta: Rank: 1",
-      "Guild Cross Boots Beta: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "dragonkingeyepatchalpha": {
@@ -2565,7 +2565,7 @@
       "Weakness Exploit"
     ],
     "slots": [
-      "Dragonking Eyepatch Alpha: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3"
     ]
   },
   "commissionalpha": {
@@ -2588,9 +2588,9 @@
       "Affinity Sliding"
     ],
     "slots": [
-      "Commission Gorget Alpha: Rank: 1",
-      "Commission Vambraces Alpha: Rank: 1",
-      "Commission Belt Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1"
     ]
   },
   "commissionbeta": {
@@ -2608,11 +2608,11 @@
       "Stealth"
     ],
     "slots": [
-      "Commission Gorget Beta: Rank: 2",
-      "Commission Jacket Beta: Rank: 1",
-      "Commission Vambraces Beta: Rank: 2",
-      "Commission Belt Beta: Rank: 2",
-      "Commission Pants Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "deviljhoalpha": {
@@ -2633,9 +2633,9 @@
       "Speed Eating"
     ],
     "slots": [
-      "Vangis Helm Alpha: Rank: 1",
-      "Vangis Mail Alpha: Rank: 2",
-      "Vangis Coil Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1"
     ]
   },
   "deviljhobeta": {
@@ -2651,14 +2651,14 @@
       "Speed Eating"
     ],
     "slots": [
-      "Vangis Helm Beta: Rank: 3",
-      "Vangis Helm Beta: Rank: 1",
-      "Vangis Mail Beta: Rank: 3",
-      "Vangis Vambraces Beta: Rank: 2",
-      "Vangis Coil Beta: Rank: 3",
-      "Vangis Coil Beta: Rank: 1",
-      "Vangis Greaves Beta: Rank: 1",
-      "Vangis Greaves Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "sealedeyepatchalpha": {
@@ -2670,8 +2670,8 @@
       "Fire Resistance"
     ],
     "slots": [
-      "Sealed Eyepatch Alpha: Rank: 2",
-      "Sealed Eyepatch Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "shadowshadesalpha": {
@@ -2683,9 +2683,9 @@
       "Stun Resistance"
     ],
     "slots": [
-      "Shadow Shades Alpha: Rank: 1",
-      "Shadow Shades Alpha: Rank: 1",
-      "Shadow Shades Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "blossom": {
@@ -2729,16 +2729,16 @@
       "Recovery Speed"
     ],
     "slots": [
-      "Blossom Headgear Alpha: Rank: 1",
-      "Blossom Headgear Alpha: Rank: 1",
-      "Blossom Vest Alpha: Rank: 1",
-      "Blossom Vest Alpha: Rank: 1",
-      "Blossom Cuffs Alpha: Rank: 1",
-      "Blossom Cuffs Alpha: Rank: 1",
-      "Blossom Coat Alpha: Rank: 1",
-      "Blossom Coat Alpha: Rank: 1",
-      "Blossom Boots Alpha: Rank: 1",
-      "Blossom Boots Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kulu-ya-kuheadalpha": {
@@ -2750,8 +2750,8 @@
       "Pro Transporter"
     ],
     "slots": [
-      "Kulu-Ya-Ku Head Alpha: Rank: 3",
-      "Kulu-Ya-Ku Head Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "wigglerheadalpha": {
@@ -2763,8 +2763,8 @@
       "Wide-Range"
     ],
     "slots": [
-      "Wiggler Head Alpha: Rank: 1",
-      "Wiggler Head Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "kulvetarothalpha": {
@@ -2785,11 +2785,11 @@
       "Wide-Range"
     ],
     "slots": [
-      "Kulve Taroth's Fury Alpha: Rank: 1",
-      "Kulve Taroth's Ire Alpha: Rank: 1",
-      "Kulve Taroth's Rage Alpha: Rank: 1",
-      "Kulve Taroth's Malice Alpha: Rank: 1",
-      "Kulve Taroth's Wrath Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kulvetarothbeta": {
@@ -2810,16 +2810,16 @@
       "Wide-Range"
     ],
     "slots": [
-      "Kulve Taroth's Fury Beta: Rank: 2",
-      "Kulve Taroth's Fury Beta: Rank: 1",
-      "Kulve Taroth's Ire Beta: Rank: 3",
-      "Kulve Taroth's Ire Beta: Rank: 1",
-      "Kulve Taroth's Rage Beta: Rank: 3",
-      "Kulve Taroth's Rage Beta: Rank: 1",
-      "Kulve Taroth's Malice Beta: Rank: 3",
-      "Kulve Taroth's Malice Beta: Rank: 1",
-      "Kulve Taroth's Wrath Beta: Rank: 2",
-      "Kulve Taroth's Wrath Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kiringamma": {
@@ -2840,14 +2840,14 @@
       "Thunder Attack"
     ],
     "slots": [
-      "Kirin Horn Gamma: Rank: 2",
-      "Kirin Jacket Gamma: Rank: 1",
-      "Kirin Jacket Gamma: Rank: 1",
-      "Kirin Longarms Gamma: Rank: 2",
-      "Kirin Longarms Gamma: Rank: 2",
-      "Kirin Hoop Gamma: Rank: 1",
-      "Kirin Hoop Gamma: Rank: 1",
-      "Kirin Leg Guards Gamma: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "dantealpha": {
@@ -2867,12 +2867,12 @@
       "Weakness Exploit"
     ],
     "slots": [
-      "Dante's Hair Alpha: Rank: 1",
-      "Dante's Coat Alpha: Rank: 3",
-      "Dante's Gloves Alpha: Rank: 3",
-      "Dante's Belt Alpha: Rank: 3",
-      "Dante's Leather Boots Alpha: Rank: 1",
-      "Dante's Leather Boots Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lunastraalpha": {
@@ -2896,15 +2896,15 @@
       "Wide-Range"
     ],
     "slots": [
-      "Empress Crown Alpha: Rank: 3",
-      "Empress Crown Alpha: Rank: 1",
-      "Empress Mail Alpha: Rank: 1",
-      "Empress Mail Alpha: Rank: 1",
-      "Empress Vambraces Alpha: Rank: 3",
-      "Empress Coil Alpha: Rank: 2",
-      "Empress Coil Alpha: Rank: 1",
-      "Empress Greaves Alpha: Rank: 2",
-      "Empress Greaves Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lunastrabeta": {
@@ -2923,17 +2923,17 @@
       "Health Boost"
     ],
     "slots": [
-      "Empress Crown Beta: Rank: 3",
-      "Empress Crown Beta: Rank: 2",
-      "Empress Mail Beta: Rank: 1",
-      "Empress Mail Beta: Rank: 1",
-      "Empress Mail Beta: Rank: 1",
-      "Empress Vambraces Beta: Rank: 3",
-      "Empress Vambraces Beta: Rank: 2",
-      "Empress Coil Beta: Rank: 2",
-      "Empress Coil Beta: Rank: 2",
-      "Empress Greaves Beta: Rank: 2",
-      "Empress Greaves Beta: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "vaalhazakgamma": {
@@ -2955,15 +2955,15 @@
       "Dragon Attack"
     ],
     "slots": [
-      "Vaal Hazak Helm Gamma: Rank: 3",
-      "Vaal Hazak Mail Gamma: Rank: 3",
-      "Vaal Hazak Braces Gamma: Rank: 3",
-      "Vaal Hazak Braces Gamma: Rank: 2",
-      "Vaal Hazak Coil Gamma: Rank: 2",
-      "Vaal Hazak Coil Gamma: Rank: 1",
-      "Vaal Hazak Coil Gamma: Rank: 1",
-      "Vaal Hazak Greaves Gamma: Rank: 3",
-      "Vaal Hazak Greaves Gamma: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "drachenalpha": {
@@ -2987,13 +2987,13 @@
       "Critical Boost"
     ],
     "slots": [
-      "Drachen Armet Alpha: Rank: 3",
-      "Drachen Armet Alpha: Rank: 1",
-      "Drachen Mail Alpha: Rank: 3",
-      "Drachen Vambraces Alpha: Rank: 2",
-      "Drachen Vambraces Alpha: Rank: 2",
-      "Drachen Coil Alpha: Rank: 3",
-      "Drachen Greaves Alpha: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "azurestarlordalpha": {
@@ -3012,11 +3012,11 @@
       "Critical Boost"
     ],
     "slots": [
-      "Azure Starlord Crown Alpha: Rank: 3",
-      "Azure Starlord Armor Alpha: Rank: 2",
-      "Azure Starlord Gauntlets Alpha: Rank: 3",
-      "Azure Starlord Tassets Alpha: Rank: 2",
-      "Azure Starlord Guards Alpha: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "kulvetarothgamma": {
@@ -3037,14 +3037,14 @@
       "Agitator"
     ],
     "slots": [
-      "Kulve Taroth's Fury Gamma: Rank: 3",
-      "Kulve Taroth's Fury Gamma: Rank: 1",
-      "Kulve Taroth's Fury Gamma: Rank: 1",
-      "Kulve Taroth's Ire Gamma: Rank: 1",
-      "Kulve Taroth's Rage Gamma: Rank: 1",
-      "Kulve Taroth's Malice Gamma: Rank: 3",
-      "Kulve Taroth's Wrath Gamma: Rank: 3",
-      "Kulve Taroth's Wrath Gamma: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lunastragamma": {
@@ -3068,14 +3068,14 @@
       "Agitator"
     ],
     "slots": [
-      "Empress Crown Gamma: Rank: 1",
-      "Empress Crown Gamma: Rank: 1",
-      "Empress Crown Gamma: Rank: 1",
-      "Empress Mail Gamma: Rank: 3",
-      "Empress Vambraces Gamma: Rank: 3",
-      "Empress Vambraces Gamma: Rank: 1",
-      "Empress Coil Gamma: Rank: 3",
-      "Empress Greaves Gamma: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "xeno'jiivagamma": {
@@ -3095,19 +3095,19 @@
       "Critical Boost"
     ],
     "slots": [
-      "Xeno'jiiva Headgear Gamma: Rank: 2",
-      "Xeno'jiiva Headgear Gamma: Rank: 1",
-      "Xeno'jiiva Headgear Gamma: Rank: 1",
-      "Xeno'jiiva Hide Gamma: Rank: 1",
-      "Xeno'jiiva Hide Gamma: Rank: 1",
-      "Xeno'jiiva Claws Gamma: Rank: 2",
-      "Xeno'jiiva Claws Gamma: Rank: 2",
-      "Xeno'jiiva Claws Gamma: Rank: 1",
-      "Xeno'jiiva Spine Gamma: Rank: 3",
-      "Xeno'jiiva Spine Gamma: Rank: 1",
-      "Xeno'jiiva Spurs Gamma: Rank: 2",
-      "Xeno'jiiva Spurs Gamma: Rank: 1",
-      "Xeno'jiiva Spurs Gamma: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "zorahgamma": {
@@ -3128,16 +3128,16 @@
       "Critical Eye"
     ],
     "slots": [
-      "Zorah Headgear Gamma: Rank: 2",
-      "Zorah Hide Gamma: Rank: 1",
-      "Zorah Hide Gamma: Rank: 1",
-      "Zorah Hide Gamma: Rank: 1",
-      "Zorah Claws Gamma: Rank: 3",
-      "Zorah Claws Gamma: Rank: 1",
-      "Zorah Spine Gamma: Rank: 3",
-      "Zorah Spine Gamma: Rank: 2",
-      "Zorah Spurs Gamma: Rank: 3",
-      "Zorah Spurs Gamma: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "nergigantegamma": {
@@ -3158,18 +3158,18 @@
       "Attack Boost"
     ],
     "slots": [
-      "Nergigante Helm Gamma: Rank: 2",
-      "Nergigante Helm Gamma: Rank: 2",
-      "Nergigante Mail Gamma: Rank: 3",
-      "Nergigante Mail Gamma: Rank: 2",
-      "Nergigante Mail Gamma: Rank: 1",
-      "Nergigante Vambraces Gamma: Rank: 2",
-      "Nergigante Vambraces Gamma: Rank: 1",
-      "Nergigante Vambraces Gamma: Rank: 1",
-      "Nergigante Coil Gamma: Rank: 3",
-      "Nergigante Coil Gamma: Rank: 1",
-      "Nergigante Greaves Gamma: Rank: 2",
-      "Nergigante Greaves Gamma: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "kushalagamma": {
@@ -3188,14 +3188,14 @@
       "Evade Window"
     ],
     "slots": [
-      "Kushala Glare Gamma: Rank: 2",
-      "Kushala Cista Gamma: Rank: 2",
-      "Kushala Grip Gamma: Rank: 1",
-      "Kushala Grip Gamma: Rank: 1",
-      "Kushala Grip Gamma: Rank: 1",
-      "Kushala Cocoon Gamma: Rank: 1",
-      "Kushala Cocoon Gamma: Rank: 1",
-      "Kushala Crus Gamma: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "teostragamma": {
@@ -3214,14 +3214,14 @@
       "Critical Eye"
     ],
     "slots": [
-      "Kaiser Crown Gamma: Rank: 2",
-      "Kaiser Crown Gamma: Rank: 2",
-      "Kaiser Mail Gamma: Rank: 2",
-      "Kaiser Vambraces Gamma: Rank: 3",
-      "Kaiser Coil Gamma: Rank: 1",
-      "Kaiser Coil Gamma: Rank: 1",
-      "Kaiser Greaves Gamma: Rank: 3",
-      "Kaiser Greaves Gamma: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "bonealpha+": {
@@ -3242,11 +3242,11 @@
       "Horn Maestro"
     ],
     "slots": [
-      "Bone Helm Alpha +: Rank: 3",
-      "Bone Mail Alpha +: Rank: 2",
-      "Bone Vambraces Alpha +: Rank: 2",
-      "Bone Coil Alpha +: Rank: 3",
-      "Bone Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "alloyalpha+": {
@@ -3267,11 +3267,11 @@
       "Speed Sharpening"
     ],
     "slots": [
-      "Alloy Helm Alpha +: Rank: 2",
-      "Alloy Mail Alpha +: Rank: 3",
-      "Alloy Vambraces Alpha +: Rank: 3",
-      "Alloy Coil Alpha +: Rank: 3",
-      "Alloy Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "vespoidalpha+": {
@@ -3291,12 +3291,12 @@
       "Critical Draw"
     ],
     "slots": [
-      "Vespoid Helm Alpha +: Rank: 3",
-      "Vespoid Mail Alpha +: Rank: 2",
-      "Vespoid Mail Alpha +: Rank: 1",
-      "Vespoid Vambraces Alpha +: Rank: 3",
-      "Vespoid Coil Alpha +: Rank: 3",
-      "Vespoid Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "hornetauralpha+": {
@@ -3317,13 +3317,13 @@
       "Handicraft"
     ],
     "slots": [
-      "Hornetaur Helm Alpha +: Rank: 2",
-      "Hornetaur Mail Alpha +: Rank: 2",
-      "Hornetaur Mail Alpha +: Rank: 1",
-      "Hornetaur Vambraces Alpha +: Rank: 3",
-      "Hornetaur Coil Alpha +: Rank: 2",
-      "Hornetaur Greaves Alpha +: Rank: 2",
-      "Hornetaur Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kestodonalpha+": {
@@ -3336,8 +3336,8 @@
       "Affinity Sliding"
     ],
     "slots": [
-      "Kestodon Guards Alpha +: Rank: 1",
-      "Kestodon Guards Alpha +: Rank: 1"
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1"
     ]
   },
   "gajaualpha+": {
@@ -3350,8 +3350,8 @@
       "Aquatic/Polar Mobility"
     ],
     "slots": [
-      "Gajau Boots Alpha +: Rank: 2",
-      "Gajau Boots Alpha +: Rank: 1"
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "shamosalpha+": {
@@ -3364,8 +3364,8 @@
       "Detector"
     ],
     "slots": [
-      "Shamos Goggles Alpha +: Rank: 2",
-      "Shamos Goggles Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "gastodonalpha+": {
@@ -3378,7 +3378,7 @@
       "Flinch Free"
     ],
     "slots": [
-      "Gastodon Horn Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "barnosalpha+": {
@@ -3391,8 +3391,8 @@
       "Heat Guard"
     ],
     "slots": [
-      "Barnos Jacket Alpha +: Rank: 2",
-      "Barnos Jacket Alpha +: Rank: 2"
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2"
     ]
   },
   "wulgalpha+": {
@@ -3405,8 +3405,8 @@
       "Master Mounter"
     ],
     "slots": [
-      "Wulg Scarf Alpha +: Rank: 2",
-      "Wulg Scarf Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "cortosalpha+": {
@@ -3419,8 +3419,8 @@
       "Jump Master"
     ],
     "slots": [
-      "Cortos Cape Alpha +: Rank: 1",
-      "Cortos Cape Alpha +: Rank: 1"
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1"
     ]
   },
   "jagrasalpha+": {
@@ -3441,13 +3441,13 @@
       "Free Meal"
     ],
     "slots": [
-      "Jagras Helm Alpha +: Rank: 2",
-      "Jagras Mail Alpha +: Rank: 3",
-      "Jagras Vambraces Alpha +: Rank: 2",
-      "Jagras Coil Alpha +: Rank: 2",
-      "Jagras Coil Alpha +: Rank: 1",
-      "Jagras Greaves Alpha +: Rank: 2",
-      "Jagras Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "tzitzialpha+": {
@@ -3468,13 +3468,13 @@
       "Wide-Range"
     ],
     "slots": [
-      "Tzitzi Headgear Alpha +: Rank: 2",
-      "Tzitzi Headgear Alpha +: Rank: 1",
-      "Tzitzi Mail Alpha +: Rank: 1",
-      "Tzitzi Mail Alpha +: Rank: 1",
-      "Tzitzi Vambraces Alpha +: Rank: 2",
-      "Tzitzi Coil Alpha +: Rank: 2",
-      "Tzitzi Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "girrosalpha+": {
@@ -3495,11 +3495,11 @@
       "Free Elem/Ammo Up"
     ],
     "slots": [
-      "Girros Headgear Alpha +: Rank: 2",
-      "Girros Mail Alpha +: Rank: 2",
-      "Girros Vambraces Alpha +: Rank: 1",
-      "Girros Coil Alpha +: Rank: 3",
-      "Girros Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "dodogamaalpha+": {
@@ -3520,13 +3520,13 @@
       "Capacity Boost"
     ],
     "slots": [
-      "Dodogama Helm Alpha +: Rank: 3",
-      "Dodogama Mail Alpha +: Rank: 2",
-      "Dodogama Vambraces Alpha +: Rank: 2",
-      "Dodogama Coil Alpha +: Rank: 2",
-      "Dodogama Coil Alpha +: Rank: 1",
-      "Dodogama Greaves Alpha +: Rank: 2",
-      "Dodogama Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kulualpha+": {
@@ -3547,12 +3547,12 @@
       "Item Prolonger"
     ],
     "slots": [
-      "Kulu Headpiece Alpha +: Rank: 1",
-      "Kulu Mail Alpha +: Rank: 2",
-      "Kulu Vambraces Alpha +: Rank: 1",
-      "Kulu Vambraces Alpha +: Rank: 1",
-      "Kulu Coil Alpha +: Rank: 3",
-      "Kulu Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "pukeialpha+": {
@@ -3573,12 +3573,12 @@
       "Poison Attack"
     ],
     "slots": [
-      "Pukei Hat Alpha +: Rank: 2",
-      "Pukei Hat Alpha +: Rank: 2",
-      "Pukei Mail Alpha +: Rank: 2",
-      "Pukei Vambraces Alpha +: Rank: 1",
-      "Pukei Coil Alpha +: Rank: 3",
-      "Pukei Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "coralpukeialpha+": {
@@ -3599,11 +3599,11 @@
       "Item Prolonger"
     ],
     "slots": [
-      "Pukei Lagoon Hat Alpha +: Rank: 1",
-      "Pukei Lagoon Mail Alpha +: Rank: 2",
-      "Pukei Lagoon Braces Alpha +: Rank: 1",
-      "Pukei Lagoon Coil Alpha +: Rank: 2",
-      "Pukei Lagoon Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "barrothalpha+": {
@@ -3624,14 +3624,14 @@
       "Marathon Runner"
     ],
     "slots": [
-      "Barroth Helm Alpha +: Rank: 2",
-      "Barroth Mail Alpha +: Rank: 1",
-      "Barroth Mail Alpha +: Rank: 1",
-      "Barroth Vambraces Alpha +: Rank: 3",
-      "Barroth Vambraces Alpha +: Rank: 1",
-      "Barroth Coil Alpha +: Rank: 1",
-      "Barroth Greaves Alpha +: Rank: 3",
-      "Barroth Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "jyuraalpha+": {
@@ -3652,13 +3652,13 @@
       "Focus"
     ],
     "slots": [
-      "Jyura Helm Alpha +: Rank: 1",
-      "Jyura Helm Alpha +: Rank: 1",
-      "Jyura Mail Alpha +: Rank: 2",
-      "Jyura Vambraces Alpha +: Rank: 2",
-      "Jyura Vambraces Alpha +: Rank: 1",
-      "Jyura Coil Alpha +: Rank: 3",
-      "Jyura Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "beoalpha+": {
@@ -3679,11 +3679,11 @@
       "Ice Attack"
     ],
     "slots": [
-      "Beo Helm Alpha +: Rank: 2",
-      "Beo Mail Alpha +: Rank: 3",
-      "Beo Vambraces Alpha +: Rank: 3",
-      "Beo Coil Alpha +: Rank: 2",
-      "Beo Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "kadachialpha+": {
@@ -3704,14 +3704,14 @@
       "Constitution"
     ],
     "slots": [
-      "Kadachi Hat Alpha +: Rank: 2",
-      "Kadachi Mail Alpha +: Rank: 2",
-      "Kadachi Mail Alpha +: Rank: 1",
-      "Kadachi Vambraces Alpha +: Rank: 2",
-      "Kadachi Coil Alpha +: Rank: 3",
-      "Kadachi Coil Alpha +: Rank: 1",
-      "Kadachi Greaves Alpha +: Rank: 3",
-      "Kadachi Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "viperkadachialpha+": {
@@ -3732,12 +3732,12 @@
       "Evade Window"
     ],
     "slots": [
-      "Viper Kadachi Hat Alpha +: Rank: 1",
-      "Viper Kadachi Mail Alpha +: Rank: 1",
-      "Viper Kadachi Mail Alpha +: Rank: 1",
-      "Viper Kadachi Braces Alpha +: Rank: 2",
-      "Viper Kadachi Coil Alpha +: Rank: 2",
-      "Viper Kadachi Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "highmetalalpha+": {
@@ -3758,15 +3758,15 @@
       "Heavy Artillery"
     ],
     "slots": [
-      "High Metal Helm Alpha +: Rank: 2",
-      "High Metal Mail Alpha +: Rank: 2",
-      "High Metal Braces Alpha +: Rank: 2",
-      "High Metal Braces Alpha +: Rank: 1",
-      "High Metal Coil Alpha +: Rank: 2",
-      "High Metal Coil Alpha +: Rank: 2",
-      "High Metal Greaves Alpha +: Rank: 2",
-      "High Metal Greaves Alpha +: Rank: 2",
-      "High Metal Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "banbaroalpha+": {
@@ -3787,11 +3787,11 @@
       "Mushroomancer"
     ],
     "slots": [
-      "Banbaro Helm Alpha +: Rank: 2",
-      "Banbaro Mail Alpha +: Rank: 3",
-      "Banbaro Vambraces Alpha +: Rank: 2",
-      "Banbaro Coil Alpha +: Rank: 3",
-      "Banbaro Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "anjaalpha+": {
@@ -3814,13 +3814,13 @@
       "Marathon Runner"
     ],
     "slots": [
-      "Anja Helm Alpha +: Rank: 3",
-      "Anja Mail Alpha +: Rank: 1",
-      "Anja Mail Alpha +: Rank: 1",
-      "Anja Vambraces Alpha +: Rank: 2",
-      "Anja Coil Alpha +: Rank: 3",
-      "Anja Coil Alpha +: Rank: 1",
-      "Anja Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "fulguranjaalpha+": {
@@ -3843,13 +3843,13 @@
       "Special Ammo Boost"
     ],
     "slots": [
-      "Fulgur Helm Alpha +: Rank: 2",
-      "Fulgur Helm Alpha +: Rank: 1",
-      "Fulgur Mail Alpha +: Rank: 3",
-      "Fulgur Vambraces Alpha +: Rank: 2",
-      "Fulgur Coil Alpha +: Rank: 1",
-      "Fulgur Greaves Alpha +: Rank: 2",
-      "Fulgur Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "rathianalpha+": {
@@ -3872,13 +3872,13 @@
       "Recovery Up"
     ],
     "slots": [
-      "Rathian Helm Alpha +: Rank: 3",
-      "Rathian Mail Alpha +: Rank: 2",
-      "Rathian Mail Alpha +: Rank: 2",
-      "Rathian Vambraces Alpha +: Rank: 3",
-      "Rathian Coil Alpha +: Rank: 3",
-      "Rathian Coil Alpha +: Rank: 2",
-      "Rathian Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "rathheartalpha+": {
@@ -3901,12 +3901,12 @@
       "Tool Specialist"
     ],
     "slots": [
-      "Rath Heart Helm Alpha +: Rank: 3",
-      "Rath Heart Mail Alpha +: Rank: 2",
-      "Rath Heart Braces Alpha +: Rank: 2",
-      "Rath Heart Coil Alpha +: Rank: 3",
-      "Rath Heart Greaves Alpha +: Rank: 2",
-      "Rath Heart Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lumualpha+": {
@@ -3927,14 +3927,14 @@
       "Stamina Surge"
     ],
     "slots": [
-      "Lumu Hat Alpha +: Rank: 3",
-      "Lumu Mail Alpha +: Rank: 3",
-      "Lumu Mail Alpha +: Rank: 1",
-      "Lumu Vambraces Alpha +: Rank: 2",
-      "Lumu Vambraces Alpha +: Rank: 2",
-      "Lumu Coil Alpha +: Rank: 2",
-      "Lumu Coil Alpha +: Rank: 2",
-      "Lumu Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "lumuphantasmalpha+": {
@@ -3955,12 +3955,12 @@
       "Wide-Range"
     ],
     "slots": [
-      "Lumu Phantasm Hood Alpha +: Rank: 1",
-      "Lumu Phantasm Hood Alpha +: Rank: 1",
-      "Lumu Phantasm Mail Alpha +: Rank: 2",
-      "Lumu Phantasm Braces Alpha +: Rank: 2",
-      "Lumu Phantasm Coil Alpha +: Rank: 2",
-      "Lumu Phantasm Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "baanalpha+": {
@@ -3981,12 +3981,12 @@
       "Guard"
     ],
     "slots": [
-      "Baan Helm Alpha +: Rank: 1",
-      "Baan Helm Alpha +: Rank: 1",
-      "Baan Mail Alpha +: Rank: 3",
-      "Baan Vambraces Alpha +: Rank: 2",
-      "Baan Coil Alpha +: Rank: 1",
-      "Baan Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "bonebeta+": {
@@ -4003,14 +4003,14 @@
       "Slugger"
     ],
     "slots": [
-      "Bone Helm Beta +: Rank: 4",
-      "Bone Mail Beta +: Rank: 4",
-      "Bone Mail Beta +: Rank: 1",
-      "Bone Vambraces Beta +: Rank: 4",
-      "Bone Vambraces Beta +: Rank: 1",
-      "Bone Coil Beta +: Rank: 4",
-      "Bone Coil Beta +: Rank: 1",
-      "Bone Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "alloybeta+": {
@@ -4028,14 +4028,14 @@
       "Speed Sharpening"
     ],
     "slots": [
-      "Alloy Helm Beta +: Rank: 4",
-      "Alloy Helm Beta +: Rank: 1",
-      "Alloy Mail Beta +: Rank: 4",
-      "Alloy Mail Beta +: Rank: 1",
-      "Alloy Vambraces Beta +: Rank: 4",
-      "Alloy Vambraces Beta +: Rank: 1",
-      "Alloy Coil Beta +: Rank: 4",
-      "Alloy Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "vespoidbeta+": {
@@ -4051,16 +4051,16 @@
       "Critical Draw"
     ],
     "slots": [
-      "Vespoid Helm Beta +: Rank: 4",
-      "Vespoid Helm Beta +: Rank: 1",
-      "Vespoid Mail Beta +: Rank: 4",
-      "Vespoid Mail Beta +: Rank: 1",
-      "Vespoid Vambraces Beta +: Rank: 4",
-      "Vespoid Vambraces Beta +: Rank: 1",
-      "Vespoid Coil Beta +: Rank: 4",
-      "Vespoid Coil Beta +: Rank: 1",
-      "Vespoid Greaves Beta +: Rank: 4",
-      "Vespoid Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "hornetaurbeta+": {
@@ -4077,16 +4077,16 @@
       "Handicraft"
     ],
     "slots": [
-      "Hornetaur Helm Beta +: Rank: 4",
-      "Hornetaur Mail Beta +: Rank: 4",
-      "Hornetaur Mail Beta +: Rank: 2",
-      "Hornetaur Mail Beta +: Rank: 1",
-      "Hornetaur Vambraces Beta +: Rank: 4",
-      "Hornetaur Vambraces Beta +: Rank: 2",
-      "Hornetaur Coil Beta +: Rank: 4",
-      "Hornetaur Coil Beta +: Rank: 1",
-      "Hornetaur Greaves Beta +: Rank: 4",
-      "Hornetaur Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kestodonbeta+": {
@@ -4099,8 +4099,8 @@
       "Affinity Sliding"
     ],
     "slots": [
-      "Kestodon Guards Beta +: Rank: 4",
-      "Kestodon Guards Beta +: Rank: 1"
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1"
     ]
   },
   "gajaubeta+": {
@@ -4113,8 +4113,8 @@
       "Aquatic/Polar Mobility"
     ],
     "slots": [
-      "Gajau Boots Beta +: Rank: 4",
-      "Gajau Boots Beta +: Rank: 1"
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "shamosbeta+": {
@@ -4127,8 +4127,8 @@
       "Detector"
     ],
     "slots": [
-      "Shamos Goggles Beta +: Rank: 4",
-      "Shamos Goggles Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2"
     ]
   },
   "gastodonbeta+": {
@@ -4141,8 +4141,8 @@
       "Flinch Free"
     ],
     "slots": [
-      "Gastodon Horn Beta +: Rank: 4",
-      "Gastodon Horn Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "barnosbeta+": {
@@ -4155,8 +4155,8 @@
       "Heat Guard"
     ],
     "slots": [
-      "Barnos Jacket Beta +: Rank: 4",
-      "Barnos Jacket Beta +: Rank: 2"
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2"
     ]
   },
   "wulgbeta+": {
@@ -4169,8 +4169,8 @@
       "Master Mounter"
     ],
     "slots": [
-      "Wulg Scarf Beta +: Rank: 4",
-      "Wulg Scarf Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "cortosbeta+": {
@@ -4183,7 +4183,7 @@
       "Jump Master"
     ],
     "slots": [
-      "Cortos Cape Beta +: Rank: 4"
+      "<:cbChest:681250266460323852> Rank: 4"
     ]
   },
   "jagrasbeta+": {
@@ -4202,14 +4202,14 @@
       "Free Meal"
     ],
     "slots": [
-      "Jagras Helm Beta +: Rank: 4",
-      "Jagras Helm Beta +: Rank: 1",
-      "Jagras Mail Beta +: Rank: 4",
-      "Jagras Vambraces Beta +: Rank: 4",
-      "Jagras Coil Beta +: Rank: 4",
-      "Jagras Coil Beta +: Rank: 1",
-      "Jagras Greaves Beta +: Rank: 4",
-      "Jagras Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "tzitzibeta+": {
@@ -4228,14 +4228,14 @@
       "Wide-Range"
     ],
     "slots": [
-      "Tzitzi Headgear Beta +: Rank: 4",
-      "Tzitzi Headgear Beta +: Rank: 1",
-      "Tzitzi Mail Beta +: Rank: 4",
-      "Tzitzi Mail Beta +: Rank: 1",
-      "Tzitzi Vambraces Beta +: Rank: 4",
-      "Tzitzi Coil Beta +: Rank: 4",
-      "Tzitzi Coil Beta +: Rank: 1",
-      "Tzitzi Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "girrosbeta+": {
@@ -4252,13 +4252,13 @@
       "Paralysis Attack"
     ],
     "slots": [
-      "Girros Headgear Beta +: Rank: 4",
-      "Girros Mail Beta +: Rank: 4",
-      "Girros Mail Beta +: Rank: 2",
-      "Girros Vambraces Beta +: Rank: 4",
-      "Girros Coil Beta +: Rank: 4",
-      "Girros Coil Beta +: Rank: 2",
-      "Girros Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "dodogamabeta+": {
@@ -4275,13 +4275,13 @@
       "Capacity Boost"
     ],
     "slots": [
-      "Dodogama Helm Beta +: Rank: 4",
-      "Dodogama Mail Beta +: Rank: 4",
-      "Dodogama Vambraces Beta +: Rank: 4",
-      "Dodogama Coil Beta +: Rank: 4",
-      "Dodogama Coil Beta +: Rank: 1",
-      "Dodogama Greaves Beta +: Rank: 4",
-      "Dodogama Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kulubeta+": {
@@ -4299,12 +4299,12 @@
       "Item Prolonger"
     ],
     "slots": [
-      "Kulu Headpiece Beta +: Rank: 4",
-      "Kulu Mail Beta +: Rank: 4",
-      "Kulu Vambraces Beta +: Rank: 4",
-      "Kulu Coil Beta +: Rank: 4",
-      "Kulu Coil Beta +: Rank: 1",
-      "Kulu Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "pukeibeta+": {
@@ -4323,15 +4323,15 @@
       "Poison Resistance"
     ],
     "slots": [
-      "Pukei Hat Beta +: Rank: 4",
-      "Pukei Hat Beta +: Rank: 1",
-      "Pukei Hat Beta +: Rank: 1",
-      "Pukei Mail Beta +: Rank: 4",
-      "Pukei Vambraces Beta +: Rank: 4",
-      "Pukei Coil Beta +: Rank: 4",
-      "Pukei Coil Beta +: Rank: 1",
-      "Pukei Greaves Beta +: Rank: 4",
-      "Pukei Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "coralpukeibeta+": {
@@ -4349,14 +4349,14 @@
       "Item Prolonger"
     ],
     "slots": [
-      "Pukei Lagoon Hat Beta +: Rank: 4",
-      "Pukei Lagoon Mail Beta +: Rank: 4",
-      "Pukei Lagoon Mail Beta +: Rank: 1",
-      "Pukei Lagoon Braces Beta +: Rank: 4",
-      "Pukei Lagoon Braces Beta +: Rank: 1",
-      "Pukei Lagoon Coil Beta +: Rank: 4",
-      "Pukei Lagoon Greaves Beta +: Rank: 4",
-      "Pukei Lagoon Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "barrothbeta+": {
@@ -4372,16 +4372,16 @@
       "Stun Resistance"
     ],
     "slots": [
-      "Barroth Helm Beta +: Rank: 4",
-      "Barroth Helm Beta +: Rank: 1",
-      "Barroth Mail Beta +: Rank: 4",
-      "Barroth Mail Beta +: Rank: 1",
-      "Barroth Vambraces Beta +: Rank: 4",
-      "Barroth Vambraces Beta +: Rank: 2",
-      "Barroth Coil Beta +: Rank: 4",
-      "Barroth Greaves Beta +: Rank: 4",
-      "Barroth Greaves Beta +: Rank: 2",
-      "Barroth Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "jyurabeta+": {
@@ -4400,15 +4400,15 @@
       "Focus"
     ],
     "slots": [
-      "Jyura Helm Beta +: Rank: 4",
-      "Jyura Helm Beta +: Rank: 1",
-      "Jyura Mail Beta +: Rank: 4",
-      "Jyura Vambraces Beta +: Rank: 4",
-      "Jyura Vambraces Beta +: Rank: 2",
-      "Jyura Coil Beta +: Rank: 4",
-      "Jyura Coil Beta +: Rank: 1",
-      "Jyura Greaves Beta +: Rank: 4",
-      "Jyura Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "beobeta+": {
@@ -4425,14 +4425,14 @@
       "Earplugs"
     ],
     "slots": [
-      "Beo Helm Beta +: Rank: 4",
-      "Beo Helm Beta +: Rank: 1",
-      "Beo Mail Beta +: Rank: 4",
-      "Beo Mail Beta +: Rank: 2",
-      "Beo Vambraces Beta +: Rank: 4",
-      "Beo Coil Beta +: Rank: 4",
-      "Beo Coil Beta +: Rank: 1",
-      "Beo Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "kadachibeta+": {
@@ -4450,17 +4450,17 @@
       "Thunder Resistance"
     ],
     "slots": [
-      "Kadachi Hat Beta +: Rank: 4",
-      "Kadachi Hat Beta +: Rank: 1",
-      "Kadachi Mail Beta +: Rank: 4",
-      "Kadachi Mail Beta +: Rank: 2",
-      "Kadachi Vambraces Beta +: Rank: 4",
-      "Kadachi Vambraces Beta +: Rank: 2",
-      "Kadachi Coil Beta +: Rank: 4",
-      "Kadachi Coil Beta +: Rank: 1",
-      "Kadachi Greaves Beta +: Rank: 4",
-      "Kadachi Greaves Beta +: Rank: 1",
-      "Kadachi Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "viperkadachibeta+": {
@@ -4478,14 +4478,14 @@
       "Evade Window"
     ],
     "slots": [
-      "Viper Kadachi Hat Beta +: Rank: 4",
-      "Viper Kadachi Mail Beta +: Rank: 4",
-      "Viper Kadachi Mail Beta +: Rank: 1",
-      "Viper Kadachi Braces Beta +: Rank: 4",
-      "Viper Kadachi Coil Beta +: Rank: 4",
-      "Viper Kadachi Coil Beta +: Rank: 1",
-      "Viper Kadachi Greaves Beta +: Rank: 4",
-      "Viper Kadachi Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "highmetalbeta+": {
@@ -4506,16 +4506,16 @@
       "Heavy Artillery"
     ],
     "slots": [
-      "High Metal Helm Beta +: Rank: 4",
-      "High Metal Helm Beta +: Rank: 1",
-      "High Metal Mail Beta +: Rank: 4",
-      "High Metal Mail Beta +: Rank: 1",
-      "High Metal Braces Beta +: Rank: 4",
-      "High Metal Braces Beta +: Rank: 1",
-      "High Metal Coil Beta +: Rank: 4",
-      "High Metal Coil Beta +: Rank: 2",
-      "High Metal Greaves Beta +: Rank: 4",
-      "High Metal Greaves Beta +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "banbarobeta+": {
@@ -4532,15 +4532,15 @@
       "Mushroomancer"
     ],
     "slots": [
-      "Banbaro Helm Beta +: Rank: 4",
-      "Banbaro Helm Beta +: Rank: 1",
-      "Banbaro Mail Beta +: Rank: 4",
-      "Banbaro Mail Beta +: Rank: 1",
-      "Banbaro Vambraces Beta +: Rank: 4",
-      "Banbaro Coil Beta +: Rank: 4",
-      "Banbaro Coil Beta +: Rank: 1",
-      "Banbaro Greaves Beta +: Rank: 4",
-      "Banbaro Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "anjabeta+": {
@@ -4560,14 +4560,14 @@
       "Artillery"
     ],
     "slots": [
-      "Anja Helm Beta +: Rank: 4",
-      "Anja Mail Beta +: Rank: 4",
-      "Anja Mail Beta +: Rank: 1",
-      "Anja Vambraces Beta +: Rank: 4",
-      "Anja Coil Beta +: Rank: 4",
-      "Anja Coil Beta +: Rank: 2",
-      "Anja Greaves Beta +: Rank: 4",
-      "Anja Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "fulguranjabeta+": {
@@ -4587,15 +4587,15 @@
       "Thunder Attack"
     ],
     "slots": [
-      "Fulgur Helm Beta +: Rank: 4",
-      "Fulgur Helm Beta +: Rank: 2",
-      "Fulgur Mail Beta +: Rank: 4",
-      "Fulgur Vambraces Beta +: Rank: 4",
-      "Fulgur Vambraces Beta +: Rank: 2",
-      "Fulgur Coil Beta +: Rank: 4",
-      "Fulgur Coil Beta +: Rank: 1",
-      "Fulgur Greaves Beta +: Rank: 4",
-      "Fulgur Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "rathianbeta+": {
@@ -4616,13 +4616,13 @@
       "Recovery Up"
     ],
     "slots": [
-      "Rathian Helm Beta +: Rank: 4",
-      "Rathian Mail Beta +: Rank: 4",
-      "Rathian Mail Beta +: Rank: 2",
-      "Rathian Vambraces Beta +: Rank: 4",
-      "Rathian Coil Beta +: Rank: 4",
-      "Rathian Coil Beta +: Rank: 2",
-      "Rathian Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "rathheartbeta+": {
@@ -4641,16 +4641,16 @@
       "Tool Specialist"
     ],
     "slots": [
-      "Rath Heart Helm Beta +: Rank: 4",
-      "Rath Heart Helm Beta +: Rank: 1",
-      "Rath Heart Mail Beta +: Rank: 4",
-      "Rath Heart Mail Beta +: Rank: 1",
-      "Rath Heart Mail Beta +: Rank: 1",
-      "Rath Heart Braces Beta +: Rank: 4",
-      "Rath Heart Braces Beta +: Rank: 2",
-      "Rath Heart Coil Beta +: Rank: 4",
-      "Rath Heart Greaves Beta +: Rank: 4",
-      "Rath Heart Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "lumubeta+": {
@@ -4668,16 +4668,16 @@
       "Windproof"
     ],
     "slots": [
-      "Lumu Hat Beta +: Rank: 4",
-      "Lumu Hat Beta +: Rank: 1",
-      "Lumu Mail Beta +: Rank: 4",
-      "Lumu Mail Beta +: Rank: 1",
-      "Lumu Vambraces Beta +: Rank: 4",
-      "Lumu Vambraces Beta +: Rank: 1",
-      "Lumu Coil Beta +: Rank: 4",
-      "Lumu Coil Beta +: Rank: 1",
-      "Lumu Greaves Beta +: Rank: 4",
-      "Lumu Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lumuphantasmbeta+": {
@@ -4693,13 +4693,13 @@
       "Sleep Resistance"
     ],
     "slots": [
-      "Lumu Phantasm Hood Beta +: Rank: 4",
-      "Lumu Phantasm Mail Beta +: Rank: 4",
-      "Lumu Phantasm Mail Beta +: Rank: 1",
-      "Lumu Phantasm Braces Beta +: Rank: 4",
-      "Lumu Phantasm Coil Beta +: Rank: 4",
-      "Lumu Phantasm Greaves Beta +: Rank: 4",
-      "Lumu Phantasm Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "baanbeta+": {
@@ -4716,12 +4716,12 @@
       "Bleeding Resistance"
     ],
     "slots": [
-      "Baan Helm Beta +: Rank: 4",
-      "Baan Mail Beta +: Rank: 4",
-      "Baan Vambraces Beta +: Rank: 4",
-      "Baan Coil Beta +: Rank: 4",
-      "Baan Greaves Beta +: Rank: 4",
-      "Baan Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "artianalpha+": {
@@ -4744,14 +4744,14 @@
       "Slinger Capacity"
     ],
     "slots": [
-      "Artian Helm Alpha +: Rank: 2",
-      "Artian Mail Alpha +: Rank: 1",
-      "Artian Vambraces Alpha +: Rank: 1",
-      "Artian Vambraces Alpha +: Rank: 1",
-      "Artian Coil Alpha +: Rank: 1",
-      "Artian Coil Alpha +: Rank: 1",
-      "Artian Greaves Alpha +: Rank: 1",
-      "Artian Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "artianbeta+": {
@@ -4772,13 +4772,13 @@
       "Peak Performance"
     ],
     "slots": [
-      "Artian Helm Beta +: Rank: 4",
-      "Artian Helm Beta +: Rank: 1",
-      "Artian Mail Beta +: Rank: 4",
-      "Artian Vambraces Beta +: Rank: 4",
-      "Artian Coil Beta +: Rank: 4",
-      "Artian Coil Beta +: Rank: 1",
-      "Artian Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "clockworkalpha+": {
@@ -4801,14 +4801,14 @@
       "Bombardier"
     ],
     "slots": [
-      "Clockwork Helm Alpha +: Rank: 1",
-      "Clockwork Helm Alpha +: Rank: 1",
-      "Clockwork Mail Alpha +: Rank: 1",
-      "Clockwork Mail Alpha +: Rank: 1",
-      "Clockwork Braces Alpha +: Rank: 2",
-      "Clockwork Coil Alpha +: Rank: 2",
-      "Clockwork Greaves Alpha +: Rank: 1",
-      "Clockwork Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "clockworkbeta+": {
@@ -4828,14 +4828,14 @@
       "Bombardier"
     ],
     "slots": [
-      "Clockwork Helm Beta +: Rank: 4",
-      "Clockwork Helm Beta +: Rank: 1",
-      "Clockwork Mail Beta +: Rank: 4",
-      "Clockwork Mail Beta +: Rank: 1",
-      "Clockwork Braces Beta +: Rank: 4",
-      "Clockwork Coil Beta +: Rank: 4",
-      "Clockwork Coil Beta +: Rank: 1",
-      "Clockwork Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "ingotalpha+": {
@@ -4856,12 +4856,12 @@
       "Free Elem/Ammo Up"
     ],
     "slots": [
-      "Ingot Helm Alpha +: Rank: 2",
-      "Ingot Mail Alpha +: Rank: 3",
-      "Ingot Vambraces Alpha +: Rank: 2",
-      "Ingot Vambraces Alpha +: Rank: 1",
-      "Ingot Coil Alpha +: Rank: 2",
-      "Ingot Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "ingotbeta+": {
@@ -4881,13 +4881,13 @@
       "Free Elem/Ammo Up"
     ],
     "slots": [
-      "Ingot Helm Beta +: Rank: 4",
-      "Ingot Helm Beta +: Rank: 2",
-      "Ingot Mail Beta +: Rank: 4",
-      "Ingot Vambraces Beta +: Rank: 4",
-      "Ingot Coil Beta +: Rank: 4",
-      "Ingot Coil Beta +: Rank: 1",
-      "Ingot Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "pearlspringalpha+": {
@@ -4899,8 +4899,8 @@
       "Recovery Up"
     ],
     "slots": [
-      "Pearlspring Alpha +: Rank: 2",
-      "Pearlspring Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "guildworkalpha+": {
@@ -4924,17 +4924,17 @@
       "Flinch Free"
     ],
     "slots": [
-      "Guildwork Head Alpha +: Rank: 3",
-      "Guildwork Head Alpha +: Rank: 2",
-      "Guildwork Body Alpha +: Rank: 3",
-      "Guildwork Body Alpha +: Rank: 1",
-      "Guildwork Body Alpha +: Rank: 1",
-      "Guildwork Braces Alpha +: Rank: 3",
-      "Guildwork Braces Alpha +: Rank: 2",
-      "Guildwork Waist Alpha +: Rank: 3",
-      "Guildwork Waist Alpha +: Rank: 2",
-      "Guildwork Feet Alpha +: Rank: 2",
-      "Guildwork Feet Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "guildworkbeta+": {
@@ -4955,17 +4955,17 @@
       "Flinch Free"
     ],
     "slots": [
-      "Guildwork Head Beta +: Rank: 4",
-      "Guildwork Head Beta +: Rank: 3",
-      "Guildwork Body Beta +: Rank: 4",
-      "Guildwork Body Beta +: Rank: 2",
-      "Guildwork Body Beta +: Rank: 2",
-      "Guildwork Braces Beta +: Rank: 4",
-      "Guildwork Braces Beta +: Rank: 3",
-      "Guildwork Waist Beta +: Rank: 4",
-      "Guildwork Waist Beta +: Rank: 3",
-      "Guildwork Feet Beta +: Rank: 4",
-      "Guildwork Feet Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "ruinernergibeta+": {
@@ -4985,16 +4985,16 @@
       "Earplugs"
     ],
     "slots": [
-      "Ruinous Helm Beta +: Rank: 4",
-      "Ruinous Helm Beta +: Rank: 2",
-      "Ruinous Mail Beta +: Rank: 4",
-      "Ruinous Mail Beta +: Rank: 2",
-      "Ruinous Vambraces Beta +: Rank: 4",
-      "Ruinous Vambraces Beta +: Rank: 1",
-      "Ruinous Coil Beta +: Rank: 4",
-      "Ruinous Coil Beta +: Rank: 1",
-      "Ruinous Greaves Beta +: Rank: 4",
-      "Ruinous Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "ruinernergialpha+": {
@@ -5017,14 +5017,14 @@
       "Agitator"
     ],
     "slots": [
-      "Ruinous Helm Alpha +: Rank: 3",
-      "Ruinous Helm Alpha +: Rank: 1",
-      "Ruinous Mail Alpha +: Rank: 2",
-      "Ruinous Mail Alpha +: Rank: 2",
-      "Ruinous Vambraces Alpha +: Rank: 3",
-      "Ruinous Coil Alpha +: Rank: 2",
-      "Ruinous Coil Alpha +: Rank: 1",
-      "Ruinous Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "silversolbeta+": {
@@ -5044,16 +5044,16 @@
       "Slinger Capacity"
     ],
     "slots": [
-      "Silver Solhelm Beta +: Rank: 4",
-      "Silver Solhelm Beta +: Rank: 3",
-      "Silver Solmail Beta +: Rank: 4",
-      "Silver Solbraces Beta +: Rank: 4",
-      "Silver Solbraces Beta +: Rank: 2",
-      "Silver Solcoil Beta +: Rank: 4",
-      "Silver Solcoil Beta +: Rank: 1",
-      "Silver Solgreaves Beta +: Rank: 4",
-      "Silver Solgreaves Beta +: Rank: 2",
-      "Silver Solgreaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "silversolalpha+": {
@@ -5077,15 +5077,15 @@
       "Slinger Capacity"
     ],
     "slots": [
-      "Silver Solhelm Alpha +: Rank: 2",
-      "Silver Solhelm Alpha +: Rank: 2",
-      "Silver Solmail Alpha +: Rank: 1",
-      "Silver Solbraces Alpha +: Rank: 2",
-      "Silver Solbraces Alpha +: Rank: 2",
-      "Silver Solcoil Alpha +: Rank: 1",
-      "Silver Solcoil Alpha +: Rank: 1",
-      "Silver Solgreaves Alpha +: Rank: 3",
-      "Silver Solgreaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "goldenlunebeta+": {
@@ -5104,16 +5104,16 @@
       "Weakness Exploit"
     ],
     "slots": [
-      "Golden Lunehelm Beta +: Rank: 4",
-      "Golden Lunehelm Beta +: Rank: 2",
-      "Golden Lunemail Beta +: Rank: 4",
-      "Golden Lunemail Beta +: Rank: 2",
-      "Golden Lunemail Beta +: Rank: 1",
-      "Golden Lunebraces Beta +: Rank: 4",
-      "Golden Lunebraces Beta +: Rank: 2",
-      "Golden Lunecoil Beta +: Rank: 4",
-      "Golden Lunecoil Beta +: Rank: 2",
-      "Golden Lunegreaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "goldenlunealpha+": {
@@ -5137,14 +5137,14 @@
       "Weakness Exploit"
     ],
     "slots": [
-      "Golden Lunehelm Alpha +: Rank: 2",
-      "Golden Lunehelm Alpha +: Rank: 2",
-      "Golden Lunemail Alpha +: Rank: 3",
-      "Golden Lunemail Alpha +: Rank: 1",
-      "Golden Lunebraces Alpha +: Rank: 2",
-      "Golden Lunecoil Alpha +: Rank: 2",
-      "Golden Lunecoil Alpha +: Rank: 2",
-      "Golden Lunegreaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "zinogrebeta+": {
@@ -5165,14 +5165,14 @@
       "Latent Power"
     ],
     "slots": [
-      "Zinogre Helm Beta +: Rank: 4",
-      "Zinogre Mail Beta +: Rank: 4",
-      "Zinogre Braces Beta +: Rank: 4",
-      "Zinogre Braces Beta +: Rank: 2",
-      "Zinogre Coil Beta +: Rank: 4",
-      "Zinogre Coil Beta +: Rank: 2",
-      "Zinogre Greaves Beta +: Rank: 4",
-      "Zinogre Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "zinogrealpha+": {
@@ -5195,12 +5195,12 @@
       "Latent Power"
     ],
     "slots": [
-      "Zinogre Helm Alpha +: Rank: 1",
-      "Zinogre Mail Alpha +: Rank: 3",
-      "Zinogre Braces Alpha +: Rank: 2",
-      "Zinogre Braces Alpha +: Rank: 1",
-      "Zinogre Coil Alpha +: Rank: 2",
-      "Zinogre Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "yiangarugabeta+": {
@@ -5218,15 +5218,15 @@
       "Critical Eye"
     ],
     "slots": [
-      "Garuga Helm Beta +: Rank: 4",
-      "Garuga Helm Beta +: Rank: 2",
-      "Garuga Mail Beta +: Rank: 4",
-      "Garuga Vambraces Beta +: Rank: 4",
-      "Garuga Tassets Beta +: Rank: 4",
-      "Garuga Tassets Beta +: Rank: 3",
-      "Garuga Greaves Beta +: Rank: 4",
-      "Garuga Greaves Beta +: Rank: 2",
-      "Garuga Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "yiangarugaalpha+": {
@@ -5246,13 +5246,13 @@
       "Critical Eye"
     ],
     "slots": [
-      "Garuga Helm Alpha +: Rank: 3",
-      "Garuga Mail Alpha +: Rank: 1",
-      "Garuga Vambraces Alpha +: Rank: 1",
-      "Garuga Tassets Alpha +: Rank: 1",
-      "Garuga Tassets Alpha +: Rank: 1",
-      "Garuga Greaves Alpha +: Rank: 3",
-      "Garuga Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "zorahbeta+": {
@@ -5270,17 +5270,17 @@
       "Earplugs"
     ],
     "slots": [
-      "Zorah Headgear Beta +: Rank: 4",
-      "Zorah Headgear Beta +: Rank: 2",
-      "Zorah Headgear Beta +: Rank: 1",
-      "Zorah Hide Beta +: Rank: 4",
-      "Zorah Hide Beta +: Rank: 2",
-      "Zorah Claws Beta +: Rank: 4",
-      "Zorah Claws Beta +: Rank: 1",
-      "Zorah Spine Beta +: Rank: 4",
-      "Zorah Spine Beta +: Rank: 3",
-      "Zorah Spurs Beta +: Rank: 4",
-      "Zorah Spurs Beta +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "zorahalpha+": {
@@ -5303,16 +5303,16 @@
       "Handicraft"
     ],
     "slots": [
-      "Zorah Headgear Alpha +: Rank: 2",
-      "Zorah Headgear Alpha +: Rank: 2",
-      "Zorah Hide Alpha +: Rank: 3",
-      "Zorah Hide Alpha +: Rank: 1",
-      "Zorah Claws Alpha +: Rank: 1",
-      "Zorah Claws Alpha +: Rank: 1",
-      "Zorah Spine Alpha +: Rank: 3",
-      "Zorah Spine Alpha +: Rank: 2",
-      "Zorah Spurs Alpha +: Rank: 3",
-      "Zorah Spurs Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "sharaishvaldabeta+": {
@@ -5332,16 +5332,16 @@
       "Partbreaker"
     ],
     "slots": [
-      "Shara Ishvalda Helm Beta +: Rank: 4",
-      "Shara Ishvalda Helm Beta +: Rank: 2",
-      "Shara Ishvalda Mail Beta +: Rank: 4",
-      "Shara Ishvalda Mail Beta +: Rank: 2",
-      "Shara Ishvalda Braces Beta +: Rank: 4",
-      "Shara Ishvalda Coil Beta +: Rank: 4",
-      "Shara Ishvalda Coil Beta +: Rank: 3",
-      "Shara Ishvalda Greaves Beta +: Rank: 4",
-      "Shara Ishvalda Greaves Beta +: Rank: 2",
-      "Shara Ishvalda Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "sharaishvaldaalpha+": {
@@ -5365,16 +5365,16 @@
       "Partbreaker"
     ],
     "slots": [
-      "Shara Ishvalda Helm Alpha +: Rank: 3",
-      "Shara Ishvalda Helm Alpha +: Rank: 1",
-      "Shara Ishvalda Mail Alpha +: Rank: 3",
-      "Shara Ishvalda Mail Alpha +: Rank: 2",
-      "Shara Ishvalda Braces Alpha +: Rank: 1",
-      "Shara Ishvalda Coil Alpha +: Rank: 3",
-      "Shara Ishvalda Coil Alpha +: Rank: 2",
-      "Shara Ishvalda Greaves Alpha +: Rank: 1",
-      "Shara Ishvalda Greaves Alpha +: Rank: 1",
-      "Shara Ishvalda Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "namiellebeta+": {
@@ -5396,15 +5396,15 @@
       "Stamina Surge"
     ],
     "slots": [
-      "Tentacle Cowl Beta +: Rank: 4",
-      "Tentacle Cloak Beta +: Rank: 4",
-      "Tentacle Cloak Beta +: Rank: 2",
-      "Tentacle Gloves Beta +: Rank: 4",
-      "Tentacle Coil Beta +: Rank: 4",
-      "Tentacle Coil Beta +: Rank: 1",
-      "Tentacle Coil Beta +: Rank: 1",
-      "Tentacle Greaves Beta +: Rank: 4",
-      "Tentacle Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "namiellealpha+": {
@@ -5428,15 +5428,15 @@
       "Stamina Surge"
     ],
     "slots": [
-      "Tentacle Cowl Alpha +: Rank: 1",
-      "Tentacle Cloak Alpha +: Rank: 2",
-      "Tentacle Cloak Alpha +: Rank: 2",
-      "Tentacle Gloves Alpha +: Rank: 1",
-      "Tentacle Coil Alpha +: Rank: 1",
-      "Tentacle Coil Alpha +: Rank: 1",
-      "Tentacle Coil Alpha +: Rank: 1",
-      "Tentacle Greaves Alpha +: Rank: 2",
-      "Tentacle Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kirinbeta+": {
@@ -5455,18 +5455,18 @@
       "Free Elem/Ammo Up"
     ],
     "slots": [
-      "Kirin Horn Beta +: Rank: 4",
-      "Kirin Horn Beta +: Rank: 1",
-      "Kirin Horn Beta +: Rank: 1",
-      "Kirin Jacket Beta +: Rank: 4",
-      "Kirin Jacket Beta +: Rank: 2",
-      "Kirin Longarms Beta +: Rank: 4",
-      "Kirin Longarms Beta +: Rank: 2",
-      "Kirin Longarms Beta +: Rank: 2",
-      "Kirin Hoop Beta +: Rank: 4",
-      "Kirin Hoop Beta +: Rank: 1",
-      "Kirin Hoop Beta +: Rank: 1",
-      "Kirin Leg Guards Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "kirinalpha+": {
@@ -5489,14 +5489,14 @@
       "Critical Eye"
     ],
     "slots": [
-      "Kirin Horn Alpha +: Rank: 3",
-      "Kirin Horn Alpha +: Rank: 1",
-      "Kirin Jacket Alpha +: Rank: 3",
-      "Kirin Jacket Alpha +: Rank: 2",
-      "Kirin Longarms Alpha +: Rank: 3",
-      "Kirin Longarms Alpha +: Rank: 2",
-      "Kirin Hoop Alpha +: Rank: 2",
-      "Kirin Leg Guards Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "kushalabeta+": {
@@ -5515,16 +5515,16 @@
       "Evade Extender"
     ],
     "slots": [
-      "Kushala Glare Beta +: Rank: 4",
-      "Kushala Glare Beta +: Rank: 1",
-      "Kushala Cista Beta +: Rank: 4",
-      "Kushala Cista Beta +: Rank: 2",
-      "Kushala Grip Beta +: Rank: 4",
-      "Kushala Grip Beta +: Rank: 2",
-      "Kushala Cocoon Beta +: Rank: 4",
-      "Kushala Cocoon Beta +: Rank: 1",
-      "Kushala Crus Beta +: Rank: 4",
-      "Kushala Crus Beta +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "kushalaalpha+": {
@@ -5545,11 +5545,11 @@
       "Evade Extender"
     ],
     "slots": [
-      "Kushala Glare Alpha +: Rank: 2",
-      "Kushala Cista Alpha +: Rank: 1",
-      "Kushala Grip Alpha +: Rank: 1",
-      "Kushala Cocoon Alpha +: Rank: 2",
-      "Kushala Crus Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "teostrabeta+": {
@@ -5570,16 +5570,16 @@
       "Latent Power"
     ],
     "slots": [
-      "Kaiser Crown Beta +: Rank: 4",
-      "Kaiser Mail Beta +: Rank: 4",
-      "Kaiser Mail Beta +: Rank: 1",
-      "Kaiser Mail Beta +: Rank: 1",
-      "Kaiser Vambraces Beta +: Rank: 4",
-      "Kaiser Vambraces Beta +: Rank: 3",
-      "Kaiser Coil Beta +: Rank: 4",
-      "Kaiser Coil Beta +: Rank: 2",
-      "Kaiser Coil Beta +: Rank: 1",
-      "Kaiser Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "teostraalpha+": {
@@ -5602,12 +5602,12 @@
       "Latent Power"
     ],
     "slots": [
-      "Kaiser Crown Alpha +: Rank: 1",
-      "Kaiser Mail Alpha +: Rank: 2",
-      "Kaiser Mail Alpha +: Rank: 1",
-      "Kaiser Vambraces Alpha +: Rank: 2",
-      "Kaiser Coil Alpha +: Rank: 3",
-      "Kaiser Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "blackveilhazakbeta+": {
@@ -5626,17 +5626,17 @@
       "Effluvia Resistance"
     ],
     "slots": [
-      "Fellshroud Helm Beta +: Rank: 4",
-      "Fellshroud Helm Beta +: Rank: 1",
-      "Fellshroud Mail Beta +: Rank: 4",
-      "Fellshroud Mail Beta +: Rank: 2",
-      "Fellshroud Braces Beta +: Rank: 4",
-      "Fellshroud Braces Beta +: Rank: 1",
-      "Fellshroud Braces Beta +: Rank: 1",
-      "Fellshroud Coil Beta +: Rank: 4",
-      "Fellshroud Coil Beta +: Rank: 2",
-      "Fellshroud Greaves Beta +: Rank: 4",
-      "Fellshroud Greaves Beta +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "blackveilhazakalpha+": {
@@ -5659,16 +5659,16 @@
       "Effluvia Resistance"
     ],
     "slots": [
-      "Fellshroud Helm Alpha +: Rank: 1",
-      "Fellshroud Mail Alpha +: Rank: 3",
-      "Fellshroud Mail Alpha +: Rank: 1",
-      "Fellshroud Braces Alpha +: Rank: 2",
-      "Fellshroud Braces Alpha +: Rank: 1",
-      "Fellshroud Braces Alpha +: Rank: 1",
-      "Fellshroud Coil Alpha +: Rank: 2",
-      "Fellshroud Coil Alpha +: Rank: 1",
-      "Fellshroud Greaves Alpha +: Rank: 3",
-      "Fellshroud Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "velkhanabeta+": {
@@ -5688,15 +5688,15 @@
       "Critical Draw"
     ],
     "slots": [
-      "Rimeguard Helm Beta +: Rank: 4",
-      "Rimeguard Helm Beta +: Rank: 2",
-      "Rimeguard Mail Beta +: Rank: 4",
-      "Rimeguard Mail Beta +: Rank: 1",
-      "Rimeguard Vambraces Beta +: Rank: 4",
-      "Rimeguard Coil Beta +: Rank: 4",
-      "Rimeguard Coil Beta +: Rank: 1",
-      "Rimeguard Greaves Beta +: Rank: 4",
-      "Rimeguard Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "velkhanaalpha+": {
@@ -5720,14 +5720,14 @@
       "Coalescence"
     ],
     "slots": [
-      "Rimeguard Helm Alpha +: Rank: 3",
-      "Rimeguard Helm Alpha +: Rank: 2",
-      "Rimeguard Mail Alpha +: Rank: 1",
-      "Rimeguard Vambraces Alpha +: Rank: 1",
-      "Rimeguard Coil Alpha +: Rank: 2",
-      "Rimeguard Coil Alpha +: Rank: 1",
-      "Rimeguard Greaves Alpha +: Rank: 1",
-      "Rimeguard Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "guildpalacebeta+": {
@@ -5749,16 +5749,16 @@
       "Heroics"
     ],
     "slots": [
-      "Guild Palace Helm Beta +: Rank: 4",
-      "Guild Palace Helm Beta +: Rank: 2",
-      "Guild Palace Mail Beta +: Rank: 4",
-      "Guild Palace Mail Beta +: Rank: 2",
-      "Guild Palace Braces Beat +: Rank: 4",
-      "Guild Palace Braces Beat +: Rank: 1",
-      "Guild Palace Coil Beta +: Rank: 4",
-      "Guild Palace Coil Beta +: Rank: 1",
-      "Guild Palace Greaves Beta +: Rank: 4",
-      "Guild Palace Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "guildpalacealpha+": {
@@ -5782,13 +5782,13 @@
       "Heroics"
     ],
     "slots": [
-      "Guild Palace Helm Alpha +: Rank: 3",
-      "Guild Palace Mail Alpha +: Rank: 1",
-      "Guild Palace Mail Alpha +: Rank: 1",
-      "Guild Palace Braces Alpha +: Rank: 3",
-      "Guild Palace Coil Alpha +: Rank: 1",
-      "Guild Palace Coil Alpha +: Rank: 1",
-      "Guild Palace Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "savagejhobeta+": {
@@ -5807,16 +5807,16 @@
       "Speed Eating"
     ],
     "slots": [
-      "Esurient Helm Beta +: Rank: 4",
-      "Esurient Helm Beta +: Rank: 3",
-      "Esurient Mail Beta +: Rank: 4",
-      "Esurient Mail Beta +: Rank: 2",
-      "Esurient Mail Beta +: Rank: 2",
-      "Esurient Vambraces Beta +: Rank: 4",
-      "Esurient Faulds Beta +: Rank: 4",
-      "Esurient Faulds Beta +: Rank: 1",
-      "Esurient Greaves Beta +: Rank: 4",
-      "Esurient Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "savagejhoalpha+": {
@@ -5839,12 +5839,12 @@
       "Speed Eating"
     ],
     "slots": [
-      "Esurient Helm Alpha +: Rank: 1",
-      "Esurient Mail Alpha +: Rank: 2",
-      "Esurient Vambraces Alpha +: Rank: 2",
-      "Esurient Faulds Alpha +: Rank: 1",
-      "Esurient Greaves Alpha +: Rank: 2",
-      "Esurient Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "seethingbazelbeta+": {
@@ -5864,17 +5864,17 @@
       "Jump Master"
     ],
     "slots": [
-      "Pride Helm Beta +: Rank: 4",
-      "Pride Helm Beta +: Rank: 1",
-      "Pride Mail Beta +: Rank: 4",
-      "Pride Mail Beta +: Rank: 1",
-      "Pride Mail Beta +: Rank: 1",
-      "Pride Vambraces Beta +: Rank: 4",
-      "Pride Vambraces Beta +: Rank: 3",
-      "Pride Coil Beta +: Rank: 4",
-      "Pride Coil Beta +: Rank: 2",
-      "Pride Greaves Beta +: Rank: 4",
-      "Pride Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "seethingbazelalpha+": {
@@ -5897,13 +5897,13 @@
       "Jump Master"
     ],
     "slots": [
-      "Pride Helm Alpha +: Rank: 2",
-      "Pride Helm Alpha +: Rank: 1",
-      "Pride Mail Alpha +: Rank: 1",
-      "Pride Mail Alpha +: Rank: 1",
-      "Pride Vambraces Alpha +: Rank: 3",
-      "Pride Coil Alpha +: Rank: 3",
-      "Pride Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "damascusbeta+": {
@@ -5920,19 +5920,19 @@
       "Guard"
     ],
     "slots": [
-      "Damascus Helm Beta +: Rank: 4",
-      "Damascus Helm Beta +: Rank: 1",
-      "Damascus Helm Beta +: Rank: 1",
-      "Damascus Mail Beta +: Rank: 4",
-      "Damascus Mail Beta +: Rank: 2",
-      "Damascus Mail Beta +: Rank: 1",
-      "Damascus Vambraces Beta +: Rank: 4",
-      "Damascus Vambraces Beta +: Rank: 1",
-      "Damascus Coil Beta +: Rank: 4",
-      "Damascus Coil Beta +: Rank: 3",
-      "Damascus Coil Beta +: Rank: 1",
-      "Damascus Greaves Beta +: Rank: 4",
-      "Damascus Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "damascusalpha+": {
@@ -5953,15 +5953,15 @@
       "Guard"
     ],
     "slots": [
-      "Damascus Helm Alpha +: Rank: 3",
-      "Damascus Mail Alpha +: Rank: 3",
-      "Damascus Mail Alpha +: Rank: 1",
-      "Damascus Vambraces Alpha +: Rank: 2",
-      "Damascus Vambraces Alpha +: Rank: 1",
-      "Damascus Coil Alpha +: Rank: 3",
-      "Damascus Coil Alpha +: Rank: 2",
-      "Damascus Greaves Alpha +: Rank: 2",
-      "Damascus Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "doberbeta+": {
@@ -5981,16 +5981,16 @@
       "Mushroomancer"
     ],
     "slots": [
-      "Dober Helm Beta +: Rank: 4",
-      "Dober Mail Beta +: Rank: 4",
-      "Dober Mail Beta +: Rank: 1",
-      "Dober Mail Beta +: Rank: 1",
-      "Dober Vambraces Beta +: Rank: 4",
-      "Dober Vambraces Beta +: Rank: 1",
-      "Dober Coil Beta +: Rank: 4",
-      "Dober Coil Beta +: Rank: 2",
-      "Dober Greaves Beta +: Rank: 4",
-      "Dober Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "doberalpha+": {
@@ -6011,15 +6011,15 @@
       "Mushroomancer"
     ],
     "slots": [
-      "Dober Helm Alpha +: Rank: 1",
-      "Dober Mail Alpha +: Rank: 1",
-      "Dober Mail Alpha +: Rank: 1",
-      "Dober Mail Alpha +: Rank: 1",
-      "Dober Vambraces Alpha +: Rank: 2",
-      "Dober Vambraces Alpha +: Rank: 1",
-      "Dober Coil Alpha +: Rank: 2",
-      "Dober Coil Alpha +: Rank: 1",
-      "Dober Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "blackbeltbeta+": {
@@ -6037,17 +6037,17 @@
       "Wide-Range"
     ],
     "slots": [
-      "Black Belt Helm Beta +: Rank: 4",
-      "Black Belt Helm Beta +: Rank: 2",
-      "Black Belt Mail Beta +: Rank: 4",
-      "Black Belt Mail Beta +: Rank: 1",
-      "Black Belt Mail Beta +: Rank: 1",
-      "Black Belt Braces Beta +: Rank: 4",
-      "Black Belt Braces Beta +: Rank: 1",
-      "Black Belt Tassets Beta +: Rank: 4",
-      "Black Belt Tassets Beta +: Rank: 1",
-      "Black Belt Greaves Beta +: Rank: 4",
-      "Black Belt Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "blackbeltalpha+": {
@@ -6070,14 +6070,14 @@
       "Wide-Range"
     ],
     "slots": [
-      "Black Belt Helm Alpha +: Rank: 3",
-      "Black Belt Mail Alpha +: Rank: 1",
-      "Black Belt Mail Alpha +: Rank: 1",
-      "Black Belt Mail Alpha +: Rank: 1",
-      "Black Belt Braces Alpha +: Rank: 3",
-      "Black Belt Tassets Alpha +: Rank: 3",
-      "Black Belt Greaves Alpha +: Rank: 2",
-      "Black Belt Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "brutetigrexbeta+": {
@@ -6100,12 +6100,12 @@
       "Agitator"
     ],
     "slots": [
-      "Rex Roar Helm Beta +: Rank: 4",
-      "Rex Roar Mail Beta +: Rank: 4",
-      "Rex Roar Mail Beta +: Rank: 1",
-      "Rex Roar Braces Beta +: Rank: 4",
-      "Rex Roar Coil Beta +: Rank: 4",
-      "Rex Roar Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "brutetigrexalpha+": {
@@ -6128,11 +6128,11 @@
       "Agitator"
     ],
     "slots": [
-      "Rex Roar Helm Alpha +: Rank: 3",
-      "Rex Roar Mail Alpha +: Rank: 3",
-      "Rex Roar Braces Alpha +: Rank: 3",
-      "Rex Roar Coil Alpha +: Rank: 2",
-      "Rex Roar Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "tigrexbeta+": {
@@ -6152,15 +6152,15 @@
       "Speed Eating"
     ],
     "slots": [
-      "Tigrex Helm Beta +: Rank: 4",
-      "Tigrex Mail Beta +: Rank: 4",
-      "Tigrex Mail Beta +: Rank: 1",
-      "Tigrex Braces Beta +: Rank: 4",
-      "Tigrex Tassets Beta +: Rank: 4",
-      "Tigrex Tassets Beta +: Rank: 2",
-      "Tigrex Tassets Beta +: Rank: 1",
-      "Tigrex Greaves Beta +: Rank: 4",
-      "Tigrex Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "tigrexalpha+": {
@@ -6183,13 +6183,13 @@
       "Speed Eating"
     ],
     "slots": [
-      "Tigrex Helm Alpha +: Rank: 1",
-      "Tigrex Mail Alpha +: Rank: 2",
-      "Tigrex Braces Alpha +: Rank: 1",
-      "Tigrex Tassets Alpha +: Rank: 3",
-      "Tigrex Tassets Alpha +: Rank: 1",
-      "Tigrex Greaves Alpha +: Rank: 3",
-      "Tigrex Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "brachydiosbeta+": {
@@ -6210,13 +6210,13 @@
       "Artillery"
     ],
     "slots": [
-      "Brachydios Helm Beta +: Rank: 4",
-      "Brachydios Helm Beta +: Rank: 1",
-      "Brachydios Mail Beta +: Rank: 4",
-      "Brachydios Braces Beta +: Rank: 4",
-      "Brachydios Faulds Beta +: Rank: 4",
-      "Brachydios Faulds Beta +: Rank: 2",
-      "Brachydios Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "brachydiosalpha+": {
@@ -6239,11 +6239,11 @@
       "Artillery"
     ],
     "slots": [
-      "Brachydios Helm Alpha +: Rank: 3",
-      "Brachydios Mail Alpha +: Rank: 1",
-      "Brachydios Braces Alpha +: Rank: 2",
-      "Brachydios Faulds Alpha +: Rank: 3",
-      "Brachydios Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "acidicglavenusbeta+": {
@@ -6263,15 +6263,15 @@
       "Maximum Might"
     ],
     "slots": [
-      "Acidic Glavenus Helm Beta +: Rank: 4",
-      "Acidic Glavenus Mail Beta +: Rank: 4",
-      "Acidic Glavenus Mail Beta +: Rank: 1",
-      "Acidic Glavenus Braces Beta +: Rank: 4",
-      "Acidic Glavenus Braces Beta +: Rank: 2",
-      "Acidic Glavenus Braces Beta +: Rank: 1",
-      "Acidic Glavenus Coil Beta +: Rank: 4",
-      "Acidic Glavenus Greaves Beta +: Rank: 4",
-      "Acidic Glavenus Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "acidicglavenusalpha+": {
@@ -6294,12 +6294,12 @@
       "Maximum Might"
     ],
     "slots": [
-      "Acidic Glavenus Helm Alpha +: Rank: 1",
-      "Acidic Glavenus Mail Alpha +: Rank: 1",
-      "Acidic Glavenus Braces Alpha +: Rank: 2",
-      "Acidic Glavenus Braces Alpha +: Rank: 1",
-      "Acidic Glavenus Coil Alpha +: Rank: 2",
-      "Acidic Glavenus Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "rajangbeta+": {
@@ -6319,17 +6319,17 @@
       "Resentment"
     ],
     "slots": [
-      "Golden Headdress Beta +: Rank: 4",
-      "Golden Headdress Beta +: Rank: 1",
-      "Golden Haori Beta +: Rank: 4",
-      "Golden Haori Beta +: Rank: 1",
-      "Golden Haori Beta +: Rank: 1",
-      "Golden Kote Beta +: Rank: 4",
-      "Golden Kote Beta +: Rank: 3",
-      "Golden Obi Beta +: Rank: 4",
-      "Golden Obi Beta +: Rank: 3",
-      "Golden Hakama Beta +: Rank: 4",
-      "Golden Hakama Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "rajangalpha+": {
@@ -6353,13 +6353,13 @@
       "Resentment"
     ],
     "slots": [
-      "Golden Haori Alpha +: Rank: 3",
-      "Golden Haori Alpha +: Rank: 1",
-      "Golden Kote Alpha +: Rank: 2",
-      "Golden Obi Alpha +: Rank: 3",
-      "Golden Obi Alpha +: Rank: 1",
-      "Golden Hakama Alpha +: Rank: 2",
-      "Golden Hakama Alpha +: Rank: 2"
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "glavenusbeta+": {
@@ -6380,11 +6380,11 @@
       "Handicraft"
     ],
     "slots": [
-      "Glavenus Helm Beta +: Rank: 4",
-      "Glavenus Mail Beta +: Rank: 4",
-      "Glavenus Braces Beta +: Rank: 4",
-      "Glavenus Faulds Beta +: Rank: 4",
-      "Glavenus Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "glavenusalpha+": {
@@ -6407,12 +6407,12 @@
       "Handicraft"
     ],
     "slots": [
-      "Glavenus Helm Alpha +: Rank: 1",
-      "Glavenus Mail Alpha +: Rank: 1",
-      "Glavenus Braces Alpha +: Rank: 1",
-      "Glavenus Faulds Alpha +: Rank: 1",
-      "Glavenus Faulds Alpha +: Rank: 1",
-      "Glavenus Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "nargacugabeta+": {
@@ -6432,13 +6432,13 @@
       "Evade Window"
     ],
     "slots": [
-      "Nargacuga Helm Beta +: Rank: 4",
-      "Nargacuga Helm Beta +: Rank: 1",
-      "Nargacuga Mail Beta +: Rank: 4",
-      "Nargacuga Braces Beta +: Rank: 4",
-      "Nargacuga Faulds Beta +: Rank: 4",
-      "Nargacuga Greaves Beta +: Rank: 4",
-      "Nargacuga Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "nargacugaalpha+": {
@@ -6461,13 +6461,13 @@
       "Evade Window"
     ],
     "slots": [
-      "Nargacuga Helm Alpha +: Rank: 1",
-      "Nargacuga Helm Alpha +: Rank: 1",
-      "Nargacuga Mail Alpha +: Rank: 2",
-      "Nargacuga Braces Alpha +: Rank: 1",
-      "Nargacuga Faulds Alpha +: Rank: 1",
-      "Nargacuga Greaves Alpha +: Rank: 1",
-      "Nargacuga Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "uragaanbeta+": {
@@ -6486,14 +6486,14 @@
       "Guard"
     ],
     "slots": [
-      "Uragaan Helm Beta +: Rank: 4",
-      "Uragaan Helm Beta +: Rank: 3",
-      "Uragaan Mail Beta +: Rank: 4",
-      "Uragaan Vambraces Beta +: Rank: 4",
-      "Uragaan Coil Beta +: Rank: 4",
-      "Uragaan Coil Beta +: Rank: 2",
-      "Uragaan Greaves Beta +: Rank: 4",
-      "Uragaan Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "uragaanalpha+": {
@@ -6516,13 +6516,13 @@
       "Offensive Guard"
     ],
     "slots": [
-      "Uragaan Helm Alpha +: Rank: 2",
-      "Uragaan Helm Alpha +: Rank: 1",
-      "Uragaan Mail Alpha +: Rank: 3",
-      "Uragaan Vambraces Alpha +: Rank: 2",
-      "Uragaan Coil Alpha +: Rank: 2",
-      "Uragaan Coil Alpha +: Rank: 1",
-      "Uragaan Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lavasiothbeta+": {
@@ -6543,14 +6543,14 @@
       "Spread/Power Shots"
     ],
     "slots": [
-      "Lavasioth Helm Beta +: Rank: 4",
-      "Lavasioth Helm Beta +: Rank: 1",
-      "Lavasioth Mail Beta +: Rank: 4",
-      "Lavasioth Mail Beta +: Rank: 1",
-      "Lavasioth Vambraces Beta +: Rank: 4",
-      "Lavasioth Coil Beta +: Rank: 4",
-      "Lavasioth Greaves Beta +: Rank: 4",
-      "Lavasioth Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lavasiothalpha+": {
@@ -6571,13 +6571,13 @@
       "Spread/Power Shots"
     ],
     "slots": [
-      "Lavasioth Helm Alpha +: Rank: 1",
-      "Lavasioth Helm Alpha +: Rank: 1",
-      "Lavasioth Mail Alpha +: Rank: 1",
-      "Lavasioth Mail Alpha +: Rank: 1",
-      "Lavasioth Vambraces Alpha +: Rank: 1",
-      "Lavasioth Coil Alpha +: Rank: 1",
-      "Lavasioth Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "deathgaronbeta+": {
@@ -6597,17 +6597,17 @@
       "Tool Specialist"
     ],
     "slots": [
-      "Death Garon Helm Beta +: Rank: 4",
-      "Death Garon Helm Beta +: Rank: 2",
-      "Death Garon Mail Beta +: Rank: 4",
-      "Death Garon Mail Beta +: Rank: 1",
-      "Death Garon Braces Beta +: Rank: 4",
-      "Death Garon Braces Beta +: Rank: 1",
-      "Death Garon Coil Beta +: Rank: 4",
-      "Death Garon Coil Beta +: Rank: 2",
-      "Death Garon Greaves Beta +: Rank: 4",
-      "Death Garon Greaves Beta +: Rank: 1",
-      "Death Garon Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "deathgaronalpha+": {
@@ -6630,14 +6630,14 @@
       "Tool Specialist"
     ],
     "slots": [
-      "Death Garon Helm Alpha +: Rank: 3",
-      "Death Garon Mail Alpha +: Rank: 2",
-      "Death Garon Braces Alpha +: Rank: 2",
-      "Death Garon Braces Alpha +: Rank: 1",
-      "Death Garon Coil Alpha +: Rank: 2",
-      "Death Garon Coil Alpha +: Rank: 1",
-      "Death Garon Greaves Alpha +: Rank: 1",
-      "Death Garon Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "odogaronbeta+": {
@@ -6658,13 +6658,13 @@
       "Quick Sheath"
     ],
     "slots": [
-      "Odogaron Helm Beta +: Rank: 4",
-      "Odogaron Mail Beta +: Rank: 4",
-      "Odogaron Mail Beta +: Rank: 1",
-      "Odogaron Vambraces Beta +: Rank: 4",
-      "Odogaron Coil Beta +: Rank: 4",
-      "Odogaron Coil Beta +: Rank: 2",
-      "Odogaron Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "odogaronalpha+": {
@@ -6687,11 +6687,11 @@
       "Quick Sheath"
     ],
     "slots": [
-      "Odogaron Helm Alpha +: Rank: 2",
-      "Odogaron Mail Alpha +: Rank: 3",
-      "Odogaron Vambraces Alpha +: Rank: 1",
-      "Odogaron Coil Alpha +: Rank: 2",
-      "Odogaron Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "shriekinglegiabeta+": {
@@ -6709,13 +6709,13 @@
       "Marathon Runner"
     ],
     "slots": [
-      "Hoarcry Helm Beta +: Rank: 4",
-      "Hoarcry Helm Beta +: Rank: 1",
-      "Hoarcry Mail Beta +: Rank: 4",
-      "Hoarcry Vambraces Beta +: Rank: 4",
-      "Hoarcry Coil Beta +: Rank: 4",
-      "Hoarcry Greaves Beta +: Rank: 4",
-      "Hoarcry Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "shriekinglegiaalpha+": {
@@ -6738,17 +6738,17 @@
       "Marathon Runner"
     ],
     "slots": [
-      "Hoarcry Helm Alpha +: Rank: 1",
-      "Hoarcry Helm Alpha +: Rank: 1",
-      "Hoarcry Helm Alpha +: Rank: 1",
-      "Hoarcry Mail Alpha +: Rank: 1",
-      "Hoarcry Mail Alpha +: Rank: 1",
-      "Hoarcry Vambraces Alpha +: Rank: 1",
-      "Hoarcry Vambraces Alpha +: Rank: 1",
-      "Hoarcry Coil Alpha +: Rank: 1",
-      "Hoarcry Coil Alpha +: Rank: 1",
-      "Hoarcry Greaves Alpha +: Rank: 1",
-      "Hoarcry Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "legianabeta+": {
@@ -6769,15 +6769,15 @@
       "Ice Resistance"
     ],
     "slots": [
-      "Legiana Helm Beta +: Rank: 4",
-      "Legiana Helm Beta +: Rank: 1",
-      "Legiana Mail Beta +: Rank: 4",
-      "Legiana Vambraces Beta +: Rank: 4",
-      "Legiana Vambraces Beta +: Rank: 2",
-      "Legiana Coil Beta +: Rank: 4",
-      "Legiana Coil Beta +: Rank: 1",
-      "Legiana Greaves Beta +: Rank: 4",
-      "Legiana Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "legianaalpha+": {
@@ -6800,11 +6800,11 @@
       "Critical Draw"
     ],
     "slots": [
-      "Legiana Helm Alpha +: Rank: 2",
-      "Legiana Mail Alpha +: Rank: 1",
-      "Legiana Vambraces Alpha +: Rank: 3",
-      "Legiana Coil Alpha +: Rank: 2",
-      "Legiana Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "diablosnerobeta+": {
@@ -6824,15 +6824,15 @@
       "Resentment"
     ],
     "slots": [
-      "Diablos Nero Helm Beta +: Rank: 4",
-      "Diablos Nero Helm Beta +: Rank: 1",
-      "Diablos Nero Mail Beta +: Rank: 4",
-      "Diablos Nero Mail Beta +: Rank: 1",
-      "Diablos Nero Braces Beta +: Rank: 4",
-      "Diablos Nero Braces Beta +: Rank: 2",
-      "Diablos Nero Coil Beta +: Rank: 4",
-      "Diablos Nero Coil Beta +: Rank: 1",
-      "Diablos Nero Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "diablosneroalpha+": {
@@ -6855,13 +6855,13 @@
       "Resentment"
     ],
     "slots": [
-      "Diablos Nero Helm Alpha +: Rank: 1",
-      "Diablos Nero Helm Alpha +: Rank: 1",
-      "Diablos Nero Mail Alpha +: Rank: 2",
-      "Diablos Nero Braces Alpha +: Rank: 1",
-      "Diablos Nero Braces Alpha +: Rank: 1",
-      "Diablos Nero Coil Alpha +: Rank: 2",
-      "Diablos Nero Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "diablosbeta+": {
@@ -6882,15 +6882,15 @@
       "Slugger"
     ],
     "slots": [
-      "Diablos Helm Beta +: Rank: 4",
-      "Diablos Mail Beta +: Rank: 4",
-      "Diablos Mail Beta +: Rank: 1",
-      "Diablos Vambraces Beta +: Rank: 4",
-      "Diablos Vambraces Beta +: Rank: 1",
-      "Diablos Coil Beta +: Rank: 4",
-      "Diablos Coil Beta +: Rank: 1",
-      "Diablos Greaves Beta +: Rank: 4",
-      "Diablos Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "diablosalpha+": {
@@ -6913,12 +6913,12 @@
       "Slugger"
     ],
     "slots": [
-      "Diablos Helm Alpha +: Rank: 2",
-      "Diablos Mail Alpha +: Rank: 2",
-      "Diablos Vambraces Alpha +: Rank: 2",
-      "Diablos Coil Alpha +: Rank: 2",
-      "Diablos Greaves Alpha +: Rank: 1",
-      "Diablos Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "rathsoulbeta+": {
@@ -6938,14 +6938,14 @@
       "Critical Boost"
     ],
     "slots": [
-      "Rath Soul Helm Beta +: Rank: 4",
-      "Rath Soul Mail Beta +: Rank: 4",
-      "Rath Soul Mail Beta +: Rank: 1",
-      "Rath Soul Braces Beta +: Rank: 4",
-      "Rath Soul Braces Beta +: Rank: 1",
-      "Rath Soul Coil Beta +: Rank: 4",
-      "Rath Soul Coil Beta +: Rank: 2",
-      "Rath Soul Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "rathsoulalpha+": {
@@ -6968,12 +6968,12 @@
       "Critical Boost"
     ],
     "slots": [
-      "Rath Soul Helm Alpha +: Rank: 1",
-      "Rath Soul Helm Alpha +: Rank: 1",
-      "Rath Soul Mail Alpha +: Rank: 2",
-      "Rath Soul Braces Alpha +: Rank: 2",
-      "Rath Soul Coil Alpha +: Rank: 3",
-      "Rath Soul Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "rathalosbeta+": {
@@ -6992,14 +6992,14 @@
       "Slinger Capacity"
     ],
     "slots": [
-      "Rathalos Helm Beta +: Rank: 4",
-      "Rathalos Helm Beta +: Rank: 1",
-      "Rathalos Mail Beta +: Rank: 4",
-      "Rathalos Vambraces Beta +: Rank: 4",
-      "Rathalos Vambraces Beta +: Rank: 3",
-      "Rathalos Coil Beta +: Rank: 4",
-      "Rathalos Coil Beta +: Rank: 2",
-      "Rathalos Greaves Beta +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "rathalosalpha+": {
@@ -7022,12 +7022,12 @@
       "Slinger Capacity"
     ],
     "slots": [
-      "Rathalos Helm Alpha +: Rank: 2",
-      "Rathalos Mail Alpha +: Rank: 1",
-      "Rathalos Mail Alpha +: Rank: 1",
-      "Rathalos Vambraces Alpha +: Rank: 3",
-      "Rathalos Coil Alpha +: Rank: 2",
-      "Rathalos Greaves Alpha +: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "bariothbeta+": {
@@ -7048,14 +7048,14 @@
       "Quick Sheath"
     ],
     "slots": [
-      "Barioth Helm Beta +: Rank: 4",
-      "Barioth Helm Beta +: Rank: 1",
-      "Barioth Mail Beta +: Rank: 4",
-      "Barioth Mail Beta +: Rank: 1",
-      "Barioth Vambraces Beta +: Rank: 4",
-      "Barioth Faulds Beta +: Rank: 4",
-      "Barioth Greaves Beta +: Rank: 4",
-      "Barioth Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "bariothalpha+": {
@@ -7078,13 +7078,13 @@
       "Quick Sheath"
     ],
     "slots": [
-      "Barioth Helm Alpha +: Rank: 1",
-      "Barioth Helm Alpha +: Rank: 1",
-      "Barioth Mail Alpha +: Rank: 3",
-      "Barioth Vambraces Alpha +: Rank: 2",
-      "Barioth Faulds Alpha +: Rank: 3",
-      "Barioth Greaves Alpha +: Rank: 1",
-      "Barioth Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "lunastrabeta+": {
@@ -7105,16 +7105,16 @@
       "Tool Specialist"
     ],
     "slots": [
-      "Empress Crown Beta +: Rank: 4",
-      "Empress Crown Beta +: Rank: 2",
-      "Empress Mail Beta +: Rank: 4",
-      "Empress Mail Beta +: Rank: 1",
-      "Empress Vambraces Beta +: Rank: 4",
-      "Empress Vambraces Beta +: Rank: 1",
-      "Empress Coil Beta +: Rank: 4",
-      "Empress Coil Beta +: Rank: 2",
-      "Empress Greaves Beta +: Rank: 4",
-      "Empress Greaves Beta +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "lunastraalpha+": {
@@ -7137,14 +7137,14 @@
       "Tool Specialist"
     ],
     "slots": [
-      "Empress Crown Alpha +: Rank: 3",
-      "Empress Mail Alpha +: Rank: 2",
-      "Empress Vambraces Alpha +: Rank: 2",
-      "Empress Vambraces Alpha +: Rank: 1",
-      "Empress Coil Alpha +: Rank: 2",
-      "Empress Coil Alpha +: Rank: 2",
-      "Empress Greaves Alpha +: Rank: 3",
-      "Empress Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "clairealpha+": {
@@ -7168,15 +7168,15 @@
       "Stamina Surge"
     ],
     "slots": [
-      "Claire's Head Alpha +: Rank: 1",
-      "Claire's Head Alpha +: Rank: 1",
-      "Claire's Body Alpha +: Rank: 1",
-      "Claire's Body Alpha +: Rank: 1",
-      "Claire's Arms Alpha +: Rank: 4",
-      "Claire's Torso Alpha +: Rank: 4",
-      "Claire's Legs Alpha +: Rank: 4",
-      "Claire's Legs Alpha +: Rank: 3",
-      "Claire's Legs Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "leonalpha+": {
@@ -7200,14 +7200,14 @@
       "Agitator"
     ],
     "slots": [
-      "Leon's Head Alpha +: Rank: 1",
-      "Leon's Head Alpha +: Rank: 1",
-      "Leon's Body Alpha +: Rank: 1",
-      "Leon's Body Alpha +: Rank: 1",
-      "Leon's Arms Alpha +: Rank: 4",
-      "Leon's Torso Alpha +: Rank: 4",
-      "Leon's Legs Alpha +: Rank: 3",
-      "Leon's Legs Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "stygianzinalpha+": {
@@ -7230,15 +7230,15 @@
       "Elderseal Boost"
     ],
     "slots": [
-      "Stygian Helm Alpha +: Rank: 2",
-      "Stygian Helm Alpha +: Rank: 1",
-      "Stygian Mail Alpha +: Rank: 2",
-      "Stygian Vambraces Alpha +: Rank: 2",
-      "Stygian Coil Alpha +: Rank: 1",
-      "Stygian Coil Alpha +: Rank: 1",
-      "Stygian Coil Alpha +: Rank: 1",
-      "Stygian Greaves Alpha +: Rank: 1",
-      "Stygian Greaves Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "stygianzinbeta+": {
@@ -7259,16 +7259,16 @@
       "Focus"
     ],
     "slots": [
-      "Stygian Helm Beta +: Rank: 4",
-      "Stygian Helm Beta +: Rank: 1",
-      "Stygian Mail Beta +: Rank: 4",
-      "Stygian Vambraces Beta +: Rank: 4",
-      "Stygian Vambraces Beta +: Rank: 3",
-      "Stygian Coil Beta +: Rank: 4",
-      "Stygian Coil Beta +: Rank: 1",
-      "Stygian Coil Beta +: Rank: 1",
-      "Stygian Greaves Beta +: Rank: 4",
-      "Stygian Greaves Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "safi'jiivaalpha+": {
@@ -7292,18 +7292,18 @@
       "Maximum Might"
     ],
     "slots": [
-      "Safi Crested Crown Alpha +: Rank: 2",
-      "Safi Crested Crown Alpha +: Rank: 1",
-      "Safi Crested Crown Alpha +: Rank: 1",
-      "Safi Crested Chest Alpha +: Rank: 3",
-      "Safi Crested Chest Alpha +: Rank: 2",
-      "Safi Crested Vambraces Alpha +: Rank: 2",
-      "Safi Crested Vambraces Alpha +: Rank: 2",
-      "Safi Crested Vambraces Alpha +: Rank: 2",
-      "Safi Crested Belt Alpha +: Rank: 3",
-      "Safi Crested Boots Alpha +: Rank: 3",
-      "Safi Crested Boots Alpha +: Rank: 2",
-      "Safi Crested Boots Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "safi'jiivabeta+": {
@@ -7324,19 +7324,19 @@
       "Critical Boost"
     ],
     "slots": [
-      "Safi Crested Crown Beta +: Rank: 4",
-      "Safi Crested Crown Beta +: Rank: 1",
-      "Safi Crested Crown Beta +: Rank: 1",
-      "Safi Crested Chest Beta +: Rank: 4",
-      "Safi Crested Chest Beta +: Rank: 2",
-      "Safi Crested Vambraces Beta +: Rank: 4",
-      "Safi Crested Vambraces Beta +: Rank: 2",
-      "Safi Crested Vambraces Beta +: Rank: 2",
-      "Safi Crested Belt Beta +: Rank: 4",
-      "Safi Crested Belt Beta +: Rank: 1",
-      "Safi Crested Boots Beta +: Rank: 4",
-      "Safi Crested Boots Beta +: Rank: 2",
-      "Safi Crested Boots Beta +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "oolongalpha+": {
@@ -7355,13 +7355,13 @@
       "Health Boost"
     ],
     "slots": [
-      "Oolong Hair Alpha +: Rank: 4",
-      "Oolong Vest Alpha +: Rank: 4",
-      "Oolong Sleeves Alpha +: Rank: 4",
-      "Oolong Waist Alpha +: Rank: 1",
-      "Oolong Waist Alpha +: Rank: 1",
-      "Oolong Boots Alpha +: Rank: 4",
-      "Oolong Boots Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "dragonsealearringsalpha": {
@@ -7426,8 +7426,8 @@
       "Marathon Runner"
     ],
     "slots": [
-      "Queen Beetle Vertex Alpha: Rank: 1",
-      "Queen Beetle Elytra Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1"
     ]
   },
   "queenbeetlebeta": {
@@ -7443,11 +7443,11 @@
       "Marathon Runner"
     ],
     "slots": [
-      "Queen Beetle Vertex Beta: Rank: 2",
-      "Queen Beetle Thorax Beta: Rank: 1",
-      "Queen Beetle Brachia Beta: Rank: 1",
-      "Queen Beetle Elytra Beta: Rank: 3",
-      "Queen Beetle Crura Beta: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "diver": {
@@ -7477,11 +7477,11 @@
       "Hunger Resistance"
     ],
     "slots": [
-      "Diver's Mask Alpha: Rank: 2",
-      "Diver's Suit Alpha: Rank: 2",
-      "Diver's Braces Alpha: Rank: 2",
-      "Diver's Belt Alpha: Rank: 2",
-      "Diver's Boots Alpha: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "harvest": {
@@ -7511,16 +7511,16 @@
       "Mushroomancer"
     ],
     "slots": [
-      "Harvest Flor Alpha: Rank: 2",
-      "Harvest Flor Alpha: Rank: 1",
-      "Harvest Tronco Alpha: Rank: 2",
-      "Harvest Tronco Alpha: Rank: 1",
-      "Harvest Trama Alpha: Rank: 2",
-      "Harvest Trama Alpha: Rank: 1",
-      "Harvest Hoja Alpha: Rank: 2",
-      "Harvest Hoja Alpha: Rank: 1",
-      "Harvest Raiz Alpha: Rank: 2",
-      "Harvest Raiz Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "orion": {
@@ -7550,15 +7550,15 @@
       "Heroics"
     ],
     "slots": [
-      "Orion Cap Alpha: Rank: 3",
-      "Orion Cap Alpha: Rank: 1",
-      "Orion Vest Alpha: Rank: 3",
-      "Orion Vambraces Alpha: Rank: 3",
-      "Orion Vambraces Alpha: Rank: 1",
-      "Orion Coat Alpha: Rank: 3",
-      "Orion Coat Alpha: Rank: 1",
-      "Orion Boots Alpha: Rank: 3",
-      "Orion Boots Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "aloyalpha": {
@@ -7578,12 +7578,12 @@
       "Slinger Capacity"
     ],
     "slots": [
-      "Aloy's Head Alpha: Rank: 3",
-      "Aloy's Body Alpha: Rank: 1",
-      "Aloy's Body Alpha: Rank: 1",
-      "Aloy's Arms Alpha: Rank: 1",
-      "Aloy's Torso Alpha: Rank: 2",
-      "Aloy's Leggings Alpha: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "aloygamma": {
@@ -7606,14 +7606,14 @@
       "Slinger Capacity"
     ],
     "slots": [
-      "Aloy's Head Gamma: Rank: 3",
-      "Aloy's Body Gamma: Rank: 1",
-      "Aloy's Body Gamma: Rank: 1",
-      "Aloy's Arms Gamma: Rank: 1",
-      "Aloy's Arms Gamma: Rank: 1",
-      "Aloy's Torso Gamma: Rank: 3",
-      "Aloy's Torso Gamma: Rank: 1",
-      "Aloy's Leggings Gamma: Rank: 3"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 3"
     ]
   },
   "ryu": {
@@ -7649,14 +7649,14 @@
       "Constitution"
     ],
     "slots": [
-      "Ryu's Head Alpha: Rank: 1",
-      "Ryu's Head Alpha: Rank: 1",
-      "Ryu's Karate Gi Alpha: Rank: 1",
-      "Ryu's Karate Gi Alpha: Rank: 1",
-      "Ryu's Arms Alpha: Rank: 2",
-      "Ryu's Torso Alpha: Rank: 3",
-      "Ryu's Legs Alpha: Rank: 1",
-      "Ryu's Legs Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "sakuraalpha": {
@@ -7676,14 +7676,14 @@
       "Evade Window"
     ],
     "slots": [
-      "Sakura's Head Alpha: Rank: 1",
-      "Sakura's Head Alpha: Rank: 1",
-      "Sakura's Work Uniform Alpha: Rank: 1",
-      "Sakura's Work Uniform Alpha: Rank: 1",
-      "Sakura's Arms Alpha: Rank: 2",
-      "Sakura's Skirt Alpha: Rank: 3",
-      "Sakura's Legs Alpha: Rank: 1",
-      "Sakura's Legs Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbLeg:681249420771328071> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "geraltalpha": {
@@ -7707,13 +7707,13 @@
       "Marathon Runner"
     ],
     "slots": [
-      "Geralt's Head Alpha: Rank: 1",
-      "Geralt's Head Alpha: Rank: 1",
-      "Geralt's Body Alpha: Rank: 1",
-      "Geralt's Body Alpha: Rank: 1",
-      "Geralt's Arms Alpha: Rank: 3",
-      "Geralt's Torso Alpha: Rank: 2",
-      "Geralt's Legs Alpha: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "cirialpha": {
@@ -7734,14 +7734,14 @@
       "Evade Window"
     ],
     "slots": [
-      "Ciri's Head Alpha: Rank: 3",
-      "Ciri's Head Alpha: Rank: 1",
-      "Ciri's Head Alpha: Rank: 1",
-      "Ciri's Body Alpha: Rank: 3",
-      "Ciri's Arms Alpha: Rank: 2",
-      "Ciri's Torso Alpha: Rank: 2",
-      "Ciri's Legs Alpha: Rank: 2",
-      "Ciri's Legs Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 3",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 2",
+      "<:cbWaist:681250265995018248> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "acrobatearringsalpha+": {
@@ -7753,9 +7753,9 @@
       "Safe Landing"
     ],
     "slots": [
-      "Acrobat Earrings Alpha +: Rank: 2",
-      "Acrobat Earrings Alpha +: Rank: 2",
-      "Acrobat Earrings Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "showmanearringsalpha+": {
@@ -7767,9 +7767,9 @@
       "Provoker"
     ],
     "slots": [
-      "Showman Earrings Alpha +: Rank: 2",
-      "Showman Earrings Alpha +: Rank: 2",
-      "Showman Earrings Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbHelmet:681250266380632153> Rank: 1"
     ]
   },
   "astralalpha+": {
@@ -7788,14 +7788,14 @@
       "Weakness Exploit"
     ],
     "slots": [
-      "Astral Veil Alpha +: Rank: 4",
-      "Astral Cloth Alpha +: Rank: 1",
-      "Astral  Scarf Alpha +: Rank: 4",
-      "Astral  Scarf Alpha +: Rank: 1",
-      "Astral  Scarf Alpha +: Rank: 1",
-      "Astral Skirt Alpha +: Rank: 4",
-      "Astral Skirt Alpha +: Rank: 1",
-      "Astral Tights Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "banukalpha+": {
@@ -7818,19 +7818,19 @@
       "Stamina Surge"
     ],
     "slots": [
-      "Banuk Helm Alpha +: Rank: 4",
-      "Banuk Helm Alpha +: Rank: 1",
-      "Banuk Helm Alpha +: Rank: 1",
-      "Banuk Mail Alpha +: Rank: 4",
-      "Banuk Mail Alpha +: Rank: 3",
-      "Banuk Arms Alpha +: Rank: 4",
-      "Banuk Arms Alpha +: Rank: 3",
-      "Banuk Coil Alpha +: Rank: 4",
-      "Banuk Coil Alpha +: Rank: 1",
-      "Banuk Coil Alpha +: Rank: 1",
-      "Banuk Greaves Alpha +: Rank: 4",
-      "Banuk Greaves Alpha +: Rank: 2",
-      "Banuk Greaves Alpha +: Rank: 2"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 3",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 2"
     ]
   },
   "buffbodyalpha+": {
@@ -7849,12 +7849,12 @@
       "Heroics"
     ],
     "slots": [
-      "Buff Chest Alpha +: Rank: 1",
-      "Buff Chest Alpha +: Rank: 1",
-      "Buff Chest Alpha +: Rank: 1",
-      "Buff Arms Alpha +: Rank: 4",
-      "Buff Waist Alpha +: Rank: 4",
-      "Buff Legs Alpha +: Rank: 4"
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbWaist:681250265995018248> Rank: 4",
+      "<:cbLeg:681249420771328071> Rank: 4"
     ]
   },
   "duffelpenguinmaskalpha+": {
@@ -7866,7 +7866,7 @@
       "Evade Window"
     ],
     "slots": [
-      "Duffel Penguin Mask Alpha +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4"
     ]
   },
   "sealeddragonclothalpha+": {
@@ -7878,8 +7878,8 @@
       "Resentment"
     ],
     "slots": [
-      "Sealed Dragon Cloth Alpha +: Rank: 4",
-      "Sealed Dragon Cloth Alpha +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 4"
     ]
   },
   "wyverianearsalpha+": {
@@ -7892,7 +7892,7 @@
       "Survival Expert"
     ],
     "slots": [
-      "Wyverian Ears Alpha +: Rank: 4"
+      "<:cbHelmet:681250266380632153> Rank: 4"
     ]
   },
   "shield-weaver+": {
@@ -7911,17 +7911,17 @@
       "Weakness Exploit"
     ],
     "slots": [
-      "Shield-Weaver Head +: Rank: 4",
-      "Shield-Weaver Head +: Rank: 2",
-      "Shield-Weaver Chest +: Rank: 4",
-      "Shield-Weaver Chest +: Rank: 2",
-      "Shield-Weaver Chest +: Rank: 1",
-      "Shield-Weaver Arms +: Rank: 4",
-      "Shield-Weaver Arms +: Rank: 1",
-      "Shield-Weaver Torso +: Rank: 3",
-      "Shield-Weaver Torso +: Rank: 1",
-      "Shield-Weaver Legs +: Rank: 2",
-      "Shield-Weaver Legs +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 4",
+      "<:cbHelmet:681250266380632153> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 4",
+      "<:cbChest:681250266460323852> Rank: 2",
+      "<:cbChest:681250266460323852> Rank: 1",
+      "<:cbArm:681250265881509891> Rank: 4",
+      "<:cbArm:681250265881509891> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 3",
+      "<:cbWaist:681250265995018248> Rank: 1",
+      "<:cbLeg:681249420771328071> Rank: 2",
+      "<:cbLeg:681249420771328071> Rank: 1"
     ]
   },
   "defenderalpha": {
@@ -7942,8 +7942,8 @@
       "Divine Blessing"
     ],
     "slots": [
-      "Defender Helm Alpha: Rank: 1",
-      "Defender Waist Alpha: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1"
     ]
   },
   "guardianalpha+": {
@@ -7964,8 +7964,8 @@
       "Divine Blessing"
     ],
     "slots": [
-      "Guardian Helm Alpha +: Rank: 1",
-      "Guardian Coil Alpha +: Rank: 1"
+      "<:cbHelmet:681250266380632153> Rank: 1",
+      "<:cbWaist:681250265995018248> Rank: 1"
     ]
   }
 }

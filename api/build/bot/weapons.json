@@ -24895,7 +24895,7 @@
     "rarity": 4,
     "displayAttack": 465,
     "rawAttack": 150,
-    "damageType": "-",
+    "damageType": "sever",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -32875,7 +32875,7 @@
     "rarity": 6,
     "displayAttack": 204,
     "rawAttack": 170,
-    "damageType": "-",
+    "damageType": "projectile",
     "affinity": 20,
     "defense": "-",
     "sharpness": {
@@ -32896,10 +32896,10 @@
     ],
     "slots": "-",
     "coatings": [
-      "Close Range",
-      "Paralysis",
-      "Sleep",
-      "Blast"
+      "close range",
+      "paralysis",
+      "blast",
+      "sleep"
     ]
   },
   "brazencord": {
