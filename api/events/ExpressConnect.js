@@ -92,8 +92,51 @@ module.exports = {
       console.log('Listening on *:' + port);
     });
 
+    let monsterArray = [];
+    for (let [k, v] of monsterMap) {
+      const monster = monsterMap.get(k);
+      monsterArray.push(monster.title);
+    }
+
+    let weaponArray = [];
+    for (let [k, v] of weaponMap) {
+      const weapon = weaponMap.get(k);
+      weaponArray.push(weapon.name);
+    }
+
+    let armorArray = [];
+    for (let [k, v] of armorMap) {
+      const armor = armorMap.get(k);
+      armorArray.push(armor.name);
+    }
+
+    let skillArray = [];
+    for (let [k, v] of skillMap) {
+      const skill = skillMap.get(k);
+      skillArray.push(skill.name);
+    }
+
+    let itemArray = [];
+    for (let [k, v] of itemMap) {
+      const item = itemMap.get(k);
+      itemArray.push(item.name);
+    }
+
+    let decorationArray = [];
+    for (let [k, v] of decorationMap) {
+      const decoration = decorationMap.get(k);
+      decorationArray.push(decoration.name);
+    }
+
     router.get(`/`, (res, req, next) => {
-      req.render(renders.main);
+      req.render(renders.main, {
+        monsterArray: monsterArray,
+        weaponArray: weaponArray,
+        armorArray: armorArray,
+        skillArray: skillArray,
+        itemArray: itemArray,
+        decorationArray: decorationArray
+      });
     });
 
     router.get(`/monsters`, (res, req, next) => {

@@ -593,7 +593,7 @@ module.exports = {
             water: waterResistance,
             thunder: thunderResistance,
             ice: iceResistance,
-            dragon: dragonResistance,
+            dragon: dragonResistance
           },
           skills: armorSkills,
           slots: slots
