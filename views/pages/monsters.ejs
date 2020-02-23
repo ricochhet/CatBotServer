@@ -28,18 +28,15 @@
   <div class="navigation-bar__light">
     <h5><img src="../icons/catbot.png" /> CatBot</h5>
     <nav>
-      <div class="theme-switch-wrapper">
-        <label class="theme-switch" for="checkbox">
-          <input type="checkbox" id="checkbox" />
-          <div class="slider round"></div>
-        </label>
-      </div>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
       <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
-      <a class="link-none"
-        href="https://discordapp.com/oauth2/authorize?client_id=573958899582107653&permissions=339008&scope=bot">Invite</a>
-      <a class="link-none" href="https://top.gg/bot/573958899582107653/vote">Vote</a>
       <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
+      <div class="theme-switch__container">
+        <label class="theme-switch" for="checkbox">
+          <input class="theme-switch__input" type="checkbox" id="checkbox" />
+          <div class="theme-switch__slider theme-switch__round"></div>
+        </label>
+      </div>
     </nav>
   </div>
   <input class="form-control form-control__spacer" type="text" id="search-input" onkeyup="searchMenu()"

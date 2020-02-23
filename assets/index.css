@@ -63,9 +63,6 @@ a:hover, button:hover {
 }
 
 .page-container__center--flex {
-    /*display: flex;
-    flex-wrap: wrap;
-    justify-content: center;*/
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(auto-fill, 450px);
@@ -418,21 +415,23 @@ a:hover, button:hover {
     opacity: 0.8;
 }
 
-.ripple{
+.effect-ripple__container {
 	position: relative;
 	overflow: hidden;
 }
-.effect{
+
+.effect-ripple {
 	position: absolute;
 	border-radius: 100%;
 	background-color: rgba(255, 255, 255, .2);
 	opacity: 0;
 	animation: effect .6s ease-in;
 }
-@keyframes effect{
-	0%{opacity:1;transform:scale(0);}
-	80%{opacity:.2;}
-	100%{opacity:0;transform:scale(3);}
+
+@keyframes effect {
+	0% { opacity: 1; transform: scale(0); }
+	80% { opacity: .2; }
+	100% { opacity: 0; transform: scale(3); }
 }
 
 .card-price {
@@ -783,10 +782,12 @@ a:hover, button:hover {
 ::-webkit-scrollbar {
     width: .45rem;
 }
+
 ::-webkit-scrollbar-thumb {
     background-color: rgba(27, 27, 27, .4);
     border-radius: 3px;
 }
+
 ::-webkit-scrollbar-track{
     background: transparent;
 }
@@ -858,11 +859,12 @@ a:hover, button:hover {
     background-color: var(--list-item-color);
 }
 
-.theme-switch-wrapper {
+.theme-switch__container {
     display: inline;
     align-items: center;
     vertical-align: middle;
 }
+
 .theme-switch {
     display: inline-block;
     height: 34px;
@@ -870,11 +872,11 @@ a:hover, button:hover {
     width: 60px;
 }
 
-.theme-switch input {
-    display:none;
+.theme-switch__input {
+    display: none;
 }
 
-.slider {
+.theme-switch__slider {
     background-color: #d9c334;
     bottom: 0;
     cursor: pointer;
@@ -885,7 +887,7 @@ a:hover, button:hover {
     transition: .4s;
 }
 
-.slider:before {
+.theme-switch__slider:before {
     background-color: #fff;
     bottom: 4px;
     content: "";
@@ -896,23 +898,23 @@ a:hover, button:hover {
     width: 26px;
 }
 
-input:checked + .slider {
+input:checked + .theme-switch__slider {
     background-color: #363d45;
 }
 
-input:checked + .slider:before {
+input:checked + .theme-switch__slider:before {
     transform: translateX(26px);
 }
 
-.slider.round {
+.theme-switch__slider.theme-switch__round {
     border-radius: 34px;
 }
 
-.slider.round:before {
+.theme-switch__slider.theme-switch__round:before {
     border-radius: 50%;
 }
 
-.autocomplete {
+.autocomplete-container {
     position: relative;
     display: flex;
 }

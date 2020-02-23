@@ -30,17 +30,18 @@
     <nav>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
       <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
-      <div class="theme-switch-wrapper">
+      <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
+      <div class="theme-switch__container">
         <label class="theme-switch" for="checkbox">
-          <input type="checkbox" id="checkbox" />
-          <div class="slider round"></div>
+          <input class="theme-switch__input" type="checkbox" id="checkbox" />
+          <div class="theme-switch__slider theme-switch__round"></div>
         </label>
       </div>
       <form autocomplete="off" id="search-bar" class="form-control__label">
-        <div class="autocomplete">
+        <div class="autocomplete-container">
           <input class="form-control form-control__input-group--none" type="text" id="search-input"
             placeholder="Search..." title="Type in a name">
-          <input class="btn btn-outline__small form-control__input-group--none" type="submit" placeholder="=yeet">
+          <input class="btn btn-outline__small form-control__input-group--none" type="submit">
         </div>
       </form>
     </nav>
@@ -141,7 +142,7 @@
 
   let combinedArray = [...decorationArray, ...monsterArray, ...weaponArray, ...armorArray, ...skillArray, ...itemArray];
 
-  autocomplete(document.getElementById("search-input"), combinedArray);
+  searchAutocomplete(document.getElementById("search-input"), combinedArray);
   document.getElementById("search-bar").onsubmit = function (e) {
     e.preventDefault();
     let input = document.getElementById("search-input").value;

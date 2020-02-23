@@ -1,4 +1,4 @@
-const ripples = document.querySelectorAll('.ripple');
+const ripples = document.querySelectorAll('.effect-ripple__container');
 for (let i = 0; i < ripples.length; i++) {
   ripples[i].addEventListener('mousedown', rippleEffect, false);
 }
@@ -12,7 +12,7 @@ function rippleEffect(e) {
   const size = Math.max(width, height);
   const effect = document.createElement('DIV');
 
-  effect.className = 'effect';
+  effect.className = 'effect-ripple';
   effect.style.width = size + 'px';
   effect.style.height = size + 'px';
   effect.style.top = posY - size / 2 + 'px';
@@ -28,7 +28,7 @@ function rippleEffect(e) {
 
 function themeToggle() {
   const toggleSwitch = document.querySelector(
-    '.theme-switch input[type="checkbox"]'
+    '.theme-switch__input[type="checkbox"]'
   );
   const currentTheme = localStorage.getItem('theme');
 
@@ -53,7 +53,7 @@ function themeToggle() {
   toggleSwitch.addEventListener('change', switchTheme, false);
 }
 
-function autocomplete(inp, arr) {
+function searchAutocomplete(inp, arr) {
   let currentFocus;
   inp.addEventListener('input', function(e) {
     let a,
