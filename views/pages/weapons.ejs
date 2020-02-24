@@ -5,6 +5,7 @@
   <title>CatBot Database</title>
   <link rel="stylesheet" type="text/css" href="../default.css">
   <link rel="stylesheet" type="text/css" href="../index.css">
+  <link rel="stylesheet" type="text/css" href="../all.min.css">
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -25,7 +26,7 @@
 </head>
 
 <body>
-  <div class="navigation-bar__light">
+  <div class="navigation-bar__light" id="navigation-bar__light">
     <h5><img src="../icons/catbot.png" /> CatBot</h5>
     <nav>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
@@ -37,6 +38,9 @@
           <div class="theme-switch__slider theme-switch__round"></div>
         </label>
       </div>
+      <a href="javascript:void(0);" class="icon" onclick="responsiveNavigation()">
+        <i class="link-none__no-padding fa fa-bars"></i>
+      </a>
     </nav>
   </div>
   <input class="form-control form-control__spacer" type="text" id="search-input" onkeyup="searchMenu()"

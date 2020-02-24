@@ -316,6 +316,62 @@ a:hover, button:hover {
     margin-bottom: 0;
 }
 
+.navigation-bar__light .icon {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .navigation-bar__light a:not(:first-child) {
+        display: none;
+    }
+
+    .navigation-bar__light form:not(:first-child) {
+        display: none;
+    }
+
+    .navigation-bar__light div:not(:first-child) {
+        display: none;
+    }
+
+    .navigation-bar__light h5:not(:first-child) {
+        display: block;
+    }
+
+    .navigation-bar__light a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .navigation-bar__light.responsive {
+        position: relative;
+    }
+
+    .navigation-bar__light.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding: 1rem;
+    }
+
+    .navigation-bar__light.responsive a {
+        display: block;
+    }
+
+    .navigation-bar__light.responsive form {
+        display: block;
+    }
+
+    .navigation-bar__light.responsive div {
+        display: block;
+    }
+
+    .navigation-bar__light.responsive h5 {
+        display: none;
+    }
+}
+
 .link-none {
     text-decoration: none;
     color: var(--link-none);

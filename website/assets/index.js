@@ -131,3 +131,13 @@ function searchAutocomplete(inp, arr) {
     closeAllLists(e.target);
   });
 }
+
+function responsiveNavigation() {
+  let x = document.getElementById('navigation-bar__light');
+
+  if (x.className === 'navigation-bar__light') {
+    x.className += ' responsive';
+  } else {
+    x.className = 'navigation-bar__light';
+  }
+}
