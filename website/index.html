@@ -24,10 +24,11 @@
 
     <link rel="stylesheet" type="text/css" href="assets/index.css">
     <link rel="stylesheet" type="text/css" href="assets/mhw.css">
+    <link rel="stylesheet" type="text/css" href="assets/all.min.css">
 </head>
 
 <body>
-    <div class="navigation-bar__light">
+    <div class="navigation-bar__light" id="navigation-bar__light">
         <h5><img src="assets/icons/catbot.png" /> CatBot</h5>
         <nav>
             <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
@@ -35,6 +36,9 @@
                 href="https://discordapp.com/oauth2/authorize?client_id=573958899582107653&permissions=339008&scope=bot">Invite</a>
             <a class="link-none" href="https://top.gg/bot/573958899582107653/vote">Vote</a>
             <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
+            <a href="javascript:void(0);" class="icon" onclick="responsiveNavigation()">
+                <i class="link-none__no-padding--light fa fa-bars"></i>
+            </a>
         </nav>
     </div>
     <div class="page-header__container">

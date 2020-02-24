@@ -29,7 +29,6 @@
   <div class="navigation-bar__light" id="navigation-bar__light">
     <h5><img src="../icons/catbot.png" /><a class="link-none" href="/">CatBot</a></h5>
     <nav>
-      <a class="link-none" href="/">Home</a>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
       <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
       <div class="theme-switch__container">
@@ -40,9 +39,11 @@
       </div>
       <form autocomplete="off" id="search-bar" class="form-control__label">
         <div class="autocomplete-container">
-          <input class="form-control form-control__input-group--none" type="text" id="search-input"
-            placeholder="Search..." title="Type in a name">
-          <input class="btn btn-outline__small form-control__input-group--none" type="submit">
+          <div class="autocomplete-wrapper">
+            <input class="form-control form-control__input-group--none form-control__input-right--margin" type="text" id="search-input"
+              placeholder="Search..." title="Type in a name">
+            <input class="btn btn-outline__small form-control__input-group--none" type="submit">
+          </div>
         </div>
       </form>
       <a href="javascript:void(0);" class="icon" onclick="responsiveNavigation()">
