@@ -27,10 +27,10 @@
 
 <body>
   <div class="navigation-bar__light" id="navigation-bar__light">
-    <h5><img src="../icons/catbot.png" /> CatBot</h5>
+    <h5><img src="../icons/catbot.png" /><a class="link-none" href="/">CatBot</a></h5>
     <nav>
+      <a class="link-none" href="/">Home</a>
       <a class="link-none" href="https://catbot.xyz">Bot</a>
-      <a class="link-none" href="https://mhdb.catbot.xyz">Database</a>
       <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
       <div class="theme-switch__container">
         <label class="theme-switch" for="checkbox">
@@ -45,6 +45,12 @@
   </div>
   <input class="form-control form-control__spacer" type="text" id="search-input" onkeyup="searchMenu()"
     placeholder="Search for names.." title="Type in a name">
+  <div class="page-container__center">
+    <ul class="breadcrumb">
+      <li><a href="/">Monster Hunter</a></li>
+      <li>Armors</li>
+    </ul>
+  </div>
   <div class="page-container__center page-container__center--flex" id="item-container">
     <% for (let [k, v] of ARMOR_MAP) {%>
     <a class="link-none link-none__blue list-item__center list-item__no-auto" href=/armors/<%= k %>>

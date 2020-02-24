@@ -1002,6 +1002,33 @@ input:checked + .theme-switch__slider:before {
     color: var(--bg-color); 
 }
 
+ul.breadcrumb {
+    padding: 10px 16px;
+    list-style: none;
+    background-color: var(--bg-color);
+  }
+  
+ul.breadcrumb li {
+    display: inline;
+    font-size: 18px;
+}
+
+ul.breadcrumb li+li:before {
+    padding: 8px;
+    color:var(--font-color);
+    content: "/\00a0";
+}
+
+ul.breadcrumb li a {
+    color: var(--link-none-blue);
+    text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+    color: var(--link-none-blue);
+    text-decoration: underline;
+}
+
 :root {
     --light-item-border: 1px solid rgba(0, 0, 0, .125);
     --table-header-background: rgba(0, 0, 0, .03);
