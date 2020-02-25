@@ -77,6 +77,7 @@ function searchAutocomplete(inp, arr) {
         b.innerHTML = `<strong>` + arr[i].substr(0, val.length) + `</strong>`;
         b.innerHTML += arr[i].substr(val.length);
         b.innerHTML += `<input type="hidden" value="` + arr[i] + `">`;
+
         b.addEventListener('click', function(e) {
           inp.value = this.getElementsByTagName('input')[0].value;
           closeAllLists();
@@ -110,6 +111,7 @@ function searchAutocomplete(inp, arr) {
     if (currentFocus >= x.length) currentFocus = 0;
     if (currentFocus < 0) currentFocus = x.length - 1;
     x[currentFocus].classList.add('autocomplete-active');
+    inp.value = x[currentFocus].textContent;
   }
 
   function removeActive(x) {

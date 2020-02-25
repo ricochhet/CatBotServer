@@ -336,21 +336,6 @@ a:hover, button:hover {
     .navigation-bar__light h5 {
         display: block;
     }
-    /*.navigation-bar__light a:not(:first-child) {
-        display: none;
-    }
-
-    .navigation-bar__light form:not(:first-child) {
-        display: none;
-    }
-
-    .navigation-bar__light div:not(:first-child) {
-        display: none;
-    }
-
-    .navigation-bar__light h5:not(:first-child) {
-        display: block;
-    }*/
 
     .navigation-bar__light a.icon {
         float: right;
@@ -380,10 +365,6 @@ a:hover, button:hover {
     }
 
     .navigation-bar__light.responsive div {
-        display: flex;
-    }
-
-    .navigation-bar__light.responsive div .autocomplete-items {
         display: block;
     }
 
