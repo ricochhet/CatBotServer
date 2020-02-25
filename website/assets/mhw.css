@@ -10,7 +10,7 @@ body {
   background-color: rgba(0, 0, 0, 0.8);  
   color: #fff;
   border: 1px solid #565353;
-  box-shadow: transparent;
+  box-shadow: none;
 }
 
 .card-command::before {
@@ -128,7 +128,6 @@ body {
   border: 1px solid #cfee1d;
   background-color: rgba(0, 0, 0, 0.8);  
   color: #cfee1d;
-  border: 1px solid #cfee1d;
 }
 
 .btn-main:hover::before {
