@@ -365,7 +365,7 @@ a:hover, button:hover {
     }
 
     .navigation-bar__light.responsive div {
-        display: block;
+        display: flex;
     }
 
     .navigation-bar__light.responsive h5 {
