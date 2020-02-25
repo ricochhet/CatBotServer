@@ -364,6 +364,10 @@ a:hover, button:hover {
         margin-top: 5px;
     }
 
+    .navigation-bar__light.responsive div .autocomplete-items {
+        display: block;
+    }
+
     .navigation-bar__light.responsive div {
         display: flex;
     }

@@ -560,31 +560,31 @@ module.exports = {
                 if (key.pieces[i].type == 'head') {
                   slots.push(
                     `<:cbHelmet:681250266380632153> Rank: ${key.pieces[i].slots[v].rank}`
-                  ); 
+                  );
                 }
 
                 if (key.pieces[i].type == 'chest') {
                   slots.push(
                     `<:cbChest:681250266460323852> Rank: ${key.pieces[i].slots[v].rank}`
-                  ); 
+                  );
                 }
 
                 if (key.pieces[i].type == 'gloves') {
                   slots.push(
                     `<:cbArm:681250265881509891> Rank: ${key.pieces[i].slots[v].rank}`
-                  ); 
+                  );
                 }
 
                 if (key.pieces[i].type == 'waist') {
                   slots.push(
                     `<:cbWaist:681250265995018248> Rank: ${key.pieces[i].slots[v].rank}`
-                  ); 
+                  );
                 }
 
                 if (key.pieces[i].type == 'legs') {
                   slots.push(
                     `<:cbLeg:681249420771328071> Rank: ${key.pieces[i].slots[v].rank}`
-                  ); 
+                  );
                 }
               } else {
                 let obj = {};
