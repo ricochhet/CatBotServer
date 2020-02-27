@@ -7,7 +7,7 @@ const decorationsURL = `https://mhw-db.com/decorations`;
 const skillsURL = `https://mhw-db.com/skills`;
 const weaponsURL = `https://mhw-db.com/weapons`;
 
-const csvManager = require('./source/csvToJson');
+const csvManager = require('./libraries/csvToJson');
 
 async function getData(url) {
   const response = await fetch(url);

@@ -5,9 +5,9 @@ const bodyParser = require('body-parser');
 const router = express.Router();
 
 /* API MAPS */
-let monsterDB = require('../build/monsters.json');
+let monsterDB = require('./database/monsters.json');
 let monsterMap = new Map();
-let monsterHZVDB = require('../build/monsterhzvs.json');
+let monsterHZVDB = require('./database/monsterhzvs.json');
 let monsterHZVMap = new Map();
 
 for (const i of Object.keys(monsterDB)) {
@@ -18,56 +18,56 @@ for (const i of Object.keys(monsterHZVDB)) {
   monsterHZVMap.set(i, monsterHZVDB[i]);
 }
 
-let itemDB = require('../build/items.json');
+let itemDB = require('./database/items.json');
 let itemMap = new Map();
 
 for (const i of Object.keys(itemDB)) {
   itemMap.set(i, itemDB[i]);
 }
 
-let itemIDDB = require('../build/itemids.json');
+let itemIDDB = require('./database/itemids.json');
 let itemIDMap = new Map();
 
 for (const i of Object.keys(itemIDDB)) {
   itemIDMap.set(itemIDDB[i].Name, itemIDDB[i]);
 }
 
-let armorDB = require('../build/armors.json');
+let armorDB = require('./database/armors.json');
 let armorMap = new Map();
 
 for (const i of Object.keys(armorDB)) {
   armorMap.set(i, armorDB[i]);
 }
 
-let weaponDB = require('../build/weapons.json');
+let weaponDB = require('./database/weapons.json');
 let weaponMap = new Map();
 
 for (const i of Object.keys(weaponDB)) {
   weaponMap.set(i, weaponDB[i]);
 }
 
-let decorationDB = require('../build/decorations.json');
+let decorationDB = require('./database/decorations.json');
 let decorationMap = new Map();
 
 for (const i of Object.keys(decorationDB)) {
   decorationMap.set(i, decorationDB[i]);
 }
 
-let skillDB = require('../build/skills.json');
+let skillDB = require('./database/skills.json');
 let skillMap = new Map();
 
 for (const i of Object.keys(skillDB)) {
   skillMap.set(i, skillDB[i]);
 }
 
-let questIDDB = require('../build/questids.json');
+let questIDDB = require('./database/questids.json');
 
 module.exports = {
   express,
   app,
   http,
   bodyParser,
-  Connect: function(
+  connect: function(
     renders = {
       main: 'main.ejs',
       listMonster: 'pages/monsters.ejs',
@@ -88,7 +88,7 @@ module.exports = {
     staticName,
     port
   ) {
-    const server = http.listen(`${port}`, function() {
+    http.listen(`${port}`, function() {
       console.log('Listening on *:' + port);
     });
 

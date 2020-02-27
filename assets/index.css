@@ -31,10 +31,25 @@ a:hover, button:hover {
     padding-top: 90px;
 }
 
+.page-header__container--nomargin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    flex-direction: column;
+}
+
 .page-header__wrapper {
     z-index: 1;
     padding: 1rem;
     margin-bottom: 150px;
+}
+
+.page-header__wrapper--nomargin {
+    z-index: 1;
+    padding: 1rem;
 }
 
 .page-header__wrapper h1 {
@@ -45,6 +60,20 @@ a:hover, button:hover {
 }
 
 .page-header__wrapper h2 {
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 0.1;
+    color: var(--font-color);
+}
+
+.page-header__wrapper--nomargin h1 {
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 1.25;
+    color: var(--font-color);
+}
+
+.page-header__wrapper--nomargin h2 {
     font-size: 1.25rem;
     font-weight: 300;
     line-height: 0.1;
@@ -293,8 +322,8 @@ a:hover, button:hover {
     border-bottom: 1px solid var(--light-border-bottom);
     flex-direction: row;
     align-items: center;
-    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);
-    padding: 1rem;
+    /*box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);*/
+    padding: .5rem 1rem;
 }
 
 .navigation-bar__light h5 img {
