@@ -7,13 +7,13 @@ module.exports = {
 
       mhw.writeData({
         delim: ',',
-        input: './api/json/ItemTableFixed - Item.csv',
+        input: './api/json/csv/ItemTableFixed - Item.csv',
         output: './api/database/bot/itemids.json'
       });
 
       mhw.writeData({
         delim: ',',
-        input: './api/json/Quest IDs - Sheet1.csv',
+        input: './api/json/csv/Quest IDs - Sheet1.csv',
         output: './api/database/bot/questids.json'
       });
 
@@ -29,7 +29,7 @@ module.exports = {
       mhw.writeData(
         {
           delim: ',',
-          input: './api/json/ItemTableFixed - Item.csv',
+          input: './api/json/csv/ItemTableFixed - Item.csv',
           output: './api/database/itemids.json'
         },
         true
@@ -38,7 +38,7 @@ module.exports = {
       mhw.writeData(
         {
           delim: ',',
-          input: './api/json/Quest IDs - Sheet1.csv',
+          input: './api/json/csv/Quest IDs - Sheet1.csv',
           output: './api/database/questids.json'
         },
         true
