@@ -1,7 +1,7 @@
 const cmdLineArgs = process.argv.slice(2);
 
-const connect = require('./api/connect');
-const build = require('./api/build');
+const connect = require('./data/connect');
+const build = require('./data/build');
 
 if (
   cmdLineArgs.includes('--rebuild-dbs') &&

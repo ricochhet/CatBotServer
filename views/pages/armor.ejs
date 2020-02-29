@@ -3,7 +3,6 @@
 
 <head>
   <title>CatBot Database</title>
-  <link rel="stylesheet" type="text/css" href="../default.css">
   <link rel="stylesheet" type="text/css" href="../index.css">
   <link rel="stylesheet" type="text/css" href="../all.min.css">
 
@@ -27,16 +26,24 @@
 
 <body>
   <div class="navigation-bar__light" id="navigation-bar__light">
-    <h5><img src="../icons/catbot.png" /><a class="link-none" href="/">CatBot</a></h5>
+    <h5><img src="../icons/catbot.png" /><a class="navigation-bar__light--link" href="/">CatBot</a></h5>
     <nav>
-      <a class="link-none" href="https://catbot.xyz">Bot</a>
-      <a class="link-none" href="https://discord.gg/srNyk8G">Support</a>
+      <a class="navigation-bar__light--link" href="https://catbot.xyz">Bot</a>
+      <a class="navigation-bar__light--link" href="https://discord.gg/srNyk8G">Support</a>
       <div class="theme-switch__container">
         <label class="theme-switch" for="checkbox">
           <input class="theme-switch__input" type="checkbox" id="checkbox" />
           <div class="theme-switch__slider theme-switch__round"></div>
         </label>
       </div>
+      <form autocomplete="off" id="search-bar" class="form-control__label">
+        <div class="autocomplete-container">
+          <input class="form-control form-control__input-group--none form-control__input-right--margin" type="text"
+            id="search-input" placeholder="Search..." title="Type in a name">
+          <button class="btn btn-outline__submit form-control__input-group--none" type="submit"><i
+              class="fas fa-search"></i></button>
+        </div>
+      </form>
       <a href="javascript:void(0);" class="icon" onclick="responsiveNavigation()">
         <i class="link-none__no-padding fa fa-bars"></i>
       </a>
@@ -176,8 +183,16 @@
   </div>
 </body>
 <script src="../index.js"></script>
+<script src="../functions.js"></script>
 <script>
   themeToggle();
+  let decorationArray = `<%- decorationArray %>`.split(',');
+  let monsterArray = `<%- monsterArray %>`.split(',');
+  let weaponArray = `<%- weaponArray %>`.split(',');
+  let armorArray = `<%- armorArray %>`.split(',');
+  let skillArray = `<%- skillArray %>`.split(',');
+  let itemArray = `<%- itemArray %>`.split(',');
+  autoComplete(decorationArray, monsterArray, weaponArray, armorArray, skillArray, itemArray);
 </script>
 
 </html>

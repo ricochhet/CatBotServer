@@ -5,9 +5,9 @@ const bodyParser = require('body-parser');
 const router = express.Router();
 
 /* API MAPS */
-let monsterDB = require('./database/monsters.json');
+let monsterDB = require('./json/monsters.json');
 let monsterMap = new Map();
-let monsterHZVDB = require('./database/monsterhzvs.json');
+let monsterHZVDB = require('./json/monsterhzvs.json');
 let monsterHZVMap = new Map();
 
 for (const i of Object.keys(monsterDB)) {
@@ -18,49 +18,49 @@ for (const i of Object.keys(monsterHZVDB)) {
   monsterHZVMap.set(i, monsterHZVDB[i]);
 }
 
-let itemDB = require('./database/items.json');
+let itemDB = require('./json/items.json');
 let itemMap = new Map();
 
 for (const i of Object.keys(itemDB)) {
   itemMap.set(i, itemDB[i]);
 }
 
-let itemIDDB = require('./database/itemids.json');
+let itemIDDB = require('./json/itemids.json');
 let itemIDMap = new Map();
 
 for (const i of Object.keys(itemIDDB)) {
   itemIDMap.set(itemIDDB[i].Name, itemIDDB[i]);
 }
 
-let armorDB = require('./database/armors.json');
+let armorDB = require('./json/armors.json');
 let armorMap = new Map();
 
 for (const i of Object.keys(armorDB)) {
   armorMap.set(i, armorDB[i]);
 }
 
-let weaponDB = require('./database/weapons.json');
+let weaponDB = require('./json/weapons.json');
 let weaponMap = new Map();
 
 for (const i of Object.keys(weaponDB)) {
   weaponMap.set(i, weaponDB[i]);
 }
 
-let decorationDB = require('./database/decorations.json');
+let decorationDB = require('./json/decorations.json');
 let decorationMap = new Map();
 
 for (const i of Object.keys(decorationDB)) {
   decorationMap.set(i, decorationDB[i]);
 }
 
-let skillDB = require('./database/skills.json');
+let skillDB = require('./json/skills.json');
 let skillMap = new Map();
 
 for (const i of Object.keys(skillDB)) {
   skillMap.set(i, skillDB[i]);
 }
 
-let questIDDB = require('./database/questids.json');
+let questIDDB = require('./json/questids.json');
 
 module.exports = {
   express,
@@ -141,7 +141,13 @@ module.exports = {
 
     router.get(`/monsters`, (res, req, next) => {
       req.render(renders.listMonster, {
-        MONSTER_MAP: monsterMap
+        MONSTER_MAP: monsterMap,
+        monsterArray: monsterArray,
+        weaponArray: weaponArray,
+        armorArray: armorArray,
+        skillArray: skillArray,
+        itemArray: itemArray,
+        decorationArray: decorationArray
       });
     });
 
@@ -174,14 +180,26 @@ module.exports = {
           MONSTER_HZV_THUNDER: monster.hzv.thunder,
           MONSTER_HZV_ICE: monster.hzv.ice,
           MONSTER_HZV_DRAGON: monster.hzv.dragon,
-          MONSTER_HZV_DATA: hzv
+          MONSTER_HZV_DATA: hzv,
+          monsterArray: monsterArray,
+          weaponArray: weaponArray,
+          armorArray: armorArray,
+          skillArray: skillArray,
+          itemArray: itemArray,
+          decorationArray: decorationArray
         });
       }
     });
 
     router.get('/items', (res, req, next) => {
       req.render(renders.listItem, {
-        ITEM_MAP: itemMap
+        ITEM_MAP: itemMap,
+        monsterArray: monsterArray,
+        weaponArray: weaponArray,
+        armorArray: armorArray,
+        skillArray: skillArray,
+        itemArray: itemArray,
+        decorationArray: decorationArray
       });
     });
 
@@ -199,14 +217,26 @@ module.exports = {
           ITEM_RARITY: item.rarity,
           ITEM_CARRYLIMIT: item.carryLimit,
           ITEM_VALUE: item.value,
-          ITEM_ID: itemID
+          ITEM_ID: itemID,
+          monsterArray: monsterArray,
+          weaponArray: weaponArray,
+          armorArray: armorArray,
+          skillArray: skillArray,
+          itemArray: itemArray,
+          decorationArray: decorationArray
         });
       }
     });
 
     router.get('/armors', (res, req, next) => {
       req.render(renders.listArmor, {
-        ARMOR_MAP: armorMap
+        ARMOR_MAP: armorMap,
+        monsterArray: monsterArray,
+        weaponArray: weaponArray,
+        armorArray: armorArray,
+        skillArray: skillArray,
+        itemArray: itemArray,
+        decorationArray: decorationArray
       });
     });
 
@@ -220,14 +250,26 @@ module.exports = {
           ARMOR_DEFENSES: armor.defenses,
           ARMOR_RESISTANCES: armor.resistances,
           ARMOR_SKILLS: armor.skills,
-          ARMOR_SLOTS: armor.slots
+          ARMOR_SLOTS: armor.slots,
+          monsterArray: monsterArray,
+          weaponArray: weaponArray,
+          armorArray: armorArray,
+          skillArray: skillArray,
+          itemArray: itemArray,
+          decorationArray: decorationArray
         });
       }
     });
 
     router.get('/weapons', (res, req, next) => {
       req.render(renders.listWeapon, {
-        WEAPON_MAP: weaponMap
+        WEAPON_MAP: weaponMap,
+        monsterArray: monsterArray,
+        weaponArray: weaponArray,
+        armorArray: armorArray,
+        skillArray: skillArray,
+        itemArray: itemArray,
+        decorationArray: decorationArray
       });
     });
 
@@ -259,14 +301,26 @@ module.exports = {
           WEAPON_AMMOS: weapon.ammos,
           WEAPON_ELEMENTS: weapon.elements,
           WEAPON_SLOTS: weapon.slots,
-          WEAPON_COATINGS: coatingArray
+          WEAPON_COATINGS: coatingArray,
+          monsterArray: monsterArray,
+          weaponArray: weaponArray,
+          armorArray: armorArray,
+          skillArray: skillArray,
+          itemArray: itemArray,
+          decorationArray: decorationArray
         });
       }
     });
 
     router.get('/decorations', (res, req, next) => {
       req.render(renders.listDecorations, {
-        DECORATION_MAP: decorationMap
+        DECORATION_MAP: decorationMap,
+        monsterArray: monsterArray,
+        weaponArray: weaponArray,
+        armorArray: armorArray,
+        skillArray: skillArray,
+        itemArray: itemArray,
+        decorationArray: decorationArray
       });
     });
 
@@ -280,14 +334,26 @@ module.exports = {
           DECORATION_NAME: decoration.name,
           DECORATION_RARITY: decoration.rarity,
           DECORATION_SLOT: decoration.slot,
-          DECORATION_SKILLS: decoration.skills
+          DECORATION_SKILLS: decoration.skills,
+          monsterArray: monsterArray,
+          weaponArray: weaponArray,
+          armorArray: armorArray,
+          skillArray: skillArray,
+          itemArray: itemArray,
+          decorationArray: decorationArray
         });
       }
     });
 
     router.get('/skills', (res, req, next) => {
       req.render(renders.listSkills, {
-        SKILL_MAP: skillMap
+        SKILL_MAP: skillMap,
+        monsterArray: monsterArray,
+        weaponArray: weaponArray,
+        armorArray: armorArray,
+        skillArray: skillArray,
+        itemArray: itemArray,
+        decorationArray: decorationArray
       });
     });
 
@@ -298,14 +364,26 @@ module.exports = {
         req.render(renders.getSkills, {
           SKILL_NAME: skill.name,
           SKILL_DESCRIPTION: skill.description,
-          SKILL_RANKS: skill.ranks
+          SKILL_RANKS: skill.ranks,
+          monsterArray: monsterArray,
+          weaponArray: weaponArray,
+          armorArray: armorArray,
+          skillArray: skillArray,
+          itemArray: itemArray,
+          decorationArray: decorationArray
         });
       }
     });
 
     router.get('/questids', (res, req, next) => {
       req.render(renders.listQuestIDs, {
-        QUESTID_MAP: questIDDB
+        QUESTID_MAP: questIDDB,
+        monsterArray: monsterArray,
+        weaponArray: weaponArray,
+        armorArray: armorArray,
+        skillArray: skillArray,
+        itemArray: itemArray,
+        decorationArray: decorationArray
       });
     });
 
