@@ -329,10 +329,18 @@ a:hover, button:hover {
     padding: .5rem 1rem;
 }
 
+.navigation-bar__light--header__link {
+    text-decoration: none;
+    color: var(--header-link);
+    padding: .5rem;
+    transition: 0.2s;
+}
+
 .navigation-bar__light--link {
     text-decoration: none;
     color: var(--light-navigation-bar-link);
     padding: .5rem;
+    transition: 0.2s;
 }
 
 .navigation-bar__light--link:hover {
@@ -1114,6 +1122,7 @@ ul.breadcrumb li a:hover {
     --link-none: #343a40;
     --bg-color: #f8f9fa;
     --font-color: #000;
+    --header-link: #fff;
 }
 
 [data-theme="dark"] {
@@ -1141,6 +1150,7 @@ ul.breadcrumb li a:hover {
     --link-none: #99a9b9;
     --bg-color: #1f1f1f;
     --font-color: #fff;
+    --header-link: #fff;
     /*--light-item-border: 1px solid rgba(32, 34, 37, 1);
     --table-header-background: rgba(32, 34, 37, 1);
     --page-header-wrapper-a: #c2c2c2;
