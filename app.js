@@ -1,8 +1,8 @@
 const rm = require('./router/RouteManager');
 
-let monsterDB = require('./database/prebuilt/monsters.json');
+let monsterDB = require('./database/build/monsters.json');
 let monsterMap = new Map();
-let monsterHZVDB = require('./database/prebuilt/monsterhzvs.json');
+let monsterHZVDB = require('./database/build/monsterhzvs.json');
 let monsterHZVMap = new Map();
 
 for (const i of Object.keys(monsterDB)) {

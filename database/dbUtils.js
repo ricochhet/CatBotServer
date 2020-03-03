@@ -8,20 +8,20 @@ class DBUtils {
       db.genJSON({
         delim: ',',
         input: './database/src/ItemTableFixed - Item.csv',
-        output: './database/build_light/itemids.json'
+        output: './database/compiled/itemids.json'
       });
 
       db.genJSON({
         delim: ',',
         input: './database/src/Quest IDs - Sheet1.csv',
-        output: './database/build_light/questids.json'
+        output: './database/compiled/questids.json'
       });
 
-      db.items('./database/build_light/items.json');
-      db.armors('./database/build_light/armors.json');
-      db.decorations('./database/build_light/decorations.json');
-      db.skills('./database/build_light/skills.json');
-      db.weapons('./database/build_light/weapons.json');
+      db.items('./database/compiled/items.json');
+      db.armors('./database/compiled/armors.json');
+      db.decorations('./database/compiled/decorations.json');
+      db.skills('./database/compiled/skills.json');
+      db.weapons('./database/compiled/weapons.json');
     } else {
       if (active) console.log(`Rebuilding advanced databases...`);
       const db = require('./dbBuilder');
