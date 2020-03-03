@@ -1,0 +1,139 @@
+body {
+  background-color: #180e0d;
+  color: #fff;
+  position: relative;
+  background: url('./icons/mhw_bg.jpg') top no-repeat fixed;
+  background-size: cover;
+}
+
+.card-command {
+  background-color: rgba(0, 0, 0, 0.8);  
+  color: #fff;
+  border: 1px solid #565353;
+  box-shadow: none;
+}
+
+.card-command::before {
+  background: url('./icons/icon-corn-gray_top_d.svg') no-repeat;
+  display: block;
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 12px;
+  height: 12px;
+}
+
+.card-command::after {
+  background: url('./icons/icon-corn-gray_bottom_d.svg') no-repeat;
+  display: block;
+  content: "";
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+  width: 12px;
+  height: 12px;
+}
+
+.card-command__description {
+  color: #fff;
+}
+
+.card-command code {
+  background-color: transparent;
+  color: #fff;
+}
+
+.buttons {
+  float: left;
+  position: relative;
+  left: 50%;
+}
+
+.page-header__wrapper h1 {
+  color: #fff;
+}
+
+.page-footer p {
+  color: #fff;
+}
+
+.link-none {
+  text-decoration: none;
+  color: #fff;
+  padding: .5rem;
+}
+
+.navigation-bar__light {
+  border-bottom: none;
+}
+
+.page-container__content-paragraph {
+  border: 1px dashed #565353;
+  border-radius: 5px;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 3px;
+  transition: 0.2s;
+}
+
+.page-container__content-paragraph:hover {
+  border: 2px solid #cfee1d;
+}
+
+.page-header__wrapper a {
+  background-color: rgba(0, 0, 0, 0.8);  
+  color: #fff;
+  border: 1px solid #565353;
+  text-decoration: none;
+  width: 105px;
+}
+
+.btn-main {
+  display: table;
+  border-collapse: separate;
+  margin-left: 10px;
+  float: left;
+  position: relative;
+  left: -50%;
+  vertical-align: middle;
+  transition: 0.2s;
+  cursor: pointer;
+  padding: 12px;
+}
+
+.btn-main::before {
+  background: url('./icons/icon-corn-gray_top_d.svg') no-repeat;
+  display: block;
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 12px;
+  height: 12px;
+}
+
+.btn-main::after {
+  background: url('./icons/icon-corn-gray_bottom_d.svg') no-repeat;
+  display: block;
+  content: "";
+  position: absolute;
+  bottom: 4px;
+  right: 4px;
+  width: 12px;
+  height: 12px;
+}
+
+.btn-main:hover {
+  border: 1px solid #cfee1d;
+  background-color: rgba(0, 0, 0, 0.8);  
+  color: #cfee1d;
+}
+
+.btn-main:hover::before {
+  background: url('./icons/icon-corn-top_on.svg') no-repeat;
+}
+
+.btn-main:hover::after {
+  background: url('./icons/icon-corn-bottom_on.svg') no-repeat;
+}
