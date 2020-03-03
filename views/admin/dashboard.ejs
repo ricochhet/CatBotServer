@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CatBot Admin</title>
+  <link rel="stylesheet" type="text/css" href="../mint.css">
+  <link rel="stylesheet" type="text/css" href="../all.min.css">
+  <link rel="icon" href="../icons/catbot.png" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <meta name="robots" content="noindex">
+</head>
+
+<body>
+  <div class="page-container__center">
+    <h1>Admin Database Editor</h1>
+    <form action="/admin/logout" method="post">
+      <button type="submit" class="btn form-control__spacer">Logout</button>
+    </form>
+    <h4>Monsters</h4>
+    <p class="page-container__content-paragraph color-dark__muted">Copy paste the below into your preferred editor. Once
+      done, paste over current, and commit.</p>
+    <textarea style="width: 1250px; height: 520px;"><%= MONSTERS %></textarea>
+  </div>
+</body>
+<script src="../mint.js"></script>
+<script src="../functions.js"></script>
+
+</html>

@@ -1,43 +1,15 @@
-const cmdLineArgs = process.argv.slice(2);
+const App = require('./app');
+const dbUtils = require('./database/dbUtils');
+const commandUtils = require('./database/libraries/commandUtils');
 
-const connect = require('./data/connect');
-const build = require('./data/build');
+commandUtils.command(['--build', '--a'], function() {
+  return dbUtils.build(true, true);
+});
 
-if (
-  cmdLineArgs.includes('--rebuild-dbs') &&
-  !cmdLineArgs.includes('--advanced')
-) {
-  return build.build(true, false);
-} else if (
-  cmdLineArgs.includes('--rebuild-dbs') &&
-  cmdLineArgs.includes('--advanced')
-) {
-  return build.build(true, true);
-}
+commandUtils.command(['--build', '--b'], function() {
+  return dbUtils.build(true, false);
+});
 
-connect.connect(
-  {
-    main: 'main.ejs',
-    listMonster: 'pages/monsters.ejs',
-    getMonster: 'pages/monster.ejs',
-
-    listItem: 'pages/items.ejs',
-    getItem: 'pages/item.ejs',
-
-    listArmor: 'pages/armors.ejs',
-    getArmor: 'pages/armor.ejs',
-
-    listWeapon: 'pages/weapons.ejs',
-    getWeapon: 'pages/weapon.ejs',
-
-    listDecorations: 'pages/decorations.ejs',
-    getDecorations: 'pages/decoration.ejs',
-
-    listSkills: 'pages/skills.ejs',
-    getSkills: 'pages/skill.ejs',
-
-    listQuestIDs: 'pages/questids.ejs'
-  },
-  'assets',
-  8080
-);
+commandUtils.command(['start'], function() {
+  App.deploy();
+});
