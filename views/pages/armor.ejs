@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>CatBot Database</title>
+  <title>CatBot / MHWorld - Monster Hunter World: Iceborne Database</title>
   <link rel="stylesheet" type="text/css" href="../mint.css">
   <link rel="stylesheet" type="text/css" href="../all.min.css">
 
@@ -13,7 +13,7 @@
   <link rel="icon" href="../icons/catbot.png" />
   <meta name="theme-color" content="#8fde5d" />
   <meta property="og:url" content="https://mhdb.catbot.xyz/" />
-  <meta property="og:title" content="CatBot" />
+  <meta property="og:title" content="CatBot / MHWorld - Monster Hunter World: Iceborne Database" />
   <meta property="og:image" content="https://mhdb.catbot.xyz/css/icons/catbot.png" />
   <meta property="og:description"
     content="CatBot is a Discord bot dedicated to providing information on Monster Hunter World: Iceborne, CatBot offers information on monsters, weapons, armors, and more!" />
@@ -56,6 +56,25 @@
       <li><a href="/armors">Armors</a></li>
       <li><%- ARMOR_NAME %></li>
     </ul>
+
+    <div class="page-container__center">
+      <div class="table-responsive">
+        <div class="table-header"> <%- ARMOR_NAME %> Rank <span class="color-dark__muted text-style__small"></span>
+        </div>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Rank</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><%- ARMOR_RANK %></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
 
     <div class="table-responsive">
       <div class="table-header"> <%- ARMOR_NAME %> Set Bonus <span class="color-dark__muted text-style__small"></span>
@@ -126,6 +145,32 @@
             <td><%- ARMOR_RESISTANCES.ice %></td>
             <td><%- ARMOR_RESISTANCES.dragon %></td>
           </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- ARMOR_NAME %> Pieces <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Type</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <% for (let k of ARMOR_PIECES) {%>
+          <tr>
+            <td><%- k.name %></td>
+            <td><%- k.type %></td>
+          </tr>
+          <% } %>
+        </tbody>
+        </tr>
         </tbody>
       </table>
     </div>

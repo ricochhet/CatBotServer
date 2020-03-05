@@ -342,6 +342,7 @@ a:hover, button:hover {
 }
 
 .navigation-bar__light--link:hover {
+    letter-spacing: 0.2em;
     color: var(--list-item-color);
 }
 
@@ -433,7 +434,7 @@ a:hover, button:hover {
 
 .link-none__no-padding {
     text-decoration: none;
-    color: var(--link-none);
+    color: var(--light-navigation-bar-link);
 }
 
 .link-none__no-padding--light {
@@ -560,7 +561,7 @@ a:hover, button:hover {
 	100% { opacity: 0; transform: scale(3); }
 }
 
-.card-price {
+.card-present {
     box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, .05);
     position: relative;
     display: -webkit-box;
@@ -585,7 +586,7 @@ a:hover, button:hover {
     display:inline-block;
 }
 
-.card-price__header {
+.card-present__header {
     padding: .75rem 1.25rem;
     margin-bottom: 0;
     background-color: rgba(0,0,0,.03);
@@ -593,21 +594,21 @@ a:hover, button:hover {
     border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
 }
 
-.card-price__header h4 {
+.card-present__header h4 {
     font-weight: 400;
     font-size: 24px;
     margin-bottom: 0;
     margin-top: 0;
 }
 
-.card-price__content {
+.card-present__content {
     -webkit-box-flex: 1;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     padding: 1.25rem;
 }
 
-.card-price__title {
+.card-present__title {
     margin-bottom: .75rem;
     font-size: 32px;
     margin-bottom: 0;
@@ -914,43 +915,6 @@ a:hover, button:hover {
     background: transparent;
 }
 
-.tooltip {
-    position: relative;
-    display: inline-block;
-    border-bottom: 1px dotted black;
-    cursor: pointer;
-}
-
-.tooltip .tooltip-top__text {
-    visibility: hidden;
-    width: 120px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-    position: absolute;
-    z-index: 1;
-    bottom: 150%;
-    left: 50%;
-    margin-left: -60px;
-}
-
-.tooltip .tooltip-top__text::after {
-    content: "";
-    position: absolute;
-    top: 100%;
-    left: 50%;
-    margin-left: -5px;
-    border-width: 5px;
-    border-style: solid;
-    border-color: black transparent transparent transparent;
-}
-
-.tooltip:hover .tooltip-top__text {
-    visibility: visible;
-}
-
 .list-item {
     position: relative;
     display: block;
@@ -1093,10 +1057,6 @@ ul.breadcrumb li a {
 ul.breadcrumb li a:hover {
     color: var(--link-none-blue);
     text-decoration: underline;
-}
-
-.textarea {
-    
 }
 
 :root {

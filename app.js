@@ -1,8 +1,8 @@
 const rm = require('./router/RouteManager');
 
-let monsterDB = require('./database/build/monsters.json');
+let monsterDB = require('./database/build_def/monsters.json');
 let monsterMap = new Map();
-let monsterHZVDB = require('./database/build/monsterhzvs.json');
+let monsterHZVDB = require('./database/build_def/monsterhzvs.json');
 let monsterHZVMap = new Map();
 
 for (const i of Object.keys(monsterDB)) {
@@ -13,49 +13,49 @@ for (const i of Object.keys(monsterHZVDB)) {
   monsterHZVMap.set(i, monsterHZVDB[i]);
 }
 
-let itemDB = require('./database/build/items.json');
+let itemDB = require('./database/build_api/items.json');
 let itemMap = new Map();
 
 for (const i of Object.keys(itemDB)) {
   itemMap.set(i, itemDB[i]);
 }
 
-let itemIDDB = require('./database/build/itemids.json');
+let itemIDDB = require('./database/build_api/itemids.json');
 let itemIDMap = new Map();
 
 for (const i of Object.keys(itemIDDB)) {
   itemIDMap.set(itemIDDB[i].Name, itemIDDB[i]);
 }
 
-let armorDB = require('./database/build/armors.json');
+let armorDB = require('./database/build_api/armors.json');
 let armorMap = new Map();
 
 for (const i of Object.keys(armorDB)) {
   armorMap.set(i, armorDB[i]);
 }
 
-let weaponDB = require('./database/build/weapons.json');
+let weaponDB = require('./database/build_api/weapons.json');
 let weaponMap = new Map();
 
 for (const i of Object.keys(weaponDB)) {
   weaponMap.set(i, weaponDB[i]);
 }
 
-let decorationDB = require('./database/build/decorations.json');
+let decorationDB = require('./database/build_api/decorations.json');
 let decorationMap = new Map();
 
 for (const i of Object.keys(decorationDB)) {
   decorationMap.set(i, decorationDB[i]);
 }
 
-let skillDB = require('./database/build/skills.json');
+let skillDB = require('./database/build_api/skills.json');
 let skillMap = new Map();
 
 for (const i of Object.keys(skillDB)) {
   skillMap.set(i, skillDB[i]);
 }
 
-let questIDDB = require('./database/build/questids.json');
+let questIDDB = require('./database/build_api/questids.json');
 
 let monsterArray = [];
 for (let [k, v] of monsterMap) {
@@ -230,9 +230,11 @@ class App {
 
         req.render(render, {
           ARMOR_NAME: armor.name,
+          ARMOR_RANK: armor.rank,
           ARMOR_SETBONUS: armor.setBonus,
           ARMOR_DEFENSES: armor.defenses,
           ARMOR_RESISTANCES: armor.resistances,
+          ARMOR_PIECES: armor.pieces,
           ARMOR_SKILLS: armor.skills,
           ARMOR_SLOTS: armor.slots,
           monsterArray: monsterArray,
@@ -286,6 +288,8 @@ class App {
           WEAPON_ELEMENTS: weapon.elements,
           WEAPON_SLOTS: weapon.slots,
           WEAPON_COATINGS: coatingArray,
+          WEAPON_CRAFTING: weapon.crafting,
+          WEAPON_UPGRADE: weapon.upgrade,
           monsterArray: monsterArray,
           weaponArray: weaponArray,
           armorArray: armorArray,

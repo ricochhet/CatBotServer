@@ -4,6 +4,13 @@
     "setBonus": "-",
     "defenses": "Base: 10\nMax: 190\nAugmented: 340",
     "resistances": "🔥 10\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Leather Headgear (head)",
+      "Leather Mail (chest)",
+      "Leather Gloves (gloves)",
+      "Leather Belt (waist)",
+      "Leather Trousers (legs)"
+    ],
     "skills": [
       "Hunger Resistance"
     ],
@@ -14,6 +21,13 @@
     "setBonus": "-",
     "defenses": "Base: 10\nMax: 190\nAugmented: 340",
     "resistances": "🔥 0\n💧 10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Chainmail Headgear (head)",
+      "Chainmail Vest (chest)",
+      "Chainmail Gloves (gloves)",
+      "Chainmail Belt (waist)",
+      "Chainmail Trousers (legs)"
+    ],
     "skills": [
       "Master Gatherer"
     ],
@@ -24,6 +38,13 @@
     "setBonus": "-",
     "defenses": "Base: 30\nMax: 210\nAugmented: 360",
     "resistances": "🔥 10\n💧 10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Hunter's Headgear (head)",
+      "Hunter's Mail (chest)",
+      "Hunter's Vambraces (gloves)",
+      "Hunter's Coil (waist)",
+      "Hunter's Greaves (legs)"
+    ],
     "skills": [
       "Scoutfly Range Up",
       "Slinger Capacity",
@@ -38,6 +59,13 @@
     "setBonus": "-",
     "defenses": "Base: 30\nMax: 210\nAugmented: 360",
     "resistances": "🔥 10\n💧 0\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Bone Helm (head)",
+      "Bone Mail (chest)",
+      "Bone Vambraces (gloves)",
+      "Bone Coil (waist)",
+      "Bone Greaves (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Attack Boost",
@@ -52,6 +80,13 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 220\nAugmented: 370",
     "resistances": "🔥 -10\n💧 5\n⚡ 5\n❄ 5\n🐉 10",
+    "pieces": [
+      "Vespoid Helm (head)",
+      "Vespoid Mail (chest)",
+      "Vespoid Vambraces (gloves)",
+      "Vespoid Coil (waist)",
+      "Vespoid Greaves (legs)"
+    ],
     "skills": [
       "Quick Sheath",
       "Windproof",
@@ -66,6 +101,9 @@
     "setBonus": "-",
     "defenses": "Base: 12\nMax: 48\nAugmented: 78",
     "resistances": "🔥 4\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kestodon Guards (gloves)"
+    ],
     "skills": [
       "Affinity Sliding"
     ],
@@ -76,6 +114,9 @@
     "setBonus": "-",
     "defenses": "Base: 12\nMax: 48\nAugmented: 78",
     "resistances": "🔥 0\n💧 5\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gajau Boots (legs)"
+    ],
     "skills": [
       "Aquatic/Polar Mobility"
     ],
@@ -86,6 +127,13 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 220\nAugmented: 370",
     "resistances": "🔥 -10\n💧 10\n⚡ -5\n❄ -5\n🐉 5",
+    "pieces": [
+      "Jagras Helm (head)",
+      "Jagras Mail (chest)",
+      "Jagras Vambraces (gloves)",
+      "Jagras Coil (waist)",
+      "Jagras Greaves (legs)"
+    ],
     "skills": [
       "Speed Eating",
       "Intimidator",
@@ -100,6 +148,13 @@
     "setBonus": "-",
     "defenses": "Base: 50\nMax: 230\nAugmented: 380",
     "resistances": "🔥 0\n💧 -15\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Kulu Headpiece (head)",
+      "Kulu Mail (chest)",
+      "Kulu Vambraces (gloves)",
+      "Kulu Coil (waist)",
+      "Kulu Greaves (legs)"
+    ],
     "skills": [
       "Fire Resistance",
       "Stamina Surge",
@@ -114,6 +169,13 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 200\nAugmented: 330",
     "resistances": "🔥 -10\n💧 5\n⚡ -10\n❄ -10\n🐉 5",
+    "pieces": [
+      "Alloy Helm (head)",
+      "Alloy Mail (chest)",
+      "Alloy Vambraces (gloves)",
+      "Alloy Coil (waist)",
+      "Alloy Greaves (legs)"
+    ],
     "skills": [
       "Windproof",
       "Water Resistance",
@@ -128,6 +190,13 @@
     "setBonus": "-",
     "defenses": "Base: 60\nMax: 220\nAugmented: 350",
     "resistances": "🔥 0\n💧 15\n⚡ -15\n❄ 0\n🐉 5",
+    "pieces": [
+      "Pukei Hood (head)",
+      "Pukei Mail (chest)",
+      "Pukei Vambraces (gloves)",
+      "Pukei Coil (waist)",
+      "Pukei Greaves (legs)"
+    ],
     "skills": [
       "Survival Expert",
       "Item Prolonger",
@@ -142,6 +211,13 @@
     "setBonus": "-",
     "defenses": "Base: 70\nMax: 230\nAugmented: 360",
     "resistances": "🔥 -15\n💧 -5\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Barroth Helm (head)",
+      "Barroth Mail (chest)",
+      "Barroth Vambraces (gloves)",
+      "Barroth Coil (waist)",
+      "Barroth Greaves (legs)"
+    ],
     "skills": [
       "Guard",
       "Stamina Thief",
@@ -156,6 +232,13 @@
     "setBonus": "-",
     "defenses": "Base: 70\nMax: 230\nAugmented: 360",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Jyura Helm (head)",
+      "Jyura Mail (chest)",
+      "Jyura Vambraces (gloves)",
+      "Jyura Coil (waist)",
+      "Jyura Greaves (legs)"
+    ],
     "skills": [
       "Aquatic/Polar Mobility",
       "Muck Resistance",
@@ -170,6 +253,13 @@
     "setBonus": "-",
     "defenses": "Base: 80\nMax: 240\nAugmented: 370",
     "resistances": "🔥 0\n💧 -15\n⚡ 15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kadachi Helm (head)",
+      "Kadachi Mail (chest)",
+      "Kadachi Vambraces (gloves)",
+      "Kadachi Coil (waist)",
+      "Kadachi Greaves (legs)"
+    ],
     "skills": [
       "Constitution",
       "Jump Master",
@@ -184,6 +274,13 @@
     "setBonus": "-",
     "defenses": "Base: 90\nMax: 230\nAugmented: 350",
     "resistances": "🔥 0\n💧 -5\n⚡ -10\n❄ 15\n🐉 0",
+    "pieces": [
+      "High Metal Helm (head)",
+      "High Metal Mail (chest)",
+      "High Metal Braces (gloves)",
+      "High Metal Coil (waist)",
+      "High Metal Greaves (legs)"
+    ],
     "skills": [
       "Ice Resistance",
       "Earplugs",
@@ -198,6 +295,13 @@
     "setBonus": "-",
     "defenses": "Base: 110\nMax: 250\nAugmented: 370",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "King Beetle Vertex (head)",
+      "King Beetle Thorax (chest)",
+      "King Beetle Brachia (gloves)",
+      "King Beetle Elytra (waist)",
+      "King Beetle Crura (legs)"
+    ],
     "skills": [
       "Evade Window",
       "Quick Sheath",
@@ -212,6 +316,13 @@
     "setBonus": "-",
     "defenses": "Base: 110\nMax: 250\nAugmented: 370",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Butterfly Vertex (head)",
+      "Butterfly Thorax (chest)",
+      "Butterfly Brachia (gloves)",
+      "Butterfly Elytra (waist)",
+      "Butterfly Crura (legs)"
+    ],
     "skills": [
       "Evade Window",
       "Quick Sheath",
@@ -226,6 +337,9 @@
     "setBonus": "-",
     "defenses": "Base: 22\nMax: 50\nAugmented: 74",
     "resistances": "🔥 2\n💧 2\n⚡ 0\n❄ -3\n🐉 0",
+    "pieces": [
+      "Shamos Goggles (head)"
+    ],
     "skills": [
       "Detector"
     ],
@@ -236,6 +350,13 @@
     "setBonus": "-",
     "defenses": "Base: 90\nMax: 230\nAugmented: 350",
     "resistances": "🔥 -5\n💧 -5\n⚡ 0\n❄ 0\n🐉 10",
+    "pieces": [
+      "Hornetaur Helm (head)",
+      "Hornetaur Mail (chest)",
+      "Hornetaur Vambraces (gloves)",
+      "Hornetaur Coil (waist)",
+      "Hornetaur Greaves (legs)"
+    ],
     "skills": [
       "Dungmaster",
       "Effluvial Expert",
@@ -252,6 +373,13 @@
     ],
     "defenses": "Base: 100\nMax: 240\nAugmented: 360",
     "resistances": "🔥 15\n💧 -15\n⚡ -5\n❄ -5\n🐉 0",
+    "pieces": [
+      "Anja Helm (head)",
+      "Anja Mail (chest)",
+      "Anja Vambraces (gloves)",
+      "Anja Coil (waist)",
+      "Anja Greaves (legs)"
+    ],
     "skills": [
       "Fire Attack",
       "Marathon Runner",
@@ -266,6 +394,13 @@
     "setBonus": "-",
     "defenses": "Base: 110\nMax: 250\nAugmented: 370",
     "resistances": "🔥 10\n💧 0\n⚡ -10\n❄ 0\n🐉 -15",
+    "pieces": [
+      "Rathian Helm (head)",
+      "Rathian Mail (chest)",
+      "Rathian Vambraces (gloves)",
+      "Rathian Coil (waist)",
+      "Rathian Greaves (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Botanist",
@@ -280,6 +415,13 @@
     "setBonus": "-",
     "defenses": "Base: 90\nMax: 230\nAugmented: 350",
     "resistances": "🔥 0\n💧 0\n⚡ -15\n❄ -10\n🐉 0",
+    "pieces": [
+      "Tzitzi Headgear (head)",
+      "Tzitzi Mail (chest)",
+      "Tzitzi Vambraces (gloves)",
+      "Tzitzi Coil (waist)",
+      "Tzitzi Greaves (legs)"
+    ],
     "skills": [
       "Blindsider",
       "Constitution",
@@ -294,6 +436,13 @@
     "setBonus": "-",
     "defenses": "Base: 100\nMax: 240\nAugmented: 360",
     "resistances": "🔥 -15\n💧 10\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Lumu Hat (head)",
+      "Lumu Mail (chest)",
+      "Lumu Vambraces (gloves)",
+      "Lumu Coil (waist)",
+      "Lumu Greaves (legs)"
+    ],
     "skills": [
       "Stamina Surge",
       "Master Mounter",
@@ -308,6 +457,13 @@
     "setBonus": "-",
     "defenses": "Base: 100\nMax: 240\nAugmented: 360",
     "resistances": "🔥 0\n💧 -15\n⚡ 10\n❄ 0\n🐉 5",
+    "pieces": [
+      "Girros Mask (head)",
+      "Girros Mail (chest)",
+      "Girros Vambraces (gloves)",
+      "Girros Coil (waist)",
+      "Girros Greaves (legs)"
+    ],
     "skills": [
       "Horn Maestro",
       "Paralysis Resistance",
@@ -322,6 +478,13 @@
     "setBonus": "-",
     "defenses": "Base: 120\nMax: 260\nAugmented: 380",
     "resistances": "🔥 0\n💧 10\n⚡ 0\n❄ -5\n🐉 -10",
+    "pieces": [
+      "Baan Helm (head)",
+      "Baan Mail (chest)",
+      "Baan Vambraces (gloves)",
+      "Baan Coil (waist)",
+      "Baan Greaves (legs)"
+    ],
     "skills": [
       "Slugger",
       "Sleep Resistance",
@@ -336,6 +499,13 @@
     "setBonus": "-",
     "defenses": "Base: 140\nMax: 260\nAugmented: 360",
     "resistances": "🔥 -10\n💧 0\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Ingot Helm (head)",
+      "Ingot Mail (chest)",
+      "Ingot Vambraces (gloves)",
+      "Ingot Coil (waist)",
+      "Ingot Greaves (legs)"
+    ],
     "skills": [
       "Thunder Attack",
       "Thunder Resistance",
@@ -350,6 +520,13 @@
     "setBonus": "-",
     "defenses": "Base: 160\nMax: 280\nAugmented: 380",
     "resistances": "🔥 15\n💧 10\n⚡ -10\n❄ 15\n🐉 -20",
+    "pieces": [
+      "Death Stench Brain (head)",
+      "Death Stench Muscle (chest)",
+      "Death Stench Grip (gloves)",
+      "Death Stench Bowels (waist)",
+      "Death Stench Heels (legs)"
+    ],
     "skills": [
       "Resuscitate",
       "Fortify",
@@ -364,6 +541,13 @@
     "setBonus": "-",
     "defenses": "Base: 140\nMax: 260\nAugmented: 360",
     "resistances": "🔥 5\n💧 0\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Brigade Lobos (head)",
+      "Brigade Suit (chest)",
+      "Brigade Vambraces (gloves)",
+      "Brigade Coil (waist)",
+      "Brigade Boots (legs)"
+    ],
     "skills": [
       "Recovery Speed",
       "Divine Blessing",
@@ -380,6 +564,13 @@
     ],
     "defenses": "Base: 150\nMax: 270\nAugmented: 370",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 15\n🐉 0",
+    "pieces": [
+      "Legiana Helm (head)",
+      "Legiana Mail (chest)",
+      "Legiana Vambraces (gloves)",
+      "Legiana Coil (waist)",
+      "Legiana Greaves (legs)"
+    ],
     "skills": [
       "Divine Blessing",
       "Evade Window",
@@ -396,6 +587,13 @@
     ],
     "defenses": "Base: 150\nMax: 270\nAugmented: 370",
     "resistances": "🔥 10\n💧 10\n⚡ -10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Odogaron Helm (head)",
+      "Odogaron Mail (chest)",
+      "Odogaron Vambraces (gloves)",
+      "Odogaron Coil (waist)",
+      "Odogaron Greaves (legs)"
+    ],
     "skills": [
       "Bleeding Resistance",
       "Speed Sharpening",
@@ -412,6 +610,13 @@
     ],
     "defenses": "Base: 150\nMax: 270\nAugmented: 370",
     "resistances": "🔥 15\n💧 5\n⚡ -10\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Rathalos Helm (head)",
+      "Rathalos Mail (chest)",
+      "Rathalos Vambraces (gloves)",
+      "Rathalos Coil (waist)",
+      "Rathalos Greaves (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Weakness Exploit",
@@ -428,6 +633,13 @@
     ],
     "defenses": "Base: 160\nMax: 280\nAugmented: 380",
     "resistances": "🔥 15\n💧 -10\n⚡ 0\n❄ -15\n🐉 10",
+    "pieces": [
+      "Diablos Helm (head)",
+      "Diablos Mail (chest)",
+      "Diablos Vambraces (gloves)",
+      "Diablos Coil (waist)",
+      "Diablos Greaves (legs)"
+    ],
     "skills": [
       "Critical Draw",
       "Slugger",
@@ -444,6 +656,13 @@
     ],
     "defenses": "Base: 170\nMax: 290\nAugmented: 390",
     "resistances": "🔥 -15\n💧 -10\n⚡ 20\n❄ -10\n🐉 10",
+    "pieces": [
+      "Kirin Horn (head)",
+      "Kirin Jacket (chest)",
+      "Kirin Longarms (gloves)",
+      "Kirin Hoop (waist)",
+      "Kirin Leg Guards (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Divine Blessing",
@@ -458,6 +677,13 @@
     "setBonus": "-",
     "defenses": "Base: 160\nMax: 270\nAugmented: 350",
     "resistances": "🔥 10\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Leather Headgear Alpha (head)",
+      "Leather Mail Alpha (chest)",
+      "Leather Gloves Alpha (gloves)",
+      "Leather Belt Alpha (waist)",
+      "Leather Trousers Alpha (legs)"
+    ],
     "skills": [
       "Hunger Resistance",
       "Fire Resistance",
@@ -472,6 +698,13 @@
     "setBonus": "-",
     "defenses": "Base: 160\nMax: 270\nAugmented: 350",
     "resistances": "🔥 10\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Leather Headgear Beta (head)",
+      "Leather Mail Beta (chest)",
+      "Leather Gloves Beta (gloves)",
+      "Leather Belt Beta (waist)",
+      "Leather Trousers Beta (legs)"
+    ],
     "skills": [
       "Hunger Resistance"
     ],
@@ -488,6 +721,13 @@
     "setBonus": "-",
     "defenses": "Base: 160\nMax: 270\nAugmented: 350",
     "resistances": "🔥 0\n💧 10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Chainmail Headgear Alpha (head)",
+      "Chainmail Armor Alpha (chest)",
+      "Chainmail Gloves Alpha (gloves)",
+      "Chainmail Belt Alpha (waist)",
+      "Chainmail Trousers Alpha (legs)"
+    ],
     "skills": [
       "Guard",
       "Master Gatherer",
@@ -503,6 +743,13 @@
     "setBonus": "-",
     "defenses": "Base: 160\nMax: 270\nAugmented: 350",
     "resistances": "🔥 0\n💧 10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Chainmail Headgear Beta (head)",
+      "Chainmail Armor Beta (chest)",
+      "Chainmail Gloves Beta (gloves)",
+      "Chainmail Belt Beta (waist)",
+      "Chainmail Trousers Beta (legs)"
+    ],
     "skills": [
       "Master Gatherer"
     ],
@@ -519,6 +766,13 @@
     "setBonus": "-",
     "defenses": "Base: 180\nMax: 290\nAugmented: 370",
     "resistances": "🔥 10\n💧 10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Hunter's Headgear Alpha (head)",
+      "Hunter's Mail Alpha (chest)",
+      "Hunter's Vambraces Alpha (gloves)",
+      "Hunter's Coil Alpha (waist)",
+      "Hunter's Greaves Alpha (legs)"
+    ],
     "skills": [
       "Scoutfly Range Up",
       "Scholar",
@@ -536,6 +790,13 @@
     "setBonus": "-",
     "defenses": "Base: 180\nMax: 290\nAugmented: 370",
     "resistances": "🔥 10\n💧 10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Hunter's Headgear Beta (head)",
+      "Hunter's Mail Beta (chest)",
+      "Hunter's Vambraces Beta (gloves)",
+      "Hunter's Coil Beta (waist)",
+      "Hunter's Greaves Beta (legs)"
+    ],
     "skills": [
       "Scoutfly Range Up",
       "Slinger Capacity",
@@ -556,6 +817,13 @@
     "setBonus": "-",
     "defenses": "Base: 180\nMax: 290\nAugmented: 370",
     "resistances": "🔥 10\n💧 0\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Bone Helm Alpha (head)",
+      "Bone Mail Alpha (chest)",
+      "Bone Vambraces Alpha (gloves)",
+      "Bone Coil Alpha (waist)",
+      "Bone Greaves Alpha (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Entomologist",
@@ -573,6 +841,13 @@
     "setBonus": "-",
     "defenses": "Base: 180\nMax: 290\nAugmented: 370",
     "resistances": "🔥 10\n💧 0\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Bone Helm Beta (head)",
+      "Bone Mail Beta (chest)",
+      "Bone Vambraces Beta (gloves)",
+      "Bone Coil Beta (waist)",
+      "Bone Greaves Beta (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Attack Boost",
@@ -593,6 +868,13 @@
     "setBonus": "-",
     "defenses": "Base: 180\nMax: 290\nAugmented: 370",
     "resistances": "🔥 -10\n💧 0\n⚡ -10\n❄ -10\n🐉 0",
+    "pieces": [
+      "Alloy Helm Alpha (head)",
+      "Alloy Mail Alpha (chest)",
+      "Alloy Vambraces Alpha (gloves)",
+      "Alloy Coil Alpha (waist)",
+      "Alloy Greaves Alpha (legs)"
+    ],
     "skills": [
       "Windproof",
       "Defense Boost",
@@ -610,6 +892,13 @@
     "setBonus": "-",
     "defenses": "Base: 180\nMax: 290\nAugmented: 370",
     "resistances": "🔥 -10\n💧 0\n⚡ -10\n❄ -10\n🐉 0",
+    "pieces": [
+      "Alloy Helm Beta (head)",
+      "Alloy Mail Beta (chest)",
+      "Alloy Vambraces Beta (gloves)",
+      "Alloy Coil Beta (waist)",
+      "Alloy Greaves Beta (legs)"
+    ],
     "skills": [
       "Windproof",
       "Water Resistance",
@@ -630,6 +919,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "King Beetle Vertex Alpha (head)",
+      "King Beetle Thorax Alpha (chest)",
+      "King Beetle Brachia Alpha (gloves)",
+      "King Beetle Elytra Alpha (waist)",
+      "King Beetle Crura Alpha (legs)"
+    ],
     "skills": [
       "Evade Window",
       "Botanist",
@@ -653,6 +949,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "King Beetle Vertex Beta (head)",
+      "King Beetle Thorax Beta (chest)",
+      "King Beetle Brachia Beta (gloves)",
+      "King Beetle Elytra Beta (waist)",
+      "King Beetle Crura Beta (legs)"
+    ],
     "skills": [
       "Evade Window",
       "Quick Sheath",
@@ -676,6 +979,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Butterfly Vertex Alpha (head)",
+      "Butterfly Thorax Alpha (chest)",
+      "Butterfly Brachia Alpha (gloves)",
+      "Butterfly Elytra Alpha (waist)",
+      "Butterfly Crura Alpha (legs)"
+    ],
     "skills": [
       "Evade Window",
       "Botanist",
@@ -699,6 +1009,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Butterfly Vertex Beta (head)",
+      "Butterfly Thorax Beta (chest)",
+      "Butterfly Brachia Beta (gloves)",
+      "Butterfly Elytra Beta (waist)",
+      "Butterfly Crura Beta (legs)"
+    ],
     "skills": [
       "Evade Window",
       "Quick Sheath",
@@ -722,6 +1039,13 @@
     "setBonus": "-",
     "defenses": "Base: 190\nMax: 300\nAugmented: 380",
     "resistances": "🔥 -10\n💧 5\n⚡ 5\n❄ 5\n🐉 10",
+    "pieces": [
+      "Vespoid Helm Alpha (head)",
+      "Vespoid Mail Alpha (chest)",
+      "Vespoid Vambraces Alpha (gloves)",
+      "Vespoid Coil Alpha (waist)",
+      "Vespoid Greaves Alpha (legs)"
+    ],
     "skills": [
       "Paralysis Attack",
       "Quick Sheath",
@@ -738,6 +1062,13 @@
     "setBonus": "-",
     "defenses": "Base: 190\nMax: 300\nAugmented: 380",
     "resistances": "🔥 -10\n💧 5\n⚡ 5\n❄ 5\n🐉 10",
+    "pieces": [
+      "Vespoid Helm Beta (head)",
+      "Vespoid Mail Beta (chest)",
+      "Vespoid Vambraces Beta (gloves)",
+      "Vespoid Coil Beta (waist)",
+      "Vespoid Greaves Beta (legs)"
+    ],
     "skills": [
       "Quick Sheath",
       "Windproof",
@@ -758,6 +1089,13 @@
     "setBonus": "-",
     "defenses": "Base: 190\nMax: 300\nAugmented: 380",
     "resistances": "🔥 -5\n💧 -5\n⚡ 0\n❄ 0\n🐉 10",
+    "pieces": [
+      "Hornetaur Helm Alpha (head)",
+      "Hornetaur Mail Alpha (chest)",
+      "Hornetaur Vambraces Alpha (gloves)",
+      "Hornetaur Coil Alpha (waist)",
+      "Hornetaur Greaves Alpha (legs)"
+    ],
     "skills": [
       "Dungmaster",
       "Dragon Attack",
@@ -777,6 +1115,13 @@
     "setBonus": "-",
     "defenses": "Base: 190\nMax: 300\nAugmented: 380",
     "resistances": "🔥 -5\n💧 -5\n⚡ 0\n❄ 0\n🐉 10",
+    "pieces": [
+      "Hornetaur Helm Beta (head)",
+      "Hornetaur Mail Beta (chest)",
+      "Hornetaur Vambraces Beta (gloves)",
+      "Hornetaur Coil Beta (waist)",
+      "Hornetaur Greaves Beta (legs)"
+    ],
     "skills": [
       "Dungmaster",
       "Effluvial Expert",
@@ -797,6 +1142,9 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 62\nAugmented: 78",
     "resistances": "🔥 2\n💧 2\n⚡ 2\n❄ 2\n🐉 2",
+    "pieces": [
+      "Mosswine Mask Alpha (head)"
+    ],
     "skills": [
       "Mushroomancer"
     ],
@@ -807,6 +1155,9 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 62\nAugmented: 78",
     "resistances": "🔥 4\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kestodon Guards Alpha (gloves)"
+    ],
     "skills": [
       "Focus",
       "Affinity Sliding"
@@ -818,6 +1169,9 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 62\nAugmented: 78",
     "resistances": "🔥 4\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kestodon Guards Beta (gloves)"
+    ],
     "skills": [
       "Affinity Sliding"
     ],
@@ -830,6 +1184,9 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 62\nAugmented: 78",
     "resistances": "🔥 0\n💧 5\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gajau Boots Alpha (legs)"
+    ],
     "skills": [
       "Water Attack",
       "Aquatic/Polar Mobility"
@@ -841,6 +1198,9 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 62\nAugmented: 78",
     "resistances": "🔥 0\n💧 5\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gajau Boots Beta (legs)"
+    ],
     "skills": [
       "Water Attack",
       "Aquatic/Polar Mobility"
@@ -854,6 +1214,9 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 62\nAugmented: 78",
     "resistances": "🔥 2\n💧 2\n⚡ 0\n❄ -3\n🐉 0",
+    "pieces": [
+      "Shamos Goggles Alpha (head)"
+    ],
     "skills": [
       "Geologist",
       "Detector"
@@ -865,6 +1228,9 @@
     "setBonus": "-",
     "defenses": "Base: 40\nMax: 62\nAugmented: 78",
     "resistances": "🔥 2\n💧 2\n⚡ 0\n❄ -3\n🐉 0",
+    "pieces": [
+      "Shamos Goggles Beta (head)"
+    ],
     "skills": [
       "Detector"
     ],
@@ -877,6 +1243,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 -10\n💧 10\n⚡ -5\n❄ -5\n🐉 5",
+    "pieces": [
+      "Jagras Helm Alpha (head)",
+      "Jagras Mail Alpha (chest)",
+      "Jagras Vambraces Alpha (gloves)",
+      "Jagras Coil Alpha (waist)",
+      "Jagras Greaves Alpha (legs)"
+    ],
     "skills": [
       "Speed Eating",
       "Intimidator",
@@ -894,6 +1267,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 -10\n💧 10\n⚡ -5\n❄ -5\n🐉 5",
+    "pieces": [
+      "Jagras Helm Beta (head)",
+      "Jagras Mail Beta (chest)",
+      "Jagras Vambraces Beta (gloves)",
+      "Jagras Coil Beta (waist)",
+      "Jagras Greaves Beta (legs)"
+    ],
     "skills": [
       "Speed Eating",
       "Intimidator",
@@ -914,6 +1294,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 0\n💧 -15\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Kulu Headpiece Alpha (head)",
+      "Kulu Mail Alpha (chest)",
+      "Kulu Vambraces Alpha (gloves)",
+      "Kulu Coil Alpha (waist)",
+      "Kulu Greaves Alpha (legs)"
+    ],
     "skills": [
       "Fire Resistance",
       "Weakness Exploit",
@@ -932,6 +1319,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 0\n💧 -15\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Kulu Headpiece Beta (head)",
+      "Kulu Mail Beta (chest)",
+      "Kulu Vambraces Beta (gloves)",
+      "Kulu Coil Beta (waist)",
+      "Kulu Greaves Beta (legs)"
+    ],
     "skills": [
       "Fire Resistance",
       "Stamina Surge",
@@ -953,6 +1347,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 0\n💧 0\n⚡ -15\n❄ -10\n🐉 0",
+    "pieces": [
+      "Tzitzi Headgear Alpha (head)",
+      "Tzitzi Mail Alpha (chest)",
+      "Tzitzi Vambraces Alpha (gloves)",
+      "Tzitzi Coil Alpha (waist)",
+      "Tzitzi Greaves Alpha (legs)"
+    ],
     "skills": [
       "Stun Resistance",
       "Blindsider",
@@ -971,6 +1372,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 0\n💧 0\n⚡ -15\n❄ -10\n🐉 0",
+    "pieces": [
+      "Tzitzi Headgear Beta (head)",
+      "Tzitzi Mail Beta (chest)",
+      "Tzitzi Vambraces Beta (gloves)",
+      "Tzitzi Coil Beta (waist)",
+      "Tzitzi Greaves Beta (legs)"
+    ],
     "skills": [
       "Blindsider",
       "Constitution",
@@ -992,6 +1400,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 0\n💧 -15\n⚡ 10\n❄ 0\n🐉 5",
+    "pieces": [
+      "Girros Mask Alpha (head)",
+      "Girros Mail Alpha (chest)",
+      "Girros Vambraces Alpha (gloves)",
+      "Girros Coil Alpha (waist)",
+      "Girros Greaves Alpha (legs)"
+    ],
     "skills": [
       "Paralysis Resistance",
       "Horn Maestro",
@@ -1008,6 +1423,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 0\n💧 -15\n⚡ 10\n❄ 0\n🐉 5",
+    "pieces": [
+      "Girros Mask Beta (head)",
+      "Girros Mail Beta (chest)",
+      "Girros Vambraces Beta (gloves)",
+      "Girros Coil Beta (waist)",
+      "Girros Greaves Beta (legs)"
+    ],
     "skills": [
       "Horn Maestro",
       "Paralysis Resistance",
@@ -1028,6 +1450,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 0\n💧 15\n⚡ -15\n❄ 0\n🐉 5",
+    "pieces": [
+      "Pukei Hood Alpha (head)",
+      "Pukei Mail Alpha (chest)",
+      "Pukei Vambraces Alpha (gloves)",
+      "Pukei Coil Alpha (waist)",
+      "Pukei Greaves Alpha (legs)"
+    ],
     "skills": [
       "Survival Expert",
       "Item Prolonger",
@@ -1045,6 +1474,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 0\n💧 15\n⚡ -15\n❄ 0\n🐉 5",
+    "pieces": [
+      "Pukei Hood Beta (head)",
+      "Pukei Mail Beta (chest)",
+      "Pukei Vambraces Beta (gloves)",
+      "Pukei Coil Beta (waist)",
+      "Pukei Greaves Beta (legs)"
+    ],
     "skills": [
       "Survival Expert",
       "Item Prolonger",
@@ -1067,6 +1503,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 -15\n💧 -5\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Barroth Helm Alpha (head)",
+      "Barroth Mail Alpha (chest)",
+      "Barroth Vambraces Alpha (gloves)",
+      "Barroth Coil Alpha (waist)",
+      "Barroth Greaves Alpha (legs)"
+    ],
     "skills": [
       "Guard",
       "Stamina Thief",
@@ -1084,6 +1527,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 -15\n💧 -5\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Barroth Helm Beta (head)",
+      "Barroth Mail Beta (chest)",
+      "Barroth Vambraces Beta (gloves)",
+      "Barroth Coil Beta (waist)",
+      "Barroth Greaves Beta (legs)"
+    ],
     "skills": [
       "Guard",
       "Stamina Thief",
@@ -1108,6 +1558,13 @@
     ],
     "defenses": "Base: 220\nMax: 330\nAugmented: 410",
     "resistances": "🔥 15\n💧 -15\n⚡ -5\n❄ -5\n🐉 0",
+    "pieces": [
+      "Anja Helm Alpha (head)",
+      "Anja Mail Alpha (chest)",
+      "Anja Vambraces Alpha (gloves)",
+      "Anja Coil Alpha (waist)",
+      "Anja Greaves Alpha (legs)"
+    ],
     "skills": [
       "Fire Resistance",
       "Fire Attack",
@@ -1129,6 +1586,13 @@
     ],
     "defenses": "Base: 220\nMax: 330\nAugmented: 410",
     "resistances": "🔥 15\n💧 -15\n⚡ -5\n❄ -5\n🐉 0",
+    "pieces": [
+      "Anja Helm Beta (head)",
+      "Anja Mail Beta (chest)",
+      "Anja Vambraces Beta (gloves)",
+      "Anja Coil Beta (waist)",
+      "Anja Greaves Beta (legs)"
+    ],
     "skills": [
       "Fire Attack",
       "Marathon Runner",
@@ -1150,6 +1614,13 @@
     "setBonus": "-",
     "defenses": "Base: 220\nMax: 330\nAugmented: 410",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Jyura Helm Alpha (head)",
+      "Jyura Mail Alpha (chest)",
+      "Jyura Vambraces Alpha (gloves)",
+      "Jyura Coil Alpha (waist)",
+      "Jyura Greaves Alpha (legs)"
+    ],
     "skills": [
       "Aquatic/Polar Mobility",
       "Muck Resistance",
@@ -1166,6 +1637,13 @@
     "setBonus": "-",
     "defenses": "Base: 220\nMax: 330\nAugmented: 410",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Jyura Helm Beta (head)",
+      "Jyura Mail Beta (chest)",
+      "Jyura Vambraces Beta (gloves)",
+      "Jyura Coil Beta (waist)",
+      "Jyura Greaves Beta (legs)"
+    ],
     "skills": [
       "Aquatic/Polar Mobility",
       "Muck Resistance",
@@ -1186,6 +1664,13 @@
     "setBonus": "-",
     "defenses": "Base: 220\nMax: 330\nAugmented: 410",
     "resistances": "🔥 0\n💧 -15\n⚡ 15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kadachi Helm Alpha (head)",
+      "Kadachi Mail Alpha (chest)",
+      "Kadachi Vambraces Alpha (gloves)",
+      "Kadachi Coil Alpha (waist)",
+      "Kadachi Greaves Alpha (legs)"
+    ],
     "skills": [
       "Constitution",
       "Evade Extender",
@@ -1203,6 +1688,13 @@
     "setBonus": "-",
     "defenses": "Base: 220\nMax: 330\nAugmented: 410",
     "resistances": "🔥 0\n💧 -15\n⚡ 15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kadachi Helm Beta (head)",
+      "Kadachi Mail Beta (chest)",
+      "Kadachi Vambraces Beta (gloves)",
+      "Kadachi Coil Beta (waist)",
+      "Kadachi Greaves Beta (legs)"
+    ],
     "skills": [
       "Constitution",
       "Jump Master",
@@ -1225,6 +1717,13 @@
     "setBonus": "-",
     "defenses": "Base: 220\nMax: 330\nAugmented: 410",
     "resistances": "🔥 -15\n💧 10\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Lumu Hat Alpha (head)",
+      "Lumu Mail Alpha (chest)",
+      "Lumu Vambraces Alpha (gloves)",
+      "Lumu Coil Alpha (waist)",
+      "Lumu Greaves Alpha (legs)"
+    ],
     "skills": [
       "Stamina Surge",
       "Master Mounter",
@@ -1241,6 +1740,13 @@
     "setBonus": "-",
     "defenses": "Base: 220\nMax: 330\nAugmented: 410",
     "resistances": "🔥 -15\n💧 10\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Lumu Hat Beta (head)",
+      "Lumu Mail Beta (chest)",
+      "Lumu Vambraces Beta (gloves)",
+      "Lumu Coil Beta (waist)",
+      "Lumu Greaves Beta (legs)"
+    ],
     "skills": [
       "Stamina Surge",
       "Master Mounter",
@@ -1262,6 +1768,13 @@
     "setBonus": "-",
     "defenses": "Base: 230\nMax: 340\nAugmented: 420",
     "resistances": "🔥 10\n💧 0\n⚡ -10\n❄ 0\n🐉 -15",
+    "pieces": [
+      "Rathian Helm Alpha (head)",
+      "Rathian Mail Alpha (chest)",
+      "Rathian Vambraces Alpha (gloves)",
+      "Rathian Coil Alpha (waist)",
+      "Rathian Greaves Alpha (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Poison Attack",
@@ -1279,6 +1792,13 @@
     "setBonus": "-",
     "defenses": "Base: 230\nMax: 340\nAugmented: 420",
     "resistances": "🔥 10\n💧 0\n⚡ -10\n❄ 0\n🐉 -15",
+    "pieces": [
+      "Rathian Helm Beta (head)",
+      "Rathian Mail Beta (chest)",
+      "Rathian Vambraces Beta (gloves)",
+      "Rathian Coil Beta (waist)",
+      "Rathian Greaves Beta (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Poison Attack",
@@ -1304,6 +1824,13 @@
     ],
     "defenses": "Base: 260\nMax: 360\nAugmented: 420",
     "resistances": "🔥 15\n💧 0\n⚡ -15\n❄ 0\n🐉 -20",
+    "pieces": [
+      "Rath Heart Helm Alpha (head)",
+      "Rath Heart Mail Alpha (chest)",
+      "Rath Heart Braces Alpha (gloves)",
+      "Rath Heart Coil Alpha (waist)",
+      "Rath Heart Greaves Alpha (legs)"
+    ],
     "skills": [
       "Poison Attack",
       "Evade Extender",
@@ -1323,6 +1850,13 @@
     ],
     "defenses": "Base: 260\nMax: 360\nAugmented: 420",
     "resistances": "🔥 15\n💧 0\n⚡ -15\n❄ 0\n🐉 -20",
+    "pieces": [
+      "Rath Heart Helm Beta (head)",
+      "Rath Heart Mail Beta (chest)",
+      "Rath Heart Braces Beta (gloves)",
+      "Rath Heart Coil Beta (waist)",
+      "Rath Heart Greaves Beta (legs)"
+    ],
     "skills": [
       "Evade Extender",
       "Tool Specialist",
@@ -1344,6 +1878,13 @@
     "setBonus": "-",
     "defenses": "Base: 230\nMax: 330\nAugmented: 390",
     "resistances": "🔥 0\n💧 10\n⚡ 0\n❄ -5\n🐉 -10",
+    "pieces": [
+      "Baan Helm Alpha (head)",
+      "Baan Mail Alpha (chest)",
+      "Baan Vambraces Alpha (gloves)",
+      "Baan Coil Alpha (waist)",
+      "Baan Greaves Alpha (legs)"
+    ],
     "skills": [
       "Tremor Resistance",
       "Bleeding Resistance",
@@ -1360,6 +1901,13 @@
     "setBonus": "-",
     "defenses": "Base: 230\nMax: 330\nAugmented: 390",
     "resistances": "🔥 0\n💧 10\n⚡ 0\n❄ -5\n🐉 -10",
+    "pieces": [
+      "Baan Helm Beta (head)",
+      "Baan Mail Beta (chest)",
+      "Baan Vambraces Beta (gloves)",
+      "Baan Coil Beta (waist)",
+      "Baan Greaves Beta (legs)"
+    ],
     "skills": [
       "Tremor Resistance",
       "Sleep Attack",
@@ -1381,6 +1929,9 @@
     "setBonus": "-",
     "defenses": "Base: 48\nMax: 70\nAugmented: 86",
     "resistances": "🔥 3\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gastodon Horn Alpha (head)"
+    ],
     "skills": [
       "Blast Resistance",
       "Flinch Free"
@@ -1392,6 +1943,9 @@
     "setBonus": "-",
     "defenses": "Base: 48\nMax: 70\nAugmented: 86",
     "resistances": "🔥 3\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gastodon Horn Beta (head)"
+    ],
     "skills": [
       "Flinch Free"
     ],
@@ -1404,6 +1958,9 @@
     "setBonus": "-",
     "defenses": "Base: 48\nMax: 70\nAugmented: 86",
     "resistances": "🔥 1\n💧 1\n⚡ 0\n❄ 1\n🐉 -2",
+    "pieces": [
+      "Barnos Jacket Alpha (chest)"
+    ],
     "skills": [
       "Iron Skin",
       "Heat Guard"
@@ -1415,6 +1972,9 @@
     "setBonus": "-",
     "defenses": "Base: 48\nMax: 70\nAugmented: 86",
     "resistances": "🔥 1\n💧 1\n⚡ 0\n❄ 1\n🐉 -2",
+    "pieces": [
+      "Barnos Jacket Beta (chest)"
+    ],
     "skills": [
       "Heat Guard"
     ],
@@ -1427,6 +1987,13 @@
     "setBonus": "-",
     "defenses": "Base: 240\nMax: 350\nAugmented: 430",
     "resistances": "🔥 10\n💧 0\n⚡ -15\n❄ 0\n🐉 10",
+    "pieces": [
+      "Dodogama Helm Alpha (head)",
+      "Dodogama Mail Alpha (chest)",
+      "Dodogama Vambraces Alpha (gloves)",
+      "Dodogama Coil Alpha (waist)",
+      "Dodogama Greaves Alpha (legs)"
+    ],
     "skills": [
       "Blast Resistance",
       "Blast Attack",
@@ -1443,6 +2010,13 @@
     "setBonus": "-",
     "defenses": "Base: 240\nMax: 350\nAugmented: 430",
     "resistances": "🔥 10\n💧 0\n⚡ -15\n❄ 0\n🐉 10",
+    "pieces": [
+      "Dodogama Helm Beta (head)",
+      "Dodogama Mail Beta (chest)",
+      "Dodogama Vambraces Beta (gloves)",
+      "Dodogama Coil Beta (waist)",
+      "Dodogama Greaves Beta (legs)"
+    ],
     "skills": [
       "Blast Resistance",
       "Blast Attack",
@@ -1465,6 +2039,13 @@
     ],
     "defenses": "Base: 220\nMax: 320\nAugmented: 380",
     "resistances": "🔥 20\n💧 -15\n⚡ -5\n❄ -10\n🐉 -15",
+    "pieces": [
+      "Zorah Headgear Alpha (head)",
+      "Zorah Hide Alpha (chest)",
+      "Zorah Claws Alpha (gloves)",
+      "Zorah Spine Alpha (waist)",
+      "Zorah Spurs Alpha (legs)"
+    ],
     "skills": [
       "Blast Attack",
       "Handicraft",
@@ -1486,6 +2067,13 @@
     ],
     "defenses": "Base: 220\nMax: 320\nAugmented: 380",
     "resistances": "🔥 20\n💧 -15\n⚡ -5\n❄ -10\n🐉 -15",
+    "pieces": [
+      "Zorah Headgear Beta (head)",
+      "Zorah Hide Beta (chest)",
+      "Zorah Claws Beta (gloves)",
+      "Zorah Spine Beta (waist)",
+      "Zorah Spurs Beta (legs)"
+    ],
     "skills": [
       "Handicraft",
       "Blast Attack",
@@ -1506,6 +2094,13 @@
     "setBonus": "-",
     "defenses": "Base: 250\nMax: 350\nAugmented: 410",
     "resistances": "🔥 0\n💧 -5\n⚡ -10\n❄ 15\n🐉 0",
+    "pieces": [
+      "High Metal Helm Alpha (head)",
+      "High Metal Mail Alpha (chest)",
+      "High Metal Braces Alpha (gloves)",
+      "High Metal Coil Alpha (waist)",
+      "High Metal Greaves Alpha (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Ice Resistance",
@@ -1525,6 +2120,13 @@
     "setBonus": "-",
     "defenses": "Base: 250\nMax: 350\nAugmented: 410",
     "resistances": "🔥 0\n💧 -5\n⚡ -10\n❄ 15\n🐉 0",
+    "pieces": [
+      "High Metal Helm Beta (head)",
+      "High Metal Mail Beta (chest)",
+      "High Metal Braces Beta (gloves)",
+      "High Metal Coil Beta (waist)",
+      "High Metal Greaves Beta (legs)"
+    ],
     "skills": [
       "Ice Resistance",
       "Earplugs",
@@ -1546,6 +2148,13 @@
     "setBonus": "-",
     "defenses": "Base: 250\nMax: 350\nAugmented: 410",
     "resistances": "🔥 -10\n💧 0\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Ingot Helm Alpha (head)",
+      "Ingot Mail Alpha (chest)",
+      "Ingot Vambraces Alpha (gloves)",
+      "Ingot Coil Alpha (waist)",
+      "Ingot Greaves Alpha (legs)"
+    ],
     "skills": [
       "Thunder Attack",
       "Thunder Resistance",
@@ -1562,6 +2171,13 @@
     "setBonus": "-",
     "defenses": "Base: 250\nMax: 350\nAugmented: 410",
     "resistances": "🔥 -10\n💧 0\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Ingot Helm Beta (head)",
+      "Ingot Mail Beta (chest)",
+      "Ingot Vambraces Beta (gloves)",
+      "Ingot Coil Beta (waist)",
+      "Ingot Greaves Beta (legs)"
+    ],
     "skills": [
       "Thunder Attack",
       "Thunder Resistance",
@@ -1582,6 +2198,13 @@
     "setBonus": "-",
     "defenses": "Base: 260\nMax: 360\nAugmented: 420",
     "resistances": "🔥 5\n💧 0\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Brigade Lobos Alpha (head)",
+      "Brigade Suit Alpha (chest)",
+      "Brigade Vambraces Alpha (gloves)",
+      "Brigade Coil Alpha (waist)",
+      "Brigade Boots Alpha (legs)"
+    ],
     "skills": [
       "Recovery Speed",
       "Horn Maestro",
@@ -1603,6 +2226,13 @@
     "setBonus": "-",
     "defenses": "Base: 260\nMax: 360\nAugmented: 420",
     "resistances": "🔥 5\n💧 0\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Brigade Lobos Beta (head)",
+      "Brigade Suit Beta (chest)",
+      "Brigade Vambraces Beta (gloves)",
+      "Brigade Coil Beta (waist)",
+      "Brigade Boots Beta (legs)"
+    ],
     "skills": [
       "Recovery Speed",
       "Divine Blessing",
@@ -1624,6 +2254,9 @@
     "setBonus": "-",
     "defenses": "Base: 56\nMax: 76\nAugmented: 88",
     "resistances": "🔥 2\n💧 2\n⚡ 2\n❄ 2\n🐉 2",
+    "pieces": [
+      "Faux Felyne Alpha (head)"
+    ],
     "skills": [
       "Palico Rally"
     ],
@@ -1634,6 +2267,9 @@
     "setBonus": "-",
     "defenses": "Base: 56\nMax: 76\nAugmented: 88",
     "resistances": "🔥 2\n💧 2\n⚡ 2\n❄ 2\n🐉 2",
+    "pieces": [
+      "Strategist Spectacles Alpha (head)"
+    ],
     "skills": [
       "Critical Eye"
     ],
@@ -1646,6 +2282,13 @@
     "setBonus": "-",
     "defenses": "Base: 280\nMax: 380\nAugmented: 440",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -10\n🐉 10",
+    "pieces": [
+      "Lavasioth Helm Alpha (head)",
+      "Lavasioth Mail Alpha (chest)",
+      "Lavasioth Vambraces Alpha (gloves)",
+      "Lavasioth Coil Alpha (waist)",
+      "Lavasioth Greaves Alpha (legs)"
+    ],
     "skills": [
       "Fire Attack",
       "Quick Sheath",
@@ -1668,6 +2311,13 @@
     "setBonus": "-",
     "defenses": "Base: 280\nMax: 380\nAugmented: 440",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -10\n🐉 10",
+    "pieces": [
+      "Lavasioth Helm Beta (head)",
+      "Lavasioth Mail Beta (chest)",
+      "Lavasioth Vambraces Beta (gloves)",
+      "Lavasioth Coil Beta (waist)",
+      "Lavasioth Greaves Beta (legs)"
+    ],
     "skills": [
       "Fire Attack",
       "Quick Sheath",
@@ -1694,6 +2344,13 @@
     ],
     "defenses": "Base: 270\nMax: 370\nAugmented: 430",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 15\n🐉 0",
+    "pieces": [
+      "Legiana Helm Alpha (head)",
+      "Legiana Mail Alpha (chest)",
+      "Legiana Vambraces Alpha (gloves)",
+      "Legiana Coil Alpha (waist)",
+      "Legiana Greaves Alpha (legs)"
+    ],
     "skills": [
       "Ice Attack",
       "Divine Blessing",
@@ -1716,6 +2373,13 @@
     ],
     "defenses": "Base: 270\nMax: 370\nAugmented: 430",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 15\n🐉 0",
+    "pieces": [
+      "Legiana Helm Beta (head)",
+      "Legiana Mail Beta (chest)",
+      "Legiana Vambraces Beta (gloves)",
+      "Legiana Coil Beta (waist)",
+      "Legiana Greaves Beta (legs)"
+    ],
     "skills": [
       "Divine Blessing",
       "Evade Window",
@@ -1739,6 +2403,13 @@
     ],
     "defenses": "Base: 270\nMax: 370\nAugmented: 430",
     "resistances": "🔥 10\n💧 10\n⚡ -10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Odogaron Helm Alpha (head)",
+      "Odogaron Mail Alpha (chest)",
+      "Odogaron Vambraces Alpha (gloves)",
+      "Odogaron Coil Alpha (waist)",
+      "Odogaron Greaves Alpha (legs)"
+    ],
     "skills": [
       "Bleeding Resistance",
       "Critical Eye",
@@ -1761,6 +2432,13 @@
     ],
     "defenses": "Base: 270\nMax: 370\nAugmented: 430",
     "resistances": "🔥 10\n💧 10\n⚡ -10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Odogaron Helm Beta (head)",
+      "Odogaron Mail Beta (chest)",
+      "Odogaron Vambraces Beta (gloves)",
+      "Odogaron Coil Beta (waist)",
+      "Odogaron Greaves Beta (legs)"
+    ],
     "skills": [
       "Bleeding Resistance",
       "Speed Sharpening",
@@ -1784,6 +2462,13 @@
     ],
     "defenses": "Base: 270\nMax: 370\nAugmented: 430",
     "resistances": "🔥 15\n💧 5\n⚡ -10\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Rathalos Helm Alpha (head)",
+      "Rathalos Mail Alpha (chest)",
+      "Rathalos Vambraces Alpha (gloves)",
+      "Rathalos Coil Alpha (waist)",
+      "Rathalos Greaves Alpha (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Fire Attack",
@@ -1806,6 +2491,13 @@
     ],
     "defenses": "Base: 270\nMax: 370\nAugmented: 430",
     "resistances": "🔥 15\n💧 5\n⚡ -10\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Rathalos Helm Beta (head)",
+      "Rathalos Mail Beta (chest)",
+      "Rathalos Vambraces Beta (gloves)",
+      "Rathalos Coil Beta (waist)",
+      "Rathalos Greaves Beta (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Weakness Exploit",
@@ -1829,6 +2521,13 @@
     ],
     "defenses": "Base: 280\nMax: 340\nAugmented: 410",
     "resistances": "🔥 15\n💧 10\n⚡ 10\n❄ -15\n🐉 -20",
+    "pieces": [
+      "Rath Soul Helm Alpha (head)",
+      "Rath Soul Mail Alpha (chest)",
+      "Rath Soul Braces Alpha (gloves)",
+      "Rath Soul Coil Alpha (waist)",
+      "Rath Soul Greaves Alpha (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Intimidator",
@@ -1854,6 +2553,13 @@
     ],
     "defenses": "Base: 280\nMax: 340\nAugmented: 410",
     "resistances": "🔥 15\n💧 10\n⚡ 10\n❄ -15\n🐉 -20",
+    "pieces": [
+      "Rath Soul Helm Beta (head)",
+      "Rath Soul Mail Beta (chest)",
+      "Rath Soul Braces Beta (gloves)",
+      "Rath Soul Coil Beta (waist)",
+      "Rath Soul Greaves Beta (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Free Elem/Ammo Up",
@@ -1878,6 +2584,13 @@
     ],
     "defenses": "Base: 270\nMax: 370\nAugmented: 430",
     "resistances": "🔥 15\n💧 -10\n⚡ 0\n❄ -15\n🐉 10",
+    "pieces": [
+      "Diablos Helm Alpha (head)",
+      "Diablos Mail Alpha (chest)",
+      "Diablos Vambraces Alpha (gloves)",
+      "Diablos Coil Alpha (waist)",
+      "Diablos Greaves Alpha (legs)"
+    ],
     "skills": [
       "Critical Draw",
       "Heroics",
@@ -1900,6 +2613,13 @@
     ],
     "defenses": "Base: 270\nMax: 370\nAugmented: 430",
     "resistances": "🔥 15\n💧 -10\n⚡ 0\n❄ -15\n🐉 10",
+    "pieces": [
+      "Diablos Helm Beta (head)",
+      "Diablos Mail Beta (chest)",
+      "Diablos Vambraces Beta (gloves)",
+      "Diablos Coil Beta (waist)",
+      "Diablos Greaves Beta (legs)"
+    ],
     "skills": [
       "Critical Draw",
       "Slugger",
@@ -1924,6 +2644,13 @@
     ],
     "defenses": "Base: 280\nMax: 340\nAugmented: 410",
     "resistances": "🔥 10\n💧 -15\n⚡ 0\n❄ -20\n🐉 10",
+    "pieces": [
+      "Diablos Nero Helm Alpha (head)",
+      "Diablos Nero Mail Alpha (chest)",
+      "Diablos Nero Braces Alpha (gloves)",
+      "Diablos Nero Coil Alpha (waist)",
+      "Diablos Nero Greaves Alpha (legs)"
+    ],
     "skills": [
       "Focus",
       "Resentment",
@@ -1948,6 +2675,13 @@
     ],
     "defenses": "Base: 280\nMax: 340\nAugmented: 410",
     "resistances": "🔥 10\n💧 -15\n⚡ 0\n❄ -20\n🐉 10",
+    "pieces": [
+      "Diablos Nero Helm Beta (head)",
+      "Diablos Nero Mail Beta (chest)",
+      "Diablos Nero Braces Beta (gloves)",
+      "Diablos Nero Coil Beta (waist)",
+      "Diablos Nero Greaves Beta (legs)"
+    ],
     "skills": [
       "Focus",
       "Resentment",
@@ -1972,6 +2706,13 @@
     ],
     "defenses": "Base: 300\nMax: 360\nAugmented: 430",
     "resistances": "🔥 20\n💧 -15\n⚡ 5\n❄ -10\n🐉 -10",
+    "pieces": [
+      "Uragaan Helm Alpha (head)",
+      "Uragaan Mail Alpha (chest)",
+      "Uragaan Vambraces Alpha (gloves)",
+      "Uragaan Coil Alpha (waist)",
+      "Uragaan Greaves Alpha (legs)"
+    ],
     "skills": [
       "Thunder Resistance",
       "Partbreaker",
@@ -1997,6 +2738,13 @@
     ],
     "defenses": "Base: 300\nMax: 360\nAugmented: 430",
     "resistances": "🔥 20\n💧 -15\n⚡ 5\n❄ -10\n🐉 -10",
+    "pieces": [
+      "Uragaan Helm Beta (head)",
+      "Uragaan Mail Beta (chest)",
+      "Uragaan Vambraces Beta (gloves)",
+      "Uragaan Coil Beta (waist)",
+      "Uragaan Greaves Beta (legs)"
+    ],
     "skills": [
       "Thunder Resistance",
       "Partbreaker",
@@ -2021,6 +2769,13 @@
     ],
     "defenses": "Base: 290\nMax: 350\nAugmented: 420",
     "resistances": "🔥 15\n💧 5\n⚡ -20\n❄ -10\n🐉 -10",
+    "pieces": [
+      "Bazel Helm Alpha (head)",
+      "Bazel Mail Alpha (chest)",
+      "Bazel Vambraces Alpha (gloves)",
+      "Bazel Coil Alpha (waist)",
+      "Bazel Greaves Alpha (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Blast Attack",
@@ -2046,6 +2801,13 @@
     ],
     "defenses": "Base: 290\nMax: 350\nAugmented: 420",
     "resistances": "🔥 15\n💧 5\n⚡ -20\n❄ -10\n🐉 -10",
+    "pieces": [
+      "Bazel Helm Beta (head)",
+      "Bazel Mail Beta (chest)",
+      "Bazel Vambraces Beta (gloves)",
+      "Bazel Coil Beta (waist)",
+      "Bazel Greaves Beta (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Guard",
@@ -2068,6 +2830,13 @@
     "setBonus": "-",
     "defenses": "Base: 300\nMax: 360\nAugmented: 430",
     "resistances": "🔥 20\n💧 -10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Damascus Helm Alpha (head)",
+      "Damascus Mail Alpha (chest)",
+      "Damascus Vambraces Alpha (gloves)",
+      "Damascus Coil Alpha (waist)",
+      "Damascus Greaves Alpha (legs)"
+    ],
     "skills": [
       "Defense Boost",
       "Speed Sharpening",
@@ -2092,6 +2861,13 @@
     "setBonus": "-",
     "defenses": "Base: 300\nMax: 360\nAugmented: 430",
     "resistances": "🔥 20\n💧 -10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Damascus Helm Beta (head)",
+      "Damascus Mail Beta (chest)",
+      "Damascus Vambraces Beta (gloves)",
+      "Damascus Coil Beta (waist)",
+      "Damascus Greaves Beta (legs)"
+    ],
     "skills": [
       "Defense Boost",
       "Focus",
@@ -2116,6 +2892,13 @@
     "setBonus": "-",
     "defenses": "Base: 300\nMax: 360\nAugmented: 430",
     "resistances": "🔥 -10\n💧 0\n⚡ -5\n❄ -5\n🐉 20",
+    "pieces": [
+      "Dober Helm Alpha (head)",
+      "Dober Mail Alpha (chest)",
+      "Dober Vambraces Alpha (gloves)",
+      "Dober Coil Alpha (waist)",
+      "Dober Greaves Alpha (legs)"
+    ],
     "skills": [
       "Dragon Resistance",
       "Free Elem/Ammo Up",
@@ -2138,6 +2921,13 @@
     "setBonus": "-",
     "defenses": "Base: 300\nMax: 360\nAugmented: 430",
     "resistances": "🔥 -10\n💧 0\n⚡ -5\n❄ -5\n🐉 20",
+    "pieces": [
+      "Dober Helm Beta (head)",
+      "Dober Mail Beta (chest)",
+      "Dober Vambraces Beta (gloves)",
+      "Dober Coil Beta (waist)",
+      "Dober Greaves Beta (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Attack Boost",
@@ -2160,6 +2950,13 @@
     "setBonus": "-",
     "defenses": "Base: 310\nMax: 370\nAugmented: 440",
     "resistances": "🔥 15\n💧 10\n⚡ -10\n❄ 15\n🐉 -20",
+    "pieces": [
+      "Death Stench Brain Alpha (head)",
+      "Death Stench Muscle Alpha (chest)",
+      "Death Stench Grip Alpha (gloves)",
+      "Death Stench Bowels Alpha (waist)",
+      "Death Stench Heel Alpha (legs)"
+    ],
     "skills": [
       "Critical Eye",
       "Resuscitate",
@@ -2182,6 +2979,13 @@
     "setBonus": "-",
     "defenses": "Base: 310\nMax: 370\nAugmented: 440",
     "resistances": "🔥 15\n💧 10\n⚡ -10\n❄ 15\n🐉 -20",
+    "pieces": [
+      "Death Stench Brain Beta (head)",
+      "Death Stench Muscle Beta (chest)",
+      "Death Stench Grip Beta (gloves)",
+      "Death Stench Bowels Beta (waist)",
+      "Death Stench Heel Beta (legs)"
+    ],
     "skills": [
       "Resuscitate",
       "Fortify",
@@ -2205,6 +3009,9 @@
     "setBonus": "-",
     "defenses": "Base: 64\nMax: 76\nAugmented: 90",
     "resistances": "🔥 -3\n💧 -1\n⚡ -1\n❄ -1\n🐉 2",
+    "pieces": [
+      "Skull Mask Alpha (head)"
+    ],
     "skills": [
       "Handicraft"
     ],
@@ -2219,6 +3026,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 5\n💧 5\n⚡ -15\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Nergigante Helm Alpha (head)",
+      "Nergigante Mail Alpha (chest)",
+      "Nergigante Vambraces Alpha (gloves)",
+      "Nergigante Coil Alpha (waist)",
+      "Nergigante Greaves Alpha (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Maximum Might",
@@ -2244,6 +3058,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 5\n💧 5\n⚡ -15\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Nergigante Helm Beta (head)",
+      "Nergigante Mail Beta (chest)",
+      "Nergigante Vambraces Beta (gloves)",
+      "Nergigante Coil Beta (waist)",
+      "Nergigante Greaves Beta (legs)"
+    ],
     "skills": [
       "Maximum Might",
       "Stamina Surge",
@@ -2268,6 +3089,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Kaiser Crown Alpha (head)",
+      "Kaiser Mail Alpha (chest)",
+      "Kaiser Vambraces Alpha (gloves)",
+      "Kaiser Coil Alpha (waist)",
+      "Kaiser Greaves Alpha (legs)"
+    ],
     "skills": [
       "Latent Power",
       "Latent Power",
@@ -2289,6 +3117,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Kaiser Crown Beta (head)",
+      "Kaiser Mail Beta (chest)",
+      "Kaiser Vambraces Beta (gloves)",
+      "Kaiser Coil Beta (waist)",
+      "Kaiser Greaves Beta (legs)"
+    ],
     "skills": [
       "Latent Power",
       "Special Ammo Boost",
@@ -2312,6 +3147,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 0\n💧 10\n⚡ -15\n❄ 20\n🐉 -10",
+    "pieces": [
+      "Kushala Glare Alpha (head)",
+      "Kushala Cista Alpha (chest)",
+      "Kushala Grip Alpha (gloves)",
+      "Kushala Cocoon Alpha (waist)",
+      "Kushala Crus Alpha (legs)"
+    ],
     "skills": [
       "Ice Attack",
       "Handicraft",
@@ -2333,6 +3175,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 0\n💧 10\n⚡ -15\n❄ 20\n🐉 -10",
+    "pieces": [
+      "Kushala Glare Beta (head)",
+      "Kushala Cista Beta (chest)",
+      "Kushala Grip Beta (gloves)",
+      "Kushala Cocoon Beta (waist)",
+      "Kushala Crus Beta (legs)"
+    ],
     "skills": [
       "Ice Attack",
       "Handicraft",
@@ -2358,6 +3207,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 -20\n💧 20\n⚡ 5\n❄ -5\n🐉 -15",
+    "pieces": [
+      "Vaal Hazak Helm Alpha (head)",
+      "Vaal Hazak Mail Alpha (chest)",
+      "Vaal Hazak Braces Alpha (gloves)",
+      "Vaal Hazak Coil Alpha (waist)",
+      "Vaal Hazak Greaves Alpha (legs)"
+    ],
     "skills": [
       "Dragon Attack",
       "Peak Performance",
@@ -2384,6 +3240,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 -20\n💧 20\n⚡ 5\n❄ -5\n🐉 -15",
+    "pieces": [
+      "Vaal Hazak Helm Beta (head)",
+      "Vaal Hazak Mail Beta (chest)",
+      "Vaal Hazak Braces Beta (gloves)",
+      "Vaal Hazak Coil Beta (waist)",
+      "Vaal Hazak Greaves Beta (legs)"
+    ],
     "skills": [
       "Peak Performance",
       "Recovery Speed",
@@ -2411,6 +3274,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 -15\n💧 -10\n⚡ 20\n❄ -10\n🐉 10",
+    "pieces": [
+      "Kirin Horn Alpha (head)",
+      "Kirin Jacket Alpha (chest)",
+      "Kirin Longarms Alpha (gloves)",
+      "Kirin Hoop Alpha (waist)",
+      "Kirin Leg Guards Alpha (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Divine Blessing",
@@ -2432,6 +3302,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 -15\n💧 -10\n⚡ 20\n❄ -10\n🐉 10",
+    "pieces": [
+      "Kirin Horn Beta (head)",
+      "Kirin Jacket Beta (chest)",
+      "Kirin Longarms Beta (gloves)",
+      "Kirin Hoop Beta (waist)",
+      "Kirin Leg Guards Beta (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Divine Blessing",
@@ -2458,6 +3335,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 -15\n💧 10\n⚡ 10\n❄ 10\n🐉 -20",
+    "pieces": [
+      "Xeno'jiiva Headgear Alpha (head)",
+      "Xeno'jiiva Hide Alpha (chest)",
+      "Xeno'jiiva Claws Alpha (gloves)",
+      "Xeno'jiiva Spine Alpha (waist)",
+      "Xeno'jiiva Spurs Alpha (legs)"
+    ],
     "skills": [
       "Special Ammo Boost",
       "Flinch Free",
@@ -2485,6 +3369,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 -15\n💧 10\n⚡ 10\n❄ 10\n🐉 -20",
+    "pieces": [
+      "Xeno'jiiva Headgear Beta (head)",
+      "Xeno'jiiva Hide Beta (chest)",
+      "Xeno'jiiva Claws Beta (gloves)",
+      "Xeno'jiiva Spine Beta (waist)",
+      "Xeno'jiiva Spurs Beta (legs)"
+    ],
     "skills": [
       "Flinch Free",
       "Power Prolonger",
@@ -2510,6 +3401,13 @@
     ],
     "defenses": "Base: 310\nMax: 340\nAugmented: 410",
     "resistances": "🔥 0\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Guild Cross Circlet Alpha (head)",
+      "Guild Cross Suit Alpha (chest)",
+      "Guild Cross Vambraces Alpha (gloves)",
+      "Guild Cross Coil Alpha (waist)",
+      "Guild Cross Boots Alpha (legs)"
+    ],
     "skills": [
       "Thunder Resistance",
       "Divine Blessing",
@@ -2537,6 +3435,13 @@
     ],
     "defenses": "Base: 310\nMax: 340\nAugmented: 410",
     "resistances": "🔥 0\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Guild Cross Circlet Beta (head)",
+      "Guild Cross Suit Beta (chest)",
+      "Guild Cross Vambraces Beta (gloves)",
+      "Guild Cross Coil Beta (waist)",
+      "Guild Cross Boots Beta (legs)"
+    ],
     "skills": [
       "Divine Blessing",
       "Resuscitate",
@@ -2561,6 +3466,9 @@
     "setBonus": "-",
     "defenses": "Base: 70\nMax: 76\nAugmented: 90",
     "resistances": "🔥 0\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Dragonking Eyepatch Alpha (head)"
+    ],
     "skills": [
       "Weakness Exploit"
     ],
@@ -2575,6 +3483,13 @@
     ],
     "defenses": "Base: 350\nMax: 380\nAugmented: 450",
     "resistances": "🔥 10\n💧 10\n⚡ 10\n❄ 10\n🐉 10",
+    "pieces": [
+      "Commission Gorget Alpha (head)",
+      "Commission Jacket Alpha (chest)",
+      "Commission Vambraces Alpha (gloves)",
+      "Commission Belt Alpha (waist)",
+      "Commission Pants Alpha (legs)"
+    ],
     "skills": [
       "Master Gatherer",
       "Tool Specialist",
@@ -2600,6 +3515,13 @@
     ],
     "defenses": "Base: 350\nMax: 380\nAugmented: 450",
     "resistances": "🔥 10\n💧 10\n⚡ 10\n❄ 10\n🐉 10",
+    "pieces": [
+      "Commission Gorget Beta (head)",
+      "Commission Jacket Beta (chest)",
+      "Commission Vambraces Beta (gloves)",
+      "Commission Belt Beta (waist)",
+      "Commission Pants Beta (legs)"
+    ],
     "skills": [
       "Tool Specialist",
       "Wide-Range",
@@ -2620,6 +3542,13 @@
     "setBonus": "-",
     "defenses": "Base: 290\nMax: 350\nAugmented: 420",
     "resistances": "🔥 5\n💧 5\n⚡ -15\n❄ 10\n🐉 -15",
+    "pieces": [
+      "Vangis Helm Alpha (head)",
+      "Vangis Mail Alpha (chest)",
+      "Vangis Vambraces Alpha (gloves)",
+      "Vangis Coil Alpha (waist)",
+      "Vangis Greaves Alpha (legs)"
+    ],
     "skills": [
       "Handicraft",
       "Partbreaker",
@@ -2643,6 +3572,13 @@
     "setBonus": "-",
     "defenses": "Base: 290\nMax: 350\nAugmented: 420",
     "resistances": "🔥 5\n💧 5\n⚡ -15\n❄ 10\n🐉 -15",
+    "pieces": [
+      "Vangis Helm Beta (head)",
+      "Vangis Mail Beta (chest)",
+      "Vangis Vambraces Beta (gloves)",
+      "Vangis Coil Beta (waist)",
+      "Vangis Greaves Beta (legs)"
+    ],
     "skills": [
       "Partbreaker",
       "Speed Eating",
@@ -2666,6 +3602,9 @@
     "setBonus": "-",
     "defenses": "Base: 46\nMax: 68\nAugmented: 84",
     "resistances": "🔥 3\n💧 2\n⚡ 0\n❄ 2\n🐉 0",
+    "pieces": [
+      "Sealed Eyepatch Alpha (head)"
+    ],
     "skills": [
       "Fire Resistance"
     ],
@@ -2679,6 +3618,9 @@
     "setBonus": "-",
     "defenses": "Base: 46\nMax: 68\nAugmented: 84",
     "resistances": "🔥 4\n💧 0\n⚡ 4\n❄ 2\n🐉 0",
+    "pieces": [
+      "Shadow Shades Alpha (head)"
+    ],
     "skills": [
       "Stun Resistance"
     ],
@@ -2693,6 +3635,13 @@
     "setBonus": "-",
     "defenses": "Base: 90\nMax: 230\nAugmented: 350",
     "resistances": "🔥 5\n💧 5\n⚡ 20\n❄ 5\n🐉 5",
+    "pieces": [
+      "Blossom Headgear (head)",
+      "Blossom Vest (chest)",
+      "Blossom Cuffs (gloves)",
+      "Blossom Coat (waist)",
+      "Blossom Boots (legs)"
+    ],
     "skills": [
       "Honey Hunter",
       "Quick Sheath",
@@ -2707,6 +3656,13 @@
     "setBonus": "-",
     "defenses": "Base: 110\nMax: 250\nAugmented: 370",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Queen Beetle Vertex (head)",
+      "Queen Beetle Thorax (chest)",
+      "Queen Beetle Brachia (gloves)",
+      "Queen Beetle Elytra (waist)",
+      "Queen Beetle Crura (legs)"
+    ],
     "skills": [
       "Stun Resistance",
       "Health Boost",
@@ -2721,6 +3677,13 @@
     "setBonus": "-",
     "defenses": "Base: 200\nMax: 310\nAugmented: 390",
     "resistances": "🔥 5\n💧 5\n⚡ 20\n❄ 5\n🐉 5",
+    "pieces": [
+      "Blossom Headgear Alpha (head)",
+      "Blossom Vest Alpha (chest)",
+      "Blossom Cuffs Alpha (gloves)",
+      "Blossom Coat Alpha (waist)",
+      "Blossom Boots Alpha (legs)"
+    ],
     "skills": [
       "Honey Hunter",
       "Quick Sheath",
@@ -2746,6 +3709,9 @@
     "setBonus": "-",
     "defenses": "Base: 46\nMax: 68\nAugmented: 84",
     "resistances": "🔥 2\n💧 0\n⚡ 2\n❄ 3\n🐉 2",
+    "pieces": [
+      "Kulu-Ya-Ku Head Alpha (head)"
+    ],
     "skills": [
       "Pro Transporter"
     ],
@@ -2759,6 +3725,9 @@
     "setBonus": "-",
     "defenses": "Base: 46\nMax: 68\nAugmented: 84",
     "resistances": "🔥 0\n💧 4\n⚡ 0\n❄ 0\n🐉 4",
+    "pieces": [
+      "Wiggler Head Alpha (head)"
+    ],
     "skills": [
       "Wide-Range"
     ],
@@ -2772,6 +3741,13 @@
     "setBonus": "-",
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 20\n💧 -10\n⚡ 15\n❄ -20\n🐉 -10",
+    "pieces": [
+      "Kulve Taroth's Fury Alpha (head)",
+      "Kulve Taroth's Ire Alpha (chest)",
+      "Kulve Taroth's Rage Alpha (gloves)",
+      "Kulve Taroth's Malice Alpha (waist)",
+      "Kulve Taroth's Wrath Alpha (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Agitator",
@@ -2797,6 +3773,13 @@
     "setBonus": "-",
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 20\n💧 -10\n⚡ 15\n❄ -20\n🐉 -10",
+    "pieces": [
+      "Kulve Taroth's Fury Beta (head)",
+      "Kulve Taroth's Ire Beta (chest)",
+      "Kulve Taroth's Rage Beta (gloves)",
+      "Kulve Taroth's Malice Beta (waist)",
+      "Kulve Taroth's Wrath Beta (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Agitator",
@@ -2829,6 +3812,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 -15\n💧 -10\n⚡ 20\n❄ -10\n🐉 10",
+    "pieces": [
+      "Kirin Horn Gamma (head)",
+      "Kirin Jacket Gamma (chest)",
+      "Kirin Longarms Gamma (gloves)",
+      "Kirin Hoop Gamma (waist)",
+      "Kirin Leg Guards Gamma (legs)"
+    ],
     "skills": [
       "Blight Resistance",
       "Thunder Attack",
@@ -2855,6 +3845,13 @@
     "setBonus": "-",
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 15\n💧 -15\n⚡ 15\n❄ -15\n🐉 15",
+    "pieces": [
+      "Dante's Hair Alpha (head)",
+      "Dante's Coat Alpha (chest)",
+      "Dante's Gloves Alpha (gloves)",
+      "Dante's Belt Alpha (waist)",
+      "Dante's Leather Boots Alpha (legs)"
+    ],
     "skills": [
       "Critical Eye",
       "Weakness Exploit",
@@ -2883,6 +3880,13 @@
     ],
     "defenses": "Base: 350\nMax: 380\nAugmented: 450",
     "resistances": "🔥 15\n💧 5\n⚡ 5\n❄ -15\n🐉 -10",
+    "pieces": [
+      "Empress Crown Alpha (head)",
+      "Empress Mail Alpha (chest)",
+      "Empress Vambraces Alpha (gloves)",
+      "Empress Coil Alpha (waist)",
+      "Empress Greaves Alpha (legs)"
+    ],
     "skills": [
       "Evade Extender",
       "Tool Specialist",
@@ -2915,6 +3919,13 @@
     ],
     "defenses": "Base: 350\nMax: 380\nAugmented: 450",
     "resistances": "🔥 15\n💧 5\n⚡ 5\n❄ -15\n🐉 -10",
+    "pieces": [
+      "Empress Crown Beta (head)",
+      "Empress Mail Beta (chest)",
+      "Empress Vambraces Beta (gloves)",
+      "Empress Coil Beta (waist)",
+      "Empress Greaves Beta (legs)"
+    ],
     "skills": [
       "Evade Extender",
       "Peak Performance",
@@ -2943,6 +3954,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 -20\n💧 20\n⚡ 5\n❄ -5\n🐉 -15",
+    "pieces": [
+      "Vaal Hazak Helm Gamma (head)",
+      "Vaal Hazak Mail Gamma (chest)",
+      "Vaal Hazak Braces Gamma (gloves)",
+      "Vaal Hazak Coil Gamma (waist)",
+      "Vaal Hazak Greaves Gamma (legs)"
+    ],
     "skills": [
       "Recovery Up",
       "Dragon Attack",
@@ -2974,6 +3992,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 -10\n💧 -10\n⚡ 15\n❄ -10\n🐉 20",
+    "pieces": [
+      "Drachen Armet Alpha (head)",
+      "Drachen Mail Alpha (chest)",
+      "Drachen Vambraces Alpha (gloves)",
+      "Drachen Coil Alpha (waist)",
+      "Drachen Greaves Alpha (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Airborne",
@@ -3004,6 +4029,13 @@
     ],
     "defenses": "Base: 280\nMax: 340\nAugmented: 410",
     "resistances": "🔥 10\n💧 10\n⚡ 0\n❄ 0\n🐉 15",
+    "pieces": [
+      "Azure Starlord Crown Alpha (head)",
+      "Azure Starlord Armor Alpha (chest)",
+      "Azure Starlord Gauntlets Alpha (gloves)",
+      "Azure Starlord Tassets Alpha (waist)",
+      "Azure Starlord Guards Alpha (legs)"
+    ],
     "skills": [
       "Agitator",
       "Handicraft",
@@ -3024,6 +4056,13 @@
     "setBonus": "-",
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 20\n💧 -10\n⚡ 15\n❄ -20\n🐉 -10",
+    "pieces": [
+      "Kulve Taroth's Fury Gamma (head)",
+      "Kulve Taroth's Ire Gamma (chest)",
+      "Kulve Taroth's Rage Gamma (gloves)",
+      "Kulve Taroth's Malice Gamma (waist)",
+      "Kulve Taroth's Wrath Gamma (legs)"
+    ],
     "skills": [
       "Stun Resistance",
       "Power Prolonger",
@@ -3055,6 +4094,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 15\n💧 5\n⚡ 5\n❄ -15\n🐉 -10",
+    "pieces": [
+      "Empress Crown Gamma (head)",
+      "Empress Mail Gamma (chest)",
+      "Empress Vambraces Gamma (gloves)",
+      "Empress Coil Gamma (waist)",
+      "Empress Greaves Gamma (legs)"
+    ],
     "skills": [
       "Peak Performance",
       "Wide-Range",
@@ -3085,6 +4131,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 -15\n💧 10\n⚡ 10\n❄ 10\n🐉 -20",
+    "pieces": [
+      "Xeno'jiiva Headgear Gamma (head)",
+      "Xeno'jiiva Hide Gamma (chest)",
+      "Xeno'jiiva Claws Gamma (gloves)",
+      "Xeno'jiiva Spine Gamma (waist)",
+      "Xeno'jiiva Spurs Gamma (legs)"
+    ],
     "skills": [
       "Blight Resistance",
       "Power Prolonger",
@@ -3117,6 +4170,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 20\n💧 -15\n⚡ -5\n❄ -10\n🐉 -15",
+    "pieces": [
+      "Zorah Headgear Gamma (head)",
+      "Zorah Hide Gamma (chest)",
+      "Zorah Claws Gamma (gloves)",
+      "Zorah Spine Gamma (waist)",
+      "Zorah Spurs Gamma (legs)"
+    ],
     "skills": [
       "Windproof",
       "Critical Eye",
@@ -3147,6 +4207,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 5\n💧 5\n⚡ -15\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Nergigante Helm Gamma (head)",
+      "Nergigante Mail Gamma (chest)",
+      "Nergigante Vambraces Gamma (gloves)",
+      "Nergigante Coil Gamma (waist)",
+      "Nergigante Greaves Gamma (legs)"
+    ],
     "skills": [
       "Agitator",
       "Stamina Surge",
@@ -3179,6 +4246,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 0\n💧 10\n⚡ -15\n❄ 20\n🐉 -10",
+    "pieces": [
+      "Kushala Glare Gamma (head)",
+      "Kushala Cista Gamma (chest)",
+      "Kushala Grip Gamma (gloves)",
+      "Kushala Cocoon Gamma (waist)",
+      "Kushala Crus Gamma (legs)"
+    ],
     "skills": [
       "Handicraft",
       "Ice Attack",
@@ -3205,6 +4279,13 @@
     ],
     "defenses": "Base: 360\nMax: 390\nAugmented: 460",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Kaiser Crown Gamma (head)",
+      "Kaiser Mail Gamma (chest)",
+      "Kaiser Vambraces Gamma (gloves)",
+      "Kaiser Coil Gamma (waist)",
+      "Kaiser Greaves Gamma (legs)"
+    ],
     "skills": [
       "Critical Eye",
       "Weakness Exploit",
@@ -3229,6 +4310,13 @@
     "setBonus": "-",
     "defenses": "Base: 570\nMax: 650\nAugmented: 760",
     "resistances": "🔥 10\n💧 0\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Bone Helm Alpha + (head)",
+      "Bone Mail Alpha + (chest)",
+      "Bone Vambraces Alpha + (gloves)",
+      "Bone Coil Alpha + (waist)",
+      "Bone Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Partbreaker",
@@ -3254,6 +4342,13 @@
     "setBonus": "-",
     "defenses": "Base: 570\nMax: 650\nAugmented: 760",
     "resistances": "🔥 -10\n💧 0\n⚡ -10\n❄ -10\n🐉 0",
+    "pieces": [
+      "Alloy Helm Alpha + (head)",
+      "Alloy Mail Alpha + (chest)",
+      "Alloy Vambraces Alpha + (gloves)",
+      "Alloy Coil Alpha + (waist)",
+      "Alloy Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Windproof",
       "Defense Boost",
@@ -3279,6 +4374,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 -10\n💧 5\n⚡ 5\n❄ 5\n🐉 10",
+    "pieces": [
+      "Vespoid Helm Alpha + (head)",
+      "Vespoid Mail Alpha + (chest)",
+      "Vespoid Vambraces Alpha + (gloves)",
+      "Vespoid Coil Alpha + (waist)",
+      "Vespoid Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Paralysis Attack",
       "Quick Sheath",
@@ -3304,6 +4406,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 -5\n💧 -5\n⚡ 0\n❄ 0\n🐉 10",
+    "pieces": [
+      "Hornetaur Helm Alpha + (head)",
+      "Hornetaur Mail Alpha + (chest)",
+      "Hornetaur Vambraces Alpha + (gloves)",
+      "Hornetaur Coil Alpha + (waist)",
+      "Hornetaur Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Dragon Attack",
       "Weakness Exploit",
@@ -3331,6 +4440,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 4\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kestodon Guards Alpha + (gloves)"
+    ],
     "skills": [
       "Focus",
       "Affinity Sliding"
@@ -3345,6 +4457,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 0\n💧 5\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gajau Boots Alpha + (legs)"
+    ],
     "skills": [
       "Water Attack",
       "Aquatic/Polar Mobility"
@@ -3359,6 +4474,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 2\n💧 2\n⚡ 0\n❄ -3\n🐉 0",
+    "pieces": [
+      "Shamos Goggles Alpha + (head)"
+    ],
     "skills": [
       "Geologist",
       "Detector"
@@ -3373,6 +4491,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 3\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gastodon Horn Alpha + (head)"
+    ],
     "skills": [
       "Blast Resistance",
       "Flinch Free"
@@ -3386,6 +4507,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 1\n💧 1\n⚡ 0\n❄ 1\n🐉 -2",
+    "pieces": [
+      "Barnos Jacket Alpha + (chest)"
+    ],
     "skills": [
       "Iron Skin",
       "Heat Guard"
@@ -3400,6 +4524,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 -3\n💧 2\n⚡ -2\n❄ 3\n🐉 2",
+    "pieces": [
+      "Wulg Scarf Alpha + (head)"
+    ],
     "skills": [
       "Ice Resistance",
       "Master Mounter"
@@ -3414,6 +4541,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 -3\n💧 2\n⚡ 0\n❄ 2\n🐉 0",
+    "pieces": [
+      "Cortos Cape Alpha + (chest)"
+    ],
     "skills": [
       "Hunger Resistance",
       "Jump Master"
@@ -3428,6 +4558,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 -10\n💧 10\n⚡ -5\n❄ -5\n🐉 5",
+    "pieces": [
+      "Jagras Helm Alpha + (head)",
+      "Jagras Mail Alpha + (chest)",
+      "Jagras Vambraces Alpha + (gloves)",
+      "Jagras Coil Alpha + (waist)",
+      "Jagras Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Speed Eating",
@@ -3455,6 +4592,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 0\n💧 0\n⚡ -15\n❄ -10\n🐉 0",
+    "pieces": [
+      "Tzitzi Headgear Alpha + (head)",
+      "Tzitzi Mail Alpha + (chest)",
+      "Tzitzi Vambraces Alpha + (gloves)",
+      "Tzitzi Coil Alpha + (waist)",
+      "Tzitzi Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Stun Resistance",
       "Free Elem/Ammo Up",
@@ -3482,6 +4626,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 0\n💧 -15\n⚡ 10\n❄ 0\n🐉 5",
+    "pieces": [
+      "Girros Headgear Alpha + (head)",
+      "Girros Mail Alpha + (chest)",
+      "Girros Vambraces Alpha + (gloves)",
+      "Girros Coil Alpha + (waist)",
+      "Girros Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Paralysis Resistance",
       "Horn Maestro",
@@ -3507,6 +4658,13 @@
     "setBonus": "-",
     "defenses": "Base: 600\nMax: 680\nAugmented: 790",
     "resistances": "🔥 10\n💧 0\n⚡ -15\n❄ 0\n🐉 10",
+    "pieces": [
+      "Dodogama Helm Alpha + (head)",
+      "Dodogama Mail Alpha + (chest)",
+      "Dodogama Vambraces Alpha + (gloves)",
+      "Dodogama Coil Alpha + (waist)",
+      "Dodogama Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Blast Resistance",
       "Bombardier",
@@ -3534,6 +4692,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 0\n💧 -15\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Kulu Headpiece Alpha + (head)",
+      "Kulu Mail Alpha + (chest)",
+      "Kulu Vambraces Alpha + (gloves)",
+      "Kulu Coil Alpha + (waist)",
+      "Kulu Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Slinger Capacity",
@@ -3560,6 +4725,13 @@
     "setBonus": "-",
     "defenses": "Base: 590\nMax: 670\nAugmented: 780",
     "resistances": "🔥 0\n💧 15\n⚡ -15\n❄ 0\n🐉 5",
+    "pieces": [
+      "Pukei Hat Alpha + (head)",
+      "Pukei Mail Alpha + (chest)",
+      "Pukei Vambraces Alpha + (gloves)",
+      "Pukei Coil Alpha + (waist)",
+      "Pukei Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Poison Resistance",
       "Survival Expert",
@@ -3586,6 +4758,13 @@
     "setBonus": "-",
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 0\n💧 15\n⚡ -10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Pukei Lagoon Hat Alpha + (head)",
+      "Pukei Lagoon Mail Alpha + (chest)",
+      "Pukei Lagoon Braces Alpha + (gloves)",
+      "Pukei Lagoon Coil Alpha + (waist)",
+      "Pukei Lagoon Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Critical Draw",
       "Item Prolonger",
@@ -3611,6 +4790,13 @@
     "setBonus": "-",
     "defenses": "Base: 590\nMax: 670\nAugmented: 780",
     "resistances": "🔥 -15\n💧 -5\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Barroth Helm Alpha + (head)",
+      "Barroth Mail Alpha + (chest)",
+      "Barroth Vambraces Alpha + (gloves)",
+      "Barroth Coil Alpha + (waist)",
+      "Barroth Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Guard",
@@ -3639,6 +4825,13 @@
     "setBonus": "-",
     "defenses": "Base: 590\nMax: 670\nAugmented: 780",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Jyura Helm Alpha + (head)",
+      "Jyura Mail Alpha + (chest)",
+      "Jyura Vambraces Alpha + (gloves)",
+      "Jyura Coil Alpha + (waist)",
+      "Jyura Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Focus",
       "Latent Power",
@@ -3666,6 +4859,13 @@
     "setBonus": "-",
     "defenses": "Base: 590\nMax: 670\nAugmented: 780",
     "resistances": "🔥 -15\n💧 0\n⚡ -10\n❄ 15\n🐉 10",
+    "pieces": [
+      "Beo Helm Alpha + (head)",
+      "Beo Mail Alpha + (chest)",
+      "Beo Vambraces Alpha + (gloves)",
+      "Beo Coil Alpha + (waist)",
+      "Beo Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Aquatic/Polar Mobility",
@@ -3691,6 +4891,13 @@
     "setBonus": "-",
     "defenses": "Base: 600\nMax: 680\nAugmented: 790",
     "resistances": "🔥 0\n💧 -15\n⚡ 15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kadachi Hat Alpha + (head)",
+      "Kadachi Mail Alpha + (chest)",
+      "Kadachi Vambraces Alpha + (gloves)",
+      "Kadachi Coil Alpha + (waist)",
+      "Kadachi Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Constitution",
       "Evade Extender",
@@ -3719,6 +4926,13 @@
     "setBonus": "-",
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 5\n💧 15\n⚡ -15\n❄ -10\n🐉 5",
+    "pieces": [
+      "Viper Kadachi Hat Alpha + (head)",
+      "Viper Kadachi Mail Alpha + (chest)",
+      "Viper Kadachi Braces Alpha + (gloves)",
+      "Viper Kadachi Coil Alpha + (waist)",
+      "Viper Kadachi Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Paralysis Attack",
       "Evade Extender",
@@ -3745,6 +4959,13 @@
     "setBonus": "-",
     "defenses": "Base: 640\nMax: 720\nAugmented: 830",
     "resistances": "🔥 0\n💧 -5\n⚡ -10\n❄ 15\n🐉 0",
+    "pieces": [
+      "High Metal Helm Alpha + (head)",
+      "High Metal Mail Alpha + (chest)",
+      "High Metal Braces Alpha + (gloves)",
+      "High Metal Coil Alpha + (waist)",
+      "High Metal Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Ice Resistance",
@@ -3774,6 +4995,13 @@
     "setBonus": "-",
     "defenses": "Base: 650\nMax: 730\nAugmented: 840",
     "resistances": "🔥 -10\n💧 10\n⚡ -5\n❄ 15\n🐉 -15",
+    "pieces": [
+      "Banbaro Helm Alpha + (head)",
+      "Banbaro Mail Alpha + (chest)",
+      "Banbaro Vambraces Alpha + (gloves)",
+      "Banbaro Coil Alpha + (waist)",
+      "Banbaro Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Resentment",
       "Mushroomancer",
@@ -3801,6 +5029,13 @@
     ],
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 15\n💧 -15\n⚡ -5\n❄ -5\n🐉 0",
+    "pieces": [
+      "Anja Helm Alpha + (head)",
+      "Anja Mail Alpha + (chest)",
+      "Anja Vambraces Alpha + (gloves)",
+      "Anja Coil Alpha + (waist)",
+      "Anja Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Fire Resistance",
       "Fire Attack",
@@ -3830,6 +5065,13 @@
     ],
     "defenses": "Base: 730\nMax: 770\nAugmented: 850",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Fulgur Helm Alpha + (head)",
+      "Fulgur Mail Alpha + (chest)",
+      "Fulgur Vambraces Alpha + (gloves)",
+      "Fulgur Coil Alpha + (waist)",
+      "Fulgur Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Weakness Exploit",
       "Resuscitate",
@@ -3859,6 +5101,13 @@
     ],
     "defenses": "Base: 650\nMax: 730\nAugmented: 840",
     "resistances": "🔥 10\n💧 0\n⚡ -10\n❄ 0\n🐉 -15",
+    "pieces": [
+      "Rathian Helm Alpha + (head)",
+      "Rathian Mail Alpha + (chest)",
+      "Rathian Vambraces Alpha + (gloves)",
+      "Rathian Coil Alpha + (waist)",
+      "Rathian Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Poison Attack",
@@ -3888,6 +5137,13 @@
     ],
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 15\n💧 0\n⚡ -15\n❄ 0\n🐉 -20",
+    "pieces": [
+      "Rath Heart Helm Alpha + (head)",
+      "Rath Heart Mail Alpha + (chest)",
+      "Rath Heart Braces Alpha + (gloves)",
+      "Rath Heart Coil Alpha + (waist)",
+      "Rath Heart Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Evade Extender",
       "Cliffhanger",
@@ -3914,6 +5170,13 @@
     "setBonus": "-",
     "defenses": "Base: 650\nMax: 730\nAugmented: 840",
     "resistances": "🔥 -15\n💧 10\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Lumu Hat Alpha + (head)",
+      "Lumu Mail Alpha + (chest)",
+      "Lumu Vambraces Alpha + (gloves)",
+      "Lumu Coil Alpha + (waist)",
+      "Lumu Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Windproof",
       "Stamina Surge",
@@ -3942,6 +5205,13 @@
     "setBonus": "-",
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 -15\n💧 -15\n⚡ 10\n❄ 5\n🐉 5",
+    "pieces": [
+      "Lumu Phantasm Hood Alpha + (head)",
+      "Lumu Phantasm Mail Alpha + (chest)",
+      "Lumu Phantasm Braces Alpha + (gloves)",
+      "Lumu Phantasm Coil Alpha + (waist)",
+      "Lumu Phantasm Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Weakness Exploit",
       "Wide-Range",
@@ -3968,6 +5238,13 @@
     "setBonus": "-",
     "defenses": "Base: 670\nMax: 750\nAugmented: 860",
     "resistances": "🔥 0\n💧 10\n⚡ 0\n❄ -5\n🐉 -10",
+    "pieces": [
+      "Baan Helm Alpha + (head)",
+      "Baan Mail Alpha + (chest)",
+      "Baan Vambraces Alpha + (gloves)",
+      "Baan Coil Alpha + (waist)",
+      "Baan Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Tremor Resistance",
       "Slugger",
@@ -3994,6 +5271,13 @@
     "setBonus": "-",
     "defenses": "Base: 570\nMax: 650\nAugmented: 760",
     "resistances": "🔥 10\n💧 0\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Bone Helm Beta + (head)",
+      "Bone Mail Beta + (chest)",
+      "Bone Vambraces Beta + (gloves)",
+      "Bone Coil Beta + (waist)",
+      "Bone Greaves Beta + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Partbreaker",
@@ -4018,6 +5302,13 @@
     "setBonus": "-",
     "defenses": "Base: 570\nMax: 650\nAugmented: 760",
     "resistances": "🔥 -10\n💧 0\n⚡ -10\n❄ -10\n🐉 0",
+    "pieces": [
+      "Alloy Helm Beta + (head)",
+      "Alloy Mail Beta + (chest)",
+      "Alloy Vambraces Beta + (gloves)",
+      "Alloy Coil Beta + (waist)",
+      "Alloy Greaves Beta + (legs)"
+    ],
     "skills": [
       "Windproof",
       "Water Resistance",
@@ -4043,6 +5334,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 -10\n💧 5\n⚡ 5\n❄ 5\n🐉 10",
+    "pieces": [
+      "Vespoid Helm Beta + (head)",
+      "Vespoid Mail Beta + (chest)",
+      "Vespoid Vambraces Beta + (gloves)",
+      "Vespoid Coil Beta + (waist)",
+      "Vespoid Greaves Beta + (legs)"
+    ],
     "skills": [
       "Quick Sheath",
       "Windproof",
@@ -4068,6 +5366,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 -5\n💧 -5\n⚡ 0\n❄ 0\n🐉 10",
+    "pieces": [
+      "Hornetaur Helm Beta + (head)",
+      "Hornetaur Mail Beta + (chest)",
+      "Hornetaur Vambraces Beta + (gloves)",
+      "Hornetaur Coil Beta + (waist)",
+      "Hornetaur Greaves Beta + (legs)"
+    ],
     "skills": [
       "Dragon Attack",
       "Weakness Exploit",
@@ -4094,6 +5399,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 4\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kestodon Guards Beta + (gloves)"
+    ],
     "skills": [
       "Focus",
       "Affinity Sliding"
@@ -4108,6 +5416,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 0\n💧 5\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gajau Boots Beta + (legs)"
+    ],
     "skills": [
       "Water Attack",
       "Aquatic/Polar Mobility"
@@ -4122,6 +5433,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 2\n💧 2\n⚡ 0\n❄ -3\n🐉 0",
+    "pieces": [
+      "Shamos Goggles Beta + (head)"
+    ],
     "skills": [
       "Geologist",
       "Detector"
@@ -4136,6 +5450,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 3\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Gastodon Horn Beta + (head)"
+    ],
     "skills": [
       "Blast Resistance",
       "Flinch Free"
@@ -4150,6 +5467,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 1\n💧 1\n⚡ 0\n❄ 1\n🐉 -2",
+    "pieces": [
+      "Barnos Jacket Beta + (chest)"
+    ],
     "skills": [
       "Iron Skin",
       "Heat Guard"
@@ -4164,6 +5484,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 -3\n💧 2\n⚡ -2\n❄ 3\n🐉 2",
+    "pieces": [
+      "Wulg Scarf Beta + (head)"
+    ],
     "skills": [
       "Ice Resistance",
       "Master Mounter"
@@ -4178,6 +5501,9 @@
     "setBonus": "-",
     "defenses": "Base: 116\nMax: 132\nAugmented: 154",
     "resistances": "🔥 -3\n💧 2\n⚡ 0\n❄ 2\n🐉 0",
+    "pieces": [
+      "Cortos Cape Beta + (chest)"
+    ],
     "skills": [
       "Hunger Resistance",
       "Jump Master"
@@ -4191,6 +5517,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 -10\n💧 10\n⚡ -5\n❄ -5\n🐉 5",
+    "pieces": [
+      "Jagras Helm Beta + (head)",
+      "Jagras Mail Beta + (chest)",
+      "Jagras Vambraces Beta + (gloves)",
+      "Jagras Coil Beta + (waist)",
+      "Jagras Greaves Beta + (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Speed Eating",
@@ -4217,6 +5550,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 0\n💧 0\n⚡ -15\n❄ -10\n🐉 0",
+    "pieces": [
+      "Tzitzi Headgear Beta + (head)",
+      "Tzitzi Mail Beta + (chest)",
+      "Tzitzi Vambraces Beta + (gloves)",
+      "Tzitzi Coil Beta + (waist)",
+      "Tzitzi Greaves Beta + (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Water Attack",
@@ -4243,6 +5583,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 0\n💧 -15\n⚡ 10\n❄ 0\n🐉 5",
+    "pieces": [
+      "Girros Headgear Beta + (head)",
+      "Girros Mail Beta + (chest)",
+      "Girros Vambraces Beta + (gloves)",
+      "Girros Coil Beta + (waist)",
+      "Girros Greaves Beta + (legs)"
+    ],
     "skills": [
       "Horn Maestro",
       "Paralysis Resistance",
@@ -4266,6 +5613,13 @@
     "setBonus": "-",
     "defenses": "Base: 600\nMax: 680\nAugmented: 790",
     "resistances": "🔥 10\n💧 0\n⚡ -15\n❄ 0\n🐉 10",
+    "pieces": [
+      "Dodogama Helm Beta + (head)",
+      "Dodogama Mail Beta + (chest)",
+      "Dodogama Vambraces Beta + (gloves)",
+      "Dodogama Coil Beta + (waist)",
+      "Dodogama Greaves Beta + (legs)"
+    ],
     "skills": [
       "Blast Resistance",
       "Blast Attack",
@@ -4289,6 +5643,13 @@
     "setBonus": "-",
     "defenses": "Base: 580\nMax: 660\nAugmented: 770",
     "resistances": "🔥 0\n💧 -15\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Kulu Headpiece Beta + (head)",
+      "Kulu Mail Beta + (chest)",
+      "Kulu Vambraces Beta + (gloves)",
+      "Kulu Coil Beta + (waist)",
+      "Kulu Greaves Beta + (legs)"
+    ],
     "skills": [
       "Slinger Capacity",
       "Critical Eye",
@@ -4312,6 +5673,13 @@
     "setBonus": "-",
     "defenses": "Base: 590\nMax: 670\nAugmented: 780",
     "resistances": "🔥 0\n💧 15\n⚡ -15\n❄ 0\n🐉 5",
+    "pieces": [
+      "Pukei Hat Beta + (head)",
+      "Pukei Mail Beta + (chest)",
+      "Pukei Vambraces Beta + (gloves)",
+      "Pukei Coil Beta + (waist)",
+      "Pukei Greaves Beta + (legs)"
+    ],
     "skills": [
       "Survival Expert",
       "Peak Performance",
@@ -4339,6 +5707,13 @@
     "setBonus": "-",
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 0\n💧 15\n⚡ -10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Pukei Lagoon Hat Beta + (head)",
+      "Pukei Lagoon Mail Beta + (chest)",
+      "Pukei Lagoon Braces Beta + (gloves)",
+      "Pukei Lagoon Coil Beta + (waist)",
+      "Pukei Lagoon Greaves Beta + (legs)"
+    ],
     "skills": [
       "Critical Draw",
       "Item Prolonger",
@@ -4364,6 +5739,13 @@
     "setBonus": "-",
     "defenses": "Base: 590\nMax: 670\nAugmented: 780",
     "resistances": "🔥 -15\n💧 -5\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Barroth Helm Beta + (head)",
+      "Barroth Mail Beta + (chest)",
+      "Barroth Vambraces Beta + (gloves)",
+      "Barroth Coil Beta + (waist)",
+      "Barroth Greaves Beta + (legs)"
+    ],
     "skills": [
       "Guard",
       "Stamina Thief",
@@ -4389,6 +5771,13 @@
     "setBonus": "-",
     "defenses": "Base: 590\nMax: 670\nAugmented: 780",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Jyura Helm Beta + (head)",
+      "Jyura Mail Beta + (chest)",
+      "Jyura Vambraces Beta + (gloves)",
+      "Jyura Coil Beta + (waist)",
+      "Jyura Greaves Beta + (legs)"
+    ],
     "skills": [
       "Focus",
       "Latent Power",
@@ -4416,6 +5805,13 @@
     "setBonus": "-",
     "defenses": "Base: 590\nMax: 670\nAugmented: 780",
     "resistances": "🔥 -15\n💧 0\n⚡ -10\n❄ 15\n🐉 10",
+    "pieces": [
+      "Beo Helm Beta + (head)",
+      "Beo Mail Beta + (chest)",
+      "Beo Vambraces Beta + (gloves)",
+      "Beo Coil Beta + (waist)",
+      "Beo Greaves Beta + (legs)"
+    ],
     "skills": [
       "Aquatic/Polar Mobility",
       "Stamina Surge",
@@ -4440,6 +5836,13 @@
     "setBonus": "-",
     "defenses": "Base: 600\nMax: 680\nAugmented: 790",
     "resistances": "🔥 0\n💧 -15\n⚡ 15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Kadachi Hat Beta + (head)",
+      "Kadachi Mail Beta + (chest)",
+      "Kadachi Vambraces Beta + (gloves)",
+      "Kadachi Coil Beta + (waist)",
+      "Kadachi Greaves Beta + (legs)"
+    ],
     "skills": [
       "Constitution",
       "Evade Extender",
@@ -4468,6 +5871,13 @@
     "setBonus": "-",
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 5\n💧 15\n⚡ -15\n❄ -10\n🐉 5",
+    "pieces": [
+      "Viper Kadachi Hat Beta + (head)",
+      "Viper Kadachi Mail Beta + (chest)",
+      "Viper Kadachi Braces Beta + (gloves)",
+      "Viper Kadachi Coil Beta + (waist)",
+      "Viper Kadachi Greaves Beta + (legs)"
+    ],
     "skills": [
       "Paralysis Attack",
       "Evade Extender",
@@ -4493,6 +5903,13 @@
     "setBonus": "-",
     "defenses": "Base: 640\nMax: 720\nAugmented: 830",
     "resistances": "🔥 0\n💧 -5\n⚡ -10\n❄ 15\n🐉 0",
+    "pieces": [
+      "High Metal Helm Beta + (head)",
+      "High Metal Mail Beta + (chest)",
+      "High Metal Braces Beta + (gloves)",
+      "High Metal Coil Beta + (waist)",
+      "High Metal Greaves Beta + (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Ice Resistance",
@@ -4523,6 +5940,13 @@
     "setBonus": "-",
     "defenses": "Base: 650\nMax: 730\nAugmented: 840",
     "resistances": "🔥 -10\n💧 10\n⚡ -5\n❄ 15\n🐉 -15",
+    "pieces": [
+      "Banbaro Helm Beta + (head)",
+      "Banbaro Mail Beta + (chest)",
+      "Banbaro Vambraces Beta + (gloves)",
+      "Banbaro Coil Beta + (waist)",
+      "Banbaro Greaves Beta + (legs)"
+    ],
     "skills": [
       "Resentment",
       "Speed Eating",
@@ -4550,6 +5974,13 @@
     ],
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 15\n💧 -15\n⚡ -5\n❄ -5\n🐉 0",
+    "pieces": [
+      "Anja Helm Beta + (head)",
+      "Anja Mail Beta + (chest)",
+      "Anja Vambraces Beta + (gloves)",
+      "Anja Coil Beta + (waist)",
+      "Anja Greaves Beta + (legs)"
+    ],
     "skills": [
       "Fire Attack",
       "Special Ammo Boost",
@@ -4577,6 +6008,13 @@
     ],
     "defenses": "Base: 730\nMax: 770\nAugmented: 850",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Fulgur Helm Beta + (head)",
+      "Fulgur Mail Beta + (chest)",
+      "Fulgur Vambraces Beta + (gloves)",
+      "Fulgur Coil Beta + (waist)",
+      "Fulgur Greaves Beta + (legs)"
+    ],
     "skills": [
       "Weakness Exploit",
       "Stun Resistance",
@@ -4605,6 +6043,13 @@
     ],
     "defenses": "Base: 650\nMax: 730\nAugmented: 840",
     "resistances": "🔥 10\n💧 0\n⚡ -10\n❄ 0\n🐉 -15",
+    "pieces": [
+      "Rathian Helm Beta + (head)",
+      "Rathian Mail Beta + (chest)",
+      "Rathian Vambraces Beta + (gloves)",
+      "Rathian Coil Beta + (waist)",
+      "Rathian Greaves Beta + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Poison Attack",
@@ -4632,6 +6077,13 @@
     ],
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 15\n💧 0\n⚡ -15\n❄ 0\n🐉 -20",
+    "pieces": [
+      "Rath Heart Helm Beta + (head)",
+      "Rath Heart Mail Beta + (chest)",
+      "Rath Heart Braces Beta + (gloves)",
+      "Rath Heart Coil Beta + (waist)",
+      "Rath Heart Greaves Beta + (legs)"
+    ],
     "skills": [
       "Evade Extender",
       "Tool Specialist",
@@ -4658,6 +6110,13 @@
     "setBonus": "-",
     "defenses": "Base: 650\nMax: 730\nAugmented: 840",
     "resistances": "🔥 -15\n💧 10\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Lumu Hat Beta + (head)",
+      "Lumu Mail Beta + (chest)",
+      "Lumu Vambraces Beta + (gloves)",
+      "Lumu Coil Beta + (waist)",
+      "Lumu Greaves Beta + (legs)"
+    ],
     "skills": [
       "Stamina Surge",
       "Master Mounter",
@@ -4685,6 +6144,13 @@
     "setBonus": "-",
     "defenses": "Base: 660\nMax: 740\nAugmented: 850",
     "resistances": "🔥 -15\n💧 -15\n⚡ 10\n❄ 5\n🐉 5",
+    "pieces": [
+      "Lumu Phantasm Hood Beta + (head)",
+      "Lumu Phantasm Mail Beta + (chest)",
+      "Lumu Phantasm Braces Beta + (gloves)",
+      "Lumu Phantasm Coil Beta + (waist)",
+      "Lumu Phantasm Greaves Beta + (legs)"
+    ],
     "skills": [
       "Weakness Exploit",
       "Wide-Range",
@@ -4707,6 +6173,13 @@
     "setBonus": "-",
     "defenses": "Base: 670\nMax: 750\nAugmented: 860",
     "resistances": "🔥 0\n💧 10\n⚡ 0\n❄ -5\n🐉 -10",
+    "pieces": [
+      "Baan Helm Beta + (head)",
+      "Baan Mail Beta + (chest)",
+      "Baan Vambraces Beta + (gloves)",
+      "Baan Coil Beta + (waist)",
+      "Baan Greaves Beta + (legs)"
+    ],
     "skills": [
       "Tremor Resistance",
       "Sleep Attack",
@@ -4731,6 +6204,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 5\n💧 -10\n⚡ -10\n❄ 10\n🐉 15",
+    "pieces": [
+      "Artian Helm Alpha + (head)",
+      "Artian Mail Alpha + (chest)",
+      "Artian Vambraces Alpha + (gloves)",
+      "Artian Coil Alpha + (waist)",
+      "Artian Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Slinger Capacity",
@@ -4761,6 +6241,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 5\n💧 -10\n⚡ -10\n❄ 10\n🐉 15",
+    "pieces": [
+      "Artian Helm Beta + (head)",
+      "Artian Mail Beta + (chest)",
+      "Artian Vambraces Beta + (gloves)",
+      "Artian Coil Beta + (waist)",
+      "Artian Greaves Beta + (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Slinger Capacity",
@@ -4788,6 +6275,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 10\n💧 10\n⚡ 10\n❄ -5\n🐉 -5",
+    "pieces": [
+      "Clockwork Helm Alpha + (head)",
+      "Clockwork Mail Alpha + (chest)",
+      "Clockwork Braces Alpha + (gloves)",
+      "Clockwork Coil Alpha + (waist)",
+      "Clockwork Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Partbreaker",
       "Agitator",
@@ -4818,6 +6312,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 10\n💧 10\n⚡ 10\n❄ -5\n🐉 -5",
+    "pieces": [
+      "Clockwork Helm Beta + (head)",
+      "Clockwork Mail Beta + (chest)",
+      "Clockwork Braces Beta + (gloves)",
+      "Clockwork Coil Beta + (waist)",
+      "Clockwork Greaves Beta + (legs)"
+    ],
     "skills": [
       "Partbreaker",
       "Agitator",
@@ -4843,6 +6344,13 @@
     "setBonus": "-",
     "defenses": "Base: 680\nMax: 730\nAugmented: 840",
     "resistances": "🔥 -10\n💧 0\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Ingot Helm Alpha + (head)",
+      "Ingot Mail Alpha + (chest)",
+      "Ingot Vambraces Alpha + (gloves)",
+      "Ingot Coil Alpha + (waist)",
+      "Ingot Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Windproof",
       "Thunder Attack",
@@ -4869,6 +6377,13 @@
     "setBonus": "-",
     "defenses": "Base: 680\nMax: 730\nAugmented: 840",
     "resistances": "🔥 -10\n💧 0\n⚡ 15\n❄ -5\n🐉 0",
+    "pieces": [
+      "Ingot Helm Beta + (head)",
+      "Ingot Mail Beta + (chest)",
+      "Ingot Vambraces Beta + (gloves)",
+      "Ingot Coil Beta + (waist)",
+      "Ingot Greaves Beta + (legs)"
+    ],
     "skills": [
       "Thunder Attack",
       "Thunder Resistance",
@@ -4895,6 +6410,9 @@
     "setBonus": "-",
     "defenses": "Base: 120\nMax: 136\nAugmented: 158",
     "resistances": "🔥 0\n💧 0\n⚡ 0\n❄ 5\n🐉 0",
+    "pieces": [
+      "Pearlspring Alpha + (head)"
+    ],
     "skills": [
       "Recovery Up"
     ],
@@ -4911,6 +6429,13 @@
     ],
     "defenses": "Base: 810\nMax: 840\nAugmented: 900",
     "resistances": "🔥 10\n💧 5\n⚡ 5\n❄ 10\n🐉 10",
+    "pieces": [
+      "Guildwork Head Alpha + (head)",
+      "Guildwork Body Alpha + (chest)",
+      "Guildwork Braces Alpha + (gloves)",
+      "Guildwork Waist Alpha + (waist)",
+      "Guildwork Feet Alpha + (legs)"
+    ],
     "skills": [
       "Honey Hunter",
       "Botanist",
@@ -4945,6 +6470,13 @@
     ],
     "defenses": "Base: 810\nMax: 840\nAugmented: 900",
     "resistances": "🔥 10\n💧 5\n⚡ 5\n❄ 10\n🐉 10",
+    "pieces": [
+      "Guildwork Head Beta + (head)",
+      "Guildwork Body Beta + (chest)",
+      "Guildwork Braces Beta + (gloves)",
+      "Guildwork Waist Beta + (waist)",
+      "Guildwork Feet Beta + (legs)"
+    ],
     "skills": [
       "Honey Hunter",
       "Botanist",
@@ -4975,6 +6507,13 @@
     ],
     "defenses": "Base: 830\nMax: 860\nAugmented: 920",
     "resistances": "🔥 5\n💧 5\n⚡ -15\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Ruinous Helm Beta + (head)",
+      "Ruinous Mail Beta + (chest)",
+      "Ruinous Vambraces Beta + (gloves)",
+      "Ruinous Coil Beta + (waist)",
+      "Ruinous Greaves Beta + (legs)"
+    ],
     "skills": [
       "Maximum Might",
       "Stamina Surge",
@@ -5004,6 +6543,13 @@
     ],
     "defenses": "Base: 830\nMax: 860\nAugmented: 920",
     "resistances": "🔥 5\n💧 5\n⚡ -15\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Ruinous Helm Alpha + (head)",
+      "Ruinous Mail Alpha + (chest)",
+      "Ruinous Vambraces Alpha + (gloves)",
+      "Ruinous Coil Alpha + (waist)",
+      "Ruinous Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Stamina Surge",
       "Maximum Might",
@@ -5035,6 +6581,13 @@
     ],
     "defenses": "Base: 820\nMax: 850\nAugmented: 910",
     "resistances": "🔥 20\n💧 -15\n⚡ -10\n❄ -10\n🐉 15",
+    "pieces": [
+      "Silver Solhelm Beta + (head)",
+      "Silver Solmail Beta + (chest)",
+      "Silver Solbraces Beta + (gloves)",
+      "Silver Solcoil Beta + (waist)",
+      "Silver Solgreaves Beta + (legs)"
+    ],
     "skills": [
       "Windproof",
       "Critical Boost",
@@ -5064,6 +6617,13 @@
     ],
     "defenses": "Base: 820\nMax: 850\nAugmented: 910",
     "resistances": "🔥 20\n💧 -15\n⚡ -10\n❄ -10\n🐉 15",
+    "pieces": [
+      "Silver Solhelm Alpha + (head)",
+      "Silver Solmail Alpha + (chest)",
+      "Silver Solbraces Alpha + (gloves)",
+      "Silver Solcoil Alpha + (waist)",
+      "Silver Solgreaves Alpha + (legs)"
+    ],
     "skills": [
       "Windproof",
       "Fire Attack",
@@ -5096,6 +6656,13 @@
     ],
     "defenses": "Base: 810\nMax: 840\nAugmented: 900",
     "resistances": "🔥 15\n💧 -10\n⚡ -20\n❄ 0\n🐉 20",
+    "pieces": [
+      "Golden Lunehelm Beta + (head)",
+      "Golden Lunemail Beta + (chest)",
+      "Golden Lunebraces Beta + (gloves)",
+      "Golden Lunecoil Beta + (waist)",
+      "Golden Lunegreaves Beta + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Divine Blessing",
@@ -5124,6 +6691,13 @@
     ],
     "defenses": "Base: 810\nMax: 840\nAugmented: 900",
     "resistances": "🔥 15\n💧 -10\n⚡ -20\n❄ 0\n🐉 20",
+    "pieces": [
+      "Golden Lunehelm Alpha + (head)",
+      "Golden Lunemail Alpha + (chest)",
+      "Golden Lunebraces Alpha + (gloves)",
+      "Golden Lunecoil Alpha + (waist)",
+      "Golden Lunegreaves Alpha + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Poison Attack",
@@ -5154,6 +6728,13 @@
     ],
     "defenses": "Base: 790\nMax: 830\nAugmented: 910",
     "resistances": "🔥 -5\n💧 -5\n⚡ 20\n❄ -20\n🐉 5",
+    "pieces": [
+      "Zinogre Helm Beta + (head)",
+      "Zinogre Mail Beta + (chest)",
+      "Zinogre Braces Beta + (gloves)",
+      "Zinogre Coil Beta + (waist)",
+      "Zinogre Greaves Beta + (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Power Prolonger",
@@ -5182,6 +6763,13 @@
     ],
     "defenses": "Base: 790\nMax: 830\nAugmented: 910",
     "resistances": "🔥 -5\n💧 -5\n⚡ 20\n❄ -20\n🐉 5",
+    "pieces": [
+      "Zinogre Helm Alpha + (head)",
+      "Zinogre Mail Alpha + (chest)",
+      "Zinogre Braces Alpha + (gloves)",
+      "Zinogre Coil Alpha + (waist)",
+      "Zinogre Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Power Prolonger",
@@ -5208,6 +6796,13 @@
     "setBonus": "-",
     "defenses": "Base: 770\nMax: 810\nAugmented: 890",
     "resistances": "🔥 10\n💧 -15\n⚡ 10\n❄ -10\n🐉 -10",
+    "pieces": [
+      "Garuga Helm Beta + (head)",
+      "Garuga Mail Beta + (chest)",
+      "Garuga Vambraces Beta + (gloves)",
+      "Garuga Tassets Beta + (waist)",
+      "Garuga Greaves Beta + (legs)"
+    ],
     "skills": [
       "Critical Eye",
       "Resentment",
@@ -5234,6 +6829,13 @@
     "setBonus": "-",
     "defenses": "Base: 770\nMax: 810\nAugmented: 890",
     "resistances": "🔥 10\n💧 -15\n⚡ 10\n❄ -10\n🐉 -10",
+    "pieces": [
+      "Garuga Helm Alpha + (head)",
+      "Garuga Mail Alpha + (chest)",
+      "Garuga Vambraces Alpha + (gloves)",
+      "Garuga Tassets Alpha + (waist)",
+      "Garuga Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Critical Eye",
       "Resentment",
@@ -5262,6 +6864,13 @@
     ],
     "defenses": "Base: 800\nMax: 830\nAugmented: 890",
     "resistances": "🔥 20\n💧 -15\n⚡ -5\n❄ -10\n🐉 -15",
+    "pieces": [
+      "Zorah Headgear Beta + (head)",
+      "Zorah Hide Beta + (chest)",
+      "Zorah Claws Beta + (gloves)",
+      "Zorah Spine Beta + (waist)",
+      "Zorah Spurs Beta + (legs)"
+    ],
     "skills": [
       "Flinch Free",
       "Tremor Resistance",
@@ -5290,6 +6899,13 @@
     ],
     "defenses": "Base: 800\nMax: 830\nAugmented: 890",
     "resistances": "🔥 20\n💧 -15\n⚡ -5\n❄ -10\n🐉 -15",
+    "pieces": [
+      "Zorah Headgear Alpha + (head)",
+      "Zorah Hide Alpha + (chest)",
+      "Zorah Claws Alpha + (gloves)",
+      "Zorah Spine Alpha + (waist)",
+      "Zorah Spurs Alpha + (legs)"
+    ],
     "skills": [
       "Artillery",
       "Flinch Free",
@@ -5323,6 +6939,13 @@
     ],
     "defenses": "Base: 810\nMax: 840\nAugmented: 900",
     "resistances": "🔥 0\n💧 -10\n⚡ 15\n❄ -15\n🐉 0",
+    "pieces": [
+      "Shara Ishvalda Helm Beta + (head)",
+      "Shara Ishvalda Mail Beta + (chest)",
+      "Shara Ishvalda Braces Beta + (gloves)",
+      "Shara Ishvalda Coil Beta + (waist)",
+      "Shara Ishvalda Greaves Beta + (legs)"
+    ],
     "skills": [
       "Recovery Up",
       "Coalescence",
@@ -5352,6 +6975,13 @@
     ],
     "defenses": "Base: 810\nMax: 840\nAugmented: 900",
     "resistances": "🔥 0\n💧 -10\n⚡ 15\n❄ -15\n🐉 0",
+    "pieces": [
+      "Shara Ishvalda Helm Alpha + (head)",
+      "Shara Ishvalda Mail Alpha + (chest)",
+      "Shara Ishvalda Braces Alpha + (gloves)",
+      "Shara Ishvalda Coil Alpha + (waist)",
+      "Shara Ishvalda Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Recovery Up",
       "Partbreaker",
@@ -5385,6 +7015,13 @@
     ],
     "defenses": "Base: 790\nMax: 820\nAugmented: 880",
     "resistances": "🔥 -15\n💧 20\n⚡ 15\n❄ 0\n🐉 -10",
+    "pieces": [
+      "Tentacle Cowl Beta + (head)",
+      "Tentacle Cloak Beta + (chest)",
+      "Tentacle Gloves Beta + (gloves)",
+      "Tentacle Coil Beta + (waist)",
+      "Tentacle Greaves Beta + (legs)"
+    ],
     "skills": [
       "Constitution",
       "Maximum Might",
@@ -5415,6 +7052,13 @@
     ],
     "defenses": "Base: 790\nMax: 820\nAugmented: 880",
     "resistances": "🔥 -15\n💧 20\n⚡ 15\n❄ 0\n🐉 -10",
+    "pieces": [
+      "Tentacle Cowl Alpha + (head)",
+      "Tentacle Cloak Alpha + (chest)",
+      "Tentacle Gloves Alpha + (gloves)",
+      "Tentacle Coil Alpha + (waist)",
+      "Tentacle Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Constitution",
       "Maximum Might",
@@ -5446,6 +7090,13 @@
     ],
     "defenses": "Base: 770\nMax: 800\nAugmented: 860",
     "resistances": "🔥 -15\n💧 -10\n⚡ 20\n❄ -10\n🐉 10",
+    "pieces": [
+      "Kirin Horn Beta + (head)",
+      "Kirin Jacket Beta + (chest)",
+      "Kirin Longarms Beta + (gloves)",
+      "Kirin Hoop Beta + (waist)",
+      "Kirin Leg Guards Beta + (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Critical Eye",
@@ -5476,6 +7127,13 @@
     ],
     "defenses": "Base: 770\nMax: 800\nAugmented: 860",
     "resistances": "🔥 -15\n💧 -10\n⚡ 20\n❄ -10\n🐉 10",
+    "pieces": [
+      "Kirin Horn Alpha + (head)",
+      "Kirin Jacket Alpha + (chest)",
+      "Kirin Longarms Alpha + (gloves)",
+      "Kirin Hoop Alpha + (waist)",
+      "Kirin Leg Guards Alpha + (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Divine Blessing",
@@ -5506,6 +7164,13 @@
     ],
     "defenses": "Base: 780\nMax: 810\nAugmented: 870",
     "resistances": "🔥 0\n💧 10\n⚡ -15\n❄ 20\n🐉 -10",
+    "pieces": [
+      "Kushala Glare Beta + (head)",
+      "Kushala Cista Beta + (chest)",
+      "Kushala Grip Beta + (gloves)",
+      "Kushala Cocoon Beta + (waist)",
+      "Kushala Crus Beta + (legs)"
+    ],
     "skills": [
       "Ice Attack",
       "Evade Window",
@@ -5534,6 +7199,13 @@
     ],
     "defenses": "Base: 780\nMax: 810\nAugmented: 870",
     "resistances": "🔥 0\n💧 10\n⚡ -15\n❄ 20\n🐉 -10",
+    "pieces": [
+      "Kushala Glare Alpha + (head)",
+      "Kushala Cista Alpha + (chest)",
+      "Kushala Grip Alpha + (gloves)",
+      "Kushala Cocoon Alpha + (waist)",
+      "Kushala Crus Alpha + (legs)"
+    ],
     "skills": [
       "Ice Attack",
       "Evade Window",
@@ -5559,6 +7231,13 @@
     ],
     "defenses": "Base: 780\nMax: 810\nAugmented: 870",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Kaiser Crown Beta + (head)",
+      "Kaiser Mail Beta + (chest)",
+      "Kaiser Vambraces Beta + (gloves)",
+      "Kaiser Coil Beta + (waist)",
+      "Kaiser Greaves Beta + (legs)"
+    ],
     "skills": [
       "Critical Eye",
       "Latent Power",
@@ -5589,6 +7268,13 @@
     ],
     "defenses": "Base: 780\nMax: 810\nAugmented: 870",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Kaiser Crown Alpha + (head)",
+      "Kaiser Mail Alpha + (chest)",
+      "Kaiser Vambraces Alpha + (gloves)",
+      "Kaiser Coil Alpha + (waist)",
+      "Kaiser Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Critical Eye",
       "Latent Power",
@@ -5617,6 +7303,13 @@
     ],
     "defenses": "Base: 780\nMax: 810\nAugmented: 870",
     "resistances": "🔥 -10\n💧 20\n⚡ 5\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Fellshroud Helm Beta + (head)",
+      "Fellshroud Mail Beta + (chest)",
+      "Fellshroud Braces Beta + (gloves)",
+      "Fellshroud Coil Beta + (waist)",
+      "Fellshroud Greaves Beta + (legs)"
+    ],
     "skills": [
       "Peak Performance",
       "Recovery Speed",
@@ -5646,6 +7339,13 @@
     ],
     "defenses": "Base: 780\nMax: 810\nAugmented: 870",
     "resistances": "🔥 -10\n💧 20\n⚡ 5\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Fellshroud Helm Alpha + (head)",
+      "Fellshroud Mail Alpha + (chest)",
+      "Fellshroud Braces Alpha + (gloves)",
+      "Fellshroud Coil Alpha + (waist)",
+      "Fellshroud Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Dragon Attack",
       "Peak Performance",
@@ -5679,6 +7379,13 @@
     ],
     "defenses": "Base: 770\nMax: 800\nAugmented: 860",
     "resistances": "🔥 -15\n💧 10\n⚡ -5\n❄ 20\n🐉 -5",
+    "pieces": [
+      "Rimeguard Helm Beta + (head)",
+      "Rimeguard Mail Beta + (chest)",
+      "Rimeguard Vambraces Beta + (gloves)",
+      "Rimeguard Coil Beta + (waist)",
+      "Rimeguard Greaves Beta + (legs)"
+    ],
     "skills": [
       "Divine Blessing",
       "Quick Sheath",
@@ -5707,6 +7414,13 @@
     ],
     "defenses": "Base: 770\nMax: 800\nAugmented: 860",
     "resistances": "🔥 -15\n💧 10\n⚡ -5\n❄ 20\n🐉 -5",
+    "pieces": [
+      "Rimeguard Helm Alpha + (head)",
+      "Rimeguard Mail Alpha + (chest)",
+      "Rimeguard Vambraces Alpha + (gloves)",
+      "Rimeguard Coil Alpha + (waist)",
+      "Rimeguard Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Divine Blessing",
       "Coalescence",
@@ -5738,6 +7452,13 @@
     ],
     "defenses": "Base: 770\nMax: 810\nAugmented: 890",
     "resistances": "🔥 5\n💧 10\n⚡ 10\n❄ 5\n🐉 5",
+    "pieces": [
+      "Guild Palace Helm Beta + (head)",
+      "Guild Palace Mail Beta + (chest)",
+      "Guild Palace Braces Beat + (gloves)",
+      "Guild Palace Coil Beta + (waist)",
+      "Guild Palace Greaves Beta + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Agitator",
@@ -5769,6 +7490,13 @@
     ],
     "defenses": "Base: 770\nMax: 810\nAugmented: 890",
     "resistances": "🔥 5\n💧 10\n⚡ 10\n❄ 5\n🐉 5",
+    "pieces": [
+      "Guild Palace Helm Alpha + (head)",
+      "Guild Palace Mail Alpha + (chest)",
+      "Guild Palace Braces Alpha + (gloves)",
+      "Guild Palace Coil Alpha + (waist)",
+      "Guild Palace Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Offensive Guard",
@@ -5798,6 +7526,13 @@
     ],
     "defenses": "Base: 780\nMax: 820\nAugmented: 900",
     "resistances": "🔥 10\n💧 5\n⚡ -15\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Esurient Helm Beta + (head)",
+      "Esurient Mail Beta + (chest)",
+      "Esurient Vambraces Beta + (gloves)",
+      "Esurient Faulds Beta + (waist)",
+      "Esurient Greaves Beta + (legs)"
+    ],
     "skills": [
       "Partbreaker",
       "Speed Eating",
@@ -5826,6 +7561,13 @@
     ],
     "defenses": "Base: 780\nMax: 820\nAugmented: 900",
     "resistances": "🔥 10\n💧 5\n⚡ -15\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Esurient Helm Alpha + (head)",
+      "Esurient Mail Alpha + (chest)",
+      "Esurient Vambraces Alpha + (gloves)",
+      "Esurient Faulds Alpha + (waist)",
+      "Esurient Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Handicraft",
       "Partbreaker",
@@ -5854,6 +7596,13 @@
     ],
     "defenses": "Base: 770\nMax: 810\nAugmented: 890",
     "resistances": "🔥 15\n💧 5\n⚡ -10\n❄ -20\n🐉 -10",
+    "pieces": [
+      "Pride Helm Beta + (head)",
+      "Pride Mail Beta + (chest)",
+      "Pride Vambraces Beta + (gloves)",
+      "Pride Coil Beta + (waist)",
+      "Pride Greaves Beta + (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Blast Attack",
@@ -5884,6 +7633,13 @@
     ],
     "defenses": "Base: 770\nMax: 810\nAugmented: 890",
     "resistances": "🔥 15\n💧 5\n⚡ -10\n❄ -20\n🐉 -10",
+    "pieces": [
+      "Pride Helm Alpha + (head)",
+      "Pride Mail Alpha + (chest)",
+      "Pride Vambraces Alpha + (gloves)",
+      "Pride Coil Alpha + (waist)",
+      "Pride Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Blast Attack",
@@ -5911,6 +7667,13 @@
     "setBonus": "-",
     "defenses": "Base: 760\nMax: 800\nAugmented: 880",
     "resistances": "🔥 20\n💧 -10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Damascus Helm Beta + (head)",
+      "Damascus Mail Beta + (chest)",
+      "Damascus Vambraces Beta + (gloves)",
+      "Damascus Coil Beta + (waist)",
+      "Damascus Greaves Beta + (legs)"
+    ],
     "skills": [
       "Defense Boost",
       "Focus",
@@ -5940,6 +7703,13 @@
     "setBonus": "-",
     "defenses": "Base: 760\nMax: 800\nAugmented: 880",
     "resistances": "🔥 20\n💧 -10\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Damascus Helm Alpha + (head)",
+      "Damascus Mail Alpha + (chest)",
+      "Damascus Vambraces Alpha + (gloves)",
+      "Damascus Coil Alpha + (waist)",
+      "Damascus Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Defense Boost",
       "Speed Sharpening",
@@ -5969,6 +7739,13 @@
     "setBonus": "-",
     "defenses": "Base: 760\nMax: 800\nAugmented: 880",
     "resistances": "🔥 -10\n💧 0\n⚡ -5\n❄ -5\n🐉 20",
+    "pieces": [
+      "Dober Helm Beta + (head)",
+      "Dober Mail Beta + (chest)",
+      "Dober Vambraces Beta + (gloves)",
+      "Dober Coil Beta + (waist)",
+      "Dober Greaves Beta + (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Attack Boost",
@@ -5998,6 +7775,13 @@
     "setBonus": "-",
     "defenses": "Base: 760\nMax: 800\nAugmented: 880",
     "resistances": "🔥 -10\n💧 0\n⚡ -5\n❄ -5\n🐉 20",
+    "pieces": [
+      "Dober Helm Alpha + (head)",
+      "Dober Mail Alpha + (chest)",
+      "Dober Vambraces Alpha + (gloves)",
+      "Dober Coil Alpha + (waist)",
+      "Dober Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Stamina Surge",
@@ -6029,6 +7813,13 @@
     ],
     "defenses": "Base: 750\nMax: 790\nAugmented: 870",
     "resistances": "🔥 5\n💧 5\n⚡ 5\n❄ 5\n🐉 10",
+    "pieces": [
+      "Black Belt Helm Beta + (head)",
+      "Black Belt Mail Beta + (chest)",
+      "Black Belt Braces Beta + (gloves)",
+      "Black Belt Tassets Beta + (waist)",
+      "Black Belt Greaves Beta + (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Mushroomancer",
@@ -6057,6 +7848,13 @@
     ],
     "defenses": "Base: 750\nMax: 790\nAugmented: 870",
     "resistances": "🔥 5\n💧 5\n⚡ 5\n❄ 5\n🐉 10",
+    "pieces": [
+      "Black Belt Helm Alpha + (head)",
+      "Black Belt Mail Alpha + (chest)",
+      "Black Belt Braces Alpha + (gloves)",
+      "Black Belt Tassets Alpha + (waist)",
+      "Black Belt Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Mushroomancer",
@@ -6087,6 +7885,13 @@
     ],
     "defenses": "Base: 790\nMax: 830\nAugmented: 910",
     "resistances": "🔥 15\n💧 -20\n⚡ -10\n❄ 0\n🐉 0",
+    "pieces": [
+      "Rex Roar Helm Beta + (head)",
+      "Rex Roar Mail Beta + (chest)",
+      "Rex Roar Braces Beta + (gloves)",
+      "Rex Roar Coil Beta + (waist)",
+      "Rex Roar Greaves Beta + (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Free Meal",
@@ -6115,6 +7920,13 @@
     ],
     "defenses": "Base: 790\nMax: 830\nAugmented: 910",
     "resistances": "🔥 15\n💧 -20\n⚡ -10\n❄ 0\n🐉 0",
+    "pieces": [
+      "Rex Roar Helm Alpha + (head)",
+      "Rex Roar Mail Alpha + (chest)",
+      "Rex Roar Braces Alpha + (gloves)",
+      "Rex Roar Coil Alpha + (waist)",
+      "Rex Roar Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Free Meal",
@@ -6142,6 +7954,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 10\n💧 0\n⚡ -15\n❄ 0\n🐉 -10",
+    "pieces": [
+      "Tigrex Helm Beta + (head)",
+      "Tigrex Mail Beta + (chest)",
+      "Tigrex Braces Beta + (gloves)",
+      "Tigrex Tassets Beta + (waist)",
+      "Tigrex Greaves Beta + (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Attack Boost",
@@ -6170,6 +7989,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 10\n💧 0\n⚡ -15\n❄ 0\n🐉 -10",
+    "pieces": [
+      "Tigrex Helm Alpha + (head)",
+      "Tigrex Mail Alpha + (chest)",
+      "Tigrex Braces Alpha + (gloves)",
+      "Tigrex Tassets Alpha + (waist)",
+      "Tigrex Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Earplugs",
       "Attack Boost",
@@ -6199,6 +8025,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 15\n💧 -10\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Brachydios Helm Beta + (head)",
+      "Brachydios Mail Beta + (chest)",
+      "Brachydios Braces Beta + (gloves)",
+      "Brachydios Faulds Beta + (waist)",
+      "Brachydios Greaves Beta + (legs)"
+    ],
     "skills": [
       "Agitator",
       "Stamina Thief",
@@ -6226,6 +8059,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 15\n💧 -10\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Brachydios Helm Alpha + (head)",
+      "Brachydios Mail Alpha + (chest)",
+      "Brachydios Braces Alpha + (gloves)",
+      "Brachydios Faulds Alpha + (waist)",
+      "Brachydios Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Agitator",
       "Capacity Boost",
@@ -6253,6 +8093,13 @@
     ],
     "defenses": "Base: 750\nMax: 790\nAugmented: 870",
     "resistances": "🔥 -15\n💧 10\n⚡ -5\n❄ 10\n🐉 -5",
+    "pieces": [
+      "Acidic Glavenus Helm Beta + (head)",
+      "Acidic Glavenus Mail Beta + (chest)",
+      "Acidic Glavenus Braces Beta + (gloves)",
+      "Acidic Glavenus Coil Beta + (waist)",
+      "Acidic Glavenus Greaves Beta + (legs)"
+    ],
     "skills": [
       "Maximum Might",
       "Effluvia Resistance",
@@ -6281,6 +8128,13 @@
     ],
     "defenses": "Base: 750\nMax: 790\nAugmented: 870",
     "resistances": "🔥 -15\n💧 10\n⚡ -5\n❄ 10\n🐉 -5",
+    "pieces": [
+      "Acidic Glavenus Helm Alpha + (head)",
+      "Acidic Glavenus Mail Alpha + (chest)",
+      "Acidic Glavenus Braces Alpha + (gloves)",
+      "Acidic Glavenus Coil Alpha + (waist)",
+      "Acidic Glavenus Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Maximum Might",
       "Effluvia Resistance",
@@ -6310,6 +8164,13 @@
     ],
     "defenses": "Base: 790\nMax: 830\nAugmented: 910",
     "resistances": "🔥 10\n💧 0\n⚡ 15\n❄ -25\n🐉 10",
+    "pieces": [
+      "Golden Headdress Beta + (head)",
+      "Golden Haori Beta + (chest)",
+      "Golden Kote Beta + (gloves)",
+      "Golden Obi Beta + (waist)",
+      "Golden Hakama Beta + (legs)"
+    ],
     "skills": [
       "Weakness Exploit",
       "Resentment",
@@ -6340,6 +8201,13 @@
     ],
     "defenses": "Base: 790\nMax: 830\nAugmented: 910",
     "resistances": "🔥 10\n💧 0\n⚡ 15\n❄ -25\n🐉 10",
+    "pieces": [
+      "Golden Headdress Alpha + (head)",
+      "Golden Haori Alpha + (chest)",
+      "Golden Kote Alpha + (gloves)",
+      "Golden Obi Alpha + (waist)",
+      "Golden Hakama Alpha + (legs)"
+    ],
     "skills": [
       "Weakness Exploit",
       "Handicraft",
@@ -6369,6 +8237,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -5\n🐉 -5",
+    "pieces": [
+      "Glavenus Helm Beta + (head)",
+      "Glavenus Mail Beta + (chest)",
+      "Glavenus Braces Beta + (gloves)",
+      "Glavenus Faulds Beta + (waist)",
+      "Glavenus Greaves Beta + (legs)"
+    ],
     "skills": [
       "Focus",
       "Handicraft",
@@ -6394,6 +8269,13 @@
     ],
     "defenses": "Base: 710\nMax: 760\nAugmented: 870",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -5\n🐉 -5",
+    "pieces": [
+      "Glavenus Helm Alpha + (head)",
+      "Glavenus Mail Alpha + (chest)",
+      "Glavenus Braces Alpha + (gloves)",
+      "Glavenus Faulds Alpha + (waist)",
+      "Glavenus Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Focus",
       "Handicraft",
@@ -6422,6 +8304,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 -10\n💧 10\n⚡ -15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Nargacuga Helm Beta + (head)",
+      "Nargacuga Mail Beta + (chest)",
+      "Nargacuga Braces Beta + (gloves)",
+      "Nargacuga Faulds Beta + (waist)",
+      "Nargacuga Greaves Beta + (legs)"
+    ],
     "skills": [
       "Piercing Shots",
       "Peak Performance",
@@ -6448,6 +8337,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 -10\n💧 10\n⚡ -15\n❄ 0\n🐉 0",
+    "pieces": [
+      "Nargacuga Helm Alpha + (head)",
+      "Nargacuga Mail Alpha + (chest)",
+      "Nargacuga Braces Alpha + (gloves)",
+      "Nargacuga Faulds Alpha + (waist)",
+      "Nargacuga Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Piercing Shots",
       "Peak Performance",
@@ -6477,6 +8373,13 @@
     ],
     "defenses": "Base: 720\nMax: 770\nAugmented: 880",
     "resistances": "🔥 20\n💧 -15\n⚡ 5\n❄ -10\n🐉 -10",
+    "pieces": [
+      "Uragaan Helm Beta + (head)",
+      "Uragaan Mail Beta + (chest)",
+      "Uragaan Vambraces Beta + (gloves)",
+      "Uragaan Coil Beta + (waist)",
+      "Uragaan Greaves Beta + (legs)"
+    ],
     "skills": [
       "Blast Resistance",
       "Partbreaker",
@@ -6503,6 +8406,13 @@
     ],
     "defenses": "Base: 720\nMax: 770\nAugmented: 880",
     "resistances": "🔥 20\n💧 -15\n⚡ 5\n❄ -10\n🐉 -10",
+    "pieces": [
+      "Uragaan Helm Alpha + (head)",
+      "Uragaan Mail Alpha + (chest)",
+      "Uragaan Vambraces Alpha + (gloves)",
+      "Uragaan Coil Alpha + (waist)",
+      "Uragaan Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Blast Resistance",
       "Flinch Free",
@@ -6530,6 +8440,13 @@
     "setBonus": "-",
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -10\n🐉 10",
+    "pieces": [
+      "Lavasioth Helm Beta + (head)",
+      "Lavasioth Mail Beta + (chest)",
+      "Lavasioth Vambraces Beta + (gloves)",
+      "Lavasioth Coil Beta + (waist)",
+      "Lavasioth Greaves Beta + (legs)"
+    ],
     "skills": [
       "Fire Attack",
       "Quick Sheath",
@@ -6558,6 +8475,13 @@
     "setBonus": "-",
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 15\n💧 -15\n⚡ 5\n❄ -10\n🐉 10",
+    "pieces": [
+      "Lavasioth Helm Alpha + (head)",
+      "Lavasioth Mail Alpha + (chest)",
+      "Lavasioth Vambraces Alpha + (gloves)",
+      "Lavasioth Coil Alpha + (waist)",
+      "Lavasioth Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Fire Attack",
       "Quick Sheath",
@@ -6587,6 +8511,13 @@
     ],
     "defenses": "Base: 740\nMax: 780\nAugmented: 860",
     "resistances": "🔥 -10\n💧 -15\n⚡ -10\n❄ -10\n🐉 20",
+    "pieces": [
+      "Death Garon Helm Beta + (head)",
+      "Death Garon Mail Beta + (chest)",
+      "Death Garon Braces Beta + (gloves)",
+      "Death Garon Coil Beta + (waist)",
+      "Death Garon Greaves Beta + (legs)"
+    ],
     "skills": [
       "Latent Power",
       "Dragon Resistance",
@@ -6617,6 +8548,13 @@
     ],
     "defenses": "Base: 740\nMax: 780\nAugmented: 860",
     "resistances": "🔥 -10\n💧 -15\n⚡ -10\n❄ -10\n🐉 20",
+    "pieces": [
+      "Death Garon Helm Alpha + (head)",
+      "Death Garon Mail Alpha + (chest)",
+      "Death Garon Braces Alpha + (gloves)",
+      "Death Garon Coil Alpha + (waist)",
+      "Death Garon Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Latent Power",
       "Tool Specialist",
@@ -6647,6 +8585,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 10\n💧 10\n⚡ -10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Odogaron Helm Beta + (head)",
+      "Odogaron Mail Beta + (chest)",
+      "Odogaron Vambraces Beta + (gloves)",
+      "Odogaron Coil Beta + (waist)",
+      "Odogaron Greaves Beta + (legs)"
+    ],
     "skills": [
       "Bleeding Resistance",
       "Critical Eye",
@@ -6674,6 +8619,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 10\n💧 10\n⚡ -10\n❄ -15\n🐉 0",
+    "pieces": [
+      "Odogaron Helm Alpha + (head)",
+      "Odogaron Mail Alpha + (chest)",
+      "Odogaron Vambraces Alpha + (gloves)",
+      "Odogaron Coil Alpha + (waist)",
+      "Odogaron Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Bleeding Resistance",
       "Critical Eye",
@@ -6701,6 +8653,13 @@
     ],
     "defenses": "Base: 730\nMax: 770\nAugmented: 850",
     "resistances": "🔥 -15\n💧 10\n⚡ -5\n❄ 15\n🐉 0",
+    "pieces": [
+      "Hoarcry Helm Beta + (head)",
+      "Hoarcry Mail Beta + (chest)",
+      "Hoarcry Vambraces Beta + (gloves)",
+      "Hoarcry Coil Beta + (waist)",
+      "Hoarcry Greaves Beta + (legs)"
+    ],
     "skills": [
       "Hunger Resistance",
       "Focus",
@@ -6725,6 +8684,13 @@
     ],
     "defenses": "Base: 730\nMax: 770\nAugmented: 850",
     "resistances": "🔥 -15\n💧 10\n⚡ -5\n❄ 15\n🐉 0",
+    "pieces": [
+      "Hoarcry Helm Alpha + (head)",
+      "Hoarcry Mail Alpha + (chest)",
+      "Hoarcry Vambraces Alpha + (gloves)",
+      "Hoarcry Coil Alpha + (waist)",
+      "Hoarcry Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Hunger Resistance",
       "Evade Extender",
@@ -6758,6 +8724,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 15\n🐉 0",
+    "pieces": [
+      "Legiana Helm Beta + (head)",
+      "Legiana Mail Beta + (chest)",
+      "Legiana Vambraces Beta + (gloves)",
+      "Legiana Coil Beta + (waist)",
+      "Legiana Greaves Beta + (legs)"
+    ],
     "skills": [
       "Divine Blessing",
       "Evade Window",
@@ -6787,6 +8760,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 -5\n💧 10\n⚡ -15\n❄ 15\n🐉 0",
+    "pieces": [
+      "Legiana Helm Alpha + (head)",
+      "Legiana Mail Alpha + (chest)",
+      "Legiana Vambraces Alpha + (gloves)",
+      "Legiana Coil Alpha + (waist)",
+      "Legiana Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Ice Attack",
       "Divine Blessing",
@@ -6814,6 +8794,13 @@
     ],
     "defenses": "Base: 740\nMax: 780\nAugmented: 860",
     "resistances": "🔥 10\n💧 -15\n⚡ 0\n❄ -20\n🐉 10",
+    "pieces": [
+      "Diablos Nero Helm Beta + (head)",
+      "Diablos Nero Mail Beta + (chest)",
+      "Diablos Nero Braces Beta + (gloves)",
+      "Diablos Nero Coil Beta + (waist)",
+      "Diablos Nero Greaves Beta + (legs)"
+    ],
     "skills": [
       "Partbreaker",
       "Resentment",
@@ -6842,6 +8829,13 @@
     ],
     "defenses": "Base: 740\nMax: 780\nAugmented: 860",
     "resistances": "🔥 10\n💧 -15\n⚡ 0\n❄ -20\n🐉 10",
+    "pieces": [
+      "Diablos Nero Helm Alpha + (head)",
+      "Diablos Nero Mail Alpha + (chest)",
+      "Diablos Nero Braces Alpha + (gloves)",
+      "Diablos Nero Coil Alpha + (waist)",
+      "Diablos Nero Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Partbreaker",
       "Resentment",
@@ -6871,6 +8865,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 15\n💧 -10\n⚡ 0\n❄ -15\n🐉 10",
+    "pieces": [
+      "Diablos Helm Beta + (head)",
+      "Diablos Mail Beta + (chest)",
+      "Diablos Vambraces Beta + (gloves)",
+      "Diablos Coil Beta + (waist)",
+      "Diablos Greaves Beta + (legs)"
+    ],
     "skills": [
       "Critical Draw",
       "Slugger",
@@ -6900,6 +8901,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 15\n💧 -10\n⚡ 0\n❄ -15\n🐉 10",
+    "pieces": [
+      "Diablos Helm Alpha + (head)",
+      "Diablos Mail Alpha + (chest)",
+      "Diablos Vambraces Alpha + (gloves)",
+      "Diablos Coil Alpha + (waist)",
+      "Diablos Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Critical Draw",
       "Slugger",
@@ -6928,6 +8936,13 @@
     ],
     "defenses": "Base: 740\nMax: 780\nAugmented: 860",
     "resistances": "🔥 15\n💧 10\n⚡ 10\n❄ -15\n🐉 -20",
+    "pieces": [
+      "Rath Soul Helm Beta + (head)",
+      "Rath Soul Mail Beta + (chest)",
+      "Rath Soul Braces Beta + (gloves)",
+      "Rath Soul Coil Beta + (waist)",
+      "Rath Soul Greaves Beta + (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Free Elem/Ammo Up",
@@ -6955,6 +8970,13 @@
     ],
     "defenses": "Base: 740\nMax: 780\nAugmented: 860",
     "resistances": "🔥 15\n💧 10\n⚡ 10\n❄ -15\n🐉 -20",
+    "pieces": [
+      "Rath Soul Helm Alpha + (head)",
+      "Rath Soul Mail Alpha + (chest)",
+      "Rath Soul Braces Alpha + (gloves)",
+      "Rath Soul Coil Alpha + (waist)",
+      "Rath Soul Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Cliffhanger",
@@ -6983,6 +9005,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 15\n💧 5\n⚡ -10\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Rathalos Helm Beta + (head)",
+      "Rathalos Mail Beta + (chest)",
+      "Rathalos Vambraces Beta + (gloves)",
+      "Rathalos Coil Beta + (waist)",
+      "Rathalos Greaves Beta + (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Weakness Exploit",
@@ -7009,6 +9038,13 @@
     ],
     "defenses": "Base: 700\nMax: 750\nAugmented: 860",
     "resistances": "🔥 15\n💧 5\n⚡ -10\n❄ 5\n🐉 -15",
+    "pieces": [
+      "Rathalos Helm Alpha + (head)",
+      "Rathalos Mail Alpha + (chest)",
+      "Rathalos Vambraces Alpha + (gloves)",
+      "Rathalos Coil Alpha + (waist)",
+      "Rathalos Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Fire Attack",
@@ -7037,6 +9073,13 @@
     ],
     "defenses": "Base: 690\nMax: 740\nAugmented: 850",
     "resistances": "🔥 -15\n💧 10\n⚡ -10\n❄ 15\n🐉 0",
+    "pieces": [
+      "Barioth Helm Beta + (head)",
+      "Barioth Mail Beta + (chest)",
+      "Barioth Vambraces Beta + (gloves)",
+      "Barioth Faulds Beta + (waist)",
+      "Barioth Greaves Beta + (legs)"
+    ],
     "skills": [
       "Power Prolonger",
       "Evade Extender",
@@ -7065,6 +9108,13 @@
     ],
     "defenses": "Base: 690\nMax: 740\nAugmented: 850",
     "resistances": "🔥 -15\n💧 10\n⚡ -10\n❄ 15\n🐉 0",
+    "pieces": [
+      "Barioth Helm Alpha + (head)",
+      "Barioth Mail Alpha + (chest)",
+      "Barioth Vambraces Alpha + (gloves)",
+      "Barioth Faulds Alpha + (waist)",
+      "Barioth Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Power Prolonger",
       "Evade Extender",
@@ -7094,6 +9144,13 @@
     ],
     "defenses": "Base: 820\nMax: 850\nAugmented: 910",
     "resistances": "🔥 15\n💧 5\n⚡ 5\n❄ -15\n🐉 -10",
+    "pieces": [
+      "Empress Crown Beta + (head)",
+      "Empress Mail Beta + (chest)",
+      "Empress Vambraces Beta + (gloves)",
+      "Empress Coil Beta + (waist)",
+      "Empress Greaves Beta + (legs)"
+    ],
     "skills": [
       "Tool Specialist",
       "Peak Performance",
@@ -7124,6 +9181,13 @@
     ],
     "defenses": "Base: 820\nMax: 850\nAugmented: 910",
     "resistances": "🔥 15\n💧 5\n⚡ 5\n❄ -15\n🐉 -10",
+    "pieces": [
+      "Empress Crown Alpha + (head)",
+      "Empress Mail Alpha + (chest)",
+      "Empress Vambraces Alpha + (gloves)",
+      "Empress Coil Alpha + (waist)",
+      "Empress Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Tool Specialist",
       "Offensive Guard",
@@ -7155,6 +9219,13 @@
     ],
     "defenses": "Base: 750\nMax: 780\nAugmented: 840",
     "resistances": "🔥 15\n💧 10\n⚡ 10\n❄ 15\n🐉 0",
+    "pieces": [
+      "Claire's Head Alpha + (head)",
+      "Claire's Body Alpha + (chest)",
+      "Claire's Arms Alpha + (gloves)",
+      "Claire's Torso Alpha + (waist)",
+      "Claire's Legs Alpha + (legs)"
+    ],
     "skills": [
       "Agitator",
       "Evade Window",
@@ -7187,6 +9258,13 @@
     ],
     "defenses": "Base: 750\nMax: 780\nAugmented: 840",
     "resistances": "🔥 15\n💧 10\n⚡ 10\n❄ 15\n🐉 0",
+    "pieces": [
+      "Leon's Head Alpha + (head)",
+      "Leon's Body Alpha + (chest)",
+      "Leon's Arms Alpha + (gloves)",
+      "Leon's Torso Alpha + (waist)",
+      "Leon's Legs Alpha + (legs)"
+    ],
     "skills": [
       "Weakness Exploit",
       "Agitator",
@@ -7217,6 +9295,13 @@
     ],
     "defenses": "Base: 800\nMax: 840\nAugmented: 920",
     "resistances": "🔥 10\n💧 -20\n⚡ -25\n❄ 0\n🐉 20",
+    "pieces": [
+      "Stygian Helm Alpha + (head)",
+      "Stygian Mail Alpha + (chest)",
+      "Stygian Vambraces Alpha + (gloves)",
+      "Stygian Coil Alpha + (waist)",
+      "Stygian Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Tremor Resistance",
       "Latent Power",
@@ -7248,6 +9333,13 @@
     ],
     "defenses": "Base: 800\nMax: 840\nAugmented: 920",
     "resistances": "🔥 10\n💧 -20\n⚡ -25\n❄ 0\n🐉 20",
+    "pieces": [
+      "Stygian Helm Beta + (head)",
+      "Stygian Mail Beta + (chest)",
+      "Stygian Vambraces Beta + (gloves)",
+      "Stygian Coil Beta + (waist)",
+      "Stygian Greaves Beta + (legs)"
+    ],
     "skills": [
       "Tremor Resistance",
       "Latent Power",
@@ -7279,6 +9371,13 @@
     ],
     "defenses": "Base: 840\nMax: 870\nAugmented: 930",
     "resistances": "🔥 10\n💧 5\n⚡ 5\n❄ 5\n🐉 -5",
+    "pieces": [
+      "Safi Crested Crown Alpha + (head)",
+      "Safi Crested Chest Alpha + (chest)",
+      "Safi Crested Vambraces Alpha + (gloves)",
+      "Safi Crested Belt Alpha + (waist)",
+      "Safi Crested Boots Alpha + (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Evade Window",
@@ -7314,6 +9413,13 @@
     ],
     "defenses": "Base: 840\nMax: 870\nAugmented: 930",
     "resistances": "🔥 10\n💧 5\n⚡ 5\n❄ 5\n🐉 -5",
+    "pieces": [
+      "Safi Crested Crown Beta + (head)",
+      "Safi Crested Chest Beta + (chest)",
+      "Safi Crested Vambraces Beta + (gloves)",
+      "Safi Crested Belt Beta + (waist)",
+      "Safi Crested Boots Beta + (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Evade Window",
@@ -7347,6 +9453,13 @@
     ],
     "defenses": "Base: 600\nMax: 680\nAugmented: 790",
     "resistances": "🔥 5\n💧 5\n⚡ 5\n❄ 20\n🐉 5",
+    "pieces": [
+      "Oolong Hair Alpha + (head)",
+      "Oolong Vest Alpha + (chest)",
+      "Oolong Sleeves Alpha + (gloves)",
+      "Oolong Waist Alpha + (waist)",
+      "Oolong Boots Alpha + (legs)"
+    ],
     "skills": [
       "Critical Eye",
       "Stamina Surge",
@@ -7369,6 +9482,9 @@
     "setBonus": "-",
     "defenses": "Base: 60\nMax: 72\nAugmented: 86",
     "resistances": "🔥 0\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Dragonseal Earrings Alpha (head)"
+    ],
     "skills": [
       "Elderseal Boost"
     ],
@@ -7379,6 +9495,13 @@
     "setBonus": "-",
     "defenses": "Base: 30\nMax: 210\nAugmented: 360",
     "resistances": "🔥 0\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Origin Helm (head)",
+      "Origin Mail (chest)",
+      "Origin Vambraces (gloves)",
+      "Origin Coil (waist)",
+      "Origin Greaves (legs)"
+    ],
     "skills": [
       "Forager's Luck"
     ],
@@ -7389,6 +9512,9 @@
     "setBonus": "-",
     "defenses": "Base: 32\nMax: 56\nAugmented: 76",
     "resistances": "🔥 0\n💧 0\n⚡ 0\n❄ 0\n🐉 0",
+    "pieces": [
+      "Pulverizing Feather (head)"
+    ],
     "skills": [
       "Bombardier"
     ],
@@ -7399,6 +9525,13 @@
     "setBonus": "-",
     "defenses": "Base: 110\nMax: 250\nAugmented: 370",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Butterfly Vertex M (head)",
+      "Butterfly Thorax M (chest)",
+      "Butterfly Brachia M (gloves)",
+      "Butterfly Elytra M (waist)",
+      "Butterfly Crura M (legs)"
+    ],
     "skills": [
       "Stun Resistance",
       "Health Boost",
@@ -7413,6 +9546,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Queen Beetle Vertex Alpha (head)",
+      "Queen Beetle Thorax Alpha (chest)",
+      "Queen Beetle Brachia Alpha (gloves)",
+      "Queen Beetle Elytra Alpha (waist)",
+      "Queen Beetle Crura Alpha (legs)"
+    ],
     "skills": [
       "Stun Resistance",
       "Defense Boost",
@@ -7435,6 +9575,13 @@
     "setBonus": "-",
     "defenses": "Base: 210\nMax: 320\nAugmented: 400",
     "resistances": "🔥 -5\n💧 -5\n⚡ 10\n❄ 0\n🐉 10",
+    "pieces": [
+      "Queen Beetle Vertex Beta (head)",
+      "Queen Beetle Thorax Beta (chest)",
+      "Queen Beetle Brachia Beta (gloves)",
+      "Queen Beetle Elytra Beta (waist)",
+      "Queen Beetle Crura Beta (legs)"
+    ],
     "skills": [
       "Stun Resistance",
       "Health Boost",
@@ -7455,6 +9602,13 @@
     "setBonus": "-",
     "defenses": "Base: 110\nMax: 250\nAugmented: 370",
     "resistances": "🔥 5\n💧 20\n⚡ 5\n❄ 5\n🐉 5",
+    "pieces": [
+      "Diver's Mask (head)",
+      "Diver's Suit (chest)",
+      "Diver's Braces (gloves)",
+      "Diver's Belt (waist)",
+      "Diver's Boots (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Critical Eye",
@@ -7469,6 +9623,13 @@
     "setBonus": "-",
     "defenses": "Base: 230\nMax: 340\nAugmented: 420",
     "resistances": "🔥 5\n💧 20\n⚡ 5\n❄ 5\n🐉 5",
+    "pieces": [
+      "Diver's Mask Alpha (head)",
+      "Diver's Suit Alpha (chest)",
+      "Diver's Braces Alpha (gloves)",
+      "Diver's Belt Alpha (waist)",
+      "Diver's Boots Alpha (legs)"
+    ],
     "skills": [
       "Marathon Runner",
       "Critical Eye",
@@ -7489,6 +9650,13 @@
     "setBonus": "-",
     "defenses": "Base: 130\nMax: 270\nAugmented: 390",
     "resistances": "🔥 20\n💧 5\n⚡ 5\n❄ 5\n🐉 5",
+    "pieces": [
+      "Harvest Flor (head)",
+      "Harvest Tronco (chest)",
+      "Harvest Trama (gloves)",
+      "Harvest Hoja (waist)",
+      "Harvest Raiz (legs)"
+    ],
     "skills": [
       "Focus",
       "Tremor Resistance",
@@ -7503,6 +9671,13 @@
     "setBonus": "-",
     "defenses": "Base: 260\nMax: 360\nAugmented: 420",
     "resistances": "🔥 20\n💧 5\n⚡ 5\n❄ 5\n🐉 5",
+    "pieces": [
+      "Harvest Flor Alpha (head)",
+      "Harvest Tronco Alpha (chest)",
+      "Harvest Trama Alpha (gloves)",
+      "Harvest Hoja Alpha (waist)",
+      "Harvest Raiz Alpha (legs)"
+    ],
     "skills": [
       "Focus",
       "Tremor Resistance",
@@ -7528,6 +9703,13 @@
     "setBonus": "-",
     "defenses": "Base: 150\nMax: 270\nAugmented: 370",
     "resistances": "🔥 5\n💧 5\n⚡ 5\n❄ 20\n🐉 5",
+    "pieces": [
+      "Orion Cap (head)",
+      "Orion Vest (chest)",
+      "Orion Vambraces (gloves)",
+      "Orion Coat (waist)",
+      "Orion Boots (legs)"
+    ],
     "skills": [
       "Recovery Up",
       "Flinch Free",
@@ -7542,6 +9724,13 @@
     "setBonus": "-",
     "defenses": "Base: 290\nMax: 390\nAugmented: 450",
     "resistances": "🔥 5\n💧 5\n⚡ 5\n❄ 20\n🐉 5",
+    "pieces": [
+      "Orion Cap Alpha (head)",
+      "Orion Vest Alpha (chest)",
+      "Orion Vambraces Alpha (gloves)",
+      "Orion Coat Alpha (waist)",
+      "Orion Boots Alpha (legs)"
+    ],
     "skills": [
       "Recovery Up",
       "Flinch Free",
@@ -7569,6 +9758,13 @@
     ],
     "defenses": "Base: 230\nMax: 340\nAugmented: 420",
     "resistances": "🔥 5\n💧 5\n⚡ 5\n❄ 5\n🐉 5",
+    "pieces": [
+      "Aloy's Head Alpha (head)",
+      "Aloy's Body Alpha (chest)",
+      "Aloy's Arms Alpha (gloves)",
+      "Aloy's Torso Alpha (waist)",
+      "Aloy's Leggings Alpha (legs)"
+    ],
     "skills": [
       "Affinity Sliding",
       "Marathon Runner",
@@ -7594,6 +9790,13 @@
     ],
     "defenses": "Base: 320\nMax: 350\nAugmented: 420",
     "resistances": "🔥 5\n💧 5\n⚡ 5\n❄ 5\n🐉 5",
+    "pieces": [
+      "Aloy's Head Gamma (head)",
+      "Aloy's Body Gamma (chest)",
+      "Aloy's Arms Gamma (gloves)",
+      "Aloy's Torso Gamma (waist)",
+      "Aloy's Leggings Gamma (legs)"
+    ],
     "skills": [
       "Critical Boost",
       "Marathon Runner",
@@ -7621,6 +9824,13 @@
     "setBonus": "-",
     "defenses": "Base: 60\nMax: 220\nAugmented: 350",
     "resistances": "🔥 10\n💧 0\n⚡ 25\n❄ -15\n🐉 10",
+    "pieces": [
+      "Ryu's Head (head)",
+      "Ryu's Karate Gi (chest)",
+      "Ryu's Arms (gloves)",
+      "Ryu's Torso (waist)",
+      "Ryu's Legs (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Health Boost",
@@ -7638,6 +9848,13 @@
     ],
     "defenses": "Base: 300\nMax: 360\nAugmented: 430",
     "resistances": "🔥 10\n💧 0\n⚡ 25\n❄ -15\n🐉 10",
+    "pieces": [
+      "Ryu's Head Alpha (head)",
+      "Ryu's Karate Gi Alpha (chest)",
+      "Ryu's Arms Alpha (gloves)",
+      "Ryu's Torso Alpha (waist)",
+      "Ryu's Legs Alpha (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Constitution",
@@ -7666,6 +9883,13 @@
     ],
     "defenses": "Base: 250\nMax: 350\nAugmented: 410",
     "resistances": "🔥 0\n💧 20\n⚡ 0\n❄ 20\n🐉 -10",
+    "pieces": [
+      "Sakura's Head Alpha (head)",
+      "Sakura's Work Uniform Alpha (chest)",
+      "Sakura's Arms Alpha (gloves)",
+      "Sakura's Skirt Alpha (waist)",
+      "Sakura's Legs Alpha (legs)"
+    ],
     "skills": [
       "Attack Boost",
       "Evade Window",
@@ -7694,6 +9918,13 @@
     ],
     "defenses": "Base: 350\nMax: 380\nAugmented: 450",
     "resistances": "🔥 10\n💧 5\n⚡ -10\n❄ -5\n🐉 15",
+    "pieces": [
+      "Geralt's Head Alpha (head)",
+      "Geralt's Body Alpha (chest)",
+      "Geralt's Arms Alpha (gloves)",
+      "Geralt's Torso Alpha (waist)",
+      "Geralt's Legs Alpha (legs)"
+    ],
     "skills": [
       "Recovery Speed",
       "Weakness Exploit",
@@ -7721,6 +9952,13 @@
     "setBonus": "-",
     "defenses": "Base: 350\nMax: 380\nAugmented: 450",
     "resistances": "🔥 -10\n💧 -5\n⚡ 10\n❄ 5\n🐉 15",
+    "pieces": [
+      "Ciri's Head Alpha (head)",
+      "Ciri's Body Alpha (chest)",
+      "Ciri's Arms Alpha (gloves)",
+      "Ciri's Torso Alpha (waist)",
+      "Ciri's Legs Alpha (legs)"
+    ],
     "skills": [
       "Free Elem/Ammo Up",
       "Evade Window",
@@ -7749,6 +9987,9 @@
     "setBonus": "-",
     "defenses": "Base: 158\nMax: 166\nAugmented: 182",
     "resistances": "🔥 1\n💧 1\n⚡ 1\n❄ 1\n🐉 1",
+    "pieces": [
+      "Acrobat Earrings Alpha + (head)"
+    ],
     "skills": [
       "Safe Landing"
     ],
@@ -7763,6 +10004,9 @@
     "setBonus": "-",
     "defenses": "Base: 162\nMax: 168\nAugmented: 180",
     "resistances": "🔥 1\n💧 1\n⚡ 1\n❄ 1\n🐉 1",
+    "pieces": [
+      "Showman Earrings Alpha + (head)"
+    ],
     "skills": [
       "Provoker"
     ],
@@ -7780,6 +10024,13 @@
     ],
     "defenses": "Base: 700\nMax: 780\nAugmented: 890",
     "resistances": "🔥 10\n💧 10\n⚡ 10\n❄ 10\n🐉 10",
+    "pieces": [
+      "Astral Veil Alpha + (head)",
+      "Astral Cloth Alpha + (chest)",
+      "Astral  Scarf Alpha + (gloves)",
+      "Astral Skirt Alpha + (waist)",
+      "Astral Tights Alpha + (legs)"
+    ],
     "skills": [
       "Wide-Range",
       "Critical Boost",
@@ -7805,6 +10056,13 @@
     ],
     "defenses": "Base: 800\nMax: 830\nAugmented: 890",
     "resistances": "🔥 10\n💧 0\n⚡ 10\n❄ 10\n🐉 10",
+    "pieces": [
+      "Banuk Helm Alpha + (head)",
+      "Banuk Mail Alpha + (chest)",
+      "Banuk Arms Alpha + (gloves)",
+      "Banuk Coil Alpha + (waist)",
+      "Banuk Greaves Alpha + (legs)"
+    ],
     "skills": [
       "Focus",
       "Aquatic/Polar Mobility",
@@ -7838,6 +10096,12 @@
     "setBonus": "-",
     "defenses": "Base: 616\nMax: 648\nAugmented: 712",
     "resistances": "🔥 8\n💧 -4\n⚡ 0\n❄ -4\n🐉 -12",
+    "pieces": [
+      "Buff Chest Alpha + (chest)",
+      "Buff Arms Alpha + (gloves)",
+      "Buff Waist Alpha + (waist)",
+      "Buff Legs Alpha + (legs)"
+    ],
     "skills": [
       "Agitator",
       "Fortify",
@@ -7862,6 +10126,9 @@
     "setBonus": "-",
     "defenses": "Base: 138\nMax: 154\nAugmented: 176",
     "resistances": "🔥 -1\n💧 3\n⚡ 0\n❄ 4\n🐉 0",
+    "pieces": [
+      "Duffel Penguin Mask Alpha + (head)"
+    ],
     "skills": [
       "Evade Window"
     ],
@@ -7874,6 +10141,9 @@
     "setBonus": "-",
     "defenses": "Base: 152\nMax: 158\nAugmented: 170",
     "resistances": "🔥 -3\n💧 0\n⚡ 0\n❄ 1\n🐉 5",
+    "pieces": [
+      "Sealed Dragon Cloth Alpha + (head)"
+    ],
     "skills": [
       "Resentment"
     ],
@@ -7887,6 +10157,9 @@
     "setBonus": "-",
     "defenses": "Base: 140\nMax: 156\nAugmented: 178",
     "resistances": "🔥 1\n💧 1\n⚡ 1\n❄ 1\n🐉 5",
+    "pieces": [
+      "Wyverian Ears Alpha + (head)"
+    ],
     "skills": [
       "Mushroomancer",
       "Survival Expert"
@@ -7902,6 +10175,13 @@
     ],
     "defenses": "Base: 660\nMax: 690\nAugmented: 750",
     "resistances": "🔥 -5\n💧 -5\n⚡ 15\n❄ -5\n🐉 10",
+    "pieces": [
+      "Shield-Weaver Head + (head)",
+      "Shield-Weaver Chest + (chest)",
+      "Shield-Weaver Arms + (gloves)",
+      "Shield-Weaver Torso + (waist)",
+      "Shield-Weaver Legs + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Thunder Attack",
@@ -7929,6 +10209,13 @@
     "setBonus": "-",
     "defenses": "Base: 250\nMax: 350\nAugmented: 410",
     "resistances": "🔥 10\n💧 0\n⚡ 0\n❄ 10\n🐉 15",
+    "pieces": [
+      "Defender Helm Alpha (head)",
+      "Defender Mail Alpha (chest)",
+      "Defender Vambraces Alpha (gloves)",
+      "Defender Waist Alpha (waist)",
+      "Defender Greaves Alpha (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Recovery Up",
@@ -7951,6 +10238,13 @@
     "setBonus": "-",
     "defenses": "Base: 250\nMax: 350\nAugmented: 410",
     "resistances": "🔥 10\n💧 0\n⚡ 0\n❄ 10\n🐉 15",
+    "pieces": [
+      "Guardian Helm Alpha + (head)",
+      "Guardian Suit Alpha + (chest)",
+      "Guardian Vambraces Alpha + (gloves)",
+      "Guardian Coil Alpha + (waist)",
+      "Guardian Boots Alpha + (legs)"
+    ],
     "skills": [
       "Health Boost",
       "Recovery Up",
