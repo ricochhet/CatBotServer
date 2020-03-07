@@ -87,8 +87,8 @@ function _searchDropdown(inp, arr) {
     }
     currentFocus = -1;
     a = document.createElement('DIV');
-    a.setAttribute('id', this.id + 'autocomplete-list');
-    a.setAttribute('class', 'autocomplete-items');
+    a.setAttribute('id', this.id + 'dropdown-list');
+    a.setAttribute('class', 'dropdown-items');
     this.parentNode.appendChild(a);
 
     let divList = [];
@@ -115,7 +115,7 @@ function _searchDropdown(inp, arr) {
   });
 
   inp.addEventListener('keydown', function(e) {
-    let x = document.getElementById(this.id + 'autocomplete-list');
+    let x = document.getElementById(this.id + 'dropdown-list');
     if (x) x = x.getElementsByTagName('div');
     if (e.keyCode == 40) {
       currentFocus++;
@@ -131,18 +131,18 @@ function _searchDropdown(inp, arr) {
     removeActive(x);
     if (currentFocus >= x.length) currentFocus = 0;
     if (currentFocus < 0) currentFocus = x.length - 1;
-    x[currentFocus].classList.add('autocomplete-active');
+    x[currentFocus].classList.add('dropdown-active');
     inp.value = x[currentFocus].textContent;
   }
 
   function removeActive(x) {
     for (let i = 0; i < x.length; i++) {
-      x[i].classList.remove('autocomplete-active');
+      x[i].classList.remove('dropdown-active');
     }
   }
 
   function closeAllLists(elmnt) {
-    let x = document.getElementsByClassName('autocomplete-items');
+    let x = document.getElementsByClassName('dropdown-items');
     for (let i = 0; i < x.length; i++) {
       if (elmnt != x[i] && elmnt != inp) {
         x[i].parentNode.removeChild(x[i]);

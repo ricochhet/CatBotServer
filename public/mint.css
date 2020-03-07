@@ -256,7 +256,7 @@ a:hover, button:hover {
         margin-top: 5px;
     }
 
-    .navigation-bar__light.responsive div .autocomplete-items {
+    .navigation-bar__light.responsive div .dropdown-items {
         display: block;
     }
 
@@ -981,12 +981,12 @@ input:checked + .toggle-switch__slider:before {
 /*Dropdown properties*/
 /*********************/
 
-.autocomplete-container {
+.dropdown-container {
     position: relative;
     display: flex;
 }
 
-.autocomplete-items {
+.dropdown-items {
     position: absolute;
     border: var(--light-item-border);
     border-bottom: none;
@@ -997,18 +997,18 @@ input:checked + .toggle-switch__slider:before {
     right: 0;
 }
 
-.autocomplete-items div {
+.dropdown-items div {
     padding: 10px;
     cursor: pointer;
     background-color: var(--bg-color); 
     border-bottom: var(--light-item-border); 
 }
 
-.autocomplete-items div:hover {
+.dropdown-items div:hover {
     background-color: var(--list-item-color); 
 }
 
-.autocomplete-active {
+.dropdown-active {
     background-color: var(--button-fill-color) !important; 
     color: var(--bg-color); 
 }
