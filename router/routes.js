@@ -1,8 +1,8 @@
-const rm = require('./router/RouteManager');
+const rm = require('./RouteManager');
 
-let monsterDB = require('./database/build_def/monsters.json');
+let monsterDB = require('../database/build_def/monsters.json');
 let monsterMap = new Map();
-let monsterHZVDB = require('./database/build_def/monsterhzvs.json');
+let monsterHZVDB = require('../database/build_def/monsterhzvs.json');
 let monsterHZVMap = new Map();
 
 for (const i of Object.keys(monsterDB)) {
@@ -13,49 +13,49 @@ for (const i of Object.keys(monsterHZVDB)) {
   monsterHZVMap.set(i, monsterHZVDB[i]);
 }
 
-let itemDB = require('./database/build_api/items.json');
+let itemDB = require('../database/build_api/items.json');
 let itemMap = new Map();
 
 for (const i of Object.keys(itemDB)) {
   itemMap.set(i, itemDB[i]);
 }
 
-let itemIDDB = require('./database/build_api/itemids.json');
+let itemIDDB = require('../database/build_api/itemids.json');
 let itemIDMap = new Map();
 
 for (const i of Object.keys(itemIDDB)) {
   itemIDMap.set(itemIDDB[i].Name, itemIDDB[i]);
 }
 
-let armorDB = require('./database/build_api/armors.json');
+let armorDB = require('../database/build_api/armors.json');
 let armorMap = new Map();
 
 for (const i of Object.keys(armorDB)) {
   armorMap.set(i, armorDB[i]);
 }
 
-let weaponDB = require('./database/build_api/weapons.json');
+let weaponDB = require('../database/build_api/weapons.json');
 let weaponMap = new Map();
 
 for (const i of Object.keys(weaponDB)) {
   weaponMap.set(i, weaponDB[i]);
 }
 
-let decorationDB = require('./database/build_api/decorations.json');
+let decorationDB = require('../database/build_api/decorations.json');
 let decorationMap = new Map();
 
 for (const i of Object.keys(decorationDB)) {
   decorationMap.set(i, decorationDB[i]);
 }
 
-let skillDB = require('./database/build_api/skills.json');
+let skillDB = require('../database/build_api/skills.json');
 let skillMap = new Map();
 
 for (const i of Object.keys(skillDB)) {
   skillMap.set(i, skillDB[i]);
 }
 
-let questIDDB = require('./database/build_api/questids.json');
+let questIDDB = require('../database/build_api/questids.json');
 
 let monsterArray = [];
 for (let [k, v] of monsterMap) {
@@ -93,7 +93,7 @@ for (let [k, v] of decorationMap) {
   decorationArray.push(decoration.name);
 }
 
-const userAccounts = require('./auth/accounts.json');
+const userAccounts = require('../auth/accounts.json');
 const accounts = new Map();
 for (const i of Object.keys(userAccounts)) {
   accounts.set(i, userAccounts[i]);

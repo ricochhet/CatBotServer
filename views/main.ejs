@@ -14,7 +14,7 @@
   <meta name="theme-color" content="#8fde5d" />
   <meta property="og:url" content="https://mhdb.catbot.xyz/" />
   <meta property="og:title" content="CatBot / MHWorld - Monster Hunter World: Iceborne Database" />
-  <meta property="og:image" content="https://mhdb.catbot.xyz/css/icons/catbot.png" />
+  <meta property="og:image" content="https://mhdb.catbot.xyz/icons/catbot.png" />
   <meta property="og:description"
     content="CatBot is a Discord bot dedicated to providing information on Monster Hunter World: Iceborne, CatBot offers information on monsters, weapons, armors, and more!" />
   <meta name="description"
@@ -30,10 +30,10 @@
     <nav>
       <a class="navigation-bar__light--link" href="https://catbot.xyz">Bot</a>
       <a class="navigation-bar__light--link" href="https://discord.gg/srNyk8G">Support</a>
-      <div class="theme-switch__container">
-        <label class="theme-switch" for="checkbox">
-          <input class="theme-switch__input" type="checkbox" id="checkbox" />
-          <div class="theme-switch__slider theme-switch__round"></div>
+      <div class="toggle-switch__container">
+        <label class="toggle-switch" for="checkbox">
+          <input class="toggle-switch__input" type="checkbox" id="checkbox" />
+          <div class="toggle-switch__slider toggle-switch__round"></div>
         </label>
       </div>
       <form autocomplete="off" id="search-bar" class="form-control__label">
@@ -49,8 +49,8 @@
       </a>
     </nav>
   </div>
-  <div class="page-header__container">
-    <div class="page-header__wrapper--nomargin">
+  <div class="page-header__container--paddedsmall">
+    <div class="page-header__wrapper--paddedsmall">
       <h1><span class="color-catbot">CatBot</span></h1>
       <h1>Monster Hunter: World Database</h1>
       <a class="link-none link-none__blue" href="https://discord.gg/srNyk8G">Discord</a>
@@ -59,6 +59,7 @@
   <div class="page-container__center">
     <div>
       <ul class="list-grouped list-grouped__standard--size">
+        <h2 class="header-bottom">Database</h2>
         <li>
           <div>
             <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/monsters">Monster Database</a>
@@ -115,24 +116,36 @@
     </div>
   </div>
   <div class="page-footer">
-    <p class="page-container__content-paragraph color-dark__muted">Disclaimer: The database is in early access,
-      please expect
-      bugs and other odd issues!</p>
     <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.
       ❤️</p>
   </div>
 </body>
 <script src="../mint.js"></script>
-<script src="../functions.js"></script>
 <script>
-  themeToggle();
   let decorationArray = `<%- decorationArray %>`.split(',');
   let monsterArray = `<%- monsterArray %>`.split(',');
   let weaponArray = `<%- weaponArray %>`.split(',');
   let armorArray = `<%- armorArray %>`.split(',');
   let skillArray = `<%- skillArray %>`.split(',');
   let itemArray = `<%- itemArray %>`.split(',');
-  autoComplete(decorationArray, monsterArray, weaponArray, armorArray, skillArray, itemArray);
+  let combinedArray = [
+    ...decorationArray,
+    ...monsterArray,
+    ...weaponArray,
+    ...armorArray,
+    ...skillArray,
+    ...itemArray
+  ];
+
+  _toggleTheme();
+  _searchCompletion(combinedArray, function (input, finalInput) {
+    if (decorationArray.includes(input)) { window.location.href = `/decorations/${finalInput.split('/').join('+')}`; }
+    if (monsterArray.includes(input)) { window.location.href = `/monsters/${finalInput}`; }
+    if (weaponArray.includes(input)) { window.location.href = `/weapons/${finalInput}`; }
+    if (armorArray.includes(input)) { window.location.href = `/armors/${finalInput}`; }
+    if (skillArray.includes(input)) { window.location.href = `/skills/${finalInput}`; }
+    if (itemArray.includes(input)) { window.location.href = `/items/${finalInput}`; }
+  });
 </script>
 
 </html>

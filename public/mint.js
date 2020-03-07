@@ -1,34 +1,32 @@
-const ripples = document.querySelectorAll('.effect-ripple__container');
-for (let i = 0; i < ripples.length; i++) {
-  ripples[i].addEventListener('mousedown', rippleEffect, false);
+/*****************************/
+/*Search for keywords on page*/
+/*****************************/
+
+function _pageFilter(f) {
+  let input = f;
+  let filter = input.toUpperCase();
+  let ul = document.getElementById('item-container');
+  let li = ul.getElementsByTagName('a');
+
+  for (i = 0; i < li.length; i++) {
+    let a = li[i];
+    txtValue = a.textContent || a.innerText;
+
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      li[i].style.display = '';
+    } else {
+      li[i].style.display = 'none';
+    }
+  }
 }
 
-function rippleEffect(e) {
-  const width = this.clientWidth;
-  const height = this.clientHeight;
-  const rect = this.getBoundingClientRect();
-  const posX = e.clientX - rect.left;
-  const posY = e.clientY - rect.top;
-  const size = Math.max(width, height);
-  const effect = document.createElement('DIV');
+/*************************************/
+/*Toggle between dark and light theme*/
+/*************************************/
 
-  effect.className = 'effect-ripple';
-  effect.style.width = size + 'px';
-  effect.style.height = size + 'px';
-  effect.style.top = posY - size / 2 + 'px';
-  effect.style.left = posX - size / 2 + 'px';
-
-  this.appendChild(effect);
-  const parent = this;
-
-  setTimeout(function() {
-    parent.removeChild(effect);
-  }, 750);
-}
-
-function themeToggle() {
+function _toggleTheme() {
   const toggleSwitch = document.querySelector(
-    '.theme-switch__input[type="checkbox"]'
+    '.toggle-switch__input[type="checkbox"]'
   );
   const currentTheme = localStorage.getItem('theme');
 
@@ -53,7 +51,30 @@ function themeToggle() {
   toggleSwitch.addEventListener('change', switchTheme, false);
 }
 
-function searchAutocomplete(inp, arr) {
+/************************************/
+/*Create an auto completion dropdown*/
+/************************************/
+
+function _searchCompletion(array, _function) {
+  _searchDropdown(document.getElementById('search-input'), array);
+
+  document.getElementById('search-bar').onsubmit = function(e) {
+    e.preventDefault();
+    let input = document.getElementById('search-input').value;
+    let finalInput = input
+      .toLowerCase()
+      .split(' ')
+      .join('');
+
+    _function(input, finalInput);;
+  };
+}
+
+/***********************/
+/*Raw dropdown function*/
+/***********************/
+
+function _searchDropdown(inp, arr) {
   let currentFocus;
   inp.addEventListener('input', function(e) {
     let a,
@@ -133,6 +154,10 @@ function searchAutocomplete(inp, arr) {
     closeAllLists(e.target);
   });
 }
+
+/************************************/
+/*Responsive navigation bar function*/
+/************************************/
 
 function responsiveNavigation() {
   let x = document.getElementById('navigation-bar__light');
