@@ -2,9 +2,10 @@ const Routes = require('./router/routes');
 const commandUtils = require('./database/libraries/commandUtils');
 const dbBuilder = require('./database/dbBuilder');
 
-commandUtils.command(['start'], function() {
+Routes.deploy();
+/*commandUtils.command(['start'], function() {
   Routes.deploy();
-});
+});*/
 
 commandUtils.command(['--build-api', '--i'], function() {
   dbBuilder.genJSON(
