@@ -644,6 +644,11 @@ a:hover, button:hover {
     border-top-right-radius: .25rem;
 }
 
+.list-grouped li:nth-child(2) {
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
 .list-grouped li:last-child {
     margin-bottom: 0;
     border-bottom-right-radius: .25rem;
@@ -885,8 +890,15 @@ a:hover, button:hover {
 }
 
 .table-responsive__img {
-    width: 64px;
-    height: 64px;
+    width: 32px;
+    height: 32px;
+    vertical-align: bottom;
+}
+
+.table-responsive__img--centered {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
 }
 
 .half-width {

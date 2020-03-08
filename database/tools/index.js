@@ -1,5 +1,5 @@
-const chunkParser = require("./chunkParser");
-const chunkUtil = require("./chunkUtils");
+const chunkParser = require("./parser");
+const chunkUtil = require("./utils");
 const commandUtil = require("./libraries/commandUtils");
 
 commandUtil.command(["--convert-db"], function() {

@@ -1,59 +1,59 @@
-const Routes = require('./router/routes');
+const App = require('./router/app');
 const commandUtils = require('./database/libraries/commandUtils');
-const dbBuilder = require('./database/dbBuilder');
+const build = require('./database/build');
 
-Routes.deploy();
-
-commandUtils.command(['--build', '--i'], function() {
-  dbBuilder.genJSON(
-    {
-      delim: ',',
-      input: './database/source_tables/ItemTableFixed - Item.csv',
-      output: './database/build_api/itemids.json'
-    },
-    true
-  );
-
-  dbBuilder.genJSON(
-    {
-      delim: ',',
-      input: './database/source_tables/Quest IDs - Sheet1.csv',
-      output: './database/build_api/questids.json'
-    },
-    true
-  );
-
-  dbBuilder.items('./database/build_api/items.json', true);
-  dbBuilder.armors('./database/build_api/armors.json', true);
-  dbBuilder.armorPieces('./database/build_api/armor_pieces.json', true);
-  dbBuilder.decorations('./database/build_api/decorations.json', true);
-  dbBuilder.skills('./database/build_api/skills.json', true);
-  dbBuilder.db_weapons('./database/build_api/weapons.json', true);
-});
+App.deploy();
 
 commandUtils.command(['--build', '--a'], function() {
-  dbBuilder.genJSON(
+  build.genJSON(
     {
       delim: ',',
       input: './database/source_tables/ItemTableFixed - Item.csv',
-      output: './database/build_bot/itemids.json'
+      output: './database/build/api/itemids.json'
     },
-    false
+    true
   );
 
-  dbBuilder.genJSON(
+  build.genJSON(
     {
       delim: ',',
       input: './database/source_tables/Quest IDs - Sheet1.csv',
-      output: './database/build_bot/questids.json'
+      output: './database/build/api/questids.json'
+    },
+    true
+  );
+
+  build.items('./database/build/api/items.json', true);
+  build.armors('./database/build/api/armors.json', true);
+  build.armorPieces('./database/build/api/armor_pieces.json', true);
+  build.decorations('./database/build/api/decorations.json', true);
+  build.skills('./database/build/api/skills.json', true);
+  build.db_weapons('./database/build/api/weapons.json', true);
+});
+
+commandUtils.command(['--build', '--b'], function() {
+  build.genJSON(
+    {
+      delim: ',',
+      input: './database/source_tables/ItemTableFixed - Item.csv',
+      output: './database/build/bot/itemids.json'
     },
     false
   );
 
-  dbBuilder.items('./database/build_bot/items.json', false);
-  dbBuilder.armors('./database/build_bot/armors.json', false);
-  dbBuilder.armorPieces('./database/build_bot/armor_pieces.json', false);
-  dbBuilder.decorations('./database/build_bot/decorations.json', false);
-  dbBuilder.skills('./database/build_bot/skills.json', false);
-  dbBuilder.db_weapons('./database/build_bot/weapons.json', false);
+  build.genJSON(
+    {
+      delim: ',',
+      input: './database/source_tables/Quest IDs - Sheet1.csv',
+      output: './database/build/bot/questids.json'
+    },
+    false
+  );
+
+  build.items('./database/build/bot/items.json', false);
+  build.armors('./database/build/bot/armors.json', false);
+  build.armorPieces('./database/build/bot/armor_pieces.json', false);
+  build.decorations('./database/build/bot/decorations.json', false);
+  build.skills('./database/build/bot/skills.json', false);
+  build.db_weapons('./database/build/bot/weapons.json', false);
 });

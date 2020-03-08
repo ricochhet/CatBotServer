@@ -26,7 +26,7 @@
 
 <body>
   <div class="navigation-bar__light" id="navigation-bar__light">
-    <h5><img src="../icons/catbot.png" /><a class="navigation-bar__light--link" href="/">CatBot</a></h5>
+    <h5><img src="../icons/catbot.png" alt="CatBot" /><a class="navigation-bar__light--link" href="/">CatBot</a></h5>
     <nav>
       <a class="navigation-bar__light--link" href="https://catbot.xyz">Bot</a>
       <a class="navigation-bar__light--link" href="https://discord.gg/srNyk8G">Support</a>
@@ -59,17 +59,105 @@
 
     <div class="page-container__center">
       <div class="table-responsive">
-        <div class="table-header"> <%- ARMOR_NAME %> Rank <span class="color-dark__muted text-style__small"></span>
+        <div class="table-header"> <img class="table-responsive__img" src="<%- ICON_MAP.get('head') %>"
+            alt="Armor Pieces" alt="Armor" /> <%- ARMOR_NAME %> Pieces <span
+            class="color-dark__muted text-style__small"></span>
         </div>
         <table class="table">
           <thead>
             <tr>
-              <th>Rank</th>
+              <th>Name</th>
+              <th>Type</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td><%- ARMOR_RANK %></td>
+              <% for (let k of ARMOR_PIECES) {%>
+            <tr>
+              <td><%- k.name %></td>
+              <td><%- k.type %></td>
+            </tr>
+            <% } %>
+          </tbody>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="page-container__center">
+      <div class="table-responsive">
+        <div class="table-header"> <img class="table-responsive__img" src="<%- ICON_MAP.get('skills') %>"
+            alt="Armor Skills" /> <%- ARMOR_NAME %> Skills <span class="color-dark__muted text-style__small"></span>
+        </div>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Piece</th>
+              <th>Name</th>
+              <th>Rank</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% for (let k of ARMOR_SKILLS) {%>
+            <tr>
+              <td><%- k.piece %></td>
+              <td><%- k.name %></td>
+              <td><%- k.rank %></td>
+            </tr>
+            <% } %>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="page-container__center">
+      <div class="table-responsive">
+        <div class="table-header"> <img class="table-responsive__img" src="<%- ICON_MAP.get('defense') %>"
+            alt="Armor Defense" /> <%- ARMOR_NAME %> Defense <span class="color-dark__muted text-style__small"></span>
+        </div>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Base Defense</th>
+              <th>Max Defense</th>
+              <th>Augmented Defense</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><%- ARMOR_DEFENSES.base %></td>
+              <td><%- ARMOR_DEFENSES.max %></td>
+              <td><%- ARMOR_DEFENSES.augmented %></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="page-container__center">
+      <div class="table-responsive">
+        <div class="table-header"> <img class="table-responsive__img" src="<%- ICON_MAP.get('element') %>"
+            alt="Armor Resistances" /> <%- ARMOR_NAME %> Resistances <span
+            class="color-dark__muted text-style__small"></span>
+        </div>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Fire</th>
+              <th>Water</th>
+              <th>Thunder</th>
+              <th>Ice</th>
+              <th>Dragon</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><%- ARMOR_RESISTANCES.fire %></td>
+              <td><%- ARMOR_RESISTANCES.water %></td>
+              <td><%- ARMOR_RESISTANCES.thunder %></td>
+              <td><%- ARMOR_RESISTANCES.ice %></td>
+              <td><%- ARMOR_RESISTANCES.dragon %></td>
             </tr>
           </tbody>
         </table>
@@ -77,7 +165,8 @@
     </div>
 
     <div class="table-responsive">
-      <div class="table-header"> <%- ARMOR_NAME %> Set Bonus <span class="color-dark__muted text-style__small"></span>
+      <div class="table-header"> <img class="table-responsive__img" src="<%- ICON_MAP.get('setBonus') %>"
+          alt="Armor Set Bonus" /> <%- ARMOR_NAME %> Set Bonus <span class="color-dark__muted text-style__small"></span>
       </div>
       <table class="table">
         <thead>
@@ -102,106 +191,9 @@
 
   <div class="page-container__center">
     <div class="table-responsive">
-      <div class="table-header"> <%- ARMOR_NAME %> Defense <span class="color-dark__muted text-style__small"></span>
-      </div>
-      <table class="table">
-        <thead>
-          <tr>
-            <th>Base Defense</th>
-            <th>Max Defense</th>
-            <th>Augmented Defense</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><%- ARMOR_DEFENSES.base %></td>
-            <td><%- ARMOR_DEFENSES.max %></td>
-            <td><%- ARMOR_DEFENSES.augmented %></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-
-  <div class="page-container__center">
-    <div class="table-responsive">
-      <div class="table-header"> <%- ARMOR_NAME %> Resistances <span class="color-dark__muted text-style__small"></span>
-      </div>
-      <table class="table">
-        <thead>
-          <tr>
-            <th>Fire</th>
-            <th>Water</th>
-            <th>Thunder</th>
-            <th>Ice</th>
-            <th>Dragon</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><%- ARMOR_RESISTANCES.fire %></td>
-            <td><%- ARMOR_RESISTANCES.water %></td>
-            <td><%- ARMOR_RESISTANCES.thunder %></td>
-            <td><%- ARMOR_RESISTANCES.ice %></td>
-            <td><%- ARMOR_RESISTANCES.dragon %></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-
-  <div class="page-container__center">
-    <div class="table-responsive">
-      <div class="table-header"> <%- ARMOR_NAME %> Pieces <span class="color-dark__muted text-style__small"></span>
-      </div>
-      <table class="table">
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Type</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <% for (let k of ARMOR_PIECES) {%>
-          <tr>
-            <td><%- k.name %></td>
-            <td><%- k.type %></td>
-          </tr>
-          <% } %>
-        </tbody>
-        </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-
-  <div class="page-container__center">
-    <div class="table-responsive">
-      <div class="table-header"> <%- ARMOR_NAME %> Skills <span class="color-dark__muted text-style__small"></span>
-      </div>
-      <table class="table">
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Rank</th>
-          </tr>
-        </thead>
-        <tbody>
-          <% for (let k of ARMOR_SKILLS) {%>
-          <tr>
-            <td><%- k.name %></td>
-            <td><%- k.rank %></td>
-          </tr>
-          <% } %>
-        </tbody>
-      </table>
-    </div>
-  </div>
-
-  <div class="page-container__center">
-    <div class="table-responsive">
-      <div class="table-header"> <%- ARMOR_NAME %> Deco Slots <span class="color-dark__muted text-style__small"></span>
+      <div class="table-header"> <img class="table-responsive__img" src="<%- ICON_MAP.get('slots') %>"
+          alt="Armor Deco Slots" /> <%- ARMOR_NAME %> Deco Slots <span
+          class="color-dark__muted text-style__small"></span>
       </div>
       <table class="table">
         <thead>
@@ -222,6 +214,26 @@
     </div>
   </div>
 
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <img class="table-responsive__img" src="<%- ICON_MAP.get('rank') %>"
+          alt="Armor Rank" /> <%- ARMOR_NAME %> Rank <span class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Rank</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><%- ARMOR_RANK %></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
   <div class="page-footer">
     <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.
       ❤️</p>
@@ -229,23 +241,8 @@
 </body>
 <script src="../mint.js"></script>
 <script>
-  let decorationArray = `<%- decorationArray %>`.split(',');
-  let monsterArray = `<%- monsterArray %>`.split(',');
-  let weaponArray = `<%- weaponArray %>`.split(',');
-  let armorArray = `<%- armorArray %>`.split(',');
-  let skillArray = `<%- skillArray %>`.split(',');
-  let itemArray = `<%- itemArray %>`.split(',');
-  let combinedArray = [
-    ...decorationArray,
-    ...monsterArray,
-    ...weaponArray,
-    ...armorArray,
-    ...skillArray,
-    ...itemArray
-  ];
-
   _toggleTheme();
-  _searchCompletion(combinedArray, function (input, finalInput) {
+  _searchCompletion(`<%- MHW_OBJECTS %>`.split(','), function (input, finalInput) {
     if (decorationArray.includes(input)) { window.location.href = `/decorations/${finalInput.split('/').join('+')}`; }
     if (monsterArray.includes(input)) { window.location.href = `/monsters/${finalInput}`; }
     if (weaponArray.includes(input)) { window.location.href = `/weapons/${finalInput}`; }

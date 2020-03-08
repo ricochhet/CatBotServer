@@ -26,7 +26,7 @@
 
 <body>
   <div class="navigation-bar__light" id="navigation-bar__light">
-    <h5><img src="../icons/catbot.png" /><a class="navigation-bar__light--link" href="/">CatBot</a></h5>
+    <h5><img src="../icons/catbot.png" alt="CatBot" /><a class="navigation-bar__light--link" href="/">CatBot</a></h5>
     <nav>
       <a class="navigation-bar__light--link" href="https://catbot.xyz">Bot</a>
       <a class="navigation-bar__light--link" href="https://discord.gg/srNyk8G">Support</a>
@@ -116,29 +116,13 @@
     </div>
   </div>
   <div class="page-footer">
-    <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.
-      ❤️</p>
+    <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.</p>
   </div>
 </body>
 <script src="../mint.js"></script>
 <script>
-  let decorationArray = `<%- decorationArray %>`.split(',');
-  let monsterArray = `<%- monsterArray %>`.split(',');
-  let weaponArray = `<%- weaponArray %>`.split(',');
-  let armorArray = `<%- armorArray %>`.split(',');
-  let skillArray = `<%- skillArray %>`.split(',');
-  let itemArray = `<%- itemArray %>`.split(',');
-  let combinedArray = [
-    ...decorationArray,
-    ...monsterArray,
-    ...weaponArray,
-    ...armorArray,
-    ...skillArray,
-    ...itemArray
-  ];
-
   _toggleTheme();
-  _searchCompletion(combinedArray, function (input, finalInput) {
+  _searchCompletion(`<%- MHW_OBJECTS %>`.split(','), function (input, finalInput) {
     if (decorationArray.includes(input)) { window.location.href = `/decorations/${finalInput.split('/').join('+')}`; }
     if (monsterArray.includes(input)) { window.location.href = `/monsters/${finalInput}`; }
     if (weaponArray.includes(input)) { window.location.href = `/weapons/${finalInput}`; }
