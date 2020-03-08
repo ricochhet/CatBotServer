@@ -193,6 +193,11 @@ class App {
         let itemID = ['no data provided'];
         if (itemIDMap.has(item.name)) {
           itemID = itemIDMap.get(item.name);
+        } else {
+          itemID = {
+            Id: '-',
+            Type: '-'
+          };
         }
 
         req.render(render, {
@@ -200,6 +205,7 @@ class App {
           ITEM_DESCRIPTION: item.description,
           ITEM_RARITY: item.rarity,
           ITEM_CARRYLIMIT: item.carryLimit,
+          ITEM_BUY: item.buy,
           ITEM_VALUE: item.value,
           ITEM_ID: itemID,
           monsterArray: monsterArray,

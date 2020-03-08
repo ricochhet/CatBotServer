@@ -3,11 +3,8 @@ const commandUtils = require('./database/libraries/commandUtils');
 const dbBuilder = require('./database/dbBuilder');
 
 Routes.deploy();
-/*commandUtils.command(['start'], function() {
-  Routes.deploy();
-});*/
 
-commandUtils.command(['--build-api', '--i'], function() {
+commandUtils.command(['--build', '--i'], function() {
   dbBuilder.genJSON(
     {
       delim: ',',
@@ -31,10 +28,10 @@ commandUtils.command(['--build-api', '--i'], function() {
   dbBuilder.armorPieces('./database/build_api/armor_pieces.json', true);
   dbBuilder.decorations('./database/build_api/decorations.json', true);
   dbBuilder.skills('./database/build_api/skills.json', true);
-  dbBuilder.weapons('./database/build_api/weapons.json', true);
+  dbBuilder.db_weapons('./database/build_api/weapons.json', true);
 });
 
-commandUtils.command(['--build-api', '--a'], function() {
+commandUtils.command(['--build', '--a'], function() {
   dbBuilder.genJSON(
     {
       delim: ',',
@@ -58,5 +55,5 @@ commandUtils.command(['--build-api', '--a'], function() {
   dbBuilder.armorPieces('./database/build_bot/armor_pieces.json', false);
   dbBuilder.decorations('./database/build_bot/decorations.json', false);
   dbBuilder.skills('./database/build_bot/skills.json', false);
-  dbBuilder.weapons('./database/build_bot/weapons.json', false);
+  dbBuilder.db_weapons('./database/build_bot/weapons.json', false);
 });

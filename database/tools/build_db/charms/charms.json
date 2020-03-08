@@ -1,0 +1,1778 @@
+{
+  "poisoncharmi": {
+    "id": 1,
+    "name": "Poison Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "poisoncharmii": {
+    "id": 2,
+    "name": "Poison Charm II",
+    "previous": "Poison Charm I",
+    "rarity": 5
+  },
+  "poisoncharmiii": {
+    "id": 3,
+    "name": "Poison Charm III",
+    "previous": "Poison Charm II",
+    "rarity": 6
+  },
+  "attackcharmi": {
+    "id": 4,
+    "name": "Attack Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "attackcharmii": {
+    "id": 5,
+    "name": "Attack Charm II",
+    "previous": "Attack Charm I",
+    "rarity": 5
+  },
+  "attackcharmiii": {
+    "id": 6,
+    "name": "Attack Charm III",
+    "previous": "Attack Charm II",
+    "rarity": 7
+  },
+  "attackcharmiv": {
+    "id": 235,
+    "name": "Attack Charm IV",
+    "previous": "Attack Charm III",
+    "rarity": 11
+  },
+  "defensecharmi": {
+    "id": 7,
+    "name": "Defense Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "defensecharmii": {
+    "id": 8,
+    "name": "Defense Charm II",
+    "previous": "Defense Charm I",
+    "rarity": 5
+  },
+  "defensecharmiii": {
+    "id": 9,
+    "name": "Defense Charm III",
+    "previous": "Defense Charm II",
+    "rarity": 6
+  },
+  "defensecharmiv": {
+    "id": 236,
+    "name": "Defense Charm IV",
+    "previous": "Defense Charm III",
+    "rarity": 9
+  },
+  "defensecharmv": {
+    "id": 237,
+    "name": "Defense Charm V",
+    "previous": "Defense Charm IV",
+    "rarity": 11
+  },
+  "paralysischarmi": {
+    "id": 10,
+    "name": "Paralysis Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "paralysischarmii": {
+    "id": 11,
+    "name": "Paralysis Charm II",
+    "previous": "Paralysis Charm I",
+    "rarity": 5
+  },
+  "paralysischarmiii": {
+    "id": 12,
+    "name": "Paralysis Charm III",
+    "previous": "Paralysis Charm II",
+    "rarity": 7
+  },
+  "sleepcharmi": {
+    "id": 13,
+    "name": "Sleep Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "sleepcharmii": {
+    "id": 14,
+    "name": "Sleep Charm II",
+    "previous": "Sleep Charm I",
+    "rarity": 5
+  },
+  "sleepcharmiii": {
+    "id": 15,
+    "name": "Sleep Charm III",
+    "previous": "Sleep Charm II",
+    "rarity": 6
+  },
+  "stuncharmi": {
+    "id": 16,
+    "name": "Stun Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "stuncharmii": {
+    "id": 17,
+    "name": "Stun Charm II",
+    "previous": "Stun Charm I",
+    "rarity": 5
+  },
+  "stuncharmiii": {
+    "id": 18,
+    "name": "Stun Charm III",
+    "previous": "Stun Charm II",
+    "rarity": 6
+  },
+  "windproofcharmi": {
+    "id": 19,
+    "name": "Windproof Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "windproofcharmii": {
+    "id": 20,
+    "name": "Windproof Charm II",
+    "previous": "Windproof Charm I",
+    "rarity": 5
+  },
+  "windproofcharmiii": {
+    "id": 21,
+    "name": "Windproof Charm III",
+    "previous": "Windproof Charm II",
+    "rarity": 6
+  },
+  "windproofcharmiv": {
+    "id": 238,
+    "name": "Windproof Charm IV",
+    "previous": "Windproof Charm III",
+    "rarity": 11
+  },
+  "healthcharmi": {
+    "id": 22,
+    "name": "Health Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "healthcharmii": {
+    "id": 23,
+    "name": "Health Charm II",
+    "previous": "Health Charm I",
+    "rarity": 5
+  },
+  "healthcharmiii": {
+    "id": 24,
+    "name": "Health Charm III",
+    "previous": "Health Charm II",
+    "rarity": 7
+  },
+  "recoverycharmi": {
+    "id": 25,
+    "name": "Recovery Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "recoverycharmii": {
+    "id": 26,
+    "name": "Recovery Charm II",
+    "previous": "Recovery Charm I",
+    "rarity": 6
+  },
+  "recoverycharmiii": {
+    "id": 27,
+    "name": "Recovery Charm III",
+    "previous": "Recovery Charm II",
+    "rarity": 7
+  },
+  "firecharmi": {
+    "id": 28,
+    "name": "Fire Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "firecharmii": {
+    "id": 29,
+    "name": "Fire Charm II",
+    "previous": "Fire Charm I",
+    "rarity": 5
+  },
+  "firecharmiii": {
+    "id": 30,
+    "name": "Fire Charm III",
+    "previous": "Fire Charm II",
+    "rarity": 7
+  },
+  "watercharmi": {
+    "id": 31,
+    "name": "Water Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "watercharmii": {
+    "id": 32,
+    "name": "Water Charm II",
+    "previous": "Water Charm I",
+    "rarity": 5
+  },
+  "watercharmiii": {
+    "id": 33,
+    "name": "Water Charm III",
+    "previous": "Water Charm II",
+    "rarity": 7
+  },
+  "thundercharmi": {
+    "id": 34,
+    "name": "Thunder Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "thundercharmii": {
+    "id": 35,
+    "name": "Thunder Charm II",
+    "previous": "Thunder Charm I",
+    "rarity": 5
+  },
+  "thundercharmiii": {
+    "id": 36,
+    "name": "Thunder Charm III",
+    "previous": "Thunder Charm II",
+    "rarity": 7
+  },
+  "blazecharmi": {
+    "id": 37,
+    "name": "Blaze Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "blazecharmii": {
+    "id": 38,
+    "name": "Blaze Charm II",
+    "previous": "Blaze Charm I",
+    "rarity": 6
+  },
+  "blazecharmiii": {
+    "id": 39,
+    "name": "Blaze Charm III",
+    "previous": "Blaze Charm II",
+    "rarity": 7
+  },
+  "blazecharmiv": {
+    "id": 239,
+    "name": "Blaze Charm IV",
+    "previous": "Blaze Charm III",
+    "rarity": 10
+  },
+  "blazecharmv": {
+    "id": 240,
+    "name": "Blaze Charm V",
+    "previous": "Blaze Charm IV",
+    "rarity": 11
+  },
+  "floodcharmi": {
+    "id": 40,
+    "name": "Flood Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "floodcharmii": {
+    "id": 41,
+    "name": "Flood Charm II",
+    "previous": "Flood Charm I",
+    "rarity": 5
+  },
+  "floodcharmiii": {
+    "id": 42,
+    "name": "Flood Charm III",
+    "previous": "Flood Charm II",
+    "rarity": 7
+  },
+  "floodcharmiv": {
+    "id": 241,
+    "name": "Flood Charm IV",
+    "previous": "Flood Charm III",
+    "rarity": 10
+  },
+  "floodcharmv": {
+    "id": 242,
+    "name": "Flood Charm V",
+    "previous": "Flood Charm IV",
+    "rarity": 11
+  },
+  "shockcharmi": {
+    "id": 43,
+    "name": "Shock Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "shockcharmii": {
+    "id": 44,
+    "name": "Shock Charm II",
+    "previous": "Shock Charm I",
+    "rarity": 5
+  },
+  "shockcharmiii": {
+    "id": 45,
+    "name": "Shock Charm III",
+    "previous": "Shock Charm II",
+    "rarity": 7
+  },
+  "shockcharmiv": {
+    "id": 243,
+    "name": "Shock Charm IV",
+    "previous": "Shock Charm III",
+    "rarity": 10
+  },
+  "shockcharmv": {
+    "id": 244,
+    "name": "Shock Charm V",
+    "previous": "Shock Charm IV",
+    "rarity": 11
+  },
+  "venomcharmi": {
+    "id": 46,
+    "name": "Venom Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "venomcharmii": {
+    "id": 47,
+    "name": "Venom Charm II",
+    "previous": "Venom Charm I",
+    "rarity": 6
+  },
+  "venomcharmiii": {
+    "id": 48,
+    "name": "Venom Charm III",
+    "previous": "Venom Charm II",
+    "rarity": 7
+  },
+  "venomcharmiv": {
+    "id": 245,
+    "name": "Venom Charm IV",
+    "previous": "Venom Charm III",
+    "rarity": 11
+  },
+  "immobilizecharmi": {
+    "id": 49,
+    "name": "Immobilize Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "immobilizecharmii": {
+    "id": 50,
+    "name": "Immobilize Charm II",
+    "previous": "Immobilize Charm I",
+    "rarity": 5
+  },
+  "immobilizecharmiii": {
+    "id": 51,
+    "name": "Immobilize Charm III",
+    "previous": "Immobilize Charm II",
+    "rarity": 7
+  },
+  "immobilizecharmiv": {
+    "id": 246,
+    "name": "Immobilize Charm IV",
+    "previous": "Immobilize Charm III",
+    "rarity": 11
+  },
+  "tranqcharmi": {
+    "id": 52,
+    "name": "Tranq Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "tranqcharmii": {
+    "id": 53,
+    "name": "Tranq Charm II",
+    "previous": "Tranq Charm I",
+    "rarity": 5
+  },
+  "tranqcharmiii": {
+    "id": 54,
+    "name": "Tranq Charm III",
+    "previous": "Tranq Charm II",
+    "rarity": 7
+  },
+  "tranqcharmiv": {
+    "id": 247,
+    "name": "Tranq Charm IV",
+    "previous": "Tranq Charm III",
+    "rarity": 11
+  },
+  "kocharmi": {
+    "id": 55,
+    "name": "KO Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "kocharmii": {
+    "id": 56,
+    "name": "KO Charm II",
+    "previous": "KO Charm I",
+    "rarity": 5
+  },
+  "kocharmiii": {
+    "id": 57,
+    "name": "KO Charm III",
+    "previous": "KO Charm II",
+    "rarity": 7
+  },
+  "enervatecharmi": {
+    "id": 58,
+    "name": "Enervate Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "enervatecharmii": {
+    "id": 59,
+    "name": "Enervate Charm II",
+    "previous": "Enervate Charm I",
+    "rarity": 5
+  },
+  "enervatecharmiii": {
+    "id": 60,
+    "name": "Enervate Charm III",
+    "previous": "Enervate Charm II",
+    "rarity": 6
+  },
+  "artillerycharmi": {
+    "id": 61,
+    "name": "Artillery Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "artillerycharmii": {
+    "id": 62,
+    "name": "Artillery Charm II",
+    "previous": "Artillery Charm I",
+    "rarity": 5
+  },
+  "artillerycharmiii": {
+    "id": 63,
+    "name": "Artillery Charm III",
+    "previous": "Artillery Charm II",
+    "rarity": 7
+  },
+  "hungerlesscharmi": {
+    "id": 64,
+    "name": "Hungerless Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "hungerlesscharmii": {
+    "id": 65,
+    "name": "Hungerless Charm II",
+    "previous": "Hungerless Charm I",
+    "rarity": 5
+  },
+  "hungerlesscharmiii": {
+    "id": 66,
+    "name": "Hungerless Charm III",
+    "previous": "Hungerless Charm II",
+    "rarity": 6
+  },
+  "ironsidecharmi": {
+    "id": 67,
+    "name": "Ironside Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "ironsidecharmii": {
+    "id": 68,
+    "name": "Ironside Charm II",
+    "previous": "Ironside Charm I",
+    "rarity": 5
+  },
+  "ironsidecharmiii": {
+    "id": 69,
+    "name": "Ironside Charm III",
+    "previous": "Ironside Charm II",
+    "rarity": 7
+  },
+  "ironsidecharmiv": {
+    "id": 248,
+    "name": "Ironside Charm IV",
+    "previous": "Ironside Charm III",
+    "rarity": 11
+  },
+  "ironsidecharmv": {
+    "id": 249,
+    "name": "Ironside Charm V",
+    "previous": "Ironside Charm IV",
+    "rarity": 12
+  },
+  "friendshipcharmi": {
+    "id": 70,
+    "name": "Friendship Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "friendshipcharmii": {
+    "id": 71,
+    "name": "Friendship Charm II",
+    "previous": "Friendship Charm I",
+    "rarity": 5
+  },
+  "friendshipcharmiii": {
+    "id": 72,
+    "name": "Friendship Charm III",
+    "previous": "Friendship Charm II",
+    "rarity": 7
+  },
+  "friendshipcharmiv": {
+    "id": 250,
+    "name": "Friendship Charm IV",
+    "previous": "Friendship Charm III",
+    "rarity": 11
+  },
+  "friendshipcharmv": {
+    "id": 251,
+    "name": "Friendship Charm V",
+    "previous": "Friendship Charm IV",
+    "rarity": 12
+  },
+  "extensioncharmi": {
+    "id": 73,
+    "name": "Extension Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "extensioncharmii": {
+    "id": 74,
+    "name": "Extension Charm II",
+    "previous": "Extension Charm I",
+    "rarity": 6
+  },
+  "extensioncharmiii": {
+    "id": 75,
+    "name": "Extension Charm III",
+    "previous": "Extension Charm II",
+    "rarity": 7
+  },
+  "glutton'scharmi": {
+    "id": 76,
+    "name": "Glutton's Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "glutton'scharmii": {
+    "id": 77,
+    "name": "Glutton's Charm II",
+    "previous": "Glutton's Charm I",
+    "rarity": 5
+  },
+  "glutton'scharmiii": {
+    "id": 78,
+    "name": "Glutton's Charm III",
+    "previous": "Glutton's Charm II",
+    "rarity": 7
+  },
+  "blessingcharmi": {
+    "id": 79,
+    "name": "Blessing Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "blessingcharmii": {
+    "id": 80,
+    "name": "Blessing Charm II",
+    "previous": "Blessing Charm I",
+    "rarity": 5
+  },
+  "blessingcharmiii": {
+    "id": 81,
+    "name": "Blessing Charm III",
+    "previous": "Blessing Charm II",
+    "rarity": 7
+  },
+  "rallycharmi": {
+    "id": 82,
+    "name": "Rally Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "rallycharmii": {
+    "id": 83,
+    "name": "Rally Charm II",
+    "previous": "Rally Charm I",
+    "rarity": 5
+  },
+  "rallycharmiii": {
+    "id": 84,
+    "name": "Rally Charm III",
+    "previous": "Rally Charm II",
+    "rarity": 7
+  },
+  "rallycharmiv": {
+    "id": 252,
+    "name": "Rally Charm IV",
+    "previous": "Rally Charm III",
+    "rarity": 9
+  },
+  "rallycharmv": {
+    "id": 253,
+    "name": "Rally Charm V",
+    "previous": "Rally Charm IV",
+    "rarity": 10
+  },
+  "botanycharmi": {
+    "id": 85,
+    "name": "Botany Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "botanycharmii": {
+    "id": 86,
+    "name": "Botany Charm II",
+    "previous": "Botany Charm I",
+    "rarity": 5
+  },
+  "botanycharmiii": {
+    "id": 87,
+    "name": "Botany Charm III",
+    "previous": "Botany Charm II",
+    "rarity": 7
+  },
+  "botanycharmiv": {
+    "id": 254,
+    "name": "Botany Charm IV",
+    "previous": "Botany Charm III",
+    "rarity": 9
+  },
+  "geologycharmi": {
+    "id": 88,
+    "name": "Geology Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "geologycharmii": {
+    "id": 89,
+    "name": "Geology Charm II",
+    "previous": "Geology Charm I",
+    "rarity": 5
+  },
+  "geologycharmiii": {
+    "id": 90,
+    "name": "Geology Charm III",
+    "previous": "Geology Charm II",
+    "rarity": 7
+  },
+  "slingercharmi": {
+    "id": 91,
+    "name": "Slinger Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "slingercharmii": {
+    "id": 92,
+    "name": "Slinger Charm II",
+    "previous": "Slinger Charm I",
+    "rarity": 5
+  },
+  "slingercharmiii": {
+    "id": 93,
+    "name": "Slinger Charm III",
+    "previous": "Slinger Charm II",
+    "rarity": 7
+  },
+  "stealthcharmi": {
+    "id": 94,
+    "name": "Stealth Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "stealthcharmii": {
+    "id": 95,
+    "name": "Stealth Charm II",
+    "previous": "Stealth Charm I",
+    "rarity": 6
+  },
+  "stealthcharmiii": {
+    "id": 96,
+    "name": "Stealth Charm III",
+    "previous": "Stealth Charm II",
+    "rarity": 7
+  },
+  "smokecharmi": {
+    "id": 97,
+    "name": "Smoke Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "smokecharmii": {
+    "id": 98,
+    "name": "Smoke Charm II",
+    "previous": "Smoke Charm I",
+    "rarity": 5
+  },
+  "smokecharmiii": {
+    "id": 99,
+    "name": "Smoke Charm III",
+    "previous": "Smoke Charm II",
+    "rarity": 7
+  },
+  "mirewalkercharmi": {
+    "id": 100,
+    "name": "Mirewalker Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "mirewalkercharmii": {
+    "id": 101,
+    "name": "Mirewalker Charm II",
+    "previous": "Mirewalker Charm I",
+    "rarity": 5
+  },
+  "mirewalkercharmiii": {
+    "id": 102,
+    "name": "Mirewalker Charm III",
+    "previous": "Mirewalker Charm II",
+    "rarity": 6
+  },
+  "insectcharmi": {
+    "id": 103,
+    "name": "Insect Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "insectcharmii": {
+    "id": 104,
+    "name": "Insect Charm II",
+    "previous": "Insect Charm I",
+    "rarity": 5
+  },
+  "insectcharmiii": {
+    "id": 105,
+    "name": "Insect Charm III",
+    "previous": "Insect Charm II",
+    "rarity": 6
+  },
+  "intimidatorcharmi": {
+    "id": 106,
+    "name": "Intimidator Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "intimidatorcharmii": {
+    "id": 107,
+    "name": "Intimidator Charm II",
+    "previous": "Intimidator Charm I",
+    "rarity": 5
+  },
+  "intimidatorcharmiii": {
+    "id": 108,
+    "name": "Intimidator Charm III",
+    "previous": "Intimidator Charm II",
+    "rarity": 6
+  },
+  "heavyartillerycharmi": {
+    "id": 109,
+    "name": "Heavy Artillery Charm I",
+    "previous": 0,
+    "rarity": 3
+  },
+  "heavyartillerycharmii": {
+    "id": 110,
+    "name": "Heavy Artillery Charm II",
+    "previous": "Heavy Artillery Charm I",
+    "rarity": 5
+  },
+  "lighteater'scharm": {
+    "id": 111,
+    "name": "Light Eater's Charm",
+    "previous": 0,
+    "rarity": 3
+  },
+  "trackercharm": {
+    "id": 112,
+    "name": "Tracker Charm",
+    "previous": 0,
+    "rarity": 3
+  },
+  "fortificationcharm": {
+    "id": 113,
+    "name": "Fortification Charm",
+    "previous": 0,
+    "rarity": 3
+  },
+  "performer'scharm": {
+    "id": 114,
+    "name": "Performer's Charm",
+    "previous": 0,
+    "rarity": 3
+  },
+  "performer'scharmii": {
+    "id": 255,
+    "name": "Performer's Charm II",
+    "previous": "Performer's Charm",
+    "rarity": 9
+  },
+  "capacitycharm": {
+    "id": 115,
+    "name": "Capacity Charm",
+    "previous": 0,
+    "rarity": 3
+  },
+  "bleedcharmi": {
+    "id": 116,
+    "name": "Bleed Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "bleedcharmii": {
+    "id": 117,
+    "name": "Bleed Charm II",
+    "previous": "Bleed Charm I",
+    "rarity": 6
+  },
+  "bleedcharmiii": {
+    "id": 118,
+    "name": "Bleed Charm III",
+    "previous": "Bleed Charm II",
+    "rarity": 7
+  },
+  "speedhealcharmi": {
+    "id": 119,
+    "name": "Speed Heal Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "speedhealcharmii": {
+    "id": 120,
+    "name": "Speed Heal Charm II",
+    "previous": "Speed Heal Charm I",
+    "rarity": 6
+  },
+  "speedhealcharmiii": {
+    "id": 121,
+    "name": "Speed Heal Charm III",
+    "previous": "Speed Heal Charm II",
+    "rarity": 7
+  },
+  "icecharmi": {
+    "id": 122,
+    "name": "Ice Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "icecharmii": {
+    "id": 123,
+    "name": "Ice Charm II",
+    "previous": "Ice Charm I",
+    "rarity": 6
+  },
+  "icecharmiii": {
+    "id": 124,
+    "name": "Ice Charm III",
+    "previous": "Ice Charm II",
+    "rarity": 7
+  },
+  "blightcharmi": {
+    "id": 125,
+    "name": "Blight Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "blightcharmii": {
+    "id": 126,
+    "name": "Blight Charm II",
+    "previous": "Blight Charm I",
+    "rarity": 7
+  },
+  "blightcharmiii": {
+    "id": 127,
+    "name": "Blight Charm III",
+    "previous": "Blight Charm II",
+    "rarity": 8
+  },
+  "frostcharmi": {
+    "id": 128,
+    "name": "Frost Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "frostcharmii": {
+    "id": 129,
+    "name": "Frost Charm II",
+    "previous": "Frost Charm I",
+    "rarity": 6
+  },
+  "frostcharmiii": {
+    "id": 130,
+    "name": "Frost Charm III",
+    "previous": "Frost Charm II",
+    "rarity": 7
+  },
+  "frostcharmiv": {
+    "id": 256,
+    "name": "Frost Charm IV",
+    "previous": "Frost Charm III",
+    "rarity": 11
+  },
+  "frostcharmv": {
+    "id": 257,
+    "name": "Frost Charm V",
+    "previous": "Frost Charm IV",
+    "rarity": 12
+  },
+  "master'scharmi": {
+    "id": 131,
+    "name": "Master's Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "master'scharmii": {
+    "id": 132,
+    "name": "Master's Charm II",
+    "previous": "Master's Charm I",
+    "rarity": 6
+  },
+  "master'scharmiii": {
+    "id": 133,
+    "name": "Master's Charm III",
+    "previous": "Master's Charm II",
+    "rarity": 7
+  },
+  "master'scharmiv": {
+    "id": 258,
+    "name": "Master's Charm IV",
+    "previous": "Master's Charm III",
+    "rarity": 11
+  },
+  "evasioncharmi": {
+    "id": 134,
+    "name": "Evasion Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "evasioncharmii": {
+    "id": 135,
+    "name": "Evasion Charm II",
+    "previous": "Evasion Charm I",
+    "rarity": 6
+  },
+  "evasioncharmiii": {
+    "id": 136,
+    "name": "Evasion Charm III",
+    "previous": "Evasion Charm II",
+    "rarity": 7
+  },
+  "evasioncharmiv": {
+    "id": 259,
+    "name": "Evasion Charm IV",
+    "previous": "Evasion Charm III",
+    "rarity": 12
+  },
+  "sheathcharmi": {
+    "id": 137,
+    "name": "Sheath Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "sheathcharmii": {
+    "id": 138,
+    "name": "Sheath Charm II",
+    "previous": "Sheath Charm I",
+    "rarity": 6
+  },
+  "sheathcharmiii": {
+    "id": 139,
+    "name": "Sheath Charm III",
+    "previous": "Sheath Charm II",
+    "rarity": 8
+  },
+  "whetstonecharmi": {
+    "id": 140,
+    "name": "Whetstone Charm I",
+    "previous": 0,
+    "rarity": 4
+  },
+  "whetstonecharmii": {
+    "id": 141,
+    "name": "Whetstone Charm II",
+    "previous": "Whetstone Charm I",
+    "rarity": 6
+  },
+  "whetstonecharmiii": {
+    "id": 142,
+    "name": "Whetstone Charm III",
+    "previous": "Whetstone Charm II",
+    "rarity": 7
+  },
+  "blastcharmi": {
+    "id": 143,
+    "name": "Blast Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "blastcharmii": {
+    "id": 144,
+    "name": "Blast Charm II",
+    "previous": "Blast Charm I",
+    "rarity": 6
+  },
+  "blastcharmiii": {
+    "id": 145,
+    "name": "Blast Charm III",
+    "previous": "Blast Charm II",
+    "rarity": 7
+  },
+  "dragoncharmi": {
+    "id": 146,
+    "name": "Dragon Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "dragoncharmii": {
+    "id": 147,
+    "name": "Dragon Charm II",
+    "previous": "Dragon Charm I",
+    "rarity": 6
+  },
+  "dragoncharmiii": {
+    "id": 148,
+    "name": "Dragon Charm III",
+    "previous": "Dragon Charm II",
+    "rarity": 7
+  },
+  "wyrmsbanecharmi": {
+    "id": 149,
+    "name": "Wyrmsbane Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "wyrmsbanecharmii": {
+    "id": 150,
+    "name": "Wyrmsbane Charm II",
+    "previous": "Wyrmsbane Charm I",
+    "rarity": 7
+  },
+  "wyrmsbanecharmiii": {
+    "id": 151,
+    "name": "Wyrmsbane Charm III",
+    "previous": "Wyrmsbane Charm II",
+    "rarity": 8
+  },
+  "wyrmsbanecharmiv": {
+    "id": 260,
+    "name": "Wyrmsbane Charm IV",
+    "previous": "Wyrmsbane Charm III",
+    "rarity": 11
+  },
+  "wyrmsbanecharmv": {
+    "id": 261,
+    "name": "Wyrmsbane Charm V",
+    "previous": "Wyrmsbane Charm IV",
+    "rarity": 12
+  },
+  "demolitioncharmi": {
+    "id": 152,
+    "name": "Demolition Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "demolitioncharmii": {
+    "id": 153,
+    "name": "Demolition Charm II",
+    "previous": "Demolition Charm I",
+    "rarity": 6
+  },
+  "demolitioncharmiii": {
+    "id": 154,
+    "name": "Demolition Charm III",
+    "previous": "Demolition Charm II",
+    "rarity": 8
+  },
+  "demolitioncharmiv": {
+    "id": 262,
+    "name": "Demolition Charm IV",
+    "previous": "Demolition Charm III",
+    "rarity": 11
+  },
+  "drawcharmi": {
+    "id": 155,
+    "name": "Draw Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "drawcharmii": {
+    "id": 156,
+    "name": "Draw Charm II",
+    "previous": "Draw Charm I",
+    "rarity": 7
+  },
+  "specialshotcharmi": {
+    "id": 157,
+    "name": "Special Shot Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "specialshotcharmii": {
+    "id": 158,
+    "name": "Special Shot Charm II",
+    "previous": "Special Shot Charm I",
+    "rarity": 8
+  },
+  "marathoncharmi": {
+    "id": 159,
+    "name": "Marathon Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "marathoncharmii": {
+    "id": 160,
+    "name": "Marathon Charm II",
+    "previous": "Marathon Charm I",
+    "rarity": 8
+  },
+  "marathoncharmiii": {
+    "id": 263,
+    "name": "Marathon Charm III",
+    "previous": "Marathon Charm II",
+    "rarity": 12
+  },
+  "fitnesscharmi": {
+    "id": 161,
+    "name": "Fitness Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "fitnesscharmii": {
+    "id": 162,
+    "name": "Fitness Charm II",
+    "previous": "Fitness Charm I",
+    "rarity": 6
+  },
+  "fitnesscharmiii": {
+    "id": 163,
+    "name": "Fitness Charm III",
+    "previous": "Fitness Charm II",
+    "rarity": 7
+  },
+  "fitnesscharmiv": {
+    "id": 264,
+    "name": "Fitness Charm IV",
+    "previous": "Fitness Charm III",
+    "rarity": 11
+  },
+  "surgecharmi": {
+    "id": 164,
+    "name": "Surge Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "surgecharmii": {
+    "id": 165,
+    "name": "Surge Charm II",
+    "previous": "Surge Charm I",
+    "rarity": 7
+  },
+  "surgecharmiii": {
+    "id": 265,
+    "name": "Surge Charm III",
+    "previous": "Surge Charm II",
+    "rarity": 12
+  },
+  "leapingcharmi": {
+    "id": 166,
+    "name": "Leaping Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "leapingcharmii": {
+    "id": 167,
+    "name": "Leaping Charm II",
+    "previous": "Leaping Charm I",
+    "rarity": 7
+  },
+  "leapingcharmiii": {
+    "id": 266,
+    "name": "Leaping Charm III",
+    "previous": "Leaping Charm II",
+    "rarity": 12
+  },
+  "bombardiercharmi": {
+    "id": 168,
+    "name": "Bombardier Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "bombardiercharmii": {
+    "id": 169,
+    "name": "Bombardier Charm II",
+    "previous": "Bombardier Charm I",
+    "rarity": 6
+  },
+  "bombardiercharmiii": {
+    "id": 170,
+    "name": "Bombardier Charm III",
+    "previous": "Bombardier Charm II",
+    "rarity": 7
+  },
+  "mushroomcharmi": {
+    "id": 171,
+    "name": "Mushroom Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "mushroomcharmii": {
+    "id": 172,
+    "name": "Mushroom Charm II",
+    "previous": "Mushroom Charm I",
+    "rarity": 8
+  },
+  "mushroomcharmiii": {
+    "id": 267,
+    "name": "Mushroom Charm III",
+    "previous": "Mushroom Charm II",
+    "rarity": 11
+  },
+  "awakeningcharmi": {
+    "id": 173,
+    "name": "Awakening Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "awakeningcharmii": {
+    "id": 174,
+    "name": "Awakening Charm II",
+    "previous": "Awakening Charm I",
+    "rarity": 7
+  },
+  "awakeningcharmiii": {
+    "id": 268,
+    "name": "Awakening Charm III",
+    "previous": "Awakening Charm II",
+    "rarity": 12
+  },
+  "handicraftcharmi": {
+    "id": 175,
+    "name": "Handicraft Charm I",
+    "previous": 0,
+    "rarity": 5
+  },
+  "handicraftcharmii": {
+    "id": 176,
+    "name": "Handicraft Charm II",
+    "previous": "Handicraft Charm I",
+    "rarity": 7
+  },
+  "handicraftcharmiii": {
+    "id": 177,
+    "name": "Handicraft Charm III",
+    "previous": "Handicraft Charm II",
+    "rarity": 8
+  },
+  "handicraftcharmiv": {
+    "id": 269,
+    "name": "Handicraft Charm IV",
+    "previous": "Handicraft Charm III",
+    "rarity": 12
+  },
+  "mudpuppycharm": {
+    "id": 178,
+    "name": "Mud Puppy Charm",
+    "previous": 0,
+    "rarity": 5
+  },
+  "trickshotcharm": {
+    "id": 179,
+    "name": "Trickshot Charm",
+    "previous": 0,
+    "rarity": 5
+  },
+  "hunter'slifecharm": {
+    "id": 180,
+    "name": "Hunter's Life Charm",
+    "previous": 0,
+    "rarity": 5
+  },
+  "procurer'scharm": {
+    "id": 181,
+    "name": "Procurer's Charm",
+    "previous": 0,
+    "rarity": 5
+  },
+  "gatherer'scharm": {
+    "id": 182,
+    "name": "Gatherer's Charm",
+    "previous": 0,
+    "rarity": 5
+  },
+  "guardcharmi": {
+    "id": 183,
+    "name": "Guard Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "guardcharmii": {
+    "id": 184,
+    "name": "Guard Charm II",
+    "previous": "Guard Charm I",
+    "rarity": 6
+  },
+  "guardcharmiii": {
+    "id": 185,
+    "name": "Guard Charm III",
+    "previous": "Guard Charm II",
+    "rarity": 7
+  },
+  "earplugscharmi": {
+    "id": 186,
+    "name": "Earplugs Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "earplugscharmii": {
+    "id": 187,
+    "name": "Earplugs Charm II",
+    "previous": "Earplugs Charm I",
+    "rarity": 6
+  },
+  "earplugscharmiii": {
+    "id": 188,
+    "name": "Earplugs Charm III",
+    "previous": "Earplugs Charm II",
+    "rarity": 8
+  },
+  "earplugscharmiv": {
+    "id": 270,
+    "name": "Earplugs Charm IV",
+    "previous": "Earplugs Charm III",
+    "rarity": 12
+  },
+  "tremorcharmi": {
+    "id": 189,
+    "name": "Tremor Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "tremorcharmii": {
+    "id": 190,
+    "name": "Tremor Charm II",
+    "previous": "Tremor Charm I",
+    "rarity": 7
+  },
+  "tremorcharmiii": {
+    "id": 271,
+    "name": "Tremor Charm III",
+    "previous": "Tremor Charm II",
+    "rarity": 12
+  },
+  "exploitercharmi": {
+    "id": 191,
+    "name": "Exploiter Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "exploitercharmii": {
+    "id": 192,
+    "name": "Exploiter Charm II",
+    "previous": "Exploiter Charm I",
+    "rarity": 8
+  },
+  "focuscharmi": {
+    "id": 193,
+    "name": "Focus Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "focuscharmii": {
+    "id": 194,
+    "name": "Focus Charm II",
+    "previous": "Focus Charm I",
+    "rarity": 7
+  },
+  "focuscharmiii": {
+    "id": 272,
+    "name": "Focus Charm III",
+    "previous": "Focus Charm II",
+    "rarity": 12
+  },
+  "breakercharmi": {
+    "id": 195,
+    "name": "Breaker Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "breakercharmii": {
+    "id": 196,
+    "name": "Breaker Charm II",
+    "previous": "Breaker Charm I",
+    "rarity": 8
+  },
+  "breakercharmiii": {
+    "id": 273,
+    "name": "Breaker Charm III",
+    "previous": "Breaker Charm II",
+    "rarity": 11
+  },
+  "furycharmi": {
+    "id": 197,
+    "name": "Fury Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "furycharmii": {
+    "id": 198,
+    "name": "Fury Charm II",
+    "previous": "Fury Charm I",
+    "rarity": 8
+  },
+  "furycharmiii": {
+    "id": 274,
+    "name": "Fury Charm III",
+    "previous": "Fury Charm II",
+    "rarity": 11
+  },
+  "furycharmiv": {
+    "id": 275,
+    "name": "Fury Charm IV",
+    "previous": "Fury Charm III",
+    "rarity": 12
+  },
+  "gritcharmi": {
+    "id": 199,
+    "name": "Grit Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "gritcharmii": {
+    "id": 200,
+    "name": "Grit Charm II",
+    "previous": "Grit Charm I",
+    "rarity": 7
+  },
+  "gritcharmiii": {
+    "id": 276,
+    "name": "Grit Charm III",
+    "previous": "Grit Charm II",
+    "rarity": 11
+  },
+  "gritcharmiv": {
+    "id": 277,
+    "name": "Grit Charm IV",
+    "previous": "Grit Charm III",
+    "rarity": 12
+  },
+  "maintenancecharmi": {
+    "id": 201,
+    "name": "Maintenance Charm I",
+    "previous": 0,
+    "rarity": 6
+  },
+  "maintenancecharmii": {
+    "id": 202,
+    "name": "Maintenance Charm II",
+    "previous": "Maintenance Charm I",
+    "rarity": 7
+  },
+  "maintenancecharmiii": {
+    "id": 203,
+    "name": "Maintenance Charm III",
+    "previous": "Maintenance Charm II",
+    "rarity": 8
+  },
+  "powercharmi": {
+    "id": 204,
+    "name": "Power Charm I",
+    "previous": 0,
+    "rarity": 7
+  },
+  "powercharmii": {
+    "id": 205,
+    "name": "Power Charm II",
+    "previous": "Power Charm I",
+    "rarity": 8
+  },
+  "powercharmiii": {
+    "id": 278,
+    "name": "Power Charm III",
+    "previous": "Power Charm II",
+    "rarity": 11
+  },
+  "powercharmiv": {
+    "id": 279,
+    "name": "Power Charm IV",
+    "previous": "Power Charm III",
+    "rarity": 12
+  },
+  "challengercharmi": {
+    "id": 206,
+    "name": "Challenger Charm I",
+    "previous": 0,
+    "rarity": 7
+  },
+  "challengercharmii": {
+    "id": 207,
+    "name": "Challenger Charm II",
+    "previous": "Challenger Charm I",
+    "rarity": 8
+  },
+  "challengercharmiii": {
+    "id": 280,
+    "name": "Challenger Charm III",
+    "previous": "Challenger Charm II",
+    "rarity": 11
+  },
+  "challengercharmiv": {
+    "id": 281,
+    "name": "Challenger Charm IV",
+    "previous": "Challenger Charm III",
+    "rarity": 12
+  },
+  "unscathedcharmi": {
+    "id": 208,
+    "name": "Unscathed Charm I",
+    "previous": 0,
+    "rarity": 7
+  },
+  "unscathedcharmii": {
+    "id": 209,
+    "name": "Unscathed Charm II",
+    "previous": "Unscathed Charm I",
+    "rarity": 8
+  },
+  "mightycharmi": {
+    "id": 210,
+    "name": "Mighty Charm I",
+    "previous": 0,
+    "rarity": 7
+  },
+  "mightycharmii": {
+    "id": 211,
+    "name": "Mighty Charm II",
+    "previous": "Mighty Charm I",
+    "rarity": 8
+  },
+  "impactcharmi": {
+    "id": 212,
+    "name": "Impact Charm I",
+    "previous": 0,
+    "rarity": 7
+  },
+  "impactcharmii": {
+    "id": 213,
+    "name": "Impact Charm II",
+    "previous": "Impact Charm I",
+    "rarity": 8
+  },
+  "impactcharmiii": {
+    "id": 282,
+    "name": "Impact Charm III",
+    "previous": "Impact Charm II",
+    "rarity": 11
+  },
+  "miasmacharmi": {
+    "id": 214,
+    "name": "Miasma Charm I",
+    "previous": 0,
+    "rarity": 7
+  },
+  "miasmacharmii": {
+    "id": 215,
+    "name": "Miasma Charm II",
+    "previous": "Miasma Charm I",
+    "rarity": 7
+  },
+  "miasmacharmiii": {
+    "id": 216,
+    "name": "Miasma Charm III",
+    "previous": "Miasma Charm II",
+    "rarity": 8
+  },
+  "normalshotscharm": {
+    "id": 217,
+    "name": "Normal Shots Charm",
+    "previous": 0,
+    "rarity": 7
+  },
+  "normalshotscharmii": {
+    "id": 283,
+    "name": "Normal Shots Charm II",
+    "previous": "Normal Shots Charm",
+    "rarity": 11
+  },
+  "clearmindcharm": {
+    "id": 218,
+    "name": "Clearmind Charm",
+    "previous": 0,
+    "rarity": 7
+  },
+  "rider'scharm": {
+    "id": 219,
+    "name": "Rider's Charm",
+    "previous": 0,
+    "rarity": 7
+  },
+  "surveyor'scharm": {
+    "id": 220,
+    "name": "Surveyor's Charm",
+    "previous": 0,
+    "rarity": 7
+  },
+  "criticalcharmi": {
+    "id": 221,
+    "name": "Critical Charm I",
+    "previous": 0,
+    "rarity": 8
+  },
+  "criticalcharmii": {
+    "id": 284,
+    "name": "Critical Charm II",
+    "previous": "Critical Charm I",
+    "rarity": 12
+  },
+  "invigoratecharmi": {
+    "id": 222,
+    "name": "Invigorate Charm I",
+    "previous": 0,
+    "rarity": 8
+  },
+  "invigoratecharmii": {
+    "id": 223,
+    "name": "Invigorate Charm II",
+    "previous": "Invigorate Charm I",
+    "rarity": 8
+  },
+  "invigoratecharmiii": {
+    "id": 285,
+    "name": "Invigorate Charm III",
+    "previous": "Invigorate Charm II",
+    "rarity": 11
+  },
+  "penetrationcharm": {
+    "id": 224,
+    "name": "Penetration Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "penetrationcharmii": {
+    "id": 286,
+    "name": "Penetration Charm II",
+    "previous": "Penetration Charm",
+    "rarity": 11
+  },
+  "dispersalcharm": {
+    "id": 225,
+    "name": "Dispersal Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "dispersalcharmii": {
+    "id": 287,
+    "name": "Dispersal Charm II",
+    "previous": "Dispersal Charm",
+    "rarity": 11
+  },
+  "poisoncoatingcharm": {
+    "id": 226,
+    "name": "Poison Coating Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "paracoatingcharm": {
+    "id": 227,
+    "name": "Para Coating Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "sleepcoatingcharm": {
+    "id": 228,
+    "name": "Sleep Coating Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "blastcoatingcharm": {
+    "id": 229,
+    "name": "Blast Coating Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "geomancycharm": {
+    "id": 230,
+    "name": "Geomancy Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "galecharm": {
+    "id": 231,
+    "name": "Gale Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "wyrmslayercharm": {
+    "id": 232,
+    "name": "Wyrmslayer Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "bulwarkcharm": {
+    "id": 233,
+    "name": "Bulwark Charm",
+    "previous": 0,
+    "rarity": 8
+  },
+  "guardiancharmi": {
+    "id": 288,
+    "name": "Guardian Charm I",
+    "previous": 0,
+    "rarity": 9
+  },
+  "guardiancharmii": {
+    "id": 289,
+    "name": "Guardian Charm II",
+    "previous": "Guardian Charm I",
+    "rarity": 10
+  },
+  "guardiancharmiii": {
+    "id": 290,
+    "name": "Guardian Charm III",
+    "previous": "Guardian Charm II",
+    "rarity": 12
+  },
+  "phoenixcharmi": {
+    "id": 291,
+    "name": "Phoenix Charm I",
+    "previous": 0,
+    "rarity": 11
+  },
+  "phoenixcharmii": {
+    "id": 292,
+    "name": "Phoenix Charm II",
+    "previous": "Phoenix Charm I",
+    "rarity": 12
+  },
+  "adamantinecharm": {
+    "id": 293,
+    "name": "Adamantine Charm",
+    "previous": 0,
+    "rarity": 11
+  },
+  "razorsharpcharm": {
+    "id": 294,
+    "name": "Razor Sharp Charm",
+    "previous": 0,
+    "rarity": 11
+  },
+  "sealer'scharm": {
+    "id": 295,
+    "name": "Sealer's Charm",
+    "previous": 0,
+    "rarity": 11
+  },
+  "gutsycharm": {
+    "id": 296,
+    "name": "Gutsy Charm",
+    "previous": 0,
+    "rarity": 11
+  },
+  "fairwindcharm": {
+    "id": 234,
+    "name": "Fair Wind Charm",
+    "previous": 0,
+    "rarity": 3
+  }
+}

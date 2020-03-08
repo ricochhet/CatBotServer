@@ -1,0 +1,1902 @@
+[
+ {
+  "base_name_en": "Defender Powerbow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Defender Powerbow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Defender Powerbow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Defender Powerbow IV",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Defender Powerbow V",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Iron Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Iron Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Iron Bow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Steel Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Steel Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Steel Bow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Alloy Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Alloy Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dragon Perforator I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dragon Perforator II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dragon Perforator III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Usurper's Rumble",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Usurper's Rumble+",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Despot's Earlybolt",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Nergal Whisper",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Doom's Shaft",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Ruinous Doom",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Kulu Arrow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Kulu Arrow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Kulu Arrow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Archer's Dance I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Archer's Dance II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Archer's Dance III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Alqaws al-Nasr I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Alqaws al-Nasr II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Rex Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Rex Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Accursed Arc",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dios Flier",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Tsali Flier",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Brazencord",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Gigacles",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Gigacles+",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Gigantomachy",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Princess Arrow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Princess Arrow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Princess Arrow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Princess Arrow IV",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Rosen Arrow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Lunatic Arrow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Rathslinger I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Rathslinger II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Rathslinger III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Rathslinger IV",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Azure Mightbow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Silver Wrathbow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Aqua Arrow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Aqua Arrow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Aqua Arrow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Water Shot I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Water Shot II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Water Shot III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Water Shot IV",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Laguna Shot I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Laguna Shot II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Icicle Blizzard I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Icicle Blizzard II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hidden Bow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hidden Bow+",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Night Flight",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Glacial Arrow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Glacial Arrow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Snowfletcher",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Legia Snowfletcher",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Legia Snowfletcher+",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hoarcry Snowfletcher",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Mist Glacia",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Bow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Stoutbow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Stoutbow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Stoutbow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Proudbow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Proudbow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Bravebow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Bravebow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hunter's Bravebow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Iceflinger",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Alluring Evelia",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Mammoth Greatbow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Mammoth Greatbow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Glavenus Arrow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Glavenus Arrow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Acidic Arrow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Acidic Arrow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Hazak Velos I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hazak Velos II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Deathbow Vaal Velos",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Hydra Planula",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Black Planula",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Diablos Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Diablos Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Diablos Coilbender",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Galebender",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Cera Coilbender",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Cera Coilbender+",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Cera Cyclord",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Blooming Arch I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Blooming Arch II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Blooming Arch III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Datura String I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Datura String II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Datura String III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Datura Squall I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Datura Squall II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Nightmare String I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Nightmare String II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Blazing Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Blazing Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Anja Arch I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Anja Arch II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Anja Arch III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Anjanath Flamebow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Anjanath Flamebow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Fulguring Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Fulguring Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Pulsar Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Pulsar Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Pulsar Bow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Kadachi Strikebow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Flying Kadachi Strikebow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Flying Kadachi Strikebow+",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Thundering Strikebow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Fellbow Crimson Hail",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Fellbow Crimson Hail+",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Fellbow Crimson Storm",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dragonbone Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dragonbone Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dragonbone Bow III",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dragonseal Aldbow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dragonseal Aldbow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Dawning Insight",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Blacksteel Bow I",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Blacksteel Bow II",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Icesteel Bow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Daora's Sagittarii",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Daora's Toxotes",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Xeno Metora",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Cross Hunter's Bow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Great Hunter's Bow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Neo Hunter Bow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Insurgent's Bow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Villainous Brace",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Fate's Thread",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Empress Arrow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Empress Arrow \"\"Blaze\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Soulfire Arch \"\"Blaze\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Empress Arrow \"\"Ruin\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Soulfire Arch \"\"Ruin\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Empress Arrow \"\"Styx\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Gold Water Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Gold Thunder Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Gold Blast Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Thief Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Spew Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Spark Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Rage Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Queen Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Stream Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Decay Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "King Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Horn Gold Piercer",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Thief\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Spew\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Spark\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Rage\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Queen\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Stream\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Decay\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"King\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Horn\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Water\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Thunder\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Blast\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Fire\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Spark\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Stream\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"King\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Decay\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Water\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Blast\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "\"Soulfire Arch \"\"Styx\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Guild Palace Arc",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Royal North Wing",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ }
+]

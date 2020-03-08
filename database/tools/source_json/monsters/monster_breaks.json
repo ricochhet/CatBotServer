@@ -1,0 +1,2081 @@
+[
+ {
+  "base_name_en": "Great Jagras",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 300,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Great Jagras",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Great Jagras",
+  "part_en": "Body (Inflated)",
+  "part_ja": 0,
+  "flinch": 120,
+  "wound": 360,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Great Jagras",
+  "part_en": "Forelegs",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 210,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Great Jagras",
+  "part_en": "Legs",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Great Jagras",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 270,
+  "wound": 0,
+  "sever": 0,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Kulu-Ya-Ku",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 180,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Kulu-Ya-Ku",
+  "part_en": "Forearms",
+  "part_ja": 0,
+  "flinch": 160,
+  "wound": 160,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Kulu-Ya-Ku",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Kulu-Ya-Ku",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 160,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Kulu-Ya-Ku",
+  "part_en": "Rock",
+  "part_ja": 0,
+  "flinch": 0,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Pukei-Pukei",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 360,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Pukei-Pukei",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Pukei-Pukei",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 210,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Pukei-Pukei",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 210,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Pukei-Pukei",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Pukei-Pukei",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Pukei-Pukei",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 220,
+  "wound": 0,
+  "sever": 280,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 200,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Head (Mud)",
+  "part_ja": 0,
+  "flinch": 25,
+  "wound": 25,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Body (Mud)",
+  "part_ja": 0,
+  "flinch": 25,
+  "wound": 25,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Forearms",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 180,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Forearms (Mud)",
+  "part_ja": 0,
+  "flinch": 25,
+  "wound": 25,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 120,
+  "wound": 120,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Left Leg (Mud)",
+  "part_ja": 0,
+  "flinch": 25,
+  "wound": 25,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 120,
+  "wound": 120,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Right Leg (Mud)",
+  "part_ja": 0,
+  "flinch": 25,
+  "wound": 25,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 450,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Barroth",
+  "part_en": "Tail (Mud)",
+  "part_ja": 0,
+  "flinch": 25,
+  "wound": 25,
+  "sever": 0,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 400,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Head (Mud)",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 100,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Body (Mud)",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 300,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 480,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Left Leg (Mud)",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 200,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 480,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Right Leg (Mud)",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 200,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Jyuratodus",
+  "part_en": "Tail (Mud)",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 100,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Tobi-Kadachi",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 400,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Tobi-Kadachi",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Tobi-Kadachi",
+  "part_en": "Back",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 100,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Tobi-Kadachi",
+  "part_en": "Forelegs",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 200,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Tobi-Kadachi",
+  "part_en": "Hindlegs",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Tobi-Kadachi",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 160,
+  "wound": 640,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Anjanath",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 750,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Anjanath",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Anjanath",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 80,
+  "wound": 240,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Anjanath",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 80,
+  "wound": 240,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Anjanath",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 0,
+  "sever": 350,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Rathian",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 480,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Rathian",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Rathian",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 180,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Rathian",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 180,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Rathian",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Rathian",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Rathian",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 300,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Tzitzi-Ya-Ku",
+  "part_en": "Antennae",
+  "part_ja": 0,
+  "flinch": 280,
+  "wound": 560,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Tzitzi-Ya-Ku",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 160,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Tzitzi-Ya-Ku",
+  "part_en": "Forearms",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Tzitzi-Ya-Ku",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 220,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Tzitzi-Ya-Ku",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Paolumu",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Paolumu",
+  "part_en": "Neck Pouch",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 500,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Paolumu",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Paolumu",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Paolumu",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Paolumu",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 150,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Paolumu",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 150,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Paolumu",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 250,
+  "wound": 250,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Great Girros",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 420,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Great Girros",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 360,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Great Girros",
+  "part_en": "Forearms",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 240,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Great Girros",
+  "part_en": "Legs",
+  "part_ja": 0,
+  "flinch": 270,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Great Girros",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 0,
+  "sever": 270,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Head Bone",
+  "part_ja": 0,
+  "flinch": 50,
+  "wound": 100,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Back Bone",
+  "part_ja": 0,
+  "flinch": 40,
+  "wound": 80,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Left Hindleg",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Left Hindleg Bone",
+  "part_ja": 0,
+  "flinch": 20,
+  "wound": 40,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Right Hindleg",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Right Hindleg Bone",
+  "part_ja": 0,
+  "flinch": 20,
+  "wound": 40,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Radobaan",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 175,
+  "wound": 0,
+  "sever": 350,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Legiana",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 420,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Legiana",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Legiana",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 210,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Legiana",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 210,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Legiana",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Legiana",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Legiana",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 270,
+  "wound": 0,
+  "sever": 270,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Odogaron",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 600,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Odogaron",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 450,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Odogaron",
+  "part_en": "Forearms",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 240,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Odogaron",
+  "part_en": "Legs",
+  "part_ja": 0,
+  "flinch": 270,
+  "wound": 270,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Odogaron",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 270,
+  "wound": 270,
+  "sever": 540,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Rathalos",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 480,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Rathalos",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Rathalos",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 220,
+  "wound": 220,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Rathalos",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 220,
+  "wound": 220,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Rathalos",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 190,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Rathalos",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 190,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Rathalos",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 200,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Diablos",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Diablos",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 600,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Diablos",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 150,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Diablos",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Diablos",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Diablos",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Diablos",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 0,
+  "sever": 500,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Kirin",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Kirin",
+  "part_en": "Upper Body",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Kirin",
+  "part_en": "Lower Body",
+  "part_ja": 0,
+  "flinch": 260,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 400,
+  "wound": 400,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 800,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Chest",
+  "part_ja": 0,
+  "flinch": 500,
+  "wound": 1000,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Left Foreleg",
+  "part_ja": 0,
+  "flinch": 1000,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Right Foreleg",
+  "part_ja": 0,
+  "flinch": 1000,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Left Hindleg",
+  "part_ja": 0,
+  "flinch": 1000,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Right Hindleg",
+  "part_ja": 0,
+  "flinch": 1000,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 1000,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Shell",
+  "part_ja": 0,
+  "flinch": 1500,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Exhaust Organ (Small)",
+  "part_ja": 0,
+  "flinch": 1200,
+  "wound": 1200,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Exhaust Organ (Large)",
+  "part_ja": 0,
+  "flinch": 1500,
+  "wound": 1500,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Zorah Magdaros",
+  "part_en": "Weak Shell",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 100,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Dodogama",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 750,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Dodogama",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Dodogama",
+  "part_en": "Forelegs",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 210,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Dodogama",
+  "part_en": "Legs",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Dodogama",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 0,
+  "sever": 270,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Pink Rathian",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 480,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Pink Rathian",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Pink Rathian",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 180,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Pink Rathian",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 180,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Pink Rathian",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Pink Rathian",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 210,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Pink Rathian",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 400,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Bazelgeuse",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 600,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Bazelgeuse",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 320,
+  "wound": 320,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Bazelgeuse",
+  "part_en": "Legs",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Bazelgeuse",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 180,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Bazelgeuse",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 180,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Bazelgeuse",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 280,
+  "wound": 0,
+  "sever": 500,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Deviljho",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 350,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Deviljho",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 400,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Deviljho",
+  "part_en": "Chest",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 100,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Deviljho",
+  "part_en": "Lower Body",
+  "part_ja": 0,
+  "flinch": 400,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Deviljho",
+  "part_en": "Arms",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Deviljho",
+  "part_en": "Legs",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Deviljho",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 0,
+  "sever": 540,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Lavasioth",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 600,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Lavasioth",
+  "part_en": "Back",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 600,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Lavasioth",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Lavasioth",
+  "part_en": "Left Foot",
+  "part_ja": 0,
+  "flinch": 120,
+  "wound": 480,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Lavasioth",
+  "part_en": "Right Foot",
+  "part_ja": 0,
+  "flinch": 120,
+  "wound": 480,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Lavasioth",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 400,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Uragaan",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 250,
+  "wound": 250,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Uragaan",
+  "part_en": "Neck",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 200,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Uragaan",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 500,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Uragaan",
+  "part_en": "Forearms",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Uragaan",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 260,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Uragaan",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 260,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Uragaan",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 120,
+  "wound": 120,
+  "sever": 120,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Azure Rathalos",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 240,
+  "wound": 480,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Azure Rathalos",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Azure Rathalos",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 220,
+  "wound": 220,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Azure Rathalos",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 220,
+  "wound": 220,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Azure Rathalos",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 190,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Azure Rathalos",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 190,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Azure Rathalos",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 200,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Black Diablos",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 400,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Black Diablos",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 300,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Black Diablos",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Black Diablos",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Black Diablos",
+  "part_en": "Left Leg",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Black Diablos",
+  "part_en": "Right Leg",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Black Diablos",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 0,
+  "sever": 500,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Horns",
+  "part_ja": 0,
+  "flinch": 130,
+  "wound": 280,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 190,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 450,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Left Foreleg",
+  "part_ja": 0,
+  "flinch": 280,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Right Foreleg",
+  "part_ja": 0,
+  "flinch": 280,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Left Hindleg",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Right Hindleg",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Left Wing",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Right Wing",
+  "part_ja": 0,
+  "flinch": 180,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Nergigante",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 220,
+  "wound": 0,
+  "sever": 450,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Teostra",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Teostra",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 400,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Teostra",
+  "part_en": "Forelegs",
+  "part_ja": 0,
+  "flinch": 280,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Teostra",
+  "part_en": "Hindlegs",
+  "part_ja": 0,
+  "flinch": 340,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Teostra",
+  "part_en": "Wings",
+  "part_ja": 0,
+  "flinch": 280,
+  "wound": 280,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Teostra",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 330,
+  "wound": 0,
+  "sever": 330,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Lunastra",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Lunastra",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 400,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Lunastra",
+  "part_en": "Forelegs",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Lunastra",
+  "part_en": "Hindlegs",
+  "part_ja": 0,
+  "flinch": 280,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Lunastra",
+  "part_en": "Wings",
+  "part_ja": 0,
+  "flinch": 280,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Lunastra",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 250,
+  "wound": 0,
+  "sever": 500,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Kushala Daora",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Kushala Daora",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Kushala Daora",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 140,
+  "wound": 0,
+  "sever": 400,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Kushala Daora",
+  "part_en": "Left Legs",
+  "part_ja": 0,
+  "flinch": 120,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Kushala Daora",
+  "part_en": "Right Legs",
+  "part_ja": 0,
+  "flinch": 120,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Kushala Daora",
+  "part_en": "Wings",
+  "part_ja": 0,
+  "flinch": 100,
+  "wound": 200,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 900,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Chest",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 600,
+  "wound": 600,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 200,
+  "wound": 0,
+  "sever": 400,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Left Foreleg",
+  "part_ja": 0,
+  "flinch": 130,
+  "wound": 130,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Right Foreleg",
+  "part_ja": 0,
+  "flinch": 130,
+  "wound": 130,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Left Hindleg",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Right Hindleg",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Vaal Hazak",
+  "part_en": "Wings",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 400,
+  "wound": 800,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Neck",
+  "part_ja": 0,
+  "flinch": 400,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 800,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Chest",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Left Foreleg",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 600,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Right Foreleg",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 600,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Left Hindleg",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Right Hindleg",
+  "part_ja": 0,
+  "flinch": 150,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Wings",
+  "part_ja": 0,
+  "flinch": 300,
+  "wound": 600,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Xeno'jiiva",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 350,
+  "wound": 0,
+  "sever": 1050,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Behemoth",
+  "part_en": "Horns",
+  "part_ja": 0,
+  "flinch": 0,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Behemoth",
+  "part_en": "Head",
+  "part_ja": 0,
+  "flinch": 0,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ },
+ {
+  "base_name_en": "Behemoth",
+  "part_en": "Body",
+  "part_ja": 0,
+  "flinch": 0,
+  "wound": 0,
+  "sever": 0,
+  "extract": "green"
+ },
+ {
+  "base_name_en": "Behemoth",
+  "part_en": "Forearms",
+  "part_ja": 0,
+  "flinch": 0,
+  "wound": 0,
+  "sever": 0,
+  "extract": "red"
+ },
+ {
+  "base_name_en": "Behemoth",
+  "part_en": "Hindlegs",
+  "part_ja": 0,
+  "flinch": 0,
+  "wound": 0,
+  "sever": 0,
+  "extract": "white"
+ },
+ {
+  "base_name_en": "Behemoth",
+  "part_en": "Tail",
+  "part_ja": 0,
+  "flinch": 0,
+  "wound": 0,
+  "sever": 0,
+  "extract": "orange"
+ }
+]

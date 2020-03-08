@@ -1,0 +1,6333 @@
+{
+  "antidotejewel1": {
+    "id": 1,
+    "name": "Antidote Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Reduces the number of times you take poison damage.",
+        "level": 1,
+        "name": "Poison Resistance"
+      }
+    ]
+  },
+  "geologyjewel1": {
+    "id": 2,
+    "name": "Geology Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Allows you to gather one extra time from bonepiles.",
+        "level": 1,
+        "name": "Geologist"
+      }
+    ]
+  },
+  "heavyartilleryjewel1": {
+    "id": 3,
+    "name": "Heavy Artillery Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Firepower +50%",
+        "level": 1,
+        "name": "Heavy Artillery"
+      }
+    ]
+  },
+  "hungerlessjewel1": {
+    "id": 4,
+    "name": "Hungerless Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Extends the time until your stamina cap decreases by 50%.",
+        "level": 1,
+        "name": "Hunger Resistance"
+      }
+    ]
+  },
+  "satiatedjewel1": {
+    "id": 5,
+    "name": "Satiated Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Activates 25% of the time.",
+        "level": 1,
+        "name": "Free Meal"
+      }
+    ]
+  },
+  "protectionjewel1": {
+    "id": 6,
+    "name": "Protection Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "meowsterjewel1": {
+    "id": 7,
+    "name": "Meowster Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Increases Palico attack power and defense by 5%.",
+        "level": 1,
+        "name": "Palico Rally"
+      }
+    ]
+  },
+  "botanyjewel1": {
+    "id": 8,
+    "name": "Botany Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "One extra consumable herb item per gather.",
+        "level": 1,
+        "name": "Botanist"
+      }
+    ]
+  },
+  "tiptoejewel1": {
+    "id": 9,
+    "name": "Tip Toe Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Makes it slightly easier for monsters to lose sight of you.",
+        "level": 1,
+        "name": "Stealth"
+      }
+    ]
+  },
+  "flightjewel2": {
+    "id": 10,
+    "name": "Flight Jewel 2",
+    "slot": 2,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Jumping attack power +30%",
+        "level": 1,
+        "name": "Airborne"
+      }
+    ]
+  },
+  "mirewalkerjewel1": {
+    "id": 12,
+    "name": "Mirewalker Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Prevents lowered movement speed.",
+        "level": 1,
+        "name": "Aquatic/Polar Mobility"
+      }
+    ]
+  },
+  "specimenjewel1": {
+    "id": 13,
+    "name": "Specimen Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Increases the chances of a corpse being left behind.",
+        "level": 1,
+        "name": "Entomologist"
+      }
+    ]
+  },
+  "miasmajewel1": {
+    "id": 14,
+    "name": "Miasma Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Reduces effluvial buildup.",
+        "level": 1,
+        "name": "Effluvia Resistance"
+      }
+    ]
+  },
+  "scentjewel1": {
+    "id": 15,
+    "name": "Scent Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Increases gauge fill rate by 50%.",
+        "level": 1,
+        "name": "Scenthound"
+      }
+    ]
+  },
+  "intimidatorjewel1": {
+    "id": 16,
+    "name": "Intimidator Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Discourages monsters from engaging you even if you've been spotted.",
+        "level": 1,
+        "name": "Intimidator"
+      }
+    ]
+  },
+  "crisisjewel1": {
+    "id": 17,
+    "name": "Crisis Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
+        "level": 1,
+        "name": "Resuscitate"
+      }
+    ]
+  },
+  "antiparajewel1": {
+    "id": 18,
+    "name": "Antipara Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Reduces the duration of paralysis by 30%.",
+        "level": 1,
+        "name": "Paralysis Resistance"
+      }
+    ]
+  },
+  "fortitudejewel1": {
+    "id": 19,
+    "name": "Fortitude Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Increases attack by 10% and defense by 15% with each use.",
+        "level": 1,
+        "name": "Fortify"
+      }
+    ]
+  },
+  "waterresjewel1": {
+    "id": 20,
+    "name": "Water Res Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Water resistance +6",
+        "level": 1,
+        "name": "Water Resistance"
+      }
+    ]
+  },
+  "suturejewel1": {
+    "id": 21,
+    "name": "Suture Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Reduces damage while bleeding.",
+        "level": 1,
+        "name": "Bleeding Resistance"
+      }
+    ]
+  },
+  "dragonresjewel1": {
+    "id": 22,
+    "name": "Dragon Res Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Dragon resistance +6",
+        "level": 1,
+        "name": "Dragon Resistance"
+      }
+    ]
+  },
+  "fireresjewel1": {
+    "id": 23,
+    "name": "Fire Res Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Fire resistance +6",
+        "level": 1,
+        "name": "Fire Resistance"
+      }
+    ]
+  },
+  "iceresjewel1": {
+    "id": 24,
+    "name": "Ice Res Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Ice resistance +6",
+        "level": 1,
+        "name": "Ice Resistance"
+      }
+    ]
+  },
+  "deflockjewel1": {
+    "id": 25,
+    "name": "Def Lock Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Reduces the duration of Defense Down by 50%.",
+        "level": 1,
+        "name": "Iron Skin"
+      }
+    ]
+  },
+  "thunderresjewel1": {
+    "id": 26,
+    "name": "Thunder Res Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Thunder resistance +6",
+        "level": 1,
+        "name": "Thunder Resistance"
+      }
+    ]
+  },
+  "pepjewel1": {
+    "id": 27,
+    "name": "Pep Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Reduces the duration of sleep by 30%.",
+        "level": 1,
+        "name": "Sleep Resistance"
+      }
+    ]
+  },
+  "antiblastjewel1": {
+    "id": 28,
+    "name": "Antiblast Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Delays blastblight and reduces blast damage.",
+        "level": 1,
+        "name": "Blast Resistance"
+      }
+    ]
+  },
+  "maintenancejewel1": {
+    "id": 29,
+    "name": "Maintenance Jewel 1",
+    "slot": 1,
+    "rarity": 5,
+    "skills": [
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "gobblerjewel1": {
+    "id": 30,
+    "name": "Gobbler Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Slightly increases item use speed.",
+        "level": 1,
+        "name": "Speed Eating"
+      }
+    ]
+  },
+  "physiquejewel2": {
+    "id": 31,
+    "name": "Physique Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "blazejewel1": {
+    "id": 32,
+    "name": "Blaze Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Fire attack +30",
+        "level": 1,
+        "name": "Fire Attack"
+      }
+    ]
+  },
+  "evasionjewel2": {
+    "id": 33,
+    "name": "Evasion Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "jumpingjewel2": {
+    "id": 34,
+    "name": "Jumping Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Slightly extends evasion distance.",
+        "level": 1,
+        "name": "Evade Extender"
+      }
+    ]
+  },
+  "sheathjewel1": {
+    "id": 35,
+    "name": "Sheath Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Slightly increases sheathing speed.",
+        "level": 1,
+        "name": "Quick Sheath"
+      }
+    ]
+  },
+  "friendshipjewel1": {
+    "id": 36,
+    "name": "Friendship Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Items affect nearby allies with 33% of their efficacy.",
+        "level": 1,
+        "name": "Wide-Range"
+      }
+    ]
+  },
+  "enduringjewel1": {
+    "id": 37,
+    "name": "Enduring Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Item effect duration +10%",
+        "level": 1,
+        "name": "Item Prolonger"
+      }
+    ]
+  },
+  "medicinejewel1": {
+    "id": 38,
+    "name": "Medicine Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "grinderjewel1": {
+    "id": 39,
+    "name": "Grinder Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Removes one cycle from the sharpening process.",
+        "level": 1,
+        "name": "Speed Sharpening"
+      }
+    ]
+  },
+  "steadfastjewel1": {
+    "id": 40,
+    "name": "Steadfast Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Reduces the duration of stun by 60%.",
+        "level": 1,
+        "name": "Stun Resistance"
+      }
+    ]
+  },
+  "bomberjewel1": {
+    "id": 41,
+    "name": "Bomber Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Explosive power +10%",
+        "level": 1,
+        "name": "Bombardier"
+      }
+    ]
+  },
+  "recoveryjewel1": {
+    "id": 42,
+    "name": "Recovery Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Doubles the speed at which you heal recoverable damage.",
+        "level": 1,
+        "name": "Recovery Speed"
+      }
+    ]
+  },
+  "sliderjewel2": {
+    "id": 43,
+    "name": "Slider Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Increases affinity by 30% for a short time after sliding.",
+        "level": 1,
+        "name": "Affinity Sliding"
+      }
+    ]
+  },
+  "defensejewel1": {
+    "id": 44,
+    "name": "Defense Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Defense +5",
+        "level": 1,
+        "name": "Defense Boost"
+      }
+    ]
+  },
+  "stonethrowerjewel1": {
+    "id": 45,
+    "name": "Stonethrower Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
+        "level": 1,
+        "name": "Slinger Capacity"
+      }
+    ]
+  },
+  "footingjewel2": {
+    "id": 46,
+    "name": "Footing Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Nullifies minor ground tremors.",
+        "level": 1,
+        "name": "Tremor Resistance"
+      }
+    ]
+  },
+  "bracejewel3": {
+    "id": 47,
+    "name": "Brace Jewel 3",
+    "slot": 3,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Prevents knockbacks. Increases some Kinsect extract effects.",
+        "level": 1,
+        "name": "Flinch Free"
+      }
+    ]
+  },
+  "windresistjewel2": {
+    "id": 48,
+    "name": "Wind Resist Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of minor wind pressure.",
+        "level": 1,
+        "name": "Windproof"
+      }
+    ]
+  },
+  "earplugjewel3": {
+    "id": 49,
+    "name": "Earplug Jewel 3",
+    "slot": 3,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of weak monster roars.",
+        "level": 1,
+        "name": "Earplugs"
+      }
+    ]
+  },
+  "vitalityjewel1": {
+    "id": 50,
+    "name": "Vitality Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "resistorjewel1": {
+    "id": 51,
+    "name": "Resistor Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Reduces the duration of all elemental blights by 50%.",
+        "level": 1,
+        "name": "Blight Resistance"
+      }
+    ]
+  },
+  "sonorousjewel1": {
+    "id": 52,
+    "name": "Sonorous Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Extends melody effect duration and increases health recovery.",
+        "level": 1,
+        "name": "Horn Maestro"
+      }
+    ]
+  },
+  "kojewel2": {
+    "id": 53,
+    "name": "KO Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Stun power +20%",
+        "level": 1,
+        "name": "Slugger"
+      }
+    ]
+  },
+  "streamjewel1": {
+    "id": 54,
+    "name": "Stream Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Water attack +30",
+        "level": 1,
+        "name": "Water Attack"
+      }
+    ]
+  },
+  "frostjewel1": {
+    "id": 55,
+    "name": "Frost Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Ice attack +30",
+        "level": 1,
+        "name": "Ice Attack"
+      }
+    ]
+  },
+  "boltjewel1": {
+    "id": 56,
+    "name": "Bolt Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Thunder attack +30",
+        "level": 1,
+        "name": "Thunder Attack"
+      }
+    ]
+  },
+  "dragonjewel1": {
+    "id": 57,
+    "name": "Dragon Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Dragon attack +30",
+        "level": 1,
+        "name": "Dragon Attack"
+      }
+    ]
+  },
+  "venomjewel1": {
+    "id": 58,
+    "name": "Venom Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Poison buildup +5% Bonus: +10",
+        "level": 1,
+        "name": "Poison Attack"
+      }
+    ]
+  },
+  "poisoncoatjewel3": {
+    "id": 59,
+    "name": "Poisoncoat Jewel 3",
+    "slot": 3,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Lets you use poison coating.",
+        "level": 1,
+        "name": "Poison Functionality"
+      }
+    ]
+  },
+  "expertjewel1": {
+    "id": 60,
+    "name": "Expert Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "tenderizerjewel2": {
+    "id": 61,
+    "name": "Tenderizer Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
+        "level": 1,
+        "name": "Weakness Exploit"
+      }
+    ]
+  },
+  "destroyerjewel2": {
+    "id": 62,
+    "name": "Destroyer Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Part damage +10%",
+        "level": 1,
+        "name": "Partbreaker"
+      }
+    ]
+  },
+  "elementlessjewel2": {
+    "id": 63,
+    "name": "Elementless Jewel 2",
+    "slot": 2,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Powers up non-elemental weapons you have equipped.",
+        "level": 1,
+        "name": "Non-elemental Boost"
+      }
+    ]
+  },
+  "drainjewel1": {
+    "id": 64,
+    "name": "Drain Jewel 1",
+    "slot": 1,
+    "rarity": 6,
+    "skills": [
+      {
+        "description": "Exhaust power +20%",
+        "level": 1,
+        "name": "Stamina Thief"
+      }
+    ]
+  },
+  "paracoatjewel3": {
+    "id": 65,
+    "name": "Paracoat Jewel 3",
+    "slot": 3,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Lets you use paralysis coating.",
+        "level": 1,
+        "name": "Para Functionality"
+      }
+    ]
+  },
+  "sharpjewel2": {
+    "id": 66,
+    "name": "Sharp Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Weapon sharpness does not decrease for a set time after sharpening.",
+        "level": 1,
+        "name": "Protective Polish"
+      }
+    ]
+  },
+  "shieldjewel2": {
+    "id": 67,
+    "name": "Shield Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Allows you to guard against ordinarily unblockable attacks.",
+        "level": 1,
+        "name": "Guard Up"
+      }
+    ]
+  },
+  "dragonsealjewel3": {
+    "id": 68,
+    "name": "Dragonseal Jewel 3",
+    "slot": 3,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Boosts Elderseal one level.",
+        "level": 1,
+        "name": "Elderseal Boost"
+      }
+    ]
+  },
+  "trueshotjewel1": {
+    "id": 69,
+    "name": "Trueshot Jewel 1",
+    "slot": 1,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Increases the power of bowgun special ammo, Dragon Piercer, and Thousand Dragons by 10%.",
+        "level": 1,
+        "name": "Special Ammo Boost"
+      }
+    ]
+  },
+  "enhancerjewel2": {
+    "id": 70,
+    "name": "Enhancer Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Slightly increases the duration weapons are powered up.",
+        "level": 1,
+        "name": "Power Prolonger"
+      }
+    ]
+  },
+  "forceshotjewel3": {
+    "id": 71,
+    "name": "Forceshot Jewel 3",
+    "slot": 3,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Increases the power of normal ammo and normal arrows.",
+        "level": 1,
+        "name": "Normal Shots"
+      }
+    ]
+  },
+  "furorjewel2": {
+    "id": 72,
+    "name": "Furor Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Resentment"
+      }
+    ]
+  },
+  "potentialjewel2": {
+    "id": 73,
+    "name": "Potential Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "While active, increases defense by 50 points.",
+        "level": 1,
+        "name": "Heroics"
+      }
+    ]
+  },
+  "paralyzerjewel1": {
+    "id": 74,
+    "name": "Paralyzer Jewel 1",
+    "slot": 1,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Paralysis buildup +5% Bonus: +10",
+        "level": 1,
+        "name": "Paralysis Attack"
+      }
+    ]
+  },
+  "sleepjewel1": {
+    "id": 75,
+    "name": "Sleep Jewel 1",
+    "slot": 1,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Sleep buildup +5% Bonus: +10",
+        "level": 1,
+        "name": "Sleep Attack"
+      }
+    ]
+  },
+  "ironwalljewel1": {
+    "id": 76,
+    "name": "Ironwall Jewel 1",
+    "slot": 1,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Very slightly decreases the impact of attacks.",
+        "level": 1,
+        "name": "Guard"
+      }
+    ]
+  },
+  "refreshjewel2": {
+    "id": 77,
+    "name": "Refresh Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Stamina recovery speed +10%",
+        "level": 1,
+        "name": "Stamina Surge"
+      }
+    ]
+  },
+  "blastjewel1": {
+    "id": 78,
+    "name": "Blast Jewel 1",
+    "slot": 1,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Blast buildup +5% Bonus: +10",
+        "level": 1,
+        "name": "Blast Attack"
+      }
+    ]
+  },
+  "sleepcoatjewel3": {
+    "id": 79,
+    "name": "Sleepcoat Jewel 3",
+    "slot": 3,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Lets you use sleep coating.",
+        "level": 1,
+        "name": "Sleep Functionality"
+      }
+    ]
+  },
+  "blastcoatjewel3": {
+    "id": 80,
+    "name": "Blastcoat Jewel 3",
+    "slot": 3,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Lets you use blast coating.",
+        "level": 1,
+        "name": "Blast Functionality"
+      }
+    ]
+  },
+  "throttlejewel2": {
+    "id": 81,
+    "name": "Throttle Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
+        "level": 1,
+        "name": "Latent Power"
+      }
+    ]
+  },
+  "challengerjewel2": {
+    "id": 82,
+    "name": "Challenger Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "While active, grants attack +4 and increases affinity by 5%.",
+        "level": 1,
+        "name": "Agitator"
+      }
+    ]
+  },
+  "attackjewel1": {
+    "id": 83,
+    "name": "Attack Jewel 1",
+    "slot": 1,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "flawlessjewel2": {
+    "id": 84,
+    "name": "Flawless Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Peak Performance"
+      }
+    ]
+  },
+  "magazinejewel2": {
+    "id": 85,
+    "name": "Magazine Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "Loading capacity +1",
+        "level": 1,
+        "name": "Capacity Boost"
+      }
+    ]
+  },
+  "mightyjewel2": {
+    "id": 86,
+    "name": "Mighty Jewel 2",
+    "slot": 2,
+    "rarity": 7,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10%.",
+        "level": 1,
+        "name": "Maximum Might"
+      }
+    ]
+  },
+  "sprinterjewel2": {
+    "id": 87,
+    "name": "Sprinter Jewel 2",
+    "slot": 2,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Reduces continuous stamina depletion by 15%.",
+        "level": 1,
+        "name": "Marathon Runner"
+      }
+    ]
+  },
+  "criticaljewel2": {
+    "id": 88,
+    "name": "Critical Jewel 2",
+    "slot": 2,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Increases damage dealt by critical hits to 30%.",
+        "level": 1,
+        "name": "Critical Boost"
+      }
+    ]
+  },
+  "artilleryjewel1": {
+    "id": 89,
+    "name": "Artillery Jewel 1",
+    "slot": 1,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%.",
+        "level": 1,
+        "name": "Artillery"
+      }
+    ]
+  },
+  "fungiformjewel1": {
+    "id": 90,
+    "name": "Fungiform Jewel 1",
+    "slot": 1,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Lets you digest blue mushrooms and toadstools.",
+        "level": 1,
+        "name": "Mushroomancer"
+      }
+    ]
+  },
+  "releasejewel3": {
+    "id": 91,
+    "name": "Release Jewel 3",
+    "slot": 3,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "spreadjewel3": {
+    "id": 92,
+    "name": "Spread Jewel 3",
+    "slot": 3,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Increases the power of spread ammo, power shot arrows, and Thousand Dragons.",
+        "level": 1,
+        "name": "Spread/Power Shots"
+      }
+    ]
+  },
+  "chargerjewel2": {
+    "id": 93,
+    "name": "Charger Jewel 2",
+    "slot": 2,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
+        "level": 1,
+        "name": "Focus"
+      }
+    ]
+  },
+  "handicraftjewel3": {
+    "id": 94,
+    "name": "Handicraft Jewel 3",
+    "slot": 3,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "mightybowjewel2": {
+    "id": 95,
+    "name": "Mighty Bow Jewel 2",
+    "slot": 2,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Increases max bow charge level by one.",
+        "level": 1,
+        "name": "Bow Charge Plus"
+      }
+    ]
+  },
+  "mind'seyejewel2": {
+    "id": 96,
+    "name": "Mind's Eye Jewel 2",
+    "slot": 2,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.",
+        "level": 1,
+        "name": "Mind's Eye/Ballistics"
+      }
+    ]
+  },
+  "drawjewel2": {
+    "id": 97,
+    "name": "Draw Jewel 2",
+    "slot": 2,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Draw attack affinity +30%",
+        "level": 1,
+        "name": "Critical Draw"
+      }
+    ]
+  },
+  "piercejewel3": {
+    "id": 98,
+    "name": "Pierce Jewel 3",
+    "slot": 3,
+    "rarity": 8,
+    "skills": [
+      {
+        "description": "Increases the power of piercing ammo and Dragon Piercer.",
+        "level": 1,
+        "name": "Piercing Shots"
+      }
+    ]
+  },
+  "phoenixjewel3": {
+    "id": 99,
+    "name": "Phoenix Jewel 3",
+    "slot": 3,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +12, element attack power +30, and status buildup +5%.",
+        "level": 1,
+        "name": "Coalescence"
+      }
+    ]
+  },
+  "fireresjewel+4": {
+    "id": 100,
+    "name": "Fire Res Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Fire resistance +12",
+        "level": 2,
+        "name": "Fire Resistance"
+      }
+    ]
+  },
+  "waterresjewel+4": {
+    "id": 101,
+    "name": "Water Res Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Water resistance +12",
+        "level": 2,
+        "name": "Water Resistance"
+      }
+    ]
+  },
+  "iceresjewel+4": {
+    "id": 102,
+    "name": "Ice Res Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Ice resistance +12",
+        "level": 2,
+        "name": "Ice Resistance"
+      }
+    ]
+  },
+  "thunderresjewel+4": {
+    "id": 103,
+    "name": "Thunder Res Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Thunder resistance +12",
+        "level": 2,
+        "name": "Thunder Resistance"
+      }
+    ]
+  },
+  "dragonresjewel+4": {
+    "id": 104,
+    "name": "Dragon Res Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Dragon resistance +12",
+        "level": 2,
+        "name": "Dragon Resistance"
+      }
+    ]
+  },
+  "blazejewel+4": {
+    "id": 105,
+    "name": "Blaze Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Fire attack +60",
+        "level": 2,
+        "name": "Fire Attack"
+      }
+    ]
+  },
+  "streamjewel+4": {
+    "id": 106,
+    "name": "Stream Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Water attack +60",
+        "level": 2,
+        "name": "Water Attack"
+      }
+    ]
+  },
+  "frostjewel+4": {
+    "id": 107,
+    "name": "Frost Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Ice attack +60",
+        "level": 2,
+        "name": "Ice Attack"
+      }
+    ]
+  },
+  "boltjewel+4": {
+    "id": 108,
+    "name": "Bolt Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Thunder attack +60",
+        "level": 2,
+        "name": "Thunder Attack"
+      }
+    ]
+  },
+  "dragonjewel+4": {
+    "id": 109,
+    "name": "Dragon Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Dragon attack +60",
+        "level": 2,
+        "name": "Dragon Attack"
+      }
+    ]
+  },
+  "venomjewel+4": {
+    "id": 110,
+    "name": "Venom Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Poison buildup +10% Bonus: +10",
+        "level": 2,
+        "name": "Poison Attack"
+      }
+    ]
+  },
+  "paralyzerjewel+4": {
+    "id": 111,
+    "name": "Paralyzer Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Paralysis buildup +10% Bonus: +10",
+        "level": 2,
+        "name": "Paralysis Attack"
+      }
+    ]
+  },
+  "sleepjewel+4": {
+    "id": 112,
+    "name": "Sleep Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Sleep buildup +10% Bonus: +10",
+        "level": 2,
+        "name": "Sleep Attack"
+      }
+    ]
+  },
+  "blastjewel+4": {
+    "id": 113,
+    "name": "Blast Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Blast buildup +10% Bonus: +10",
+        "level": 2,
+        "name": "Blast Attack"
+      }
+    ]
+  },
+  "hardfireresjewel4": {
+    "id": 114,
+    "name": "Hard Fire Res Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Fire resistance +20 Defense +10",
+        "level": 3,
+        "name": "Fire Resistance"
+      }
+    ]
+  },
+  "hardwaterresjewel4": {
+    "id": 115,
+    "name": "Hard Water Res Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Water resistance +20 Defense +10",
+        "level": 3,
+        "name": "Water Resistance"
+      }
+    ]
+  },
+  "hardiceresjewel4": {
+    "id": 116,
+    "name": "Hard Ice Res Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Ice resistance +20 Defense +10",
+        "level": 3,
+        "name": "Ice Resistance"
+      }
+    ]
+  },
+  "hardthunderresjewel4": {
+    "id": 117,
+    "name": "Hard Thunder Res Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Thunder resistance +20 Defense +10",
+        "level": 3,
+        "name": "Thunder Resistance"
+      }
+    ]
+  },
+  "harddragonresjewel4": {
+    "id": 118,
+    "name": "Hard Dragon Res Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Dragon resistance +20 Defense +10",
+        "level": 3,
+        "name": "Dragon Resistance"
+      }
+    ]
+  },
+  "antidotejewel+4": {
+    "id": 119,
+    "name": "Antidote Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Greatly reduces the number of times you take poison damage.",
+        "level": 2,
+        "name": "Poison Resistance"
+      }
+    ]
+  },
+  "antiparajewel+4": {
+    "id": 120,
+    "name": "Antipara Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Reduces the duration of paralysis by 60%.",
+        "level": 2,
+        "name": "Paralysis Resistance"
+      }
+    ]
+  },
+  "pepjewel+4": {
+    "id": 121,
+    "name": "Pep Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Reduces the duration of sleep by 60%.",
+        "level": 2,
+        "name": "Sleep Resistance"
+      }
+    ]
+  },
+  "steadfastjewel+4": {
+    "id": 122,
+    "name": "Steadfast Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Reduces the duration of stun by 90%.",
+        "level": 2,
+        "name": "Stun Resistance"
+      }
+    ]
+  },
+  "antiblastjewel+4": {
+    "id": 123,
+    "name": "Antiblast Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Greatly delays blastblight and greatly reduces blast damage.",
+        "level": 2,
+        "name": "Blast Resistance"
+      }
+    ]
+  },
+  "suturejewel+4": {
+    "id": 124,
+    "name": "Suture Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Greatly reduces damage while bleeding.",
+        "level": 2,
+        "name": "Bleeding Resistance"
+      }
+    ]
+  },
+  "deflockjewel+4": {
+    "id": 125,
+    "name": "Def Lock Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Reduces the duration of Defense Down by 75%.",
+        "level": 2,
+        "name": "Iron Skin"
+      }
+    ]
+  },
+  "miasmajewel+4": {
+    "id": 126,
+    "name": "Miasma Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Greatly reduces effluvial buildup.",
+        "level": 2,
+        "name": "Effluvia Resistance"
+      }
+    ]
+  },
+  "hungerlessjewel+4": {
+    "id": 127,
+    "name": "Hungerless Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Extends the time until your stamina cap decreases by 100%.",
+        "level": 2,
+        "name": "Hunger Resistance"
+      }
+    ]
+  },
+  "recoveryjewel+4": {
+    "id": 128,
+    "name": "Recovery Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Triples the speed at which you heal recoverable damage.",
+        "level": 2,
+        "name": "Recovery Speed"
+      }
+    ]
+  },
+  "tiptoejewel+4": {
+    "id": 129,
+    "name": "Tip Toe Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Makes it moderately easier for monsters to lose sight of you.",
+        "level": 2,
+        "name": "Stealth"
+      }
+    ]
+  },
+  "intimidatorjewel+4": {
+    "id": 130,
+    "name": "Intimidator Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Highly discourages monsters from engaging you even if you've been spotted.",
+        "level": 2,
+        "name": "Intimidator"
+      }
+    ]
+  },
+  "meowsterjewel+4": {
+    "id": 131,
+    "name": "Meowster Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases Palico attack power and defense by 10%.",
+        "level": 2,
+        "name": "Palico Rally"
+      }
+    ]
+  },
+  "hardtiptoejewel4": {
+    "id": 132,
+    "name": "Hard Tip Toe Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Makes it much easier for monsters to lose sight of you.",
+        "level": 3,
+        "name": "Stealth"
+      }
+    ]
+  },
+  "hardintimidatorjewel4": {
+    "id": 133,
+    "name": "Hard Intimidator Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Prevents monsters from engaging you even if you've been spotted.",
+        "level": 3,
+        "name": "Intimidator"
+      }
+    ]
+  },
+  "hardmeowsterjewel4": {
+    "id": 134,
+    "name": "Hard Meowster Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases Palico attack power and defense by 15%.",
+        "level": 3,
+        "name": "Palico Rally"
+      }
+    ]
+  },
+  "trueshotjewel+4": {
+    "id": 135,
+    "name": "Trueshot Jewel+ 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Increases the power of bowgun special ammo, Dragon Piercer, and Thousand Dragons by 20%.",
+        "level": 2,
+        "name": "Special Ammo Boost"
+      }
+    ]
+  },
+  "heavyartilleryjewel+4": {
+    "id": 136,
+    "name": "Heavy Artillery Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Firepower +100%",
+        "level": 2,
+        "name": "Heavy Artillery"
+      }
+    ]
+  },
+  "botanyjewel+4": {
+    "id": 137,
+    "name": "Botany Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "One extra consumable herb, fruit, nut, or seed item per gather.",
+        "level": 2,
+        "name": "Botanist"
+      }
+    ]
+  },
+  "geologyjewel+4": {
+    "id": 138,
+    "name": "Geology Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Allows you to gather one extra time from bonepiles and special item gathering points.",
+        "level": 2,
+        "name": "Geologist"
+      }
+    ]
+  },
+  "survivaljewel+4": {
+    "id": 139,
+    "name": "Survival Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Interactables restore an additional 80 health.",
+        "level": 2,
+        "name": "Survival Expert"
+      }
+    ]
+  },
+  "mirewalkerjewel+4": {
+    "id": 140,
+    "name": "Mirewalker Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases your evade window and prevents lowered movement speed.",
+        "level": 2,
+        "name": "Aquatic/Polar Mobility"
+      }
+    ]
+  },
+  "specimenjewel+4": {
+    "id": 141,
+    "name": "Specimen Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Greatly increases the chances of a corpse being left behind.",
+        "level": 2,
+        "name": "Entomologist"
+      }
+    ]
+  },
+  "sonorousjewel+4": {
+    "id": 142,
+    "name": "Sonorous Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Greatly increases the effect duration of hunting horn melodies.",
+        "level": 2,
+        "name": "Horn Maestro"
+      }
+    ]
+  },
+  "hardbotanyjewel+4": {
+    "id": 143,
+    "name": "Hard Botany Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "One extra consumable herb, fruit, nut, seed, insect, or mushroom item per gather.",
+        "level": 4,
+        "name": "Botanist"
+      }
+    ]
+  },
+  "hardgeologyjewel4": {
+    "id": 144,
+    "name": "Hard Geology Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops.",
+        "level": 3,
+        "name": "Geologist"
+      }
+    ]
+  },
+  "hardsurvivaljewel4": {
+    "id": 145,
+    "name": "Hard Survival Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Interactables restore an additional 100 health.",
+        "level": 3,
+        "name": "Survival Expert"
+      }
+    ]
+  },
+  "hardspecimenjewel4": {
+    "id": 146,
+    "name": "Hard Specimen Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Makes it so corpses will always be left behind.",
+        "level": 3,
+        "name": "Entomologist"
+      }
+    ]
+  },
+  "enduringjewel+4": {
+    "id": 147,
+    "name": "Enduring Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Item effect duration +25%",
+        "level": 2,
+        "name": "Item Prolonger"
+      }
+    ]
+  },
+  "defensejewel+4": {
+    "id": 148,
+    "name": "Defense Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Defense +10",
+        "level": 2,
+        "name": "Defense Boost"
+      }
+    ]
+  },
+  "hardenduringjewel4": {
+    "id": 149,
+    "name": "Hard Enduring Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Item effect duration +50%",
+        "level": 3,
+        "name": "Item Prolonger"
+      }
+    ]
+  },
+  "harddefensejewel4": {
+    "id": 150,
+    "name": "Hard Defense Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Defense +5% Bonus: +10",
+        "level": 3,
+        "name": "Defense Boost"
+      }
+    ]
+  },
+  "artilleryjewel+4": {
+    "id": 151,
+    "name": "Artillery Jewel+ 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%.",
+        "level": 2,
+        "name": "Artillery"
+      }
+    ]
+  },
+  "earplugjewel+4": {
+    "id": 152,
+    "name": "Earplug Jewel+ 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Reduces the effects of weak monster roars.",
+        "level": 2,
+        "name": "Earplugs"
+      }
+    ]
+  },
+  "windresistjewel+4": {
+    "id": 153,
+    "name": "Wind Resist Jewel+ 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Reduces the effects of minor wind pressure.",
+        "level": 2,
+        "name": "Windproof"
+      }
+    ]
+  },
+  "attackjewel+4": {
+    "id": 154,
+    "name": "Attack Jewel+ 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Attack +6",
+        "level": 2,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "expertjewel+4": {
+    "id": 155,
+    "name": "Expert Jewel+ 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Affinity +10%",
+        "level": 2,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "handicraftjewel+4": {
+    "id": 156,
+    "name": "Handicraft Jewel+ 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Weapon sharpness +20",
+        "level": 2,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "throttlejewel+4": {
+    "id": 157,
+    "name": "Throttle Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 20% and reduces stamina depletion by 30%.",
+        "level": 2,
+        "name": "Latent Power"
+      }
+    ]
+  },
+  "challengerjewel+4": {
+    "id": 158,
+    "name": "Challenger Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +8 and increases affinity by 5%.",
+        "level": 2,
+        "name": "Agitator"
+      }
+    ]
+  },
+  "potentialjewel+4": {
+    "id": 159,
+    "name": "Potential Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, increases attack power by 5% and increases defense by 50 points.",
+        "level": 2,
+        "name": "Heroics"
+      }
+    ]
+  },
+  "furorjewel+4": {
+    "id": 160,
+    "name": "Furor Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +10.",
+        "level": 2,
+        "name": "Resentment"
+      }
+    ]
+  },
+  "physiquejewel+4": {
+    "id": 161,
+    "name": "Physique Jewel+ 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces fixed stamina depletion by 20%.",
+        "level": 2,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "evasionjewel+4": {
+    "id": 162,
+    "name": "Evasion Jewel+ 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly increases invulnerability window.",
+        "level": 2,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "ironwalljewel+4": {
+    "id": 163,
+    "name": "Ironwall Jewel+ 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly decreases the impact of attacks and reduces stamina depletion by 15%.",
+        "level": 2,
+        "name": "Guard"
+      }
+    ]
+  },
+  "friendshipjewel+4": {
+    "id": 164,
+    "name": "Friendship Jewel+ 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Items affect nearby allies in a wider radius with 33% of their efficacy.",
+        "level": 2,
+        "name": "Wide-Range"
+      }
+    ]
+  },
+  "drain/physiquejewel4": {
+    "id": 165,
+    "name": "Drain/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Exhaust power +20%",
+        "level": 1,
+        "name": "Stamina Thief"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "fortitude/physiquejewel4": {
+    "id": 166,
+    "name": "Fortitude/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases attack by 10% and defense by 15% with each use.",
+        "level": 1,
+        "name": "Fortify"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "crisis/physiquejewel4": {
+    "id": 167,
+    "name": "Crisis/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
+        "level": 1,
+        "name": "Resuscitate"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "ironwall/physiquejewel4": {
+    "id": 168,
+    "name": "Ironwall/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Very slightly decreases the impact of attacks.",
+        "level": 1,
+        "name": "Guard"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "friendship/physiquejewel4": {
+    "id": 169,
+    "name": "Friendship/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Items affect nearby allies with 33% of their efficacy.",
+        "level": 1,
+        "name": "Wide-Range"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "satiated/physiquejewel4": {
+    "id": 170,
+    "name": "Satiated/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Activates 25% of the time.",
+        "level": 1,
+        "name": "Free Meal"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "stonethrower/physiquejewel4": {
+    "id": 171,
+    "name": "Stonethrower/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
+        "level": 1,
+        "name": "Slinger Capacity"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "resistor/physiquejewel4": {
+    "id": 172,
+    "name": "Resistor/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces the duration of all elemental blights by 50%.",
+        "level": 1,
+        "name": "Blight Resistance"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "flight/physiquejewel4": {
+    "id": 173,
+    "name": "Flight/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Jumping attack power +30%",
+        "level": 1,
+        "name": "Airborne"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "sprinter/physiquejewel4": {
+    "id": 174,
+    "name": "Sprinter/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces continuous stamina depletion by 15%.",
+        "level": 1,
+        "name": "Marathon Runner"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "refresh/physiquejewel4": {
+    "id": 175,
+    "name": "Refresh/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Stamina recovery speed +10%",
+        "level": 1,
+        "name": "Stamina Surge"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "jumping/physiquejewel4": {
+    "id": 176,
+    "name": "Jumping/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly extends evasion distance.",
+        "level": 1,
+        "name": "Evade Extender"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "sheath/physiquejewel4": {
+    "id": 177,
+    "name": "Sheath/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases sheathing speed.",
+        "level": 1,
+        "name": "Quick Sheath"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "gobbler/physiquejewel4": {
+    "id": 178,
+    "name": "Gobbler/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases item use speed.",
+        "level": 1,
+        "name": "Speed Eating"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "grinder/physiquejewel4": {
+    "id": 179,
+    "name": "Grinder/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Removes one cycle from the sharpening process.",
+        "level": 1,
+        "name": "Speed Sharpening"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "bomber/physiquejewel4": {
+    "id": 180,
+    "name": "Bomber/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Explosive power +10%",
+        "level": 1,
+        "name": "Bombardier"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "fungiform/physiquejewel4": {
+    "id": 181,
+    "name": "Fungiform/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Lets you digest blue mushrooms and toadstools.",
+        "level": 1,
+        "name": "Mushroomancer"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "slider/physiquejewel4": {
+    "id": 182,
+    "name": "Slider/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases affinity by 30% for a short time after sliding.",
+        "level": 1,
+        "name": "Affinity Sliding"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "guardian/physiquejewel4": {
+    "id": 183,
+    "name": "Guardian/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "While active, increases attack power by 5%.",
+        "level": 1,
+        "name": "Offensive Guard"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "drain/evasionjewel4": {
+    "id": 184,
+    "name": "Drain/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Exhaust power +20%",
+        "level": 1,
+        "name": "Stamina Thief"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "fortitude/evasionjewel4": {
+    "id": 185,
+    "name": "Fortitude/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases attack by 10% and defense by 15% with each use.",
+        "level": 1,
+        "name": "Fortify"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "crisis/evasionjewel4": {
+    "id": 186,
+    "name": "Crisis/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
+        "level": 1,
+        "name": "Resuscitate"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "ironwall/evasionjewel4": {
+    "id": 187,
+    "name": "Ironwall/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Very slightly decreases the impact of attacks.",
+        "level": 1,
+        "name": "Guard"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "friendship/evasionjewel4": {
+    "id": 188,
+    "name": "Friendship/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Items affect nearby allies with 33% of their efficacy.",
+        "level": 1,
+        "name": "Wide-Range"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "satiated/evasionjewel4": {
+    "id": 189,
+    "name": "Satiated/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Activates 25% of the time.",
+        "level": 1,
+        "name": "Free Meal"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "stonethrower/evasionjewel4": {
+    "id": 190,
+    "name": "Stonethrower/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
+        "level": 1,
+        "name": "Slinger Capacity"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "resistor/evasionjewel4": {
+    "id": 191,
+    "name": "Resistor/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces the duration of all elemental blights by 50%.",
+        "level": 1,
+        "name": "Blight Resistance"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "flight/evasionjewel4": {
+    "id": 192,
+    "name": "Flight/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Jumping attack power +30%",
+        "level": 1,
+        "name": "Airborne"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "sprinter/evasionjewel4": {
+    "id": 193,
+    "name": "Sprinter/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces continuous stamina depletion by 15%.",
+        "level": 1,
+        "name": "Marathon Runner"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "refresh/evasionjewel4": {
+    "id": 194,
+    "name": "Refresh/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Stamina recovery speed +10%",
+        "level": 1,
+        "name": "Stamina Surge"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "jumping/evasionjewel4": {
+    "id": 195,
+    "name": "Jumping/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly extends evasion distance.",
+        "level": 1,
+        "name": "Evade Extender"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "sheath/evasionjewel4": {
+    "id": 196,
+    "name": "Sheath/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases sheathing speed.",
+        "level": 1,
+        "name": "Quick Sheath"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "gobbler/evasionjewel4": {
+    "id": 197,
+    "name": "Gobbler/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases item use speed.",
+        "level": 1,
+        "name": "Speed Eating"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "grinder/evasionjewel4": {
+    "id": 198,
+    "name": "Grinder/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Removes one cycle from the sharpening process.",
+        "level": 1,
+        "name": "Speed Sharpening"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "bomber/evasionjewel4": {
+    "id": 199,
+    "name": "Bomber/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Explosive power +10%",
+        "level": 1,
+        "name": "Bombardier"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "fungiform/evasionjewel4": {
+    "id": 200,
+    "name": "Fungiform/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Lets you digest blue mushrooms and toadstools.",
+        "level": 1,
+        "name": "Mushroomancer"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "slider/evasionjewel4": {
+    "id": 201,
+    "name": "Slider/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases affinity by 30% for a short time after sliding.",
+        "level": 1,
+        "name": "Affinity Sliding"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "guardian/evasionjewel4": {
+    "id": 202,
+    "name": "Guardian/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "While active, increases attack power by 5%.",
+        "level": 1,
+        "name": "Offensive Guard"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "drain/attackjewel4": {
+    "id": 203,
+    "name": "Drain/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Exhaust power +20%",
+        "level": 1,
+        "name": "Stamina Thief"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "fortitude/attackjewel4": {
+    "id": 204,
+    "name": "Fortitude/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases attack by 10% and defense by 15% with each use.",
+        "level": 1,
+        "name": "Fortify"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "crisis/attackjewel4": {
+    "id": 205,
+    "name": "Crisis/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
+        "level": 1,
+        "name": "Resuscitate"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "ironwall/attackjewel4": {
+    "id": 206,
+    "name": "Ironwall/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Very slightly decreases the impact of attacks.",
+        "level": 1,
+        "name": "Guard"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "friendship/attackjewel4": {
+    "id": 207,
+    "name": "Friendship/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Items affect nearby allies with 33% of their efficacy.",
+        "level": 1,
+        "name": "Wide-Range"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "satiated/attackjewel4": {
+    "id": 208,
+    "name": "Satiated/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Activates 25% of the time.",
+        "level": 1,
+        "name": "Free Meal"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "stonethrower/attackjewel4": {
+    "id": 209,
+    "name": "Stonethrower/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
+        "level": 1,
+        "name": "Slinger Capacity"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "resistor/attackjewel4": {
+    "id": 210,
+    "name": "Resistor/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces the duration of all elemental blights by 50%.",
+        "level": 1,
+        "name": "Blight Resistance"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "flight/attackjewel4": {
+    "id": 211,
+    "name": "Flight/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Jumping attack power +30%",
+        "level": 1,
+        "name": "Airborne"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "sprinter/attackjewel4": {
+    "id": 212,
+    "name": "Sprinter/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces continuous stamina depletion by 15%.",
+        "level": 1,
+        "name": "Marathon Runner"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "refresh/attackjewel4": {
+    "id": 213,
+    "name": "Refresh/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Stamina recovery speed +10%",
+        "level": 1,
+        "name": "Stamina Surge"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "jumping/attackjewel4": {
+    "id": 214,
+    "name": "Jumping/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly extends evasion distance.",
+        "level": 1,
+        "name": "Evade Extender"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "sheath/attackjewel4": {
+    "id": 215,
+    "name": "Sheath/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases sheathing speed.",
+        "level": 1,
+        "name": "Quick Sheath"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "gobbler/attackjewel4": {
+    "id": 216,
+    "name": "Gobbler/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases item use speed.",
+        "level": 1,
+        "name": "Speed Eating"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "grinder/attackjewel4": {
+    "id": 217,
+    "name": "Grinder/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Removes one cycle from the sharpening process.",
+        "level": 1,
+        "name": "Speed Sharpening"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "bomber/attackjewel4": {
+    "id": 218,
+    "name": "Bomber/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Explosive power +10%",
+        "level": 1,
+        "name": "Bombardier"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "fungiform/attackjewel4": {
+    "id": 219,
+    "name": "Fungiform/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Lets you digest blue mushrooms and toadstools.",
+        "level": 1,
+        "name": "Mushroomancer"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "slider/attackjewel4": {
+    "id": 220,
+    "name": "Slider/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases affinity by 30% for a short time after sliding.",
+        "level": 1,
+        "name": "Affinity Sliding"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "guardian/attackjewel4": {
+    "id": 221,
+    "name": "Guardian/Attack Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "While active, increases attack power by 5%.",
+        "level": 1,
+        "name": "Offensive Guard"
+      },
+      {
+        "description": "Attack +3",
+        "level": 1,
+        "name": "Attack Boost"
+      }
+    ]
+  },
+  "drain/expertjewel4": {
+    "id": 222,
+    "name": "Drain/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Exhaust power +20%",
+        "level": 1,
+        "name": "Stamina Thief"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "fortitude/expertjewel4": {
+    "id": 223,
+    "name": "Fortitude/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases attack by 10% and defense by 15% with each use.",
+        "level": 1,
+        "name": "Fortify"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "crisis/expertjewel4": {
+    "id": 224,
+    "name": "Crisis/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
+        "level": 1,
+        "name": "Resuscitate"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "ironwall/expertjewel4": {
+    "id": 225,
+    "name": "Ironwall/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Very slightly decreases the impact of attacks.",
+        "level": 1,
+        "name": "Guard"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "friendship/expertjewel4": {
+    "id": 226,
+    "name": "Friendship/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Items affect nearby allies with 33% of their efficacy.",
+        "level": 1,
+        "name": "Wide-Range"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "satiated/expertjewel4": {
+    "id": 227,
+    "name": "Satiated/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Activates 25% of the time.",
+        "level": 1,
+        "name": "Free Meal"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "stonethrower/expertjewel4": {
+    "id": 228,
+    "name": "Stonethrower/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
+        "level": 1,
+        "name": "Slinger Capacity"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "resistor/expertjewel4": {
+    "id": 229,
+    "name": "Resistor/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces the duration of all elemental blights by 50%.",
+        "level": 1,
+        "name": "Blight Resistance"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "flight/expertjewel4": {
+    "id": 230,
+    "name": "Flight/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Jumping attack power +30%",
+        "level": 1,
+        "name": "Airborne"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "sprinter/expertjewel4": {
+    "id": 231,
+    "name": "Sprinter/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Reduces continuous stamina depletion by 15%.",
+        "level": 1,
+        "name": "Marathon Runner"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "refresh/expertjewel4": {
+    "id": 232,
+    "name": "Refresh/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Stamina recovery speed +10%",
+        "level": 1,
+        "name": "Stamina Surge"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "jumping/expertjewel4": {
+    "id": 233,
+    "name": "Jumping/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly extends evasion distance.",
+        "level": 1,
+        "name": "Evade Extender"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "sheath/expertjewel4": {
+    "id": 234,
+    "name": "Sheath/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases sheathing speed.",
+        "level": 1,
+        "name": "Quick Sheath"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "gobbler/expertjewel4": {
+    "id": 235,
+    "name": "Gobbler/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases item use speed.",
+        "level": 1,
+        "name": "Speed Eating"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "grinder/expertjewel4": {
+    "id": 236,
+    "name": "Grinder/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Removes one cycle from the sharpening process.",
+        "level": 1,
+        "name": "Speed Sharpening"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "bomber/expertjewel4": {
+    "id": 237,
+    "name": "Bomber/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Explosive power +10%",
+        "level": 1,
+        "name": "Bombardier"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "fungiform/expertjewel4": {
+    "id": 238,
+    "name": "Fungiform/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Lets you digest blue mushrooms and toadstools.",
+        "level": 1,
+        "name": "Mushroomancer"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "slider/expertjewel4": {
+    "id": 239,
+    "name": "Slider/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "Increases affinity by 30% for a short time after sliding.",
+        "level": 1,
+        "name": "Affinity Sliding"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "guardian/expertjewel4": {
+    "id": 240,
+    "name": "Guardian/Expert Jewel 4",
+    "slot": 4,
+    "rarity": 9,
+    "skills": [
+      {
+        "description": "While active, increases attack power by 5%.",
+        "level": 1,
+        "name": "Offensive Guard"
+      },
+      {
+        "description": "Affinity +5%",
+        "level": 1,
+        "name": "Critical Eye"
+      }
+    ]
+  },
+  "drain/releasejewel4": {
+    "id": 241,
+    "name": "Drain/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Exhaust power +20%",
+        "level": 1,
+        "name": "Stamina Thief"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "fortitude/releasejewel4": {
+    "id": 242,
+    "name": "Fortitude/Release Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases attack by 10% and defense by 15% with each use.",
+        "level": 1,
+        "name": "Fortify"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "crisis/releasejewel4": {
+    "id": 243,
+    "name": "Crisis/Release Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
+        "level": 1,
+        "name": "Resuscitate"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "ironwall/releasejewel4": {
+    "id": 244,
+    "name": "Ironwall/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Very slightly decreases the impact of attacks.",
+        "level": 1,
+        "name": "Guard"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "friendship/releasejewel4": {
+    "id": 245,
+    "name": "Friendship/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Items affect nearby allies with 33% of their efficacy.",
+        "level": 1,
+        "name": "Wide-Range"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "satiated/releasejewel4": {
+    "id": 246,
+    "name": "Satiated/Release Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Activates 25% of the time.",
+        "level": 1,
+        "name": "Free Meal"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "stonethrower/releasejewel4": {
+    "id": 247,
+    "name": "Stonethrower/Release Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
+        "level": 1,
+        "name": "Slinger Capacity"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "resistor/releasejewel4": {
+    "id": 248,
+    "name": "Resistor/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Reduces the duration of all elemental blights by 50%.",
+        "level": 1,
+        "name": "Blight Resistance"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "flight/releasejewel4": {
+    "id": 249,
+    "name": "Flight/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Jumping attack power +30%",
+        "level": 1,
+        "name": "Airborne"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "sprinter/releasejewel4": {
+    "id": 250,
+    "name": "Sprinter/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Reduces continuous stamina depletion by 15%.",
+        "level": 1,
+        "name": "Marathon Runner"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "refresh/releasejewel4": {
+    "id": 251,
+    "name": "Refresh/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Stamina recovery speed +10%",
+        "level": 1,
+        "name": "Stamina Surge"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "jumping/releasejewel4": {
+    "id": 252,
+    "name": "Jumping/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly extends evasion distance.",
+        "level": 1,
+        "name": "Evade Extender"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "sheath/releasejewel4": {
+    "id": 253,
+    "name": "Sheath/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly increases sheathing speed.",
+        "level": 1,
+        "name": "Quick Sheath"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "gobbler/releasejewel4": {
+    "id": 254,
+    "name": "Gobbler/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly increases item use speed.",
+        "level": 1,
+        "name": "Speed Eating"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "grinder/releasejewel4": {
+    "id": 255,
+    "name": "Grinder/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Removes one cycle from the sharpening process.",
+        "level": 1,
+        "name": "Speed Sharpening"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "bomber/releasejewel4": {
+    "id": 256,
+    "name": "Bomber/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Explosive power +10%",
+        "level": 1,
+        "name": "Bombardier"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "fungiform/releasejewel4": {
+    "id": 257,
+    "name": "Fungiform/Release Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Lets you digest blue mushrooms and toadstools.",
+        "level": 1,
+        "name": "Mushroomancer"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "slider/releasejewel4": {
+    "id": 258,
+    "name": "Slider/Release Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases affinity by 30% for a short time after sliding.",
+        "level": 1,
+        "name": "Affinity Sliding"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "guardian/releasejewel4": {
+    "id": 259,
+    "name": "Guardian/Release Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases attack power by 5%.",
+        "level": 1,
+        "name": "Offensive Guard"
+      },
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      }
+    ]
+  },
+  "drain/handicraftjewel4": {
+    "id": 260,
+    "name": "Drain/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Exhaust power +20%",
+        "level": 1,
+        "name": "Stamina Thief"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "fortitude/handicraftjewel4": {
+    "id": 261,
+    "name": "Fortitude/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases attack by 10% and defense by 15% with each use.",
+        "level": 1,
+        "name": "Fortify"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "crisis/handicraftjewel4": {
+    "id": 262,
+    "name": "Crisis/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion.",
+        "level": 1,
+        "name": "Resuscitate"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "ironwall/handicraftjewel4": {
+    "id": 263,
+    "name": "Ironwall/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Very slightly decreases the impact of attacks.",
+        "level": 1,
+        "name": "Guard"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "friendship/handicraftjewel4": {
+    "id": 264,
+    "name": "Friendship/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Items affect nearby allies with 33% of their efficacy.",
+        "level": 1,
+        "name": "Wide-Range"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "satiated/handicraftjewel4": {
+    "id": 265,
+    "name": "Satiated/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Activates 25% of the time.",
+        "level": 1,
+        "name": "Free Meal"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "stonethrower/handicraftjewel4": {
+    "id": 266,
+    "name": "Stonethrower/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases the loading capacity for slinger ammo collected from the ground or plants.",
+        "level": 1,
+        "name": "Slinger Capacity"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "resistor/handicraftjewel4": {
+    "id": 267,
+    "name": "Resistor/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Reduces the duration of all elemental blights by 50%.",
+        "level": 1,
+        "name": "Blight Resistance"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "flight/handicraftjewel4": {
+    "id": 268,
+    "name": "Flight/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Jumping attack power +30%",
+        "level": 1,
+        "name": "Airborne"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "sprinter/handicraftjewel4": {
+    "id": 269,
+    "name": "Sprinter/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Reduces continuous stamina depletion by 15%.",
+        "level": 1,
+        "name": "Marathon Runner"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "refresh/handicraftjewel4": {
+    "id": 270,
+    "name": "Refresh/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Stamina recovery speed +10%",
+        "level": 1,
+        "name": "Stamina Surge"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "jumping/handicraftjewel4": {
+    "id": 271,
+    "name": "Jumping/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly extends evasion distance.",
+        "level": 1,
+        "name": "Evade Extender"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "sheath/handicraftjewel4": {
+    "id": 272,
+    "name": "Sheath/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly increases sheathing speed.",
+        "level": 1,
+        "name": "Quick Sheath"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "gobbler/handicraftjewel4": {
+    "id": 273,
+    "name": "Gobbler/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly increases item use speed.",
+        "level": 1,
+        "name": "Speed Eating"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "grinder/handicraftjewel4": {
+    "id": 274,
+    "name": "Grinder/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Removes one cycle from the sharpening process.",
+        "level": 1,
+        "name": "Speed Sharpening"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "bomber/handicraftjewel4": {
+    "id": 275,
+    "name": "Bomber/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Explosive power +10%",
+        "level": 1,
+        "name": "Bombardier"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "fungiform/handicraftjewel4": {
+    "id": 276,
+    "name": "Fungiform/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Lets you digest blue mushrooms and toadstools.",
+        "level": 1,
+        "name": "Mushroomancer"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "slider/handicraftjewel4": {
+    "id": 277,
+    "name": "Slider/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases affinity by 30% for a short time after sliding.",
+        "level": 1,
+        "name": "Affinity Sliding"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "guardian/handicraftjewel4": {
+    "id": 278,
+    "name": "Guardian/Handicraft Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases attack power by 5%.",
+        "level": 1,
+        "name": "Offensive Guard"
+      },
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      }
+    ]
+  },
+  "footing/protectionjewel4": {
+    "id": 279,
+    "name": "Footing/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Nullifies minor ground tremors.",
+        "level": 1,
+        "name": "Tremor Resistance"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "charger/protectionjewel4": {
+    "id": 280,
+    "name": "Charger/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
+        "level": 1,
+        "name": "Focus"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "enhancer/protectionjewel4": {
+    "id": 281,
+    "name": "Enhancer/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases the duration weapons are powered up.",
+        "level": 1,
+        "name": "Power Prolonger"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "destroyer/protectionjewel4": {
+    "id": 282,
+    "name": "Destroyer/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Part damage +10%",
+        "level": 1,
+        "name": "Partbreaker"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "ko/protectionjewel4": {
+    "id": 283,
+    "name": "KO/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Stun power +20%",
+        "level": 1,
+        "name": "Slugger"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "potential/protectionjewel4": {
+    "id": 284,
+    "name": "Potential/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases defense by 50 points.",
+        "level": 1,
+        "name": "Heroics"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "windresist/protectionjewel4": {
+    "id": 285,
+    "name": "Wind Resist/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of minor wind pressure.",
+        "level": 1,
+        "name": "Windproof"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "draw/protectionjewel4": {
+    "id": 286,
+    "name": "Draw/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Draw attack affinity +30%",
+        "level": 1,
+        "name": "Critical Draw"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "throttle/protectionjewel4": {
+    "id": 287,
+    "name": "Throttle/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
+        "level": 1,
+        "name": "Latent Power"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "challenger/protectionjewel4": {
+    "id": 288,
+    "name": "Challenger/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +4 and increases affinity by 5%.",
+        "level": 1,
+        "name": "Agitator"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "flawless/protectionjewel4": {
+    "id": 289,
+    "name": "Flawless/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Peak Performance"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "furor/protectionjewel4": {
+    "id": 290,
+    "name": "Furor/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Resentment"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "mighty/protectionjewel4": {
+    "id": 291,
+    "name": "Mighty/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10%.",
+        "level": 1,
+        "name": "Maximum Might"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "brace/protectionjewel4": {
+    "id": 292,
+    "name": "Brace/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Prevents knockbacks. Increases some Kinsect extract effects.",
+        "level": 1,
+        "name": "Flinch Free"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "phoenix/protectionjewel4": {
+    "id": 293,
+    "name": "Phoenix/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +12, element attack power +30, and status buildup +5%.",
+        "level": 1,
+        "name": "Coalescence"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "earplug/protectionjewel4": {
+    "id": 294,
+    "name": "Earplug/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of weak monster roars.",
+        "level": 1,
+        "name": "Earplugs"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "critical/protectionjewel4": {
+    "id": 295,
+    "name": "Critical/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Increases damage dealt by critical hits to 30%.",
+        "level": 1,
+        "name": "Critical Boost"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "tenderizer/protectionjewel4": {
+    "id": 296,
+    "name": "Tenderizer/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
+        "level": 1,
+        "name": "Weakness Exploit"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "handicraft/protectionjewel4": {
+    "id": 297,
+    "name": "Handicraft/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "release/protectionjewel4": {
+    "id": 298,
+    "name": "Release/Protection Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      },
+      {
+        "description": "While active, reduces damage taken by 15%.",
+        "level": 1,
+        "name": "Divine Blessing"
+      }
+    ]
+  },
+  "footing/medicinejewel4": {
+    "id": 299,
+    "name": "Footing/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Nullifies minor ground tremors.",
+        "level": 1,
+        "name": "Tremor Resistance"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "charger/medicinejewel4": {
+    "id": 300,
+    "name": "Charger/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
+        "level": 1,
+        "name": "Focus"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "enhancer/medicinejewel4": {
+    "id": 301,
+    "name": "Enhancer/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases the duration weapons are powered up.",
+        "level": 1,
+        "name": "Power Prolonger"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "destroyer/medicinejewel4": {
+    "id": 302,
+    "name": "Destroyer/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Part damage +10%",
+        "level": 1,
+        "name": "Partbreaker"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "ko/medicinejewel4": {
+    "id": 303,
+    "name": "KO/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Stun power +20%",
+        "level": 1,
+        "name": "Slugger"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "potential/medicinejewel4": {
+    "id": 304,
+    "name": "Potential/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases defense by 50 points.",
+        "level": 1,
+        "name": "Heroics"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "windresist/medicinejewel4": {
+    "id": 305,
+    "name": "Wind Resist/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of minor wind pressure.",
+        "level": 1,
+        "name": "Windproof"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "draw/medicinejewel4": {
+    "id": 306,
+    "name": "Draw/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Draw attack affinity +30%",
+        "level": 1,
+        "name": "Critical Draw"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "throttle/medicinejewel4": {
+    "id": 307,
+    "name": "Throttle/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
+        "level": 1,
+        "name": "Latent Power"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "challenger/medicinejewel4": {
+    "id": 308,
+    "name": "Challenger/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +4 and increases affinity by 5%.",
+        "level": 1,
+        "name": "Agitator"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "flawless/medicinejewel4": {
+    "id": 309,
+    "name": "Flawless/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Peak Performance"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "furor/medicinejewel4": {
+    "id": 310,
+    "name": "Furor/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Resentment"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "mighty/medicinejewel4": {
+    "id": 311,
+    "name": "Mighty/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10%.",
+        "level": 1,
+        "name": "Maximum Might"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "brace/medicinejewel4": {
+    "id": 312,
+    "name": "Brace/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Prevents knockbacks. Increases some Kinsect extract effects.",
+        "level": 1,
+        "name": "Flinch Free"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "phoenix/medicinejewel4": {
+    "id": 313,
+    "name": "Phoenix/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +12, element attack power +30, and status buildup +5%.",
+        "level": 1,
+        "name": "Coalescence"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "earplug/medicinejewel4": {
+    "id": 314,
+    "name": "Earplug/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of weak monster roars.",
+        "level": 1,
+        "name": "Earplugs"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "critical/medicinejewel4": {
+    "id": 315,
+    "name": "Critical/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Increases damage dealt by critical hits to 30%.",
+        "level": 1,
+        "name": "Critical Boost"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "tenderizer/medicinejewel4": {
+    "id": 316,
+    "name": "Tenderizer/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
+        "level": 1,
+        "name": "Weakness Exploit"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "handicraft/medicinejewel4": {
+    "id": 317,
+    "name": "Handicraft/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "release/medicinejewel4": {
+    "id": 318,
+    "name": "Release/Medicine Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      },
+      {
+        "description": "Recovery +10%",
+        "level": 1,
+        "name": "Recovery Up"
+      }
+    ]
+  },
+  "footing/vitalityjewel4": {
+    "id": 319,
+    "name": "Footing/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Nullifies minor ground tremors.",
+        "level": 1,
+        "name": "Tremor Resistance"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "charger/vitalityjewel4": {
+    "id": 320,
+    "name": "Charger/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
+        "level": 1,
+        "name": "Focus"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "enhancer/vitalityjewel4": {
+    "id": 321,
+    "name": "Enhancer/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases the duration weapons are powered up.",
+        "level": 1,
+        "name": "Power Prolonger"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "destroyer/vitalityjewel4": {
+    "id": 322,
+    "name": "Destroyer/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Part damage +10%",
+        "level": 1,
+        "name": "Partbreaker"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "ko/vitalityjewel4": {
+    "id": 323,
+    "name": "KO/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Stun power +20%",
+        "level": 1,
+        "name": "Slugger"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "potential/vitalityjewel4": {
+    "id": 324,
+    "name": "Potential/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases defense by 50 points.",
+        "level": 1,
+        "name": "Heroics"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "windresist/vitalityjewel4": {
+    "id": 325,
+    "name": "Wind Resist/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of minor wind pressure.",
+        "level": 1,
+        "name": "Windproof"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "draw/vitalityjewel4": {
+    "id": 326,
+    "name": "Draw/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Draw attack affinity +30%",
+        "level": 1,
+        "name": "Critical Draw"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "throttle/vitalityjewel4": {
+    "id": 327,
+    "name": "Throttle/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
+        "level": 1,
+        "name": "Latent Power"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "challenger/vitalityjewel4": {
+    "id": 328,
+    "name": "Challenger/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +4 and increases affinity by 5%.",
+        "level": 1,
+        "name": "Agitator"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "flawless/vitalityjewel4": {
+    "id": 329,
+    "name": "Flawless/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Peak Performance"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "furor/vitalityjewel4": {
+    "id": 330,
+    "name": "Furor/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Resentment"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "mighty/vitalityjewel4": {
+    "id": 331,
+    "name": "Mighty/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10%.",
+        "level": 1,
+        "name": "Maximum Might"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "brace/vitalityjewel4": {
+    "id": 332,
+    "name": "Brace/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Prevents knockbacks. Increases some Kinsect extract effects.",
+        "level": 1,
+        "name": "Flinch Free"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "phoenix/vitalityjewel4": {
+    "id": 333,
+    "name": "Phoenix/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +12, element attack power +30, and status buildup +5%.",
+        "level": 1,
+        "name": "Coalescence"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "earplug/vitalityjewel4": {
+    "id": 334,
+    "name": "Earplug/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of weak monster roars.",
+        "level": 1,
+        "name": "Earplugs"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "critical/vitalityjewel4": {
+    "id": 335,
+    "name": "Critical/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Increases damage dealt by critical hits to 30%.",
+        "level": 1,
+        "name": "Critical Boost"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "tenderizer/vitalityjewel4": {
+    "id": 336,
+    "name": "Tenderizer/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
+        "level": 1,
+        "name": "Weakness Exploit"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "handicraft/vitalityjewel4": {
+    "id": 337,
+    "name": "Handicraft/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "release/vitalityjewel4": {
+    "id": 338,
+    "name": "Release/Vitality Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      },
+      {
+        "description": "Health +15",
+        "level": 1,
+        "name": "Health Boost"
+      }
+    ]
+  },
+  "footing/maintenancejewel4": {
+    "id": 339,
+    "name": "Footing/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Nullifies minor ground tremors.",
+        "level": 1,
+        "name": "Tremor Resistance"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "charger/maintenancejewel4": {
+    "id": 340,
+    "name": "Charger/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
+        "level": 1,
+        "name": "Focus"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "enhancer/maintenancejewel4": {
+    "id": 341,
+    "name": "Enhancer/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly increases the duration weapons are powered up.",
+        "level": 1,
+        "name": "Power Prolonger"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "destroyer/maintenancejewel4": {
+    "id": 342,
+    "name": "Destroyer/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Part damage +10%",
+        "level": 1,
+        "name": "Partbreaker"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "ko/maintenancejewel4": {
+    "id": 343,
+    "name": "KO/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Stun power +20%",
+        "level": 1,
+        "name": "Slugger"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "potential/maintenancejewel4": {
+    "id": 344,
+    "name": "Potential/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases defense by 50 points.",
+        "level": 1,
+        "name": "Heroics"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "windresist/maintenancejewel4": {
+    "id": 345,
+    "name": "Wind Resist/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of minor wind pressure.",
+        "level": 1,
+        "name": "Windproof"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "draw/maintenancejewel4": {
+    "id": 346,
+    "name": "Draw/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Draw attack affinity +30%",
+        "level": 1,
+        "name": "Critical Draw"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "throttle/maintenancejewel4": {
+    "id": 347,
+    "name": "Throttle/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
+        "level": 1,
+        "name": "Latent Power"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "challenger/maintenancejewel4": {
+    "id": 348,
+    "name": "Challenger/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +4 and increases affinity by 5%.",
+        "level": 1,
+        "name": "Agitator"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "flawless/maintenancejewel4": {
+    "id": 349,
+    "name": "Flawless/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Peak Performance"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "furor/maintenancejewel4": {
+    "id": 350,
+    "name": "Furor/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Resentment"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "mighty/maintenancejewel4": {
+    "id": 351,
+    "name": "Mighty/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10%.",
+        "level": 1,
+        "name": "Maximum Might"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "brace/maintenancejewel4": {
+    "id": 352,
+    "name": "Brace/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 10,
+    "skills": [
+      {
+        "description": "Prevents knockbacks. Increases some Kinsect extract effects.",
+        "level": 1,
+        "name": "Flinch Free"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "phoenix/maintenancejewel4": {
+    "id": 353,
+    "name": "Phoenix/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +12, element attack power +30, and status buildup +5%.",
+        "level": 1,
+        "name": "Coalescence"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "earplug/maintenancejewel4": {
+    "id": 354,
+    "name": "Earplug/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of weak monster roars.",
+        "level": 1,
+        "name": "Earplugs"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "critical/maintenancejewel4": {
+    "id": 355,
+    "name": "Critical/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Increases damage dealt by critical hits to 30%.",
+        "level": 1,
+        "name": "Critical Boost"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "tenderizer/maintenancejewel4": {
+    "id": 356,
+    "name": "Tenderizer/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
+        "level": 1,
+        "name": "Weakness Exploit"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "handicraft/maintenancejewel4": {
+    "id": 357,
+    "name": "Handicraft/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "release/maintenancejewel4": {
+    "id": 358,
+    "name": "Release/Maintenance Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      },
+      {
+        "description": "Shortens time until reuse by 10%.",
+        "level": 1,
+        "name": "Tool Specialist"
+      }
+    ]
+  },
+  "footing/physiquejewel4": {
+    "id": 359,
+    "name": "Footing/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Nullifies minor ground tremors.",
+        "level": 1,
+        "name": "Tremor Resistance"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "charger/physiquejewel4": {
+    "id": 360,
+    "name": "Charger/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
+        "level": 1,
+        "name": "Focus"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "enhancer/physiquejewel4": {
+    "id": 361,
+    "name": "Enhancer/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly increases the duration weapons are powered up.",
+        "level": 1,
+        "name": "Power Prolonger"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "destroyer/physiquejewel4": {
+    "id": 362,
+    "name": "Destroyer/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Part damage +10%",
+        "level": 1,
+        "name": "Partbreaker"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "ko/physiquejewel4": {
+    "id": 363,
+    "name": "KO/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Stun power +20%",
+        "level": 1,
+        "name": "Slugger"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "potential/physiquejewel4": {
+    "id": 364,
+    "name": "Potential/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, increases defense by 50 points.",
+        "level": 1,
+        "name": "Heroics"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "windresist/physiquejewel4": {
+    "id": 365,
+    "name": "Wind Resist/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of minor wind pressure.",
+        "level": 1,
+        "name": "Windproof"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "draw/physiquejewel4": {
+    "id": 366,
+    "name": "Draw/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Draw attack affinity +30%",
+        "level": 1,
+        "name": "Critical Draw"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "throttle/physiquejewel4": {
+    "id": 367,
+    "name": "Throttle/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
+        "level": 1,
+        "name": "Latent Power"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "challenger/physiquejewel4": {
+    "id": 368,
+    "name": "Challenger/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +4 and increases affinity by 5%.",
+        "level": 1,
+        "name": "Agitator"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "flawless/physiquejewel4": {
+    "id": 369,
+    "name": "Flawless/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Peak Performance"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "furor/physiquejewel4": {
+    "id": 370,
+    "name": "Furor/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Resentment"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "mighty/physiquejewel4": {
+    "id": 371,
+    "name": "Mighty/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10%.",
+        "level": 1,
+        "name": "Maximum Might"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "brace/physiquejewel4": {
+    "id": 372,
+    "name": "Brace/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Prevents knockbacks. Increases some Kinsect extract effects.",
+        "level": 1,
+        "name": "Flinch Free"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "phoenix/physiquejewel4": {
+    "id": 373,
+    "name": "Phoenix/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "While active, grants attack +12, element attack power +30, and status buildup +5%.",
+        "level": 1,
+        "name": "Coalescence"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "earplug/physiquejewel4": {
+    "id": 374,
+    "name": "Earplug/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of weak monster roars.",
+        "level": 1,
+        "name": "Earplugs"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "critical/physiquejewel4": {
+    "id": 375,
+    "name": "Critical/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Increases damage dealt by critical hits to 30%.",
+        "level": 1,
+        "name": "Critical Boost"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "tenderizer/physiquejewel4": {
+    "id": 376,
+    "name": "Tenderizer/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
+        "level": 1,
+        "name": "Weakness Exploit"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "handicraft/physiquejewel4": {
+    "id": 377,
+    "name": "Handicraft/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "release/physiquejewel4": {
+    "id": 378,
+    "name": "Release/Physique Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      },
+      {
+        "description": "Reduces fixed stamina depletion by 10%.",
+        "level": 1,
+        "name": "Constitution"
+      }
+    ]
+  },
+  "footing/evasionjewel4": {
+    "id": 379,
+    "name": "Footing/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Nullifies minor ground tremors.",
+        "level": 1,
+        "name": "Tremor Resistance"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "charger/evasionjewel4": {
+    "id": 380,
+    "name": "Charger/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Increases gauge fill rate by 5% and reduces charge times by 5%.",
+        "level": 1,
+        "name": "Focus"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "enhancer/evasionjewel4": {
+    "id": 381,
+    "name": "Enhancer/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly increases the duration weapons are powered up.",
+        "level": 1,
+        "name": "Power Prolonger"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "destroyer/evasionjewel4": {
+    "id": 382,
+    "name": "Destroyer/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Part damage +10%",
+        "level": 1,
+        "name": "Partbreaker"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "ko/evasionjewel4": {
+    "id": 383,
+    "name": "KO/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Stun power +20%",
+        "level": 1,
+        "name": "Slugger"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "potential/evasionjewel4": {
+    "id": 384,
+    "name": "Potential/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, increases defense by 50 points.",
+        "level": 1,
+        "name": "Heroics"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "windresist/evasionjewel4": {
+    "id": 385,
+    "name": "Wind Resist/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of minor wind pressure.",
+        "level": 1,
+        "name": "Windproof"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "draw/evasionjewel4": {
+    "id": 386,
+    "name": "Draw/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Draw attack affinity +30%",
+        "level": 1,
+        "name": "Critical Draw"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "throttle/evasionjewel4": {
+    "id": 387,
+    "name": "Throttle/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10% and reduces stamina depletion by 30%.",
+        "level": 1,
+        "name": "Latent Power"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "challenger/evasionjewel4": {
+    "id": 388,
+    "name": "Challenger/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +4 and increases affinity by 5%.",
+        "level": 1,
+        "name": "Agitator"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "flawless/evasionjewel4": {
+    "id": 389,
+    "name": "Flawless/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Peak Performance"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "furor/evasionjewel4": {
+    "id": 390,
+    "name": "Furor/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, grants attack +5.",
+        "level": 1,
+        "name": "Resentment"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "mighty/evasionjewel4": {
+    "id": 391,
+    "name": "Mighty/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "While active, increases affinity by 10%.",
+        "level": 1,
+        "name": "Maximum Might"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "brace/evasionjewel4": {
+    "id": 392,
+    "name": "Brace/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 11,
+    "skills": [
+      {
+        "description": "Prevents knockbacks. Increases some Kinsect extract effects.",
+        "level": 1,
+        "name": "Flinch Free"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "phoenix/evasionjewel4": {
+    "id": 393,
+    "name": "Phoenix/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "While active, grants attack +12, element attack power +30, and status buildup +5%.",
+        "level": 1,
+        "name": "Coalescence"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "earplug/evasionjewel4": {
+    "id": 394,
+    "name": "Earplug/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Slightly reduces the effects of weak monster roars.",
+        "level": 1,
+        "name": "Earplugs"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "critical/evasionjewel4": {
+    "id": 395,
+    "name": "Critical/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Increases damage dealt by critical hits to 30%.",
+        "level": 1,
+        "name": "Critical Boost"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "tenderizer/evasionjewel4": {
+    "id": 396,
+    "name": "Tenderizer/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
+        "level": 1,
+        "name": "Weakness Exploit"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "handicraft/evasionjewel4": {
+    "id": 397,
+    "name": "Handicraft/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Weapon sharpness +10",
+        "level": 1,
+        "name": "Handicraft"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  },
+  "release/evasionjewel4": {
+    "id": 398,
+    "name": "Release/Evasion Jewel 4",
+    "slot": 4,
+    "rarity": 12,
+    "skills": [
+      {
+        "description": "Draws out 33% of hidden element and expands clip size for some ammo.",
+        "level": 1,
+        "name": "Free Elem/Ammo Up"
+      },
+      {
+        "description": "Very slightly increases invulnerability window.",
+        "level": 1,
+        "name": "Evade Window"
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+[
+ {
+  "name_en": "Anjanath Power",
+  "skill1_name": "Adrenaline",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Legiana Blessing",
+  "skill1_name": "Good Luck",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Odogaron Power",
+  "skill1_name": "Punishing Draw",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Rathalos Power",
+  "skill1_name": "Critical Element",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Diablos Power",
+  "skill1_name": "Bludgeoner",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Kirin Blessing",
+  "skill1_name": "Capture Master",
+  "skill1_required": 4,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Anjanath Will",
+  "skill1_name": "Adrenaline",
+  "skill1_required": 2,
+  "skill2_name": "Stamina Cap Up",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Pink Rathian Mastery",
+  "skill1_name": "Poison Duration Up",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Zorah Magdaros Mastery",
+  "skill1_name": "Critical Status",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Legiana Favor",
+  "skill1_name": "Good Luck",
+  "skill1_required": 2,
+  "skill2_name": "Bow Charge Plus",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Odogaron Mastery",
+  "skill1_name": "Punishing Draw",
+  "skill1_required": 2,
+  "skill2_name": "Protective Polish",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Rathalos Mastery",
+  "skill1_name": "Critical Element",
+  "skill1_required": 2,
+  "skill2_name": "Mind's Eye/Ballistics",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Diablos Mastery",
+  "skill1_name": "Bludgeoner",
+  "skill1_required": 2,
+  "skill2_name": "Non-elemental Boost",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Uragaan Protection",
+  "skill1_name": "Guard Up",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Bazelgeuse Protection",
+  "skill1_name": "Guts",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Nergigante Hunger",
+  "skill1_name": "Hasten Recovery",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Teostra Technique",
+  "skill1_name": "Master's Touch",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Kushala Daora Flight",
+  "skill1_name": "Nullify Wind Pressure",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Vaal Hazak Vitality",
+  "skill1_name": "Super Recovery",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Kirin Favor",
+  "skill1_name": "Capture Master",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Xeno'jiiva Divinity",
+  "skill1_name": "Razor Sharp/Spare Shot",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Guild Guidance",
+  "skill1_name": "Great Luck",
+  "skill1_required": 4,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Commission Guidance",
+  "skill1_name": "Carving Master",
+  "skill1_required": 4,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Lunastra Favor",
+  "skill1_name": "Stamina Cap Up",
+  "skill1_required": 2,
+  "skill2_name": "Mind's Eye/Ballistics",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Astera Blessing",
+  "skill1_name": "Great Luck",
+  "skill1_required": 5,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Soul of the Dragoon",
+  "skill1_name": "Elemental Airborne",
+  "skill1_required": 2,
+  "skill2_name": "Master's Touch",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Anjanath Dominance",
+  "skill1_name": "Stamina Cap Up",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Rathian Essence",
+  "skill1_name": "Poison Duration Up",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Ancient Divinity",
+  "skill1_name": "Critical Status",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Commission Alchemy",
+  "skill1_name": "Bombardier Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Barioth Hidden Art",
+  "skill1_name": "Punishing Draw",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Rathalos Essence",
+  "skill1_name": "Mind's Eye/Ballistics",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Diablos Ambition",
+  "skill1_name": "Slugger Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Legiana Ambition",
+  "skill1_name": "Bow Charge Plus",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Odogaron Essence",
+  "skill1_name": "Protective Polish",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Uragaan Ambition",
+  "skill1_name": "Guard Up",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Nargacuga Essence",
+  "skill1_name": "True Razor Sharp/Spare Shot",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Glavenus Essence",
+  "skill1_name": "Maximum Might Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Brachydios Essence",
+  "skill1_name": "Agitator Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Tigrex Essence",
+  "skill1_name": "Free Meal Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Instructor's Guidance",
+  "skill1_name": "Capture Master",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Bazelgeuse Ambition",
+  "skill1_name": "Guts",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Deviljho Essence",
+  "skill1_name": "Stamina Thief Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Velkhana Divinity",
+  "skill1_name": "Critical Element",
+  "skill1_required": 2,
+  "skill2_name": "Frostcraft",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Vaal Soulvein",
+  "skill1_name": "Super Recovery",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Kirin Divinity",
+  "skill1_name": "Great Luck",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Namielle Divinity",
+  "skill1_name": "Element Acceleration",
+  "skill1_required": 2,
+  "skill2_name": "True Element Acceleration",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Guild Pride",
+  "skill1_name": "Good Luck",
+  "skill1_required": 2,
+  "skill2_name": "Carving Master",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Shara Ishvalda Divinity",
+  "skill1_name": "Gaia's Veil",
+  "skill1_required": 4,
+  "skill2_name": "True Gaia's Veil",
+  "skill2_required": 5
+ },
+ {
+  "name_en": "Zorah Magdaros Essence",
+  "skill1_name": "Artillery Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Zinogre Essence",
+  "skill1_name": "Latent Power Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Gold Rathian Essence",
+  "skill1_name": "Divine Blessing Secret",
+  "skill1_required": 2,
+  "skill2_name": "True Critical Status",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Silver Rathalos Essence",
+  "skill1_name": "Slinger Ammo Secret",
+  "skill1_required": 2,
+  "skill2_name": "True Critical Element",
+  "skill2_required": 4
+ },
+ {
+  "name_en": "Lunastra Essence",
+  "skill1_name": "Tool Specialist Secret",
+  "skill1_required": 3,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Nergigante Ambition",
+  "skill1_name": "Hasten Recovery",
+  "skill1_required": 2,
+  "skill2_name": 0,
+  "skill2_required": 0
+ },
+ {
+  "name_en": "Joyful Blessing",
+  "skill1_name": "Joy's Gift",
+  "skill1_required": 3,
+  "skill2_name": "Joy's Gratitude",
+  "skill2_required": 5
+ },
+ {
+  "name_en": "Appreciation Blessing",
+  "skill1_name": "Gratitude's Gift",
+  "skill1_required": 3,
+  "skill2_name": "Gratitude's Blessing",
+  "skill2_required": 5
+ }
+]
