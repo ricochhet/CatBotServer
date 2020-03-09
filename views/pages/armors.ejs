@@ -73,12 +73,12 @@
 <script>
   _toggleTheme();
   _searchCompletion(`<%- MHW_OBJECTS %>`.split(','), function (input, finalInput) {
-    if (decorationArray.includes(input)) { window.location.href = `/decorations/${finalInput.split('/').join('+')}`; }
-    if (monsterArray.includes(input)) { window.location.href = `/monsters/${finalInput}`; }
-    if (weaponArray.includes(input)) { window.location.href = `/weapons/${finalInput}`; }
-    if (armorArray.includes(input)) { window.location.href = `/armors/${finalInput}`; }
-    if (skillArray.includes(input)) { window.location.href = `/skills/${finalInput}`; }
-    if (itemArray.includes(input)) { window.location.href = `/items/${finalInput}`; }
+    if (`<%- MHW_DECO_ARRAY %>`.split(',').includes(input)) { window.location.href = `/decorations/${finalInput.split('/').join('+')}`; }
+    if (`<%- MHW_MONSTER_ARRAY %>`.split(',').includes(input)) { window.location.href = `/monsters/${finalInput}`; }
+    if (`<%- MHW_WEAPON_ARRAY %>`.split(',').includes(input)) { window.location.href = `/weapons/${finalInput}`; }
+    if (`<%- MHW_ARMOR_ARRAY %>`.split(',').includes(input)) { window.location.href = `/armors/${finalInput}`; }
+    if (`<%- MHW_SKILL_ARRAY %>`.split(',').includes(input)) { window.location.href = `/skills/${finalInput}`; }
+    if (`<%- MHW_ITEM_ARRAY %>`.split(',').includes(input)) { window.location.href = `/items/${finalInput}`; }
   });
 </script>
 

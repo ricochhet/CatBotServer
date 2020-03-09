@@ -157,7 +157,13 @@ class App {
     // Adding the main homepage router
     rm.addRoute('/', 'main.ejs', function(render, res, req) {
       req.render(render, {
-        MHW_OBJECTS: mhwObjects
+        MHW_OBJECTS: mhwObjects,
+        MHW_DECO_ARRAY: decorationArray,
+        MHW_MONSTER_ARRAY: monsterArray,
+        MHW_WEAPON_ARRAY: weaponArray,
+        MHW_ARMOR_ARRAY: armorArray,
+        MHW_SKILL_ARRAY: skillArray,
+        MHW_ITEM_ARRAY: itemArray
       });
     });
 
@@ -165,7 +171,13 @@ class App {
     rm.addRoute('/monsters', 'pages/monsters.ejs', function(render, res, req) {
       req.render(render, {
         MONSTER_MAP: monsterMap,
-        MHW_OBJECTS: mhwObjects
+        MHW_OBJECTS: mhwObjects,
+        MHW_DECO_ARRAY: decorationArray,
+        MHW_MONSTER_ARRAY: monsterArray,
+        MHW_WEAPON_ARRAY: weaponArray,
+        MHW_ARMOR_ARRAY: armorArray,
+        MHW_SKILL_ARRAY: skillArray,
+        MHW_ITEM_ARRAY: itemArray
       });
     });
 
@@ -204,7 +216,13 @@ class App {
           MONSTER_HZV_ICE: monster.hzv.ice,
           MONSTER_HZV_DRAGON: monster.hzv.dragon,
           MONSTER_HZV_DATA: hzv,
-          MHW_OBJECTS: mhwObjects
+          MHW_OBJECTS: mhwObjects,
+          MHW_DECO_ARRAY: decorationArray,
+          MHW_MONSTER_ARRAY: monsterArray,
+          MHW_WEAPON_ARRAY: weaponArray,
+          MHW_ARMOR_ARRAY: armorArray,
+          MHW_SKILL_ARRAY: skillArray,
+          MHW_ITEM_ARRAY: itemArray
         });
       }
     });
@@ -212,7 +230,13 @@ class App {
     rm.addRoute('/items', 'pages/items.ejs', function(render, res, req) {
       req.render(render, {
         ITEM_MAP: itemMap,
-        MHW_OBJECTS: mhwObjects
+        MHW_OBJECTS: mhwObjects,
+        MHW_DECO_ARRAY: decorationArray,
+        MHW_MONSTER_ARRAY: monsterArray,
+        MHW_WEAPON_ARRAY: weaponArray,
+        MHW_ARMOR_ARRAY: armorArray,
+        MHW_SKILL_ARRAY: skillArray,
+        MHW_ITEM_ARRAY: itemArray
       });
     });
 
@@ -238,7 +262,13 @@ class App {
           ITEM_BUY: item.buy,
           ITEM_VALUE: item.value,
           ITEM_ID: itemID,
-          MHW_OBJECTS: mhwObjects
+          MHW_OBJECTS: mhwObjects,
+          MHW_DECO_ARRAY: decorationArray,
+          MHW_MONSTER_ARRAY: monsterArray,
+          MHW_WEAPON_ARRAY: weaponArray,
+          MHW_ARMOR_ARRAY: armorArray,
+          MHW_SKILL_ARRAY: skillArray,
+          MHW_ITEM_ARRAY: itemArray
         });
       }
     });
@@ -246,7 +276,13 @@ class App {
     rm.addRoute('/armors', 'pages/armors.ejs', function(render, res, req) {
       req.render(render, {
         ARMOR_MAP: armorMap,
-        MHW_OBJECTS: mhwObjects
+        MHW_OBJECTS: mhwObjects,
+        MHW_DECO_ARRAY: decorationArray,
+        MHW_MONSTER_ARRAY: monsterArray,
+        MHW_WEAPON_ARRAY: weaponArray,
+        MHW_ARMOR_ARRAY: armorArray,
+        MHW_SKILL_ARRAY: skillArray,
+        MHW_ITEM_ARRAY: itemArray
       });
     });
 
@@ -264,7 +300,13 @@ class App {
           ARMOR_PIECES: armor.pieces,
           ARMOR_SKILLS: armor.skills,
           ARMOR_SLOTS: armor.slots,
-          MHW_OBJECTS: mhwObjects
+          MHW_OBJECTS: mhwObjects,
+          MHW_DECO_ARRAY: decorationArray,
+          MHW_MONSTER_ARRAY: monsterArray,
+          MHW_WEAPON_ARRAY: weaponArray,
+          MHW_ARMOR_ARRAY: armorArray,
+          MHW_SKILL_ARRAY: skillArray,
+          MHW_ITEM_ARRAY: itemArray
         });
       }
     });
@@ -273,7 +315,13 @@ class App {
       req.render(render, {
         ICON_MAP: mhwIcons,
         WEAPON_MAP: weaponMap,
-        MHW_OBJECTS: mhwObjects
+        MHW_OBJECTS: mhwObjects,
+        MHW_DECO_ARRAY: decorationArray,
+        MHW_MONSTER_ARRAY: monsterArray,
+        MHW_WEAPON_ARRAY: weaponArray,
+        MHW_ARMOR_ARRAY: armorArray,
+        MHW_SKILL_ARRAY: skillArray,
+        MHW_ITEM_ARRAY: itemArray
       });
     });
 
@@ -310,7 +358,13 @@ class App {
           WEAPON_COATINGS: coatingArray,
           WEAPON_CRAFTING: weapon.crafting,
           WEAPON_UPGRADE: weapon.upgrade,
-          MHW_OBJECTS: mhwObjects
+          MHW_OBJECTS: mhwObjects,
+          MHW_DECO_ARRAY: decorationArray,
+          MHW_MONSTER_ARRAY: monsterArray,
+          MHW_WEAPON_ARRAY: weaponArray,
+          MHW_ARMOR_ARRAY: armorArray,
+          MHW_SKILL_ARRAY: skillArray,
+          MHW_ITEM_ARRAY: itemArray
         });
       }
     });
@@ -322,7 +376,13 @@ class App {
     ) {
       req.render(render, {
         DECORATION_MAP: decorationMap,
-        MHW_OBJECTS: mhwObjects
+        MHW_OBJECTS: mhwObjects,
+        MHW_DECO_ARRAY: decorationArray,
+        MHW_MONSTER_ARRAY: monsterArray,
+        MHW_WEAPON_ARRAY: weaponArray,
+        MHW_ARMOR_ARRAY: armorArray,
+        MHW_SKILL_ARRAY: skillArray,
+        MHW_ITEM_ARRAY: itemArray
       });
     });
 
@@ -342,7 +402,13 @@ class App {
           DECORATION_RARITY: decoration.rarity,
           DECORATION_SLOT: decoration.slot,
           DECORATION_SKILLS: decoration.skills,
-          MHW_OBJECTS: mhwObjects
+          MHW_OBJECTS: mhwObjects,
+          MHW_DECO_ARRAY: decorationArray,
+          MHW_MONSTER_ARRAY: monsterArray,
+          MHW_WEAPON_ARRAY: weaponArray,
+          MHW_ARMOR_ARRAY: armorArray,
+          MHW_SKILL_ARRAY: skillArray,
+          MHW_ITEM_ARRAY: itemArray
         });
       }
     });
@@ -350,7 +416,13 @@ class App {
     rm.addRoute('/skills', 'pages/skills.ejs', function(render, res, req) {
       req.render(render, {
         SKILL_MAP: skillMap,
-        MHW_OBJECTS: mhwObjects
+        MHW_OBJECTS: mhwObjects,
+        MHW_DECO_ARRAY: decorationArray,
+        MHW_MONSTER_ARRAY: monsterArray,
+        MHW_WEAPON_ARRAY: weaponArray,
+        MHW_ARMOR_ARRAY: armorArray,
+        MHW_SKILL_ARRAY: skillArray,
+        MHW_ITEM_ARRAY: itemArray
       });
     });
 
@@ -363,7 +435,13 @@ class App {
           SKILL_NAME: skill.name,
           SKILL_DESCRIPTION: skill.description,
           SKILL_RANKS: skill.ranks,
-          MHW_OBJECTS: mhwObjects
+          MHW_OBJECTS: mhwObjects,
+          MHW_DECO_ARRAY: decorationArray,
+          MHW_MONSTER_ARRAY: monsterArray,
+          MHW_WEAPON_ARRAY: weaponArray,
+          MHW_ARMOR_ARRAY: armorArray,
+          MHW_SKILL_ARRAY: skillArray,
+          MHW_ITEM_ARRAY: itemArray
         });
       }
     });
@@ -372,7 +450,13 @@ class App {
       req.render(render, {
         ICON_MAP: mhwIcons,
         QUESTID_MAP: questIDDB,
-        MHW_OBJECTS: mhwObjects
+        MHW_OBJECTS: mhwObjects,
+        MHW_DECO_ARRAY: decorationArray,
+        MHW_MONSTER_ARRAY: monsterArray,
+        MHW_WEAPON_ARRAY: weaponArray,
+        MHW_ARMOR_ARRAY: armorArray,
+        MHW_SKILL_ARRAY: skillArray,
+        MHW_ITEM_ARRAY: itemArray
       });
     });
 
