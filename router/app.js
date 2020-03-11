@@ -108,6 +108,12 @@ for (const i of Object.keys(userAccounts)) {
   accounts.set(i, userAccounts[i]);
 }
 
+const mhwWeaponUsageData = require('../database/build/def/weaponusage.json');
+const mhwWeaponUsage = new Map();
+for (const i of Object.keys(mhwWeaponUsageData)) {
+  mhwWeaponUsage.set(i, mhwWeaponUsageData[i]);
+}
+
 const mhwIcons = new Map([
   ['hammer', '../icons/equipment/ic_equipment_hammer_base.svg'],
   ['great-sword', '../icons/equipment/ic_equipment_greatsword_base.svg'],
@@ -156,7 +162,10 @@ class App {
     /* ## USER DEFINED ## */
     // Adding the main homepage router
     rm.addRoute('/', 'main.ejs', function(render, res, req) {
+      const data = mhwWeaponUsage.get('2020');
+
       req.render(render, {
+        MHW_WEAPON_USAGE: data,
         MHW_OBJECTS: mhwObjects,
         MHW_DECO_ARRAY: decorationArray,
         MHW_MONSTER_ARRAY: monsterArray,

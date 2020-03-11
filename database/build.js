@@ -903,11 +903,13 @@ class Build {
       };
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
+    /*fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
       if (err) {
         console.log(err);
       }
-    });
+    });*/
+
+    fs.writeFileSync(writeTo, JSON.stringify(db, null, 2));
   }
 
   async api_weapons(writeTo, advanced) {
@@ -1305,11 +1307,7 @@ class Build {
       };
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
-      if (err) {
-        console.log(err);
-      }
-    });
+    fs.writeFileSync(writeTo, JSON.stringify(db, null, 2));
   }
 
   async items(writeTo) {
@@ -1346,11 +1344,7 @@ class Build {
       items.set(i, db[i]);
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
-      if (err) {
-        console.log(err);
-      }
-    });
+    fs.writeFileSync(writeTo, JSON.stringify(db, null, 2));
   }
 
   async decorations(writeTo, advanced) {
@@ -1393,11 +1387,7 @@ class Build {
       }
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
-      if (err) {
-        console.log(err);
-      }
-    });
+    fs.writeFileSync(writeTo, JSON.stringify(db, null, 2));
   }
 
   async skills(writeTo, advanced) {
@@ -1428,11 +1418,7 @@ class Build {
       }
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
-      if (err) {
-        console.log(err);
-      }
-    });
+    fs.writeFileSync(writeTo, JSON.stringify(db, null, 2));
   }
 
   async charms(writeTo, advanced) {}
@@ -1610,11 +1596,7 @@ class Build {
       }
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
-      if (err) {
-        console.log(err);
-      }
-    });
+    fs.writeFileSync(writeTo, JSON.stringify(db, null, 2));
   }
 
   async armorPieces(writeTo, advanced) {
@@ -1776,11 +1758,7 @@ class Build {
       }
     }
 
-    fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
-      if (err) {
-        console.log(err);
-      }
-    });
+    fs.writeFileSync(writeTo, JSON.stringify(db, null, 2));
   }
 }
 

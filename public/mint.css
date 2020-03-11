@@ -94,6 +94,8 @@ a:hover, button:hover {
     padding-bottom: 25px;
     margin: auto;
     text-align: center;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 
 .page-container__center--flex {

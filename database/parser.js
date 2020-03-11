@@ -179,7 +179,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/armors/armor_pieces.json",
+			"./database/json/armors/armor_pieces.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -190,7 +190,7 @@ class ChunkParser {
 	}
 	armors() {
 		const armorset_base = require("./source_json/armors/armorset_base.json");
-		const armor_pieces = require("./build/armors/armor_pieces.json");
+		const armor_pieces = require("./json/armors/armor_pieces.json");
 		const armorset_bonus_base = require("./source_json/armors/armorset_bonus_base.json");
 		const skill_levels = require("./source_json/skills/skill_levels.json");
 
@@ -325,7 +325,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/armors/armor_sets.json",
+			"./database/json/armors/armor_sets.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -355,7 +355,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/charms/charms.json",
+			"./database/json/charms/charms.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -448,7 +448,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/decorations/decorations.json",
+			"./database/json/decorations/decorations.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -522,7 +522,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/items/items.json",
+			"./database/json/items/items.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -691,7 +691,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/monsters/monsters.json",
+			"./database/json/monsters/monsters.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -761,7 +761,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/quests/quests.json",
+			"./database/json/quests/quests.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -804,7 +804,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/skills/skills.json",
+			"./database/json/skills/skills.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -889,7 +889,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/weapons/kinsects.json",
+			"./database/json/weapons/kinsects.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
@@ -1378,7 +1378,7 @@ class ChunkParser {
 		}
 
 		fs.writeFile(
-			"./database/tools/build/weapons/weapons.json",
+			"./database/json/weapons/weapons.json",
 			JSON.stringify(obj, null, 2),
 			err => {
 				if (err) {
