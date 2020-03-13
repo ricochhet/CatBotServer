@@ -1,0 +1,709 @@
+[
+ {
+  "id": 1,
+  "result": "Potion",
+  "first": "Herb",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 2,
+  "result": "Mega Potion",
+  "first": "Potion",
+  "second": "Honey",
+  "quantity": 1
+ },
+ {
+  "id": 3,
+  "result": "First-aid Med+",
+  "first": "First-aid Med",
+  "second": "Honey",
+  "quantity": 1
+ },
+ {
+  "id": 4,
+  "result": "Antidote",
+  "first": "Antidote Herb",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 5,
+  "result": "Herbal Medicine",
+  "first": "Antidote",
+  "second": "Blue Mushroom",
+  "quantity": 1
+ },
+ {
+  "id": 6,
+  "result": "Nutrients",
+  "first": "Bitterbug",
+  "second": "Blue Mushroom",
+  "quantity": 1
+ },
+ {
+  "id": 7,
+  "result": "Mega Nutrients",
+  "first": "Nutrients",
+  "second": "Honey",
+  "quantity": 1
+ },
+ {
+  "id": 8,
+  "result": "Max Potion",
+  "first": "Mega Nutrients",
+  "second": "Mandragora",
+  "quantity": 1
+ },
+ {
+  "id": 9,
+  "result": "Catalyst",
+  "first": "Bitterbug",
+  "second": "Honey",
+  "quantity": 1
+ },
+ {
+  "id": 10,
+  "result": "Immunizer",
+  "first": "Catalyst",
+  "second": "Mandragora",
+  "quantity": 1
+ },
+ {
+  "id": 11,
+  "result": "Ancient Potion",
+  "first": "Immunizer",
+  "second": "Kelbi Horn",
+  "quantity": 1
+ },
+ {
+  "id": 12,
+  "result": "Ancient Potion",
+  "first": "Nourishing Extract",
+  "second": "Kelbi Horn",
+  "quantity": 1
+ },
+ {
+  "id": 13,
+  "result": "Lifepowder",
+  "first": "Godbug",
+  "second": "Blue Mushroom",
+  "quantity": 1
+ },
+ {
+  "id": 14,
+  "result": "Dust of Life",
+  "first": "Godbug",
+  "second": "Gloamgrass Bud",
+  "quantity": 1
+ },
+ {
+  "id": 15,
+  "result": "Herbal Powder",
+  "first": "Godbug",
+  "second": "Herbal Medicine",
+  "quantity": 1
+ },
+ {
+  "id": 16,
+  "result": "Energy Drink",
+  "first": "Nitroshroom",
+  "second": "Honey",
+  "quantity": 1
+ },
+ {
+  "id": 17,
+  "result": "Cool Drink",
+  "first": "Chillshroom",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 18,
+  "result": "Hot Drink",
+  "first": "Hot Pepper",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 19,
+  "result": "Dash Juice",
+  "first": "Catalyst",
+  "second": "Dash Extract",
+  "quantity": 1
+ },
+ {
+  "id": 20,
+  "result": "Demondrug",
+  "first": "Catalyst",
+  "second": "Might Seed",
+  "quantity": 1
+ },
+ {
+  "id": 21,
+  "result": "Mega Demondrug",
+  "first": "Nourishing Extract",
+  "second": "Demondrug",
+  "quantity": 1
+ },
+ {
+  "id": 22,
+  "result": "Demon Powder",
+  "first": "Godbug",
+  "second": "Might Seed",
+  "quantity": 1
+ },
+ {
+  "id": 23,
+  "result": "Might Pill",
+  "first": "Immunizer",
+  "second": "Might Seed",
+  "quantity": 1
+ },
+ {
+  "id": 24,
+  "result": "Armorskin",
+  "first": "Catalyst",
+  "second": "Adamant Seed",
+  "quantity": 1
+ },
+ {
+  "id": 25,
+  "result": "Mega Armorskin",
+  "first": "Nourishing Extract",
+  "second": "Armorskin",
+  "quantity": 1
+ },
+ {
+  "id": 26,
+  "result": "Hardshell Powder",
+  "first": "Godbug",
+  "second": "Adamant Seed",
+  "quantity": 1
+ },
+ {
+  "id": 27,
+  "result": "Adamant Pill",
+  "first": "Immunizer",
+  "second": "Adamant Seed",
+  "quantity": 1
+ },
+ {
+  "id": 28,
+  "result": "Farcaster",
+  "first": "Smokenut",
+  "second": "Exciteshroom",
+  "quantity": 1
+ },
+ {
+  "id": 29,
+  "result": "Gunpowder",
+  "first": "Fire Herb",
+  "second": "Nitroshroom",
+  "quantity": 1
+ },
+ {
+  "id": 30,
+  "result": "Barrel Bomb",
+  "first": "Fire Herb",
+  "second": "Small Barrel",
+  "quantity": 1
+ },
+ {
+  "id": 31,
+  "result": "Bounce Bomb",
+  "first": "Nitroshroom",
+  "second": "Small Barrel",
+  "quantity": 1
+ },
+ {
+  "id": 32,
+  "result": "Mega Bounce Bomb",
+  "first": "Nitroshroom",
+  "second": "Bounce Bomb",
+  "quantity": 1
+ },
+ {
+  "id": 33,
+  "result": "Large Barrel Bomb",
+  "first": "Gunpowder",
+  "second": "Large Barrel",
+  "quantity": 1
+ },
+ {
+  "id": 34,
+  "result": "Mega Barrel Bomb",
+  "first": "Devil's Blight",
+  "second": "Large Barrel Bomb",
+  "quantity": 1
+ },
+ {
+  "id": 35,
+  "result": "Mega Barrel Bomb",
+  "first": "Gunpowderfish Scale",
+  "second": "Large Barrel Bomb",
+  "quantity": 1
+ },
+ {
+  "id": 36,
+  "result": "Mega Barrel Bomb",
+  "first": "Great Gunpowderfish Scale",
+  "second": "Large Barrel",
+  "quantity": 1
+ },
+ {
+  "id": 37,
+  "result": "Smoke Bomb",
+  "first": "Smokenut",
+  "second": "Ivy",
+  "quantity": 1
+ },
+ {
+  "id": 38,
+  "result": "Poison Smoke Bomb",
+  "first": "Smokenut",
+  "second": "Toadstool",
+  "quantity": 1
+ },
+ {
+  "id": 39,
+  "result": "Flash Pod",
+  "first": "Flashbug",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 40,
+  "result": "Screamer Pod",
+  "first": "Screamer Sac",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 41,
+  "result": "Dung Pod",
+  "first": "Dung",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 42,
+  "result": "Dung Pod",
+  "first": "Rolled-up Dung",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 43,
+  "result": "Poisoned Meat",
+  "first": "Raw Meat",
+  "second": "Toadstool",
+  "quantity": 1
+ },
+ {
+  "id": 44,
+  "result": "Tinged Meat",
+  "first": "Raw Meat",
+  "second": "Parashroom",
+  "quantity": 1
+ },
+ {
+  "id": 45,
+  "result": "Drugged Meat",
+  "first": "Raw Meat",
+  "second": "Sleep Herb",
+  "quantity": 1
+ },
+ {
+  "id": 46,
+  "result": "Net",
+  "first": "Ivy",
+  "second": "Spider Web",
+  "quantity": 1
+ },
+ {
+  "id": 47,
+  "result": "Pitfall Trap",
+  "first": "Trap Tool",
+  "second": "Net",
+  "quantity": 1
+ },
+ {
+  "id": 48,
+  "result": "Shock Trap",
+  "first": "Trap Tool",
+  "second": "Thunderbug",
+  "quantity": 1
+ },
+ {
+  "id": 49,
+  "result": "Tranq Bomb",
+  "first": "Sleep Herb",
+  "second": "Parashroom",
+  "quantity": 1
+ },
+ {
+  "id": 50,
+  "result": "Tranq Ammo",
+  "first": "Tranq Bomb",
+  "second": "Normal Ammo 1",
+  "quantity": 1
+ },
+ {
+  "id": 51,
+  "result": "Tranq Knife",
+  "first": "Tranq Bomb",
+  "second": "Throwing Knife",
+  "quantity": 1
+ },
+ {
+  "id": 52,
+  "result": "Poison Knife",
+  "first": "Throwing Knife",
+  "second": "Toadstool",
+  "quantity": 1
+ },
+ {
+  "id": 53,
+  "result": "Sleep Knife",
+  "first": "Throwing Knife",
+  "second": "Sleep Herb",
+  "quantity": 1
+ },
+ {
+  "id": 54,
+  "result": "Paralysis Knife",
+  "first": "Throwing Knife",
+  "second": "Parashroom",
+  "quantity": 1
+ },
+ {
+  "id": 55,
+  "result": "Power Coating",
+  "first": "Empty Phial",
+  "second": "Nitroshroom",
+  "quantity": 1
+ },
+ {
+  "id": 56,
+  "result": "Poison Coating",
+  "first": "Empty Phial",
+  "second": "Toadstool",
+  "quantity": 1
+ },
+ {
+  "id": 57,
+  "result": "Paralysis Coating",
+  "first": "Empty Phial",
+  "second": "Parashroom",
+  "quantity": 1
+ },
+ {
+  "id": 58,
+  "result": "Sleep Coating",
+  "first": "Empty Phial",
+  "second": "Sleep Herb",
+  "quantity": 1
+ },
+ {
+  "id": 59,
+  "result": "Blast Coating",
+  "first": "Empty Phial",
+  "second": "Fire Herb",
+  "quantity": 1
+ },
+ {
+  "id": 60,
+  "result": "Normal Ammo 2",
+  "first": "Normal Ammo 1",
+  "second": "Gunpowder Level 2",
+  "quantity": 4
+ },
+ {
+  "id": 61,
+  "result": "Normal Ammo 3",
+  "first": "Normal Ammo 1",
+  "second": "Gunpowder Level 3",
+  "quantity": 4
+ },
+ {
+  "id": 62,
+  "result": "Pierce Ammo 1",
+  "first": "Latchberry",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 63,
+  "result": "Pierce Ammo 2",
+  "first": "Pierce Ammo 1",
+  "second": "Gunpowder Level 2",
+  "quantity": 4
+ },
+ {
+  "id": 64,
+  "result": "Pierce Ammo 3",
+  "first": "Pierce Ammo 1",
+  "second": "Gunpowder Level 3",
+  "quantity": 4
+ },
+ {
+  "id": 65,
+  "result": "Spread Ammo 1",
+  "first": "Needleberry",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 66,
+  "result": "Spread Ammo 2",
+  "first": "Spread Ammo 1",
+  "second": "Gunpowder Level 2",
+  "quantity": 4
+ },
+ {
+  "id": 67,
+  "result": "Spread Ammo 3",
+  "first": "Spread Ammo 1",
+  "second": "Gunpowder Level 3",
+  "quantity": 4
+ },
+ {
+  "id": 68,
+  "result": "Sticky Ammo 1",
+  "first": "Blastnut",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 69,
+  "result": "Sticky Ammo 2",
+  "first": "Sticky Ammo 1",
+  "second": "Gunpowder Level 2",
+  "quantity": 2
+ },
+ {
+  "id": 70,
+  "result": "Sticky Ammo 3",
+  "first": "Sticky Ammo 1",
+  "second": "Gunpowder Level 3",
+  "quantity": 2
+ },
+ {
+  "id": 71,
+  "result": "Cluster Bomb 1",
+  "first": "Bomberry",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 72,
+  "result": "Cluster Bomb 2",
+  "first": "Cluster Bomb 1",
+  "second": "Gunpowder Level 2",
+  "quantity": 1
+ },
+ {
+  "id": 73,
+  "result": "Cluster Bomb 3",
+  "first": "Cluster Bomb 1",
+  "second": "Gunpowder Level 3",
+  "quantity": 1
+ },
+ {
+  "id": 74,
+  "result": "Slicing Ammo",
+  "first": "Slashberry",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 75,
+  "result": "Flaming Ammo",
+  "first": "Normal Ammo 1",
+  "second": "Fire Herb",
+  "quantity": 3
+ },
+ {
+  "id": 76,
+  "result": "Water Ammo",
+  "first": "Normal Ammo 1",
+  "second": "Flowfern",
+  "quantity": 3
+ },
+ {
+  "id": 77,
+  "result": "Thunder Ammo",
+  "first": "Normal Ammo 1",
+  "second": "Thunderbug",
+  "quantity": 6
+ },
+ {
+  "id": 78,
+  "result": "Freeze Ammo",
+  "first": "Normal Ammo 1",
+  "second": "Snow Herb",
+  "quantity": 3
+ },
+ {
+  "id": 79,
+  "result": "Dragon Ammo",
+  "first": "Normal Ammo 1",
+  "second": "Dragonfell Berry",
+  "quantity": 1
+ },
+ {
+  "id": 80,
+  "result": "Poison Ammo 1",
+  "first": "Normal Ammo 1",
+  "second": "Toadstool",
+  "quantity": 1
+ },
+ {
+  "id": 81,
+  "result": "Poison Ammo 2",
+  "first": "Poison Ammo 1",
+  "second": "Catalyst",
+  "quantity": 1
+ },
+ {
+  "id": 82,
+  "result": "Paralysis Ammo 1",
+  "first": "Normal Ammo 1",
+  "second": "Parashroom",
+  "quantity": 1
+ },
+ {
+  "id": 83,
+  "result": "Paralysis Ammo 2",
+  "first": "Paralysis Ammo 1",
+  "second": "Catalyst",
+  "quantity": 1
+ },
+ {
+  "id": 84,
+  "result": "Sleep Ammo 1",
+  "first": "Normal Ammo 1",
+  "second": "Sleep Herb",
+  "quantity": 1
+ },
+ {
+  "id": 85,
+  "result": "Sleep Ammo 2",
+  "first": "Sleep Ammo 1",
+  "second": "Catalyst",
+  "quantity": 1
+ },
+ {
+  "id": 86,
+  "result": "Exhaust Ammo 1",
+  "first": "Normal Ammo 1",
+  "second": "Exciteshroom",
+  "quantity": 1
+ },
+ {
+  "id": 87,
+  "result": "Exhaust Ammo 2",
+  "first": "Exhaust Ammo 1",
+  "second": "Catalyst",
+  "quantity": 1
+ },
+ {
+  "id": 88,
+  "result": "Recover Ammo 1",
+  "first": "Normal Ammo 1",
+  "second": "Potion",
+  "quantity": 2
+ },
+ {
+  "id": 89,
+  "result": "Recover Ammo 2",
+  "first": "Recover Ammo 1",
+  "second": "Catalyst",
+  "quantity": 2
+ },
+ {
+  "id": 90,
+  "result": "Demon Ammo",
+  "first": "Normal Ammo 1",
+  "second": "Demondrug",
+  "quantity": 3
+ },
+ {
+  "id": 91,
+  "result": "Armor Ammo",
+  "first": "Normal Ammo 1",
+  "second": "Armorskin",
+  "quantity": 3
+ },
+ {
+  "id": 92,
+  "result": "Wyvern Ammo",
+  "first": "Dragonstrike Nut",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 93,
+  "result": "Gunpowder Level 2",
+  "first": "Flamenut",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 94,
+  "result": "Gunpowder Level 2",
+  "first": "Burst Arowana Scale",
+  "second": "Fire Herb",
+  "quantity": 20
+ },
+ {
+  "id": 95,
+  "result": "Gunpowder Level 2",
+  "first": "Great Burst Arowana Scale",
+  "second": "Fire Herb",
+  "quantity": 40
+ },
+ {
+  "id": 96,
+  "result": "Gunpowder Level 3",
+  "first": "Blazenut",
+  "second": 0,
+  "quantity": 1
+ },
+ {
+  "id": 97,
+  "result": "Gunpowder Level 3",
+  "first": "Bomb Arowana Scale",
+  "second": "Fire Herb",
+  "quantity": 20
+ },
+ {
+  "id": 98,
+  "result": "Gunpowder Level 3",
+  "first": "Great Bomb Arowana Scale",
+  "second": "Fire Herb",
+  "quantity": 40
+ },
+ {
+  "id": 99,
+  "result": "Powertalon",
+  "first": "Powercharm",
+  "second": "Bazelgeuse Talon",
+  "quantity": 1
+ },
+ {
+  "id": 100,
+  "result": "Armortalon",
+  "first": "Armorcharm",
+  "second": "Bazelgeuse Talon",
+  "quantity": 1
+ },
+ {
+  "id": 101,
+  "result": "Mixed Herb (G+R)",
+  "first": "Green Herb",
+  "second": "Red Herb",
+  "quantity": 1
+ }
+]

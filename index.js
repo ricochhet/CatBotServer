@@ -1,2 +1,3 @@
-const App = require('./router/app');
-App.deploy();
+const Server = require('./api/server');
+const server = new Server();
+server.run(8080);

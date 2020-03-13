@@ -1,0 +1,2387 @@
+{
+  "culldronei": {
+    "id": 1,
+    "name": "Culldrone I",
+    "rarity": 1,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 1,
+    "speed": 1,
+    "heal": 1,
+    "crafting": []
+  },
+  "culldroneii": {
+    "id": 2,
+    "name": "Culldrone II",
+    "rarity": 2,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 2,
+    "speed": 2,
+    "heal": 2,
+    "crafting": [
+      {
+        "name": "Iron Ore",
+        "quantity": 3
+      }
+    ]
+  },
+  "culldroneiii": {
+    "id": 3,
+    "name": "Culldrone III",
+    "rarity": 2,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 3,
+    "speed": 3,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Earth Crystal",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Bone M",
+        "quantity": 1
+      }
+    ]
+  },
+  "alucanidi": {
+    "id": 4,
+    "name": "Alucanid I",
+    "rarity": 3,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 6,
+    "speed": 3,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Monster Bone L",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Ore",
+        "quantity": 3
+      }
+    ]
+  },
+  "alucanidii": {
+    "id": 5,
+    "name": "Alucanid II",
+    "rarity": 4,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 8,
+    "speed": 4,
+    "heal": 6,
+    "crafting": [
+      {
+        "name": "Dragonite Ore",
+        "quantity": 3
+      }
+    ]
+  },
+  "alucanidiii": {
+    "id": 6,
+    "name": "Alucanid III",
+    "rarity": 4,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 10,
+    "speed": 5,
+    "heal": 8,
+    "crafting": [
+      {
+        "name": "Monster Bone+",
+        "quantity": 2
+      },
+      {
+        "name": "Anjanath Fang",
+        "quantity": 1
+      }
+    ]
+  },
+  "monarchalucanidi": {
+    "id": 7,
+    "name": "Monarch Alucanid I",
+    "rarity": 5,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 12,
+    "speed": 6,
+    "heal": 9,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Carbalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Piercing Claw",
+        "quantity": 2
+      }
+    ]
+  },
+  "monarchalucanidii": {
+    "id": 8,
+    "name": "Monarch Alucanid II",
+    "rarity": 6,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 13,
+    "speed": 6,
+    "heal": 10,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Fucium Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Toxin Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "monarchalucanidiii": {
+    "id": 9,
+    "name": "Monarch Alucanid III",
+    "rarity": 7,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 14,
+    "speed": 7,
+    "heal": 11,
+    "crafting": [
+      {
+        "name": "Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Novacrystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "empresswingi": {
+    "id": 10,
+    "name": "Empresswing I",
+    "rarity": 5,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 13,
+    "speed": 5,
+    "heal": 8,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Carbalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Monster Broth",
+        "quantity": 2
+      }
+    ]
+  },
+  "empresswingii": {
+    "id": 11,
+    "name": "Empresswing II",
+    "rarity": 6,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 14,
+    "speed": 5,
+    "heal": 9,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Fucium Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Inferno Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "empresswingiii": {
+    "id": 12,
+    "name": "Empresswing III",
+    "rarity": 7,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 15,
+    "speed": 5,
+    "heal": 10,
+    "crafting": [
+      {
+        "name": "Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Firecell Stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "rigipraynei": {
+    "id": 13,
+    "name": "Rigiprayne I",
+    "rarity": 3,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 3,
+    "speed": 3,
+    "heal": 8,
+    "crafting": [
+      {
+        "name": "Monster Bone L",
+        "quantity": 1
+      },
+      {
+        "name": "Earth Crystal",
+        "quantity": 2
+      }
+    ]
+  },
+  "rigiprayneii": {
+    "id": 14,
+    "name": "Rigiprayne II",
+    "rarity": 4,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 3,
+    "speed": 4,
+    "heal": 9,
+    "crafting": [
+      {
+        "name": "Dragonite Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Coral Crystal",
+        "quantity": 2
+      }
+    ]
+  },
+  "rigiprayneiii": {
+    "id": 15,
+    "name": "Rigiprayne III",
+    "rarity": 4,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 4,
+    "speed": 4,
+    "heal": 11,
+    "crafting": [
+      {
+        "name": "Monster Bone+",
+        "quantity": 2
+      },
+      {
+        "name": "Tzitzi-Ya-Ku Claw",
+        "quantity": 1
+      }
+    ]
+  },
+  "cancadamani": {
+    "id": 16,
+    "name": "Cancadaman I",
+    "rarity": 5,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 4,
+    "speed": 10,
+    "heal": 13,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Carbalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Hornetaur Carapace",
+        "quantity": 2
+      }
+    ]
+  },
+  "cancadamanii": {
+    "id": 17,
+    "name": "Cancadaman II",
+    "rarity": 6,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 4,
+    "speed": 11,
+    "heal": 14,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Fucium Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Omniplegia Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "cancadamaniii": {
+    "id": 18,
+    "name": "Cancadaman III",
+    "rarity": 7,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 4,
+    "speed": 12,
+    "heal": 15,
+    "crafting": [
+      {
+        "name": "Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Dragonbone Relic",
+        "quantity": 1
+      }
+    ]
+  },
+  "fiddlebrixi": {
+    "id": 19,
+    "name": "Fiddlebrix I",
+    "rarity": 5,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 9,
+    "speed": 4,
+    "heal": 13,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Carbalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Shamos Hide+",
+        "quantity": 2
+      }
+    ]
+  },
+  "fiddlebrixii": {
+    "id": 20,
+    "name": "Fiddlebrix II",
+    "rarity": 6,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 10,
+    "speed": 4,
+    "heal": 14,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Fucium Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Inferno Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "fiddlebrixiii": {
+    "id": 21,
+    "name": "Fiddlebrix III",
+    "rarity": 7,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 11,
+    "speed": 4,
+    "heal": 15,
+    "crafting": [
+      {
+        "name": "Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Firecell Stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "windchopperi": {
+    "id": 22,
+    "name": "Windchopper I",
+    "rarity": 3,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 4,
+    "speed": 6,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Monster Bone L",
+        "quantity": 1
+      },
+      {
+        "name": "Machalite Ore",
+        "quantity": 1
+      }
+    ]
+  },
+  "windchopperii": {
+    "id": 23,
+    "name": "Windchopper II",
+    "rarity": 4,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 4,
+    "speed": 8,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Dragonite Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Machalite Ore",
+        "quantity": 3
+      }
+    ]
+  },
+  "windchopperiii": {
+    "id": 24,
+    "name": "Windchopper III",
+    "rarity": 4,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 4,
+    "speed": 10,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Monster Bone+",
+        "quantity": 2
+      },
+      {
+        "name": "Rathian Webbing",
+        "quantity": 1
+      }
+    ]
+  },
+  "grancathari": {
+    "id": 25,
+    "name": "Grancathar I",
+    "rarity": 5,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 4,
+    "speed": 13,
+    "heal": 7,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Carbalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Hornetaur Innerwing",
+        "quantity": 2
+      }
+    ]
+  },
+  "grancatharii": {
+    "id": 26,
+    "name": "Grancathar II",
+    "rarity": 6,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 4,
+    "speed": 14,
+    "heal": 9,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Fucium Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Lightcrystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "grancathariii": {
+    "id": 27,
+    "name": "Grancathar III",
+    "rarity": 7,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 4,
+    "speed": 15,
+    "heal": 11,
+    "crafting": [
+      {
+        "name": "Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Novacrystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "pseudocathi": {
+    "id": 28,
+    "name": "Pseudocath I",
+    "rarity": 5,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 8,
+    "speed": 13,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Carbalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Monster Broth",
+        "quantity": 2
+      }
+    ]
+  },
+  "pseudocathii": {
+    "id": 29,
+    "name": "Pseudocath II",
+    "rarity": 6,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 10,
+    "speed": 14,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Fucium Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Inferno Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "pseudocathiii": {
+    "id": 30,
+    "name": "Pseudocath III",
+    "rarity": 7,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 12,
+    "speed": 15,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Firecell Stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "mauldronei": {
+    "id": 31,
+    "name": "Mauldrone I",
+    "rarity": 1,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 1,
+    "speed": 1,
+    "heal": 1,
+    "crafting": []
+  },
+  "mauldroneii": {
+    "id": 32,
+    "name": "Mauldrone II",
+    "rarity": 2,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 2,
+    "speed": 2,
+    "heal": 2,
+    "crafting": [
+      {
+        "name": "Monster Bone S",
+        "quantity": 3
+      }
+    ]
+  },
+  "mauldroneiii": {
+    "id": 33,
+    "name": "Mauldrone III",
+    "rarity": 2,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 3,
+    "speed": 3,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Boulder Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Bone M",
+        "quantity": 1
+      }
+    ]
+  },
+  "foebeetlei": {
+    "id": 34,
+    "name": "Foebeetle I",
+    "rarity": 3,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 6,
+    "speed": 4,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Monster Bone L",
+        "quantity": 1
+      },
+      {
+        "name": "Boulder Bone",
+        "quantity": 1
+      }
+    ]
+  },
+  "foebeetleii": {
+    "id": 35,
+    "name": "Foebeetle II",
+    "rarity": 4,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 8,
+    "speed": 5,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Sturdy Bone",
+        "quantity": 3
+      }
+    ]
+  },
+  "foebeetleiii": {
+    "id": 36,
+    "name": "Foebeetle III",
+    "rarity": 4,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 10,
+    "speed": 6,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Monster Bone+",
+        "quantity": 2
+      },
+      {
+        "name": "Wyvern Bonemass",
+        "quantity": 1
+      }
+    ]
+  },
+  "carnagebeetlei": {
+    "id": 37,
+    "name": "Carnage Beetle I",
+    "rarity": 5,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 11,
+    "speed": 8,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Quality Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Dragonvein Crystal",
+        "quantity": 2
+      }
+    ]
+  },
+  "carnagebeetleii": {
+    "id": 38,
+    "name": "Carnage Beetle II",
+    "rarity": 6,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 12,
+    "speed": 9,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Brutal Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Toxin Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "carnagebeetleiii": {
+    "id": 39,
+    "name": "Carnage Beetle III",
+    "rarity": 7,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 13,
+    "speed": 11,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Elder Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Novacrystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "bonnetfillei": {
+    "id": 40,
+    "name": "Bonnetfille I",
+    "rarity": 5,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 12,
+    "speed": 6,
+    "heal": 6,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Quality Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Jagras Hide+",
+        "quantity": 2
+      }
+    ]
+  },
+  "bonnetfilleii": {
+    "id": 41,
+    "name": "Bonnetfille II",
+    "rarity": 6,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 13,
+    "speed": 6,
+    "heal": 7,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Brutal Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Inferno Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "bonnetfilleiii": {
+    "id": 42,
+    "name": "Bonnetfille III",
+    "rarity": 7,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 14,
+    "speed": 6,
+    "heal": 8,
+    "crafting": [
+      {
+        "name": "Elder Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Firecell Stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "ladytargei": {
+    "id": 43,
+    "name": "Ladytarge I",
+    "rarity": 3,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 4,
+    "speed": 4,
+    "heal": 6,
+    "crafting": [
+      {
+        "name": "Monster Bone L",
+        "quantity": 1
+      },
+      {
+        "name": "Monster Bone S",
+        "quantity": 3
+      }
+    ]
+  },
+  "ladytargeii": {
+    "id": 44,
+    "name": "Ladytarge II",
+    "rarity": 4,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 4,
+    "speed": 5,
+    "heal": 7,
+    "crafting": [
+      {
+        "name": "Sturdy Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Coral Bone",
+        "quantity": 1
+      }
+    ]
+  },
+  "ladytargeiii": {
+    "id": 45,
+    "name": "Ladytarge III",
+    "rarity": 4,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 5,
+    "speed": 6,
+    "heal": 8,
+    "crafting": [
+      {
+        "name": "Monster Bone+",
+        "quantity": 2
+      },
+      {
+        "name": "Great Girros Fang",
+        "quantity": 1
+      }
+    ]
+  },
+  "ladypavisei": {
+    "id": 46,
+    "name": "Ladypavise I",
+    "rarity": 5,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 7,
+    "speed": 6,
+    "heal": 13,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Quality Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Girros Hide+",
+        "quantity": 2
+      }
+    ]
+  },
+  "ladypaviseii": {
+    "id": 47,
+    "name": "Ladypavise II",
+    "rarity": 6,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 8,
+    "speed": 6,
+    "heal": 14,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Brutal Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Omniplegia Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "ladypaviseiii": {
+    "id": 48,
+    "name": "Ladypavise III",
+    "rarity": 7,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 9,
+    "speed": 6,
+    "heal": 15,
+    "crafting": [
+      {
+        "name": "Elder Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Dragonbone Relic",
+        "quantity": 1
+      }
+    ]
+  },
+  "arkmaideni": {
+    "id": 49,
+    "name": "Arkmaiden I",
+    "rarity": 5,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 5,
+    "speed": 6,
+    "heal": 13,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Quality Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Vespoid Carapace",
+        "quantity": 2
+      }
+    ]
+  },
+  "arkmaidenii": {
+    "id": 50,
+    "name": "Arkmaiden II",
+    "rarity": 6,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 6,
+    "speed": 6,
+    "heal": 14,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Brutal Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Inferno Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "arkmaideniii": {
+    "id": 51,
+    "name": "Arkmaiden III",
+    "rarity": 7,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 7,
+    "speed": 6,
+    "heal": 15,
+    "crafting": [
+      {
+        "name": "Elder Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Firecell Stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "gullshadi": {
+    "id": 52,
+    "name": "Gullshad I",
+    "rarity": 3,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 3,
+    "speed": 6,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Monster Bone L",
+        "quantity": 1
+      },
+      {
+        "name": "Ancient Bone",
+        "quantity": 2
+      }
+    ]
+  },
+  "gullshadii": {
+    "id": 53,
+    "name": "Gullshad II",
+    "rarity": 4,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 3,
+    "speed": 8,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Sturdy Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Warped Bone",
+        "quantity": 1
+      }
+    ]
+  },
+  "gullshadiii": {
+    "id": 54,
+    "name": "Gullshad III",
+    "rarity": 4,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 3,
+    "speed": 10,
+    "heal": 5,
+    "crafting": [
+      {
+        "name": "Monster Bone+",
+        "quantity": 2
+      },
+      {
+        "name": "Paolumu Shell",
+        "quantity": 1
+      }
+    ]
+  },
+  "bullshroudi": {
+    "id": 55,
+    "name": "Bullshroud I",
+    "rarity": 5,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 5,
+    "speed": 13,
+    "heal": 5,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Quality Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Wingdrake Hide+",
+        "quantity": 2
+      }
+    ]
+  },
+  "bullshroudii": {
+    "id": 56,
+    "name": "Bullshroud II",
+    "rarity": 6,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 5,
+    "speed": 14,
+    "heal": 6,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Brutal Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Lightcrystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "bullshroudiii": {
+    "id": 57,
+    "name": "Bullshroud III",
+    "rarity": 7,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 5,
+    "speed": 15,
+    "heal": 7,
+    "crafting": [
+      {
+        "name": "Elder Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Novacrystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "whispervespi": {
+    "id": 58,
+    "name": "Whispervesp I",
+    "rarity": 5,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 3,
+    "speed": 12,
+    "heal": 8,
+    "crafting": [
+      {
+        "name": "Monster Keenbone",
+        "quantity": 2
+      },
+      {
+        "name": "Quality Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Vespoid Innerwing",
+        "quantity": 2
+      }
+    ]
+  },
+  "whispervespii": {
+    "id": 59,
+    "name": "Whispervesp II",
+    "rarity": 6,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 3,
+    "speed": 13,
+    "heal": 9,
+    "crafting": [
+      {
+        "name": "Monster Hardbone",
+        "quantity": 2
+      },
+      {
+        "name": "Brutal Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Inferno Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "whispervespiii": {
+    "id": 60,
+    "name": "Whispervesp III",
+    "rarity": 7,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 3,
+    "speed": 15,
+    "heal": 11,
+    "crafting": [
+      {
+        "name": "Elder Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Hardbone",
+        "quantity": 3
+      },
+      {
+        "name": "Firecell Stone",
+        "quantity": 1
+      }
+    ]
+  },
+  "dragonsoul": {
+    "id": 61,
+    "name": "Dragon Soul",
+    "rarity": 6,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 12,
+    "speed": 11,
+    "heal": 1,
+    "crafting": []
+  },
+  "truedragonsoul": {
+    "id": 62,
+    "name": "True Dragon Soul",
+    "rarity": 7,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 15,
+    "speed": 14,
+    "heal": 1,
+    "crafting": [
+      {
+        "name": "Aetheryte Shard",
+        "quantity": 5
+      },
+      {
+        "name": "Behemoth Shearclaw",
+        "quantity": 1
+      },
+      {
+        "name": "Dragonbone Relic",
+        "quantity": 2
+      },
+      {
+        "name": "Novacrystal",
+        "quantity": 2
+      }
+    ]
+  },
+  "nexusdragonsoul": {
+    "id": 63,
+    "name": "Nexus Dragon Soul",
+    "rarity": 12,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 17,
+    "speed": 16,
+    "heal": 1,
+    "crafting": [
+      {
+        "name": "Purecrystal",
+        "quantity": 1
+      },
+      {
+        "name": "Dragonbone Artifact",
+        "quantity": 1
+      },
+      {
+        "name": "Behemoth Great Horn",
+        "quantity": 1
+      },
+      {
+        "name": "Unity Symbol",
+        "quantity": 1
+      }
+    ]
+  },
+  "vezirstagivelox": {
+    "id": 64,
+    "name": "Vezirstag I Velox",
+    "rarity": 9,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 14,
+    "speed": 9,
+    "heal": 11,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Eltalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Deadly Poison Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "vezirstagiivelox": {
+    "id": 65,
+    "name": "Vezirstag II Velox",
+    "rarity": 10,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 15,
+    "speed": 10,
+    "heal": 11,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Meldspar Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Rathian Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "vezirstagiiivelox": {
+    "id": 66,
+    "name": "Vezirstag III Velox",
+    "rarity": 11,
+    "attack_type": "Sever",
+    "dust_effect": "Poison",
+    "power": 16,
+    "speed": 11,
+    "heal": 12,
+    "crafting": [
+      {
+        "name": "Large Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Rathalos Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "vezirstagiforz": {
+    "id": 67,
+    "name": "Vezirstag I Forz",
+    "rarity": 9,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 16,
+    "speed": 5,
+    "heal": 11,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Eltalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Conflagrant Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "vezirstagiiforz": {
+    "id": 68,
+    "name": "Vezirstag II Forz",
+    "rarity": 10,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 18,
+    "speed": 6,
+    "heal": 12,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Meldspar Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Anjanath Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "vezirstagiiiforz": {
+    "id": 69,
+    "name": "Vezirstag III Forz",
+    "rarity": 11,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 20,
+    "speed": 7,
+    "heal": 13,
+    "crafting": [
+      {
+        "name": "Large Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Black Diablos Cortex",
+        "quantity": 1
+      }
+    ]
+  },
+  "bilbobrixivelox": {
+    "id": 70,
+    "name": "Bilbobrix I Velox",
+    "rarity": 9,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 4,
+    "speed": 13,
+    "heal": 16,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Eltalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Ultraplegia Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "bilbobrixiivelox": {
+    "id": 71,
+    "name": "Bilbobrix II Velox",
+    "rarity": 10,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 5,
+    "speed": 14,
+    "heal": 18,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Meldspar Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Odogaron Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "bilbobrixiiivelox": {
+    "id": 72,
+    "name": "Bilbobrix III Velox",
+    "rarity": 11,
+    "attack_type": "Sever",
+    "dust_effect": "Paralysis",
+    "power": 6,
+    "speed": 15,
+    "heal": 20,
+    "crafting": [
+      {
+        "name": "Large Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Dragonbone Artifact",
+        "quantity": 1
+      }
+    ]
+  },
+  "bilbobrixiforz": {
+    "id": 73,
+    "name": "Bilbobrix I Forz",
+    "rarity": 9,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 12,
+    "speed": 4,
+    "heal": 16,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Eltalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Conflagrant Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "bilbobrixiiforz": {
+    "id": 74,
+    "name": "Bilbobrix II Forz",
+    "rarity": 10,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 13,
+    "speed": 5,
+    "heal": 18,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Meldspar Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Radobaan Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "bilbobrixiiiforz": {
+    "id": 75,
+    "name": "Bilbobrix III Forz",
+    "rarity": 11,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 14,
+    "speed": 6,
+    "heal": 20,
+    "crafting": [
+      {
+        "name": "Large Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Hellfire Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "foliacathimedis": {
+    "id": 76,
+    "name": "Foliacath I Medis",
+    "rarity": 9,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 4,
+    "speed": 16,
+    "heal": 12,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Eltalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Cryo Sac",
+        "quantity": 1
+      }
+    ]
+  },
+  "foliacathiimedis": {
+    "id": 77,
+    "name": "Foliacath II Medis",
+    "rarity": 10,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 5,
+    "speed": 18,
+    "heal": 13,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Meldspar Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Purecrystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "foliacathiiimedis": {
+    "id": 78,
+    "name": "Foliacath III Medis",
+    "rarity": 11,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 6,
+    "speed": 20,
+    "heal": 14,
+    "crafting": [
+      {
+        "name": "Large Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Kirin Finehide",
+        "quantity": 1
+      }
+    ]
+  },
+  "foliacathiforz": {
+    "id": 79,
+    "name": "Foliacath I Forz",
+    "rarity": 9,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 13,
+    "speed": 16,
+    "heal": 3,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Eltalite Ore",
+        "quantity": 3
+      },
+      {
+        "name": "Conflagrant Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "foliacathiiforz": {
+    "id": 80,
+    "name": "Foliacath II Forz",
+    "rarity": 10,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 14,
+    "speed": 18,
+    "heal": 4,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Meldspar Ore",
+        "quantity": 2
+      },
+      {
+        "name": "Paolumu Thickfur",
+        "quantity": 1
+      }
+    ]
+  },
+  "foliacathiiiforz": {
+    "id": 81,
+    "name": "Foliacath III Forz",
+    "rarity": 11,
+    "attack_type": "Sever",
+    "dust_effect": "Blast",
+    "power": 15,
+    "speed": 20,
+    "heal": 5,
+    "crafting": [
+      {
+        "name": "Large Elder Dragon Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Daora Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "elscaradi": {
+    "id": 82,
+    "name": "Elscarad I",
+    "rarity": 10,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 6,
+    "speed": 6,
+    "heal": 10,
+    "crafting": [
+      {
+        "name": "Gold Rathian Shard",
+        "quantity": 1
+      },
+      {
+        "name": "Forest Crystal",
+        "quantity": 1
+      },
+      {
+        "name": "Wasteland Crystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "elscaradii": {
+    "id": 83,
+    "name": "Elscarad II",
+    "rarity": 11,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 9,
+    "speed": 9,
+    "heal": 15,
+    "crafting": [
+      {
+        "name": "Coral Crystal",
+        "quantity": 1
+      },
+      {
+        "name": "Effluvial Crystal",
+        "quantity": 1
+      },
+      {
+        "name": "Spiritvein Solidbone",
+        "quantity": 2
+      }
+    ]
+  },
+  "elscaradiii": {
+    "id": 84,
+    "name": "Elscarad III",
+    "rarity": 12,
+    "attack_type": "Sever",
+    "dust_effect": "Heal",
+    "power": 12,
+    "speed": 12,
+    "heal": 20,
+    "crafting": [
+      {
+        "name": "Elder Spiritvein Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Tempered Green Scale",
+        "quantity": 1
+      },
+      {
+        "name": "Tempered Pink Scale",
+        "quantity": 1
+      }
+    ]
+  },
+  "gleambeetleivelox": {
+    "id": 85,
+    "name": "Gleambeetle I Velox",
+    "rarity": 9,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 14,
+    "speed": 12,
+    "heal": 5,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Thick Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Deadly Poison Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "gleambeetleiivelox": {
+    "id": 86,
+    "name": "Gleambeetle II Velox",
+    "rarity": 10,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 15,
+    "speed": 13,
+    "heal": 6,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Frozen Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Rathalos Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "gleambeetleiiivelox": {
+    "id": 87,
+    "name": "Gleambeetle III Velox",
+    "rarity": 11,
+    "attack_type": "Blunt",
+    "dust_effect": "Poison",
+    "power": 17,
+    "speed": 14,
+    "heal": 7,
+    "crafting": [
+      {
+        "name": "Pure Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Rathalos Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "gleambeetleimedis": {
+    "id": 88,
+    "name": "Gleambeetle I Medis",
+    "rarity": 9,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 15,
+    "speed": 6,
+    "heal": 9,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Thick Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Conflagrant Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "gleambeetleiimedis": {
+    "id": 89,
+    "name": "Gleambeetle II Medis",
+    "rarity": 10,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 17,
+    "speed": 7,
+    "heal": 10,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Frozen Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Uragaan Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "gleambeetleiiimedis": {
+    "id": 90,
+    "name": "Gleambeetle III Medis",
+    "rarity": 11,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 19,
+    "speed": 8,
+    "heal": 11,
+    "crafting": [
+      {
+        "name": "Pure Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Black Diablos Cortex",
+        "quantity": 1
+      }
+    ]
+  },
+  "ladytoweriforz": {
+    "id": 91,
+    "name": "Ladytower I Forz",
+    "rarity": 9,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 10,
+    "speed": 6,
+    "heal": 16,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Thick Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Ultraplegia Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "ladytoweriiforz": {
+    "id": 92,
+    "name": "Ladytower II Forz",
+    "rarity": 10,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 11,
+    "speed": 7,
+    "heal": 18,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Frozen Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Diablos Cortex",
+        "quantity": 1
+      }
+    ]
+  },
+  "ladytoweriiiforz": {
+    "id": 93,
+    "name": "Ladytower III Forz",
+    "rarity": 11,
+    "attack_type": "Blunt",
+    "dust_effect": "Paralysis",
+    "power": 12,
+    "speed": 8,
+    "heal": 20,
+    "crafting": [
+      {
+        "name": "Pure Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Dragonbone Artifact",
+        "quantity": 1
+      }
+    ]
+  },
+  "ladytowerivelox": {
+    "id": 94,
+    "name": "Ladytower I Velox",
+    "rarity": 9,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 7,
+    "speed": 8,
+    "heal": 16,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Thick Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Conflagrant Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "ladytoweriivelox": {
+    "id": 95,
+    "name": "Ladytower II Velox",
+    "rarity": 10,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 8,
+    "speed": 9,
+    "heal": 18,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Frozen Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Lavasioth Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "ladytoweriiivelox": {
+    "id": 96,
+    "name": "Ladytower III Velox",
+    "rarity": 11,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 9,
+    "speed": 11,
+    "heal": 20,
+    "crafting": [
+      {
+        "name": "Pure Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Hellfire Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "valorwingiforz": {
+    "id": 97,
+    "name": "Valorwing I Forz",
+    "rarity": 9,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 7,
+    "speed": 16,
+    "heal": 7,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Thick Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Cryo Sac",
+        "quantity": 1
+      }
+    ]
+  },
+  "valorwingiiforz": {
+    "id": 98,
+    "name": "Valorwing II Forz",
+    "rarity": 10,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 8,
+    "speed": 18,
+    "heal": 8,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Frozen Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Purecrystal",
+        "quantity": 1
+      }
+    ]
+  },
+  "valorwingiiiforz": {
+    "id": 99,
+    "name": "Valorwing III Forz",
+    "rarity": 11,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 10,
+    "speed": 20,
+    "heal": 9,
+    "crafting": [
+      {
+        "name": "Pure Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Kirin Finehide",
+        "quantity": 1
+      }
+    ]
+  },
+  "valorwingimedis": {
+    "id": 100,
+    "name": "Valorwing I Medis",
+    "rarity": 9,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 3,
+    "speed": 16,
+    "heal": 12,
+    "crafting": [
+      {
+        "name": "Monster Toughbone",
+        "quantity": 2
+      },
+      {
+        "name": "Thick Bone",
+        "quantity": 3
+      },
+      {
+        "name": "Conflagrant Sac",
+        "quantity": 2
+      }
+    ]
+  },
+  "valorwingiimedis": {
+    "id": 101,
+    "name": "Valorwing II Medis",
+    "rarity": 10,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 4,
+    "speed": 18,
+    "heal": 13,
+    "crafting": [
+      {
+        "name": "Monster Slogbone",
+        "quantity": 2
+      },
+      {
+        "name": "Frozen Bone",
+        "quantity": 1
+      },
+      {
+        "name": "Paolumu Thickfur",
+        "quantity": 1
+      }
+    ]
+  },
+  "valorwingiiimedis": {
+    "id": 102,
+    "name": "Valorwing III Medis",
+    "rarity": 11,
+    "attack_type": "Blunt",
+    "dust_effect": "Blast",
+    "power": 5,
+    "speed": 20,
+    "heal": 14,
+    "crafting": [
+      {
+        "name": "Pure Dragon Blood",
+        "quantity": 2
+      },
+      {
+        "name": "Monster Solidbone",
+        "quantity": 2
+      },
+      {
+        "name": "Daora Shard",
+        "quantity": 1
+      }
+    ]
+  },
+  "arginessei": {
+    "id": 103,
+    "name": "Arginesse I",
+    "rarity": 10,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 6,
+    "speed": 6,
+    "heal": 10,
+    "crafting": [
+      {
+        "name": "Silver Rathalos Shard",
+        "quantity": 1
+      },
+      {
+        "name": "Woodland Greatbone",
+        "quantity": 1
+      },
+      {
+        "name": "Wasteland Cragbone",
+        "quantity": 1
+      }
+    ]
+  },
+  "arginesseii": {
+    "id": 104,
+    "name": "Arginesse II",
+    "rarity": 11,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 9,
+    "speed": 9,
+    "heal": 15,
+    "crafting": [
+      {
+        "name": "Coral Crimsonbone",
+        "quantity": 1
+      },
+      {
+        "name": "Effluvial Frenzybone",
+        "quantity": 1
+      },
+      {
+        "name": "Spiritvein Solidbone",
+        "quantity": 2
+      }
+    ]
+  },
+  "arginesseiii": {
+    "id": 105,
+    "name": "Arginesse III",
+    "rarity": 12,
+    "attack_type": "Blunt",
+    "dust_effect": "Heal",
+    "power": 11,
+    "speed": 12,
+    "heal": 20,
+    "crafting": [
+      {
+        "name": "Elder Spiritvein Bone",
+        "quantity": 2
+      },
+      {
+        "name": "Tempered Red Scale",
+        "quantity": 1
+      },
+      {
+        "name": "Tempered Azure Scale",
+        "quantity": 1
+      }
+    ]
+  }
+}

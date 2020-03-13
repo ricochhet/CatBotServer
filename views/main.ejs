@@ -5,7 +5,6 @@
   <title>CatBot / MHWorld - Monster Hunter World: Iceborne Database</title>
   <link rel="stylesheet" type="text/css" href="../mint.css">
   <link rel="stylesheet" type="text/css" href="../all.min.css">
-  <script src="../charts/apexcharts.js"></script>
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -54,7 +53,6 @@
     <div class="page-header__wrapper--paddedsmall">
       <h1><span class="color-catbot">CatBot</span></h1>
       <h1>Monster Hunter: World Database</h1>
-      <a class="link-none link-none__blue" href="https://discord.gg/srNyk8G">Discord</a>
     </div>
   </div>
   <div class="page-container__center">
@@ -117,111 +115,12 @@
     </div>
   </div>
 
-  <div class="page-container__center">
-    <div>
-      <ul class="list-grouped list-grouped__standard--size">
-        <h2 class="header-bottom">Statistics</h2>
-        <div id="chart">
-        </div>
-      </ul>
-    </div>
-  </div>
-
   <div class="page-footer">
     <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.</p>
   </div>
 </body>
 <script src="../mint.js"></script>
 <script>
-  var options = {
-    series: [{
-      name: 'Great Sword',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.great_sword %>`)]
-    }, {
-      name: 'Sword and Shield',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.sword_and_shield %>`)]
-    }, {
-      name: 'Dual Blades',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.dual_blades %>`)]
-    },
-    {
-      name: 'Long Sword',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.long_sword %>`)]
-    },
-    {
-      name: 'Hunting Horn',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.hunting_horn %>`)]
-    },
-    {
-      name: 'Gunlance',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.gunlance %>`)]
-    },
-    {
-      name: 'Switch Axe',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.switch_axe %>`)]
-    },
-    {
-      name: 'Charge Blade',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.charge_blade %>`)]
-    },
-    {
-      name: 'Insect Glaive',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.insect_glaive %>`)]
-    },
-    {
-      name: 'Heavy Bowgun',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.heavy_bowgun %>`)]
-    },
-    {
-      name: 'Light Bowgun',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.light_bowgun %>`)]
-    },
-    {
-      name: 'Bow',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.bow %>`)]
-    },
-    {
-      name: 'Lance',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.lance %>`)]
-    },
-    {
-      name: 'Hammer',
-      data: [Number(`<%- MHW_WEAPON_USAGE.march.hammer %>`)]
-    }],
-    chart: {
-      type: 'bar',
-      height: 350,
-      stacked: true,
-      stackType: '100%',
-    },
-    plotOptions: {
-      bar: {
-        horizontal: true,
-      },
-    },
-    stroke: {
-      width: 1,
-      colors: ['#fff']
-    },
-    title: {
-      text: 'Monthly Weapon Usage'
-    },
-    xaxis: {
-      categories: ['March 2020 (Current)'],
-    },
-    fill: {
-      opacity: 1
-    },
-    legend: {
-      position: 'top',
-      horizontalAlign: 'left',
-      offsetX: 40
-    }
-  };
-
-  var chart = new ApexCharts(document.querySelector("#chart"), options);
-  chart.render();
-
   _toggleTheme();
   _searchCompletion(`<%- MHW_OBJECTS %>`.split(','), function (input, finalInput) {
     if (`<%- MHW_DECO_ARRAY %>`.split(',').includes(input)) { window.location.href = `/decorations/${finalInput.split('/').join('+')}`; }

@@ -881,9 +881,20 @@ a:hover, button:hover {
     background-color: var(--table-header-background);
     border-bottom: 1px solid rgba(0,0,0,.125);
     font-size: 18px;
+    text-align: left;
 }
 
 .table-responsive {
+    display: inline-block;
+    width: 100%;
+    overflow-x: auto;
+    text-align: left;
+    max-width: 1140px;
+    border-radius: .25rem;
+    border: var(--light-item-border);
+}
+
+.table-responsive__no-border {
     display: inline-block;
     width: 100%;
     overflow-x: auto;
@@ -1132,7 +1143,7 @@ ul.breadcrumb li a:hover {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: rgba(27, 27, 27, .4);
+    background-color: var(--scroll-bar);
     border-radius: 3px;
 }
 
@@ -1155,8 +1166,9 @@ ul.breadcrumb li a:hover {
 /***********************************/
 
 :root {
+    --scroll-bar: rgba(27, 27, 27, .4);
     --light-item-border: 1px solid rgba(0, 0, 0, .125);
-    --table-header-background: rgba(0, 0, 0, .03);
+    --table-header-background: rgba(0, 0, 0, .08);
     --light-navigation-bar-background: #343a40;
     --light-navigation-bar-link: #ffffff80;
     --list-grouped-item-background: #fff;
@@ -1183,6 +1195,7 @@ ul.breadcrumb li a:hover {
 }
 
 [data-theme="dark"] {
+    --scroll-bar: rgba(227, 227, 227, .4);
     --light-item-border: 1px solid hsla(0,0%,100%,.05);
     --table-header-background: #272727;
     --light-navigation-bar-background: #272727;

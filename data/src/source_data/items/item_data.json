@@ -1,0 +1,34 @@
+{
+    "Nulberry": {
+        "botanical_research_sources": [
+            {
+                "yield_per_cycle": "4",
+                "wait_time": "2"
+            }
+        ]
+    },
+    "Blue Mushroom": {
+        "botanical_research_sources": [
+            {
+                "yield_per_cycle": "2",
+                "wait_time": "1"
+            }
+        ]
+    },
+    "Bitterbug": {
+        "botanical_research_sources": [
+            {
+                "yield_per_cycle": "2",
+                "wait_time": "1"
+            }
+        ]
+    },
+    "Godbug": {
+        "botanical_research_sources": [
+            {
+                "yield_per_cycle": "8",
+                "wait_time": "3"
+            }
+        ]
+    }
+}

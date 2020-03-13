@@ -56,41 +56,41 @@
     </ul>
   </div>
   <div class="page-container__center">
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(great-sword)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('great-sword') %>" alt="great-sword"></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(sword-and-shield)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('sword-and-shield') %>" alt="sword-and-shield" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(dual-blades)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('dual-blades') %>" alt="dual-blades" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(long-sword)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('long-sword') %>" alt="long-sword" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(hunting-horn)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('hunting-horn') %>" alt="hunting-horn" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(gunlance)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('gunlance') %>" alt="gunlance" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(switch-axe)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('switch-axe') %>" alt="switch-axe" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(charge-blade)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('charge-blade') %>" alt="charge-blade" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(insect-glaive)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('insect-glaive') %>" alt="insect-glaive" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(heavy-bowgun)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('heavy-bowgun') %>" alt="heavy-bowgun" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(light-bowgun)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('light-bowgun') %>" alt="light-bowgun" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(bow)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('bow') %>" alt="bow" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(lance)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('lance') %>" alt="lance" /></button>
-    <button class="btn btn-bottom__margin-5px btn-outline" onclick="_pageFilter('(hammer)');"><img
-        class="table-responsive__img" src="<%- ICON_MAP.get('hammer') %>" alt="hamer" /></button>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=0"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('great-sword') %>" alt="great-sword"></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=1"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('sword-and-shield') %>" alt="sword-and-shield" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=2"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('dual-blades') %>" alt="dual-blades" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=3"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('long-sword') %>" alt="long-sword" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=4"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('hunting-horn') %>" alt="hunting-horn" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=5"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('gunlance') %>" alt="gunlance" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=6"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('switch-axe') %>" alt="switch-axe" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=7"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('charge-blade') %>" alt="charge-blade" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=8"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('insect-glaive') %>" alt="insect-glaive" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=9"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('heavy-bowgun') %>" alt="heavy-bowgun" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=10"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('light-bowgun') %>" alt="light-bowgun" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=11"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('bow') %>" alt="bow" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=12"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('lance') %>" alt="lance" /></a>
+    <a class="btn btn-bottom__margin-5px btn-outline" href="/weapons?id=13"><img class="table-responsive__img"
+        src="<%- ICON_MAP.get('hammer') %>" alt="hamer" /></a>
   </div>
 
   <div class="page-container__center page-container__center--flex" id="item-container">
-    <% for (let [k, v] of WEAPON_MAP) {%>
-    <a class="link-none link-none__blue list-item__center list-item__no-auto" href=/weapons/<%= k %>>
-      <% const weapon = WEAPON_MAP.get(k); %>
-      <%- "<b>" + weapon.name + "</b>" + "<br>" + "(" + weapon.type + ")" %>
+    <% for (let i in WEAPON_MAP) {%>
+    <a class="link-none link-none__blue list-item__center list-item__no-auto"
+      href=/weapons/<%= WEAPON_MAP[i].name.toLowerCase().split(' ').join('') %>>
+      <%- WEAPON_MAP[i].name %>
     </a>
     <% } %>
   </div>
@@ -102,10 +102,6 @@
 </body>
 <script src="../mint.js"></script>
 <script>
-  window.onload = function () {
-    _pageFilter('(great-sword)');
-  }
-
   _toggleTheme();
   _searchCompletion(`<%- MHW_OBJECTS %>`.split(','), function (input, finalInput) {
     if (`<%- MHW_DECO_ARRAY %>`.split(',').includes(input)) { window.location.href = `/decorations/${finalInput.split('/').join('+')}`; }
