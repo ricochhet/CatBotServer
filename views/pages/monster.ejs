@@ -95,16 +95,16 @@
           </tr>
 
           <tr>
-            <td width="15%">AtkType HZV</td>
-            <td>Slash: <strong><%- MONSTER_HZV_SLASH %></strong> Blunt: <strong><%- MONSTER_HZV_BLUNT %></strong> Shot:
-              <strong><%- MONSTER_HZV_SHOT %></strong></td>
+            <td width="15%">Damage Hitzone Values</td>
+            <td>Slash: <strong><%- MONSTER_HZV_INFO.slash %></strong> Blunt: <strong><%- MONSTER_HZV_INFO.blunt %></strong> Shot:
+              <strong><%- MONSTER_HZV_INFO.shot %></strong></td>
           </tr>
 
           <tr>
             <td width="15%">Elem HZV</td>
-            <td>🔥 <strong><%- MONSTER_HZV_FIRE %></strong> 💧 <strong><%- MONSTER_HZV_WATER %></strong> ⚡
-              <strong><%- MONSTER_HZV_THUNDER %></strong> 🧊 <strong><%- MONSTER_HZV_ICE %></strong> 🐉
-              <strong><%- MONSTER_HZV_DRAGON %></strong></td>
+            <td>🔥 <strong><%- MONSTER_HZV_INFO.fire %></strong> 💧 <strong><%- MONSTER_HZV_INFO.water %></strong> ⚡
+              <strong><%- MONSTER_HZV_INFO.thunder %></strong> 🧊 <strong><%- MONSTER_HZV_INFO.ice %></strong> 🐉
+              <strong><%- MONSTER_HZV_INFO.dragon %></strong></td>
           </tr>
         </tbody>
       </table>
@@ -113,7 +113,7 @@
 
   <div class="page-container__center">
     <div class="table-responsive">
-      <div class="table-header"> <%- MONSTER_NAME %> Hitzone & Status Data <span
+      <div class="table-header"> <%- MONSTER_NAME %> Hitzone Data <span
           class="color-dark__muted text-style__small"></span>
       </div>
       <table class="table">
@@ -160,6 +160,36 @@
             <td><%- MONSTER_HZV_DATA[k].notes %></td>
           </tr>
           <% } %>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="page-container__center">
+    <div class="table-responsive">
+      <div class="table-header"> <%- MONSTER_NAME %> Enrage Data <span
+          class="color-dark__muted text-style__small"></span>
+      </div>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Tender</th>
+            <th>Dmg to Enrage</th>
+            <th>Enrage Duration</th>
+            <th>Enrage Speed</th>
+            <th>Monster Damage</th>
+            <th>Player Damage</th>
+            <th>Tenderize Formula</th>
+          </tr>
+        </thead>
+        <tbody>
+          <td><%- MONSTER_ENRAGE_DATA.tender %></td>
+          <td><%- MONSTER_ENRAGE_DATA.dmgToEnrage %></td>
+          <td><%- MONSTER_ENRAGE_DATA.enrageDuration %></td>
+          <td><%- MONSTER_ENRAGE_DATA.enrageSpeed %></td>
+          <td><%- MONSTER_ENRAGE_DATA.monstrDmg %></td>
+          <td><%- MONSTER_ENRAGE_DATA.playerDmg %></td>
+          <td><%- MONSTER_ENRAGE_DATA.tenderizeFormula %></td>
         </tbody>
       </table>
     </div>

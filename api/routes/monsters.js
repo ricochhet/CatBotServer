@@ -6,6 +6,7 @@ class MonstersRoute {
   route(
     monster_map,
     monster_hzv_map,
+    monster_enrage_map,
     mhwObjects,
     decorationNames,
     monsterNames,
@@ -39,8 +40,14 @@ class MonstersRoute {
     ) {
       if (monster_map.has(req.params.id)) {
         let hzv = ['no data provided'];
+        let enrg = ['no data provided'];
+        
         if (monster_hzv_map.has(req.params.id)) {
           hzv = monster_hzv_map.get(req.params.id);
+        }
+
+        if (monster_enrage_map.has(req.params.id)) {
+          enrg = monster_enrage_map.get(req.params.id);
         }
 
         const monster = monster_map.get(req.params.id);
@@ -57,15 +64,9 @@ class MonstersRoute {
           MONSTER_BLIGHTS: monsterBlights.split('\n').join('<br>'),
           MONSTER_LOCATIONS: monsterLocations.split('\n').join('<br>'),
           MONSTER_INFO: monster.info,
-          MONSTER_HZV_SLASH: monster.hzv.slash,
-          MONSTER_HZV_BLUNT: monster.hzv.blunt,
-          MONSTER_HZV_SHOT: monster.hzv.shot,
-          MONSTER_HZV_FIRE: monster.hzv.fire,
-          MONSTER_HZV_WATER: monster.hzv.water,
-          MONSTER_HZV_THUNDER: monster.hzv.thunder,
-          MONSTER_HZV_ICE: monster.hzv.ice,
-          MONSTER_HZV_DRAGON: monster.hzv.dragon,
+          MONSTER_HZV_INFO: monster.hzv,
           MONSTER_HZV_DATA: hzv,
+          MONSTER_ENRAGE_DATA: enrg,
           MHW_OBJECTS: mhwObjects,
           MHW_DECO_ARRAY: decorationNames,
           MHW_MONSTER_ARRAY: monsterNames,

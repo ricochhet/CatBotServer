@@ -12,6 +12,7 @@ let monster_map = utils.buildMap(
 );
 
 let monster_hzv_map = utils.buildMap('./data/python/hitzones.json');
+let monster_enrage_map = utils.buildMap('./data/python/enrage.json');
 let item_map = utils.buildMap('./data/build/api/items.json');
 let item_id_map = utils.buildMap(
   './data/build/api/itemids.json',
@@ -113,6 +114,7 @@ class Server {
     monsters.route(
       monster_map,
       monster_hzv_map,
+      monster_enrage_map,
       mhwObjects,
       decorationNames,
       monsterNames,
