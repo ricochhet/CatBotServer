@@ -28,8 +28,6 @@ let decoration_map = utils.buildMap('./data/build/api/decorations.json');
 let skill_map = utils.buildMap('./data/build/api/skills.json');
 let quest_id_database = require('../data/build/api/questids.json');
 let accounts_map = utils.buildMap('./auth/accounts.json');
-let mhwWeaponUsage = utils.buildMap('./data/build/def/weaponusage.json');
-let siegeEvents = require('../data/build/def/siegeevents.json');
 let monsterNames = utils.buildArray(monster_map, 'title');
 let weaponNames = utils.buildArray(weapon_map, 'name');
 let armorNames = utils.buildArray(armor_map, 'name');
@@ -96,10 +94,7 @@ class Server {
   run(port) {
     manager.makeRouter(port, 'public');
     manager.addRoute('/', 'main.ejs', function(render, req, res) {
-      const data = mhwWeaponUsage.get('2020');
       res.render(render, {
-        MHW_SIEGE_EVENTS: siegeEvents,
-        MHW_WEAPON_USAGE: data,
         MHW_OBJECTS: mhwObjects,
         MHW_DECO_ARRAY: decorationNames,
         MHW_MONSTER_ARRAY: monsterNames,

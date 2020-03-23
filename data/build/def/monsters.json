@@ -1661,7 +1661,7 @@
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
         "blights": "Thunderblight", 
         "locations": "Hoarfrost Reach\nGuiding Lands",
-        "info": "Unlike its counterpart, Furious Rajang has no tail, but the same effect can still be achieved via the head.",
+        "info": "Unlike its counterpart, Furious Rajang has no tail, meaning it cannot be brought out of its enraged state.",
         "hzv": {
             "slash": "-",
             "blunt": "-",
@@ -1686,7 +1686,7 @@
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
         "blights": "Blastcourge", 
         "locations": "Guiding Lands",
-        "info": "On par with the level of an Elder Dragon, Raging Brachydios will lock down the final arena, your only escape is carting.",
+        "info": "On par with the level of an Elder Dragon, Raging Brachydios will lock down the final area, your only escape is carting.",
         "hzv": {
             "slash": "-",
             "blunt": "-",
