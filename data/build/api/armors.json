@@ -34564,5 +34564,548 @@
         "rank": 1
       }
     ]
+  },
+  "furiousrajangalpha+": {
+    "name": "Furious Rajang Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Rajang Will",
+        "description": "Raises  the maximum level of the Maximum Might skill.",
+        "pieces": 2
+      },
+      {
+        "name": "Rajang Will",
+        "description": "Raises the maximum level of the Heroics skill.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 850,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -25,
+      "dragon": 10
+    },
+    "pieces": [
+      {
+        "name": "Grand God's Peer Mask Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Grand God's Peer Garb Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Grand God's Peer Arms Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Grand God's Peer Belt Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Grand God's Peer Feet Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Grand God's Peer Mask Alpha +",
+        "name": "Earplugs",
+        "rank": 3
+      },
+      {
+        "piece": "Grand God's Peer Mask Alpha +",
+        "name": "Heroics",
+        "rank": 3
+      },
+      {
+        "piece": "Grand God's Peer Garb Alpha +",
+        "name": "Earplugs",
+        "rank": 2
+      },
+      {
+        "piece": "Grand God's Peer Garb Alpha +",
+        "name": "Maximum Might",
+        "rank": 3
+      },
+      {
+        "piece": "Grand God's Peer Arms Alpha +",
+        "name": "Defense Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Grand God's Peer Arms Alpha +",
+        "name": "Stamina Surge",
+        "rank": 2
+      },
+      {
+        "piece": "Grand God's Peer Belt Alpha +",
+        "name": "Heroics",
+        "rank": 2
+      },
+      {
+        "piece": "Grand God's Peer Belt Alpha +",
+        "name": "Maximum Might",
+        "rank": 2
+      },
+      {
+        "piece": "Grand God's Peer Feet Alpha +",
+        "name": "Health Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Grand God's Peer Feet Alpha +",
+        "name": "Heroics",
+        "rank": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "Grand God's Peer Garb Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Grand God's Peer Arms Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Grand God's Peer Arms Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Grand God's Peer Belt Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Grand God's Peer Belt Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Grand God's Peer Belt Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Grand God's Peer Feet Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Grand God's Peer Feet Alpha +",
+        "rank": 2
+      }
+    ]
+  },
+  "furiousrajangbeta+": {
+    "name": "Furious Rajang Beta +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Rajang Will",
+        "description": "Raises  the maximum level of the Maximum Might skill.",
+        "pieces": 2
+      },
+      {
+        "name": "Rajang Will",
+        "description": "Raises the maximum level of the Heroics skill.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 850,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 10,
+      "water": 0,
+      "thunder": 15,
+      "ice": -25,
+      "dragon": 10
+    },
+    "pieces": [
+      {
+        "name": "Grand God's Peer Mask Beta +",
+        "type": "head"
+      },
+      {
+        "name": "Grand God's Peer Garb Beta +",
+        "type": "chest"
+      },
+      {
+        "name": "Grand God's Peer Arms Beta +",
+        "type": "gloves"
+      },
+      {
+        "name": "Grand God's Peer Belt Beta +",
+        "type": "waist"
+      },
+      {
+        "name": "Grand God's Peer Feet Beta +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Grand God's Peer Mask Beta +",
+        "name": "Earplugs",
+        "rank": 3
+      },
+      {
+        "piece": "Grand God's Peer Mask Beta +",
+        "name": "Heroics",
+        "rank": 1
+      },
+      {
+        "piece": "Grand God's Peer Garb Beta +",
+        "name": "Maximum Might",
+        "rank": 3
+      },
+      {
+        "piece": "Grand God's Peer Arms Beta +",
+        "name": "Stamina Surge",
+        "rank": 2
+      },
+      {
+        "piece": "Grand God's Peer Belt Beta +",
+        "name": "Maximum Might",
+        "rank": 2
+      },
+      {
+        "piece": "Grand God's Peer Feet Beta +",
+        "name": "Health Boost",
+        "rank": 3
+      }
+    ],
+    "slots": [
+      {
+        "name": "Grand God's Peer Mask Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Grand God's Peer Garb Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Grand God's Peer Garb Beta +",
+        "rank": 2
+      },
+      {
+        "name": "Grand God's Peer Arms Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Grand God's Peer Arms Beta +",
+        "rank": 2
+      },
+      {
+        "name": "Grand God's Peer Arms Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Grand God's Peer Belt Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Grand God's Peer Belt Beta +",
+        "rank": 2
+      },
+      {
+        "name": "Grand God's Peer Belt Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Grand God's Peer Feet Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Grand God's Peer Feet Beta +",
+        "rank": 4
+      }
+    ]
+  },
+  "ragingbrachyalpha+": {
+    "name": "Raging Brachy Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Brachydios Will",
+        "description": "Raises the maximum level of the Agitator skill.",
+        "pieces": 2
+      },
+      {
+        "name": "Brachydios Will",
+        "description": "Raises the maximum level of the Artillery skill.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 850,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 15,
+      "water": -10,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
+    },
+    "pieces": [
+      {
+        "name": "Brachydium Helm Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Brachydium Mail Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Brachydium Braces Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Brachydium Faulds Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Brachydium Greaves Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Brachydium Helm Alpha +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Brachydium Helm Alpha +",
+        "name": "Guard",
+        "rank": 2
+      },
+      {
+        "piece": "Brachydium Mail Alpha +",
+        "name": "Blast Attack",
+        "rank": 3
+      },
+      {
+        "piece": "Brachydium Mail Alpha +",
+        "name": "Agitator",
+        "rank": 2
+      },
+      {
+        "piece": "Brachydium Braces Alpha +",
+        "name": "Agitator",
+        "rank": 2
+      },
+      {
+        "piece": "Brachydium Braces Alpha +",
+        "name": "Artillery",
+        "rank": 3
+      },
+      {
+        "piece": "Brachydium Faulds Alpha +",
+        "name": "Agitator",
+        "rank": 3
+      },
+      {
+        "piece": "Brachydium Faulds Alpha +",
+        "name": "Artillery",
+        "rank": 2
+      },
+      {
+        "piece": "Brachydium Greaves Alpha +",
+        "name": "Weakness Exploit",
+        "rank": 2
+      },
+      {
+        "piece": "Brachydium Greaves Alpha +",
+        "name": "Speed Sharpening",
+        "rank": 3
+      }
+    ],
+    "slots": [
+      {
+        "name": "Brachydium Helm Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Brachydium Helm Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Brachydium Helm Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Brachydium Mail Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Brachydium Mail Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Brachydium Mail Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Brachydium Braces Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Brachydium Braces Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Brachydium Faulds Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Brachydium Greaves Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Brachydium Greaves Alpha +",
+        "rank": 1
+      }
+    ]
+  },
+  "ragingbrachybeta+": {
+    "name": "Raging Brachy Beta +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Brachydios Will",
+        "description": "Raises the maximum level of the Agitator skill.",
+        "pieces": 2
+      },
+      {
+        "name": "Brachydios Will",
+        "description": "Raises the maximum level of the Artillery skill.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 850,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 15,
+      "water": -10,
+      "thunder": 5,
+      "ice": -15,
+      "dragon": 5
+    },
+    "pieces": [
+      {
+        "name": "Brachydium Helm Beta +",
+        "type": "head"
+      },
+      {
+        "name": "Brachydium Mail Beta +",
+        "type": "chest"
+      },
+      {
+        "name": "Brachydium Braces Beta +",
+        "type": "gloves"
+      },
+      {
+        "name": "Brachydium Faulds Beta +",
+        "type": "waist"
+      },
+      {
+        "name": "Brachydium Greaves Beta +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Brachydium Helm Beta +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Brachydium Mail Beta +",
+        "name": "Agitator",
+        "rank": 2
+      },
+      {
+        "piece": "Brachydium Braces Beta +",
+        "name": "Agitator",
+        "rank": 2
+      },
+      {
+        "piece": "Brachydium Faulds Beta +",
+        "name": "Agitator",
+        "rank": 3
+      },
+      {
+        "piece": "Brachydium Greaves Beta +",
+        "name": "Weakness Exploit",
+        "rank": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "Brachydium Helm Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Brachydium Helm Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Brachydium Helm Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Brachydium Mail Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Brachydium Mail Beta +",
+        "rank": 2
+      },
+      {
+        "name": "Brachydium Mail Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Brachydium Braces Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Brachydium Braces Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Brachydium Faulds Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Brachydium Faulds Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Brachydium Greaves Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Brachydium Greaves Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Brachydium Greaves Beta +",
+        "rank": 1
+      }
+    ]
   }
 }

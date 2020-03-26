@@ -67996,5 +67996,748 @@
       }
     ],
     "crafting": "-"
+  },
+  "grandgod'speermaskalpha+": {
+    "name": "Grand God's Peer Mask Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": "-",
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 3,
+        "description": "Nullifies weak monster roars."
+      },
+      {
+        "name": "Heroics",
+        "level": 3,
+        "description": "While active, increases attack power by 5% and increases defense by 100 points."
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speergarbalpha+": {
+    "name": "Grand God's Peer Garb Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 2,
+        "description": "Reduces the effects of weak monster roars."
+      },
+      {
+        "name": "Maximum Might",
+        "level": 3,
+        "description": "While active, increases affinity by 30%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerarmsalpha+": {
+    "name": "Grand God's Peer Arms Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Defense Boost",
+        "level": 3,
+        "description": "Defense +5%\nBonus: +10"
+      },
+      {
+        "name": "Stamina Surge",
+        "level": 2,
+        "description": "Stamina recovery speed +20%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerbeltalpha+": {
+    "name": "Grand God's Peer Belt Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Heroics",
+        "level": 2,
+        "description": "While active, increases attack power by 5% and increases defense by 50 points."
+      },
+      {
+        "name": "Maximum Might",
+        "level": 2,
+        "description": "While active, increases affinity by 20%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerfeetalpha+": {
+    "name": "Grand God's Peer Feet Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Health Boost",
+        "level": 3,
+        "description": "Health +50"
+      },
+      {
+        "name": "Heroics",
+        "level": 2,
+        "description": "While active, increases attack power by 5% and increases defense by 50 points."
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speermaskbeta+": {
+    "name": "Grand God's Peer Mask Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Earplugs",
+        "level": 3,
+        "description": "Nullifies weak monster roars."
+      },
+      {
+        "name": "Heroics",
+        "level": 1,
+        "description": "While active, increases defense by 50 points"
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speergarbbeta+": {
+    "name": "Grand God's Peer Garb Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "level": 3,
+        "description": "While active, increases affinity by 30%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerarmsbeta+": {
+    "name": "Grand God's Peer Arms Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Stamina Surge",
+        "level": 2,
+        "description": "Stamina recovery speed +20%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerbeltbeta+": {
+    "name": "Grand God's Peer Belt Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Maximum Might",
+        "level": 2,
+        "description": "While active, increases affinity by 20%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerfeetbeta+": {
+    "name": "Grand God's Peer Feet Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 0,
+      "ice": -5,
+      "thunder": 3,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Health Boost",
+        "level": 3,
+        "description": "Health +50"
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiumhelmalpha+": {
+    "name": "Brachydium Helm Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      },
+      {
+        "name": "Guard",
+        "level": 2,
+        "description": "Slightly decreases the impact of attacks and reduces stamina depletion by 15%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiummailalpha+": {
+    "name": "Brachydium Mail Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Blast Attack",
+        "level": 3,
+        "description": "Blast buildup +20% Bonus: +10"
+      },
+      {
+        "name": "Agitator",
+        "level": 2,
+        "description": "While active, grants attack +8 and increases affinity by 5%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiumbracesalpha+": {
+    "name": "Brachydium Braces Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2,
+        "description": "While active, grants attack +8 and increases affinity by 5%."
+      },
+      {
+        "name": "Artillery",
+        "level": 3,
+        "description": "Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiumfauldsalpha+": {
+    "name": "Brachydium Faulds Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 3,
+        "description": "While active, grants attack +12 and increases affinity by 7%."
+      },
+      {
+        "name": "Artillery",
+        "level": 2,
+        "description": "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiumgreavesalpha+": {
+    "name": "Brachydium Greaves Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 2,
+        "description": "Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts."
+      },
+      {
+        "name": "Speed Sharpening",
+        "level": 3,
+        "description": "Removes three cycles from the sharpening process."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiumhelmbeta+": {
+    "name": "Brachydium Helm Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiummailbeta+": {
+    "name": "Brachydium Mail Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2,
+        "description": "While active, grants attack +8 and increases affinity by 5%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiumbracesbeta+": {
+    "name": "Brachydium Braces Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 2,
+        "description": "While active, grants attack +8 and increases affinity by 5%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiumfauldsbeta+": {
+    "name": "Brachydium Faulds Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Agitator",
+        "level": 3,
+        "description": "While active, grants attack +12 and increases affinity by 7%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "brachydiumgreavesbeta+": {
+    "name": "Brachydium Greaves Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "ice": -3,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 2,
+        "description": "Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts."
+      }
+    ],
+    "crafting": "-"
   }
 }

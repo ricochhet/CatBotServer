@@ -1663,14 +1663,14 @@
         "locations": "Hoarfrost Reach\nGuiding Lands",
         "info": "Unlike its counterpart, Furious Rajang has no tail, meaning it cannot be brought out of its enraged state.",
         "hzv": {
-            "slash": "-",
-            "blunt": "-",
-            "shot": "-",
-            "fire": "-",
-            "water": "-",
-            "thunder": "-",
-            "ice": "-",
-            "dragon": "-"
+            "slash": "60",
+            "blunt": "62",
+            "shot": "50",
+            "fire": "0",
+            "water": "5",
+            "thunder": "0",
+            "ice": "20",
+            "dragon": "0"
         }
     }
     },
@@ -1688,14 +1688,14 @@
         "locations": "Guiding Lands",
         "info": "On par with the level of an Elder Dragon, Raging Brachydios will lock down the final area, your only escape is carting.",
         "hzv": {
-            "slash": "-",
-            "blunt": "-",
-            "shot": "-",
-            "fire": "-",
-            "water": "-",
-            "thunder": "-",
-            "ice": "-",
-            "dragon": "-"
+            "slash": "75",
+            "blunt": "75",
+            "shot": "55",
+            "fire": "0",
+            "water": "20",
+            "thunder": "10",
+            "ice": "25",
+            "dragon": "10"
         }
     }
   }

@@ -189,6 +189,15 @@
   "vine_trap": 0
  },
  {
+  "id": 141,
+  "name_en": "Boaboa",
+  "ecology_en": 0,
+  "size": "small",
+  "pitfall_trap": 0,
+  "shock_trap": 0,
+  "vine_trap": 0
+ },
+ {
   "id": 17,
   "name_en": "Great Jagras",
   "ecology_en": "Fanged Wyvern",

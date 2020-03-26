@@ -6,7 +6,6 @@ class ItemsRoute {
   route(
     mhwIcons,
     item_map,
-    item_id_map,
     mhwObjects,
     decorationNames,
     monsterNames,
@@ -39,16 +38,6 @@ class ItemsRoute {
     ) {
       if (item_map.has(req.params.id)) {
         const item = item_map.get(req.params.id);
-        let itemID = ['no data provided'];
-        if (item_id_map.has(item.name)) {
-          itemID = item_id_map.get(item.name);
-        } else {
-          itemID = {
-            Id: '-',
-            Type: '-'
-          };
-        }
-
         res.render(render, {
           ICON_MAP: mhwIcons,
           ITEM_NAME: item.name,
@@ -57,7 +46,6 @@ class ItemsRoute {
           ITEM_CARRYLIMIT: item.carryLimit,
           ITEM_BUY: item.buy,
           ITEM_VALUE: item.value,
-          ITEM_ID: itemID,
           MHW_OBJECTS: mhwObjects,
           MHW_DECO_ARRAY: decorationNames,
           MHW_MONSTER_ARRAY: monsterNames,

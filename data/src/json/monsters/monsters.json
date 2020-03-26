@@ -1671,6 +1671,21 @@
     "rewards": [],
     "weakness": []
   },
+  "boaboa": {
+    "id": 141,
+    "name": "Boaboa",
+    "ecology": 0,
+    "size": "small",
+    "pitfall_trap": 0,
+    "shock_trap": 0,
+    "vine_trap": 0,
+    "ailments": [],
+    "breaks": [],
+    "habitats": [],
+    "hitzones": [],
+    "rewards": [],
+    "weakness": []
+  },
   "greatjagras": {
     "id": 17,
     "name": "Great Jagras",
@@ -19331,46 +19346,6 @@
         "condition": "Quest Reward",
         "rank": "HR",
         "item": "Elder Dragon Blood"
-      },
-      {
-        "condition": "Siege Reward (Fury)",
-        "rank": "HR",
-        "item": "Kulve Taroth Emperor Nugget"
-      },
-      {
-        "condition": "Siege Reward (Fury)",
-        "rank": "HR",
-        "item": "Firecell Stone"
-      },
-      {
-        "condition": "Siege Reward (Fury)",
-        "rank": "HR",
-        "item": "Hard Armor Sphere"
-      },
-      {
-        "condition": "Siege Reward (Fury)",
-        "rank": "HR",
-        "item": "Glowing Feystone"
-      },
-      {
-        "condition": "Siege Reward (Fury)",
-        "rank": "HR",
-        "item": "Worn Feystone"
-      },
-      {
-        "condition": "Siege Reward (Fury)",
-        "rank": "HR",
-        "item": "Warped Feystone"
-      },
-      {
-        "condition": "Siege Reward (Fury)",
-        "rank": "HR",
-        "item": "Streamstone"
-      },
-      {
-        "condition": "Siege Reward (Fury)",
-        "rank": "HR",
-        "item": "Gleaming Streamstone"
       },
       {
         "condition": "Appraisal (Bronze)",

@@ -10261,5 +10261,159 @@
       "<:ic_equipment_head_base:687395695946104869> Rank: 1",
       "<:ic_equipment_waist_base:687395699062603899> Rank: 1"
     ]
+  },
+  "furiousrajangalpha+": {
+    "name": "Furious Rajang Alpha +",
+    "setBonus": [
+      "Rajang Will: Raises  the maximum level of the Maximum Might skill. (2 pieces)",
+      "Rajang Will: Raises the maximum level of the Heroics skill. (4 pieces)"
+    ],
+    "defenses": "Base: 850\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 10\n💧 0\n⚡ 15\n❄ -25\n🐉 10",
+    "pieces": [
+      "Grand God's Peer Mask Alpha + (head)",
+      "Grand God's Peer Garb Alpha + (chest)",
+      "Grand God's Peer Arms Alpha + (gloves)",
+      "Grand God's Peer Belt Alpha + (waist)",
+      "Grand God's Peer Feet Alpha + (legs)"
+    ],
+    "skills": [
+      "Earplugs LV3",
+      "Heroics LV3",
+      "Earplugs LV2",
+      "Maximum Might LV3",
+      "Defense Boost LV3",
+      "Stamina Surge LV2",
+      "Heroics LV2",
+      "Maximum Might LV2",
+      "Health Boost LV3",
+      "Heroics LV2"
+    ],
+    "slots": [
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 1",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 2",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 2",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 1",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 1",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 1",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 2",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 2"
+    ]
+  },
+  "furiousrajangbeta+": {
+    "name": "Furious Rajang Beta +",
+    "setBonus": [
+      "Rajang Will: Raises  the maximum level of the Maximum Might skill. (2 pieces)",
+      "Rajang Will: Raises the maximum level of the Heroics skill. (4 pieces)"
+    ],
+    "defenses": "Base: 850\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 10\n💧 0\n⚡ 15\n❄ -25\n🐉 10",
+    "pieces": [
+      "Grand God's Peer Mask Beta + (head)",
+      "Grand God's Peer Garb Beta + (chest)",
+      "Grand God's Peer Arms Beta + (gloves)",
+      "Grand God's Peer Belt Beta + (waist)",
+      "Grand God's Peer Feet Beta + (legs)"
+    ],
+    "skills": [
+      "Earplugs LV3",
+      "Heroics LV1",
+      "Maximum Might LV3",
+      "Stamina Surge LV2",
+      "Maximum Might LV2",
+      "Health Boost LV3"
+    ],
+    "slots": [
+      "<:ic_equipment_head_base:687395695946104869> Rank: 4",
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 4",
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 2",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 4",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 2",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 1",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 4",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 2",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 1",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 4",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 4"
+    ]
+  },
+  "ragingbrachyalpha+": {
+    "name": "Raging Brachy Alpha +",
+    "setBonus": [
+      "Brachydios Will: Raises the maximum level of the Agitator skill. (2 pieces)",
+      "Brachydios Will: Raises the maximum level of the Artillery skill. (4 pieces)"
+    ],
+    "defenses": "Base: 850\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 15\n💧 -10\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Brachydium Helm Alpha + (head)",
+      "Brachydium Mail Alpha + (chest)",
+      "Brachydium Braces Alpha + (gloves)",
+      "Brachydium Faulds Alpha + (waist)",
+      "Brachydium Greaves Alpha + (legs)"
+    ],
+    "skills": [
+      "Weakness Exploit LV1",
+      "Guard LV2",
+      "Blast Attack LV3",
+      "Agitator LV2",
+      "Agitator LV2",
+      "Artillery LV3",
+      "Agitator LV3",
+      "Artillery LV2",
+      "Weakness Exploit LV2",
+      "Speed Sharpening LV3"
+    ],
+    "slots": [
+      "<:ic_equipment_head_base:687395695946104869> Rank: 2",
+      "<:ic_equipment_head_base:687395695946104869> Rank: 2",
+      "<:ic_equipment_head_base:687395695946104869> Rank: 1",
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 2",
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 1",
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 1",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 2",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 2",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 3",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 3",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 1"
+    ]
+  },
+  "ragingbrachybeta+": {
+    "name": "Raging Brachy Beta +",
+    "setBonus": [
+      "Brachydios Will: Raises the maximum level of the Agitator skill. (2 pieces)",
+      "Brachydios Will: Raises the maximum level of the Artillery skill. (4 pieces)"
+    ],
+    "defenses": "Base: 850\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 15\n💧 -10\n⚡ 5\n❄ -15\n🐉 5",
+    "pieces": [
+      "Brachydium Helm Beta + (head)",
+      "Brachydium Mail Beta + (chest)",
+      "Brachydium Braces Beta + (gloves)",
+      "Brachydium Faulds Beta + (waist)",
+      "Brachydium Greaves Beta + (legs)"
+    ],
+    "skills": [
+      "Weakness Exploit LV1",
+      "Agitator LV2",
+      "Agitator LV2",
+      "Agitator LV3",
+      "Weakness Exploit LV2"
+    ],
+    "slots": [
+      "<:ic_equipment_head_base:687395695946104869> Rank: 4",
+      "<:ic_equipment_head_base:687395695946104869> Rank: 4",
+      "<:ic_equipment_head_base:687395695946104869> Rank: 1",
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 4",
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 2",
+      "<:ic_equipment_chest_base:687395693048102927> Rank: 1",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 4",
+      "<:ic_equipment_arm_base:687395691215192091> Rank: 4",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 4",
+      "<:ic_equipment_waist_base:687395699062603899> Rank: 1",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 4",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 1",
+      "<:ic_equipment_leg_base:687395697573888118> Rank: 1"
+    ]
   }
 }

@@ -1419,5 +1419,12 @@
     "ranks": [
       "LV1: Increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)"
     ]
+  },
+  "heroicssecret": {
+    "name": "Heroics Secret",
+    "description": "Raises the maximum level of the Heroics skill.",
+    "ranks": [
+      "LV1: Raises the maximum level of the Heroics skill."
+    ]
   }
 }

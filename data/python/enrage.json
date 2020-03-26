@@ -179,6 +179,15 @@
         "playerDmg": "100%",
         "tenderizeFormula": "int(3/4x)+25"
     },
+    "furiousrajang": {
+        "tender": 0,
+        "dmgToEnrage": "-",
+        "enrageDuration": "-",
+        "enrageSpeed": "-",
+        "monstrDmg": "-",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
     "glavenus": {
         "tender": 0,
         "dmgToEnrage": 400,
@@ -375,6 +384,15 @@
         "enrageSpeed": "105%",
         "monstrDmg": "110%",
         "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "ragingbrachydios": {
+        "tender": 0,
+        "dmgToEnrage": "-",
+        "enrageDuration": "-",
+        "enrageSpeed": "-",
+        "monstrDmg": "-",
+        "playerDmg": "105%",
         "tenderizeFormula": "int(3/4x)+25"
     },
     "rajang": {

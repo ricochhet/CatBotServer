@@ -187,6 +187,12 @@ Fulgur Anjanath	❷	Legs	Broken	45	45	50	5	15	0	15	0	–
 Fulgur Anjanath	❸	Tail		60	60	75	10	15	0	20	5	–	100				350	
 Fulgur Anjanath	❸	Tail	Charged	55	55	70	10	20	0	15	5	–						
 Fulgur Anjanath	❸	Tail	Broken	60	60	75	10	15	0	15	5	–						
+Furious Rajang	❶	Head		55	57	45	0	5	0	20	0	100						
+Furious Rajang	❶	Head	Rampage	60	62	50	0	5	0	20	0	100						
+Furious Rajang	❸	Forelegs		38	38	30	0	5	0	10	0	–						L,R
+Furious Rajang	❸	Forelegs	Rampage	5	5	5	0	5	0	10	0	–						
+Furious Rajang	❷	Hindlegs		21	21	15	0	5	0	10	0	–						
+Furious Rajang	❸	Body		30	35	20	0	5	0	10	0	–						
 Glavenus	❶	Head		50	55	30	0	25	10	15	15	100	350	^	3	700		x2 Break
 Glavenus	❶	Neck		37	37	25	0	20	10	13	10	–						
 Glavenus	❶	Throat		65	65	45	0	30	10	15	10	–						
@@ -389,6 +395,17 @@ Radobaan	❸	Back Bone		20	25	15	0	0	0	0	0	–	40			80
 Radobaan	❷	Hindlegs		55	45	40	10	10	10	10	15	–	150	2	3			L,R
 Radobaan	❷	Leg Bone		20	25	15	0	0	0	0	0	–	20			40		L,R
 Radobaan	❸	Tail		45	30	30	15	15	15	15	15	–	175				350	
+Raging Brachydios	❶	Horn		60	65	45	0	10	10	25	5	100						
+Raging Brachydios	❶	Horn	Red Slime	75	75	10	0	20	0	5	0	100						
+Raging Brachydios	❸	Head		60	65	50	0	5	10	15	5	100						
+Raging Brachydios	❸	Neck		32	32	30	0	5	5	10	5	–						
+Raging Brachydios	❸	Body		32	32	30	0	10	5	15	0	–						
+Raging Brachydios	❶	Forearms		55	50	45	0	10	5	25	0	–						L,R
+Raging Brachydios	❶	Forearms	Red Slime	75	75	10	0	20	0	5	0	–						
+Raging Brachydios	❷	Hind Legs		32	32	30	0	5	5	10	0	–						L,R
+Raging Brachydios	❸	Tail		50	45	55	0	10	10	15	5	–						
+Raging Brachydios	❶	Tail Tip		18	30	10	0	10	5	25	10	–						
+Raging Brachydios	❶	Tail Tip	Red Slime	75	75	10	0	20	0	5	0	–						
 Rajang	❶	Head		60	62	45	0	5	0	30	0	100	400	1	10	400	600	x2 Break
 Rajang	❶	Forelegs		43	43	35	0	5	0	15	0	–	250	1	10	250		
 Rajang	❶	Forelegs	Rampage	10	10	5	0	5	0	15	0	–						
@@ -443,7 +460,8 @@ Safi'jiiva	❸	Body	S. Critical	30	30	7	3	3	3	3	3	–
 Safi'jiiva	❸	Back		45	45	3	15	15	15	15	15	–	150			150		
 Safi'jiiva	❸	Back	S. Critical	50	50	7	20	20	20	20	20	–						
 Safi'jiiva	❶	Chest		20	20	3	1	1	1	1	1	–						
-Safi'jiiva	❶	Chest	S. Critical	75	75	45	30	30	30	30	30	–	1000	1	12	3000		
+Safi'jiiva	❶	Chest	Broken	38	38	15	10	10	10	10	10	–						
+Safi'jiiva	❶	Chest	S. Critical	75	75	45	30	30	30	30	30	–	1000	1	12	2000		
 Safi'jiiva	❷	Forelegs		34	23	18	20	20	20	20	20	–	750			5250		L,R
 Safi'jiiva	❷	Forelegs	S. Critical	45	65	27	25	25	25	25	25	–						
 Safi'jiiva	❷	Forefeet		34	23	18	10	10	10	10	10	–						
@@ -455,14 +473,19 @@ Safi'jiiva	❸	Hindfeet		18	34	18	15	15	15	15	15	–
 Safi'jiiva	❸	Hindfeet	S. Critical	60	46	30	20	20	20	20	20	–						
 Safi'jiiva	❸	Hindleg+Feet	Broken	33	40	25	20	20	20	20	20	–						
 Safi'jiiva	❷	Wings		20	30	45	15	15	15	15	15	–	400			1200		L,R
+Safi'jiiva	❷	Wings	Broken	25	35	45	15	15	15	15	15	–						
 Safi'jiiva	❷	Wings	S. Critical	50	65	46	20	20	20	20	20	–						
 Safi'jiiva	❷	Wing Tips		20	20	10	15	15	15	15	15	–						
+Safi'jiiva	❷	Wing Tips	Broken	25	25	12	15	15	15	15	15	–						
 Safi'jiiva	❷	Wing Tips	S. Critical	50	65	15	20	20	20	20	20	–						
 Safi'jiiva	❷	Webbing		20	20	10	5	5	5	5	5	–						
+Safi'jiiva	❷	Webbing	Broken	25	25	12	5	5	5	5	5	–						
 Safi'jiiva	❷	Webbing	S. Critical	50	65	15	10	10	10	10	10	–						
 Safi'jiiva	❹	Tail		21	34	15	20	20	20	20	20	–	400				5500	
+Safi'jiiva	❹	Tail	Broken	46	40	20	20	20	20	20	20	–						
 Safi'jiiva	❹	Tail	S. Critical	65	55	35	25	25	25	25	25	–						
 Safi'jiiva	❹	Upper Tail		18	34	3	1	1	1	1	1	–						
+Safi'jiiva	❹	Upper Tail	Broken	20	40	7	1	1	1	1	1	–						
 Safi'jiiva	❹	Upper Tail	S. Critical	24	55	10	3	3	3	3	3	–						
 Savage Deviljho	❶	Head		40	45	25	20	25	25	10	30	100	300	Chrg	12	600		
 Savage Deviljho	❶	Head	Broken	55	60	40	20	25	25	15	30	100						
@@ -536,7 +559,7 @@ Stygian Zinogre	❸	Back	Charged	50	50	50	0	0	0	0	0	–
 Stygian Zinogre	❶	Forelegs	Charged	38	38	33	20	25	30	20	0	–						
 Stygian Zinogre	❸	Hindlegs	Charged	25	25	15	10	15	20	10	0	–						
 Stygian Zinogre	❷	Tail	Charged	35	35	25	15	20	25	15	0	–						
-Teostra	❶	Head		55	60	50	0	30	10	25	10	100	200	2	8	200		≤15% HP
+Teostra	❶	Head		55	60	50	0	30	10	25	10	100	200	2	8	200		≤16% HP
 Teostra	❶	Neck		33	38	33	0	20	5	15	5	–						
 Teostra	❸	Body		18	18	18	0	15	0	10	0	–	400					
 Teostra	❸	Back		18	18	18	0	15	0	10	0	–						

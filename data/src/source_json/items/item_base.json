@@ -1391,6 +1391,71 @@
   "icon_color": "Gray"
  },
  {
+  "id": 1209,
+  "name_en": "Blossom Fireworks",
+  "category": "item",
+  "subcategory": 0,
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 7,
+  "carry_limit": 10,
+  "points": 0,
+  "icon_name": "BarrelBomb",
+  "icon_color": "Pink"
+ },
+ {
+  "id": 1210,
+  "name_en": "Twilight Fireworks",
+  "category": "item",
+  "subcategory": 0,
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 7,
+  "carry_limit": 10,
+  "points": 0,
+  "icon_name": "BarrelBomb",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1211,
+  "name_en": "Harvest Fireworks",
+  "category": "item",
+  "subcategory": 0,
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 7,
+  "carry_limit": 10,
+  "points": 0,
+  "icon_name": "BarrelBomb",
+  "icon_color": "LightBeige"
+ },
+ {
+  "id": 1212,
+  "name_en": "Star Fireworks",
+  "category": "item",
+  "subcategory": 0,
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 7,
+  "carry_limit": 10,
+  "points": 0,
+  "icon_name": "BarrelBomb",
+  "icon_color": "White"
+ },
+ {
+  "id": 1213,
+  "name_en": "Appreciation Fireworks",
+  "category": "item",
+  "subcategory": 0,
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 7,
+  "carry_limit": 10,
+  "points": 0,
+  "icon_name": "BarrelBomb",
+  "icon_color": "Gold"
+ },
+ {
   "id": 114,
   "name_en": "Empty Phial",
   "category": "item",
@@ -1401,7 +1466,7 @@
   "carry_limit": 99,
   "points": 0,
   "icon_name": "EmptyBottle",
-  "icon_color": 0
+  "icon_color": "White"
  },
  {
   "id": 104,
@@ -1807,7 +1872,7 @@
   "icon_color": "Gold"
  },
  {
-  "id": 1070,
+  "id": 1222,
   "name_en": "Phantomcore Ore",
   "category": "material",
   "subcategory": 0,
@@ -1816,11 +1881,11 @@
   "sell_price": 3200,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "CharmOre",
+  "icon_color": "Cyan"
  },
  {
-  "id": 1071,
+  "id": 1223,
   "name_en": "Shadowcore Ore",
   "category": "material",
   "subcategory": 0,
@@ -1829,8 +1894,8 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "CharmOre",
+  "icon_color": "DarkPurple"
  },
  {
   "id": 135,
@@ -2054,6 +2119,32 @@
   "icon_color": "Red"
  },
  {
+  "id": 1220,
+  "name_en": "King Armor Sphere",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 700,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Sphere",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1221,
+  "name_en": "True Armor Sphere",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Sphere",
+  "icon_color": "Cyan"
+ },
+ {
   "id": 144,
   "name_en": "Great Hornfly",
   "category": "material",
@@ -2091,6 +2182,58 @@
   "points": 0,
   "icon_name": "Question",
   "icon_color": "Gray"
+ },
+ {
+  "id": 1224,
+  "name_en": "Dragonvein Shard",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 300,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1225,
+  "name_en": "Dragonvein Coal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 5,
+  "buy_price": 0,
+  "sell_price": 600,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Beige"
+ },
+ {
+  "id": 1226,
+  "name_en": "Dragonvein Coal Chunk",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 6,
+  "buy_price": 0,
+  "sell_price": 900,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1227,
+  "name_en": "Giant Dragonvein Coal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 7,
+  "buy_price": 0,
+  "sell_price": 1200,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Violet"
  },
  {
   "id": 146,
@@ -2675,7 +2818,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Gem",
-  "icon_color": 0
+  "icon_color": "DarkRed"
  },
  {
   "id": 174,
@@ -5158,7 +5301,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Scale",
-  "icon_color": 0
+  "icon_color": "Gold"
  },
  {
   "id": 808,
@@ -5171,7 +5314,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Carapace",
-  "icon_color": 0
+  "icon_color": "Gold"
  },
  {
   "id": 809,
@@ -5184,7 +5327,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Body",
-  "icon_color": 0
+  "icon_color": "Gold"
  },
  {
   "id": 284,
@@ -6783,7 +6926,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Scale",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 850,
@@ -6796,7 +6939,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Carapace",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 851,
@@ -6809,7 +6952,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Wing",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 852,
@@ -6822,7 +6965,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Tail",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 853,
@@ -6835,7 +6978,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Liquid",
-  "icon_color": 0
+  "icon_color": "Gold"
  },
  {
   "id": 355,
@@ -7758,7 +7901,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Scale",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 890,
@@ -7771,7 +7914,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Carapace",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 891,
@@ -7784,7 +7927,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Fang",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 892,
@@ -7797,7 +7940,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Fang",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 893,
@@ -7966,7 +8109,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Body",
-  "icon_color": 0
+  "icon_color": "Gold"
  },
  {
   "id": 906,
@@ -8044,7 +8187,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Tail",
-  "icon_color": 0
+  "icon_color": "DarkBlue"
  },
  {
   "id": 912,
@@ -8070,7 +8213,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Scale",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 914,
@@ -8083,7 +8226,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Carapace",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 915,
@@ -8096,7 +8239,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Body",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 916,
@@ -8109,7 +8252,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Jaw",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 917,
@@ -8122,7 +8265,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Wing",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 918,
@@ -8135,7 +8278,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Tail",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 919,
@@ -8161,7 +8304,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Carapace",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 921,
@@ -8173,8 +8316,8 @@
   "sell_price": 5560,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Carapace",
+  "icon_color": "Cyan"
  },
  {
   "id": 922,
@@ -8186,8 +8329,8 @@
   "sell_price": 3660,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Cyan"
  },
  {
   "id": 923,
@@ -8199,8 +8342,8 @@
   "sell_price": 7780,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "Cyan"
  },
  {
   "id": 924,
@@ -8212,8 +8355,8 @@
   "sell_price": 7460,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "Cyan"
  },
  {
   "id": 925,
@@ -8225,8 +8368,8 @@
   "sell_price": 8100,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Tail",
+  "icon_color": "Cyan"
  },
  {
   "id": 926,
@@ -8238,8 +8381,8 @@
   "sell_price": 7620,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Carapace",
+  "icon_color": "Cyan"
  },
  {
   "id": 927,
@@ -8252,7 +8395,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bug",
-  "icon_color": 0
+  "icon_color": "Blue"
  },
  {
   "id": 928,
@@ -8264,8 +8407,8 @@
   "sell_price": 18000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Mantle",
+  "icon_color": "Cyan"
  },
  {
   "id": 397,
@@ -8616,7 +8759,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Liquid",
-  "icon_color": 0
+  "icon_color": "DarkRed"
  },
  {
   "id": 411,
@@ -8643,6 +8786,84 @@
   "points": 0,
   "icon_name": "Mantle",
   "icon_color": "DarkGreen"
+ },
+ {
+  "id": 1069,
+  "name_en": "Rajang Hardhorn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 9370,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1070,
+  "name_en": "Rajang Hardfang",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 8990,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1071,
+  "name_en": "Rajang Wildpelt",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 6690,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1072,
+  "name_en": "Rajang Hardclaw",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 9180,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1073,
+  "name_en": "Rajang Tail",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 9750,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Tail",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1074,
+  "name_en": "Gold Rajang Pelt+",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 21000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gold"
  },
  {
   "id": 368,
@@ -9123,7 +9344,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Mantle",
-  "icon_color": 0
+  "icon_color": "Blue"
  },
  {
   "id": 428,
@@ -9877,7 +10098,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Hide",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 987,
@@ -9890,7 +10111,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Wing",
-  "icon_color": 0
+  "icon_color": "Orange"
  },
  {
   "id": 988,
@@ -9903,7 +10124,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Body",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 989,
@@ -9916,7 +10137,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Tail",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 990,
@@ -9929,7 +10150,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Fang",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 450,
@@ -10137,7 +10358,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Scale",
-  "icon_color": 0
+  "icon_color": "White"
  },
  {
   "id": 992,
@@ -10150,7 +10371,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Carapace",
-  "icon_color": 0
+  "icon_color": "DarkBeige"
  },
  {
   "id": 993,
@@ -10163,7 +10384,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Jaw",
-  "icon_color": 0
+  "icon_color": "White"
  },
  {
   "id": 994,
@@ -10176,7 +10397,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "DarkBeige"
  },
  {
   "id": 995,
@@ -10189,7 +10410,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Fang",
-  "icon_color": 0
+  "icon_color": "White"
  },
  {
   "id": 996,
@@ -10201,8 +10422,8 @@
   "sell_price": 24000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": "Gem",
-  "icon_color": 0
+  "icon_name": "Mantle",
+  "icon_color": "White"
  },
  {
   "id": 464,
@@ -10292,8 +10513,8 @@
   "sell_price": 3000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 664,
@@ -10305,8 +10526,8 @@
   "sell_price": 3600,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 665,
@@ -10318,8 +10539,8 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Jaw",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 666,
@@ -10331,8 +10552,8 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Jaw",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 667,
@@ -10344,8 +10565,8 @@
   "sell_price": 2800,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Bone",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 668,
@@ -10357,8 +10578,8 @@
   "sell_price": 3400,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Bone",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 669,
@@ -10370,8 +10591,8 @@
   "sell_price": 3400,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 670,
@@ -10383,8 +10604,8 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 671,
@@ -10396,8 +10617,8 @@
   "sell_price": 2600,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Liquid",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 674,
@@ -10409,8 +10630,8 @@
   "sell_price": 9600,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Liquid",
+  "icon_color": "DarkGreen"
  },
  {
   "id": 470,
@@ -10644,7 +10865,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
   "id": 998,
@@ -10657,10 +10878,10 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
-  "id": 1072,
+  "id": 1075,
   "name_en": "Prosperous Crystal",
   "category": "material",
   "subcategory": 0,
@@ -10669,11 +10890,11 @@
   "sell_price": 1600,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Ore",
+  "icon_color": "Green"
  },
  {
-  "id": 1073,
+  "id": 1076,
   "name_en": "Guiding Forest Crystal",
   "category": "material",
   "subcategory": 0,
@@ -10682,8 +10903,8 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Ore",
+  "icon_color": "Green"
  },
  {
   "id": 999,
@@ -10696,7 +10917,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1000,
@@ -10709,7 +10930,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1001,
@@ -10722,7 +10943,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1002,
@@ -10735,7 +10956,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1003,
@@ -10748,7 +10969,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 1004,
@@ -10761,10 +10982,10 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
-  "id": 1074,
+  "id": 1077,
   "name_en": "Deepsea Crystal",
   "category": "material",
   "subcategory": 0,
@@ -10773,8 +10994,8 @@
   "sell_price": 1600,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Ore",
+  "icon_color": "Violet"
  },
  {
   "id": 1005,
@@ -10787,7 +11008,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
   "id": 1006,
@@ -10800,7 +11021,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1007,
@@ -10813,7 +11034,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1008,
@@ -10826,10 +11047,10 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
-  "id": 1075,
+  "id": 1078,
   "name_en": "Guiding Effluvial Crystal",
   "category": "material",
   "subcategory": 0,
@@ -10838,8 +11059,60 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Ore",
+  "icon_color": "Beige"
+ },
+ {
+  "id": 1079,
+  "name_en": "Melted Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1080,
+  "name_en": "Magma Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 1200,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1081,
+  "name_en": "Hellfire Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 1600,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1082,
+  "name_en": "Guiding Magma Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 2000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Red"
  },
  {
   "id": 1009,
@@ -10852,7 +11125,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
   "id": 1010,
@@ -10865,7 +11138,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
   "id": 1045,
@@ -10878,7 +11151,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
   "id": 1046,
@@ -10891,7 +11164,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
   "id": 1011,
@@ -10904,7 +11177,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1012,
@@ -10917,7 +11190,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1013,
@@ -10930,7 +11203,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1014,
@@ -10943,7 +11216,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1015,
@@ -10956,7 +11229,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Pink"
  },
  {
   "id": 1016,
@@ -10969,10 +11242,23 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Pink"
  },
  {
-  "id": 1069,
+  "id": 1083,
+  "name_en": "Vibrant Crimsonbone",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 1600,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bone",
+  "icon_color": "Pink"
+ },
+ {
+  "id": 1017,
   "name_en": "Guiding Reef Dragonbone",
   "category": "material",
   "subcategory": 0,
@@ -10981,8 +11267,8 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Bone",
+  "icon_color": "Pink"
  },
  {
   "id": 1018,
@@ -10995,7 +11281,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1019,
@@ -11008,7 +11294,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1020,
@@ -11021,10 +11307,10 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
-  "id": 1076,
+  "id": 1084,
   "name_en": "Guiding Rotted Dragonbone",
   "category": "material",
   "subcategory": 0,
@@ -11033,8 +11319,60 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Bone",
+  "icon_color": "Beige"
+ },
+ {
+  "id": 1085,
+  "name_en": "Simmering Wildbone",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bone",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1086,
+  "name_en": "Volcanic Wildbone",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 1200,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bone",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1087,
+  "name_en": "Dragonscorched Wildbone",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 1600,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bone",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1088,
+  "name_en": "Guiding Volcanic Dragonbone",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 2000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bone",
+  "icon_color": "Red"
  },
  {
   "id": 1021,
@@ -11047,7 +11385,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "DarkRed"
  },
  {
   "id": 1022,
@@ -11060,7 +11398,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 1023,
@@ -11073,7 +11411,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1024,
@@ -11086,10 +11424,10 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
-  "id": 1077,
+  "id": 1089,
   "name_en": "Spiritvein Slogbone",
   "category": "material",
   "subcategory": 0,
@@ -11098,8 +11436,8 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Bone",
+  "icon_color": "Gray"
  },
  {
   "id": 1047,
@@ -11112,7 +11450,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 1048,
@@ -11125,10 +11463,10 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Violet"
  },
  {
-  "id": 1078,
+  "id": 1090,
   "name_en": "Spiritvein Gem Shard",
   "category": "material",
   "subcategory": 0,
@@ -11137,11 +11475,11 @@
   "sell_price": 7000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Streamstone",
+  "icon_color": "White"
  },
  {
-  "id": 1079,
+  "id": 1091,
   "name_en": "Spiritvein Gem",
   "category": "material",
   "subcategory": 0,
@@ -11150,11 +11488,11 @@
   "sell_price": 14000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Streamstone",
+  "icon_color": "White"
  },
  {
-  "id": 1080,
+  "id": 1092,
   "name_en": "Great Spiritvein Gem",
   "category": "material",
   "subcategory": 0,
@@ -11163,11 +11501,11 @@
   "sell_price": 21000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Streamstone",
+  "icon_color": "White"
  },
  {
-  "id": 1081,
+  "id": 1093,
   "name_en": "Rugged Mane",
   "category": "material",
   "subcategory": 0,
@@ -11176,11 +11514,11 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Gold"
  },
  {
-  "id": 1082,
+  "id": 1094,
   "name_en": "Colorful Plume",
   "category": "material",
   "subcategory": 0,
@@ -11189,11 +11527,11 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Orange"
  },
  {
-  "id": 1083,
+  "id": 1095,
   "name_en": "Fragrant Poison Sac",
   "category": "material",
   "subcategory": 0,
@@ -11202,11 +11540,11 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Sac",
+  "icon_color": "Lime"
  },
  {
-  "id": 1084,
+  "id": 1096,
   "name_en": "Tempered Poison Sac",
   "category": "material",
   "subcategory": 0,
@@ -11215,11 +11553,11 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Sac",
+  "icon_color": "Lime"
  },
  {
-  "id": 1085,
+  "id": 1097,
   "name_en": "Hydrated Sac",
   "category": "material",
   "subcategory": 0,
@@ -11228,11 +11566,11 @@
   "sell_price": 2500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Sac",
+  "icon_color": "Orange"
  },
  {
-  "id": 1086,
+  "id": 1098,
   "name_en": "Tempered Torrent Sac",
   "category": "material",
   "subcategory": 0,
@@ -11241,11 +11579,11 @@
   "sell_price": 4500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Sac",
+  "icon_color": "Orange"
  },
  {
-  "id": 1087,
+  "id": 1099,
   "name_en": "Muddy Crown",
   "category": "material",
   "subcategory": 0,
@@ -11254,11 +11592,11 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Jaw",
+  "icon_color": "Beige"
  },
  {
-  "id": 1088,
+  "id": 1100,
   "name_en": "Tempered Crown",
   "category": "material",
   "subcategory": 0,
@@ -11267,11 +11605,11 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Jaw",
+  "icon_color": "Beige"
  },
  {
-  "id": 1089,
+  "id": 1101,
   "name_en": "Blinding Cathode",
   "category": "material",
   "subcategory": 0,
@@ -11280,11 +11618,11 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Cyan"
  },
  {
-  "id": 1090,
+  "id": 1102,
   "name_en": "Tempered Cathode",
   "category": "material",
   "subcategory": 0,
@@ -11293,11 +11631,11 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Cyan"
  },
  {
-  "id": 1091,
+  "id": 1103,
   "name_en": "Ancient Great Horn",
   "category": "material",
   "subcategory": 0,
@@ -11306,11 +11644,11 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "LightBeige"
  },
  {
-  "id": 1092,
+  "id": 1104,
   "name_en": "Tempered Great Horn",
   "category": "material",
   "subcategory": 0,
@@ -11319,11 +11657,11 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "LightBeige"
  },
  {
-  "id": 1093,
+  "id": 1105,
   "name_en": "Flickering Flamepelt",
   "category": "material",
   "subcategory": 0,
@@ -11332,11 +11670,11 @@
   "sell_price": 2500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "Pink"
  },
  {
-  "id": 1094,
+  "id": 1106,
   "name_en": "Tempered Flamepelt",
   "category": "material",
   "subcategory": 0,
@@ -11345,11 +11683,11 @@
   "sell_price": 4500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "Pink"
  },
  {
-  "id": 1095,
+  "id": 1107,
   "name_en": "Crackling Thunderpelt",
   "category": "material",
   "subcategory": 0,
@@ -11358,11 +11696,11 @@
   "sell_price": 3500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "White"
  },
  {
-  "id": 1096,
+  "id": 1108,
   "name_en": "Tempered Thunderpelt",
   "category": "material",
   "subcategory": 0,
@@ -11371,11 +11709,11 @@
   "sell_price": 5500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "White"
  },
  {
-  "id": 1097,
+  "id": 1109,
   "name_en": "Queen's Scale",
   "category": "material",
   "subcategory": 0,
@@ -11384,8 +11722,8 @@
   "sell_price": 2500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Green"
  },
  {
   "id": 1055,
@@ -11397,11 +11735,11 @@
   "sell_price": 4500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Green"
  },
  {
-  "id": 1098,
+  "id": 1110,
   "name_en": "Pink Scale",
   "category": "material",
   "subcategory": 0,
@@ -11410,8 +11748,8 @@
   "sell_price": 2500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Pink"
  },
  {
   "id": 1056,
@@ -11423,11 +11761,11 @@
   "sell_price": 4500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Pink"
  },
  {
-  "id": 1099,
+  "id": 1111,
   "name_en": "Dazzling Photophore+",
   "category": "material",
   "subcategory": 0,
@@ -11436,11 +11774,11 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Blue"
  },
  {
-  "id": 1100,
+  "id": 1112,
   "name_en": "Rubbery Shell",
   "category": "material",
   "subcategory": 0,
@@ -11449,11 +11787,11 @@
   "sell_price": 2500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Carapace",
+  "icon_color": "Pink"
  },
  {
-  "id": 1101,
+  "id": 1113,
   "name_en": "Tempered Rubbery Shell",
   "category": "material",
   "subcategory": 0,
@@ -11462,11 +11800,11 @@
   "sell_price": 4500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Carapace",
+  "icon_color": "Pink"
  },
  {
-  "id": 1102,
+  "id": 1114,
   "name_en": "Obsidian Fur",
   "category": "material",
   "subcategory": 0,
@@ -11475,11 +11813,11 @@
   "sell_price": 2500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "Violet"
  },
  {
-  "id": 1103,
+  "id": 1115,
   "name_en": "Tempered Hide",
   "category": "material",
   "subcategory": 0,
@@ -11488,11 +11826,11 @@
   "sell_price": 4500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "Violet"
  },
  {
-  "id": 1104,
+  "id": 1116,
   "name_en": "Night Hood",
   "category": "material",
   "subcategory": 0,
@@ -11501,11 +11839,11 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Gray"
  },
  {
-  "id": 1105,
+  "id": 1117,
   "name_en": "Inkstained Oilshell+",
   "category": "material",
   "subcategory": 0,
@@ -11514,11 +11852,11 @@
   "sell_price": 2500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "White"
  },
  {
-  "id": 1106,
+  "id": 1118,
   "name_en": "Tempered Oilshell+",
   "category": "material",
   "subcategory": 0,
@@ -11527,11 +11865,89 @@
   "sell_price": 4500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "White"
  },
  {
-  "id": 1107,
+  "id": 1119,
+  "name_en": "Heavy Jaw",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 2000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Jaw",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1120,
+  "name_en": "Incandescent Magmafin",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1121,
+  "name_en": "Tempered Magmafin",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 5000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1122,
+  "name_en": "Metallic Scute",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1123,
+  "name_en": "Tempered Scute",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 5000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1124,
+  "name_en": "Sinister Silverpelt",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 4500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "White"
+ },
+ {
+  "id": 1125,
   "name_en": "Tempered Silverpelt",
   "category": "material",
   "subcategory": 0,
@@ -11540,11 +11956,11 @@
   "sell_price": 6500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "White"
  },
  {
-  "id": 1108,
+  "id": 1126,
   "name_en": "Smooth Icehide",
   "category": "material",
   "subcategory": 0,
@@ -11553,11 +11969,11 @@
   "sell_price": 3000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "Blue"
  },
  {
-  "id": 1109,
+  "id": 1127,
   "name_en": "Tempered Icehide",
   "category": "material",
   "subcategory": 0,
@@ -11566,11 +11982,11 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "Blue"
  },
  {
-  "id": 1110,
+  "id": 1128,
   "name_en": "Fatal Rendclaw",
   "category": "material",
   "subcategory": 0,
@@ -11579,11 +11995,11 @@
   "sell_price": 3000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "DarkRed"
  },
  {
-  "id": 1111,
+  "id": 1129,
   "name_en": "Tempered Rendclaw",
   "category": "material",
   "subcategory": 0,
@@ -11592,11 +12008,11 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "DarkRed"
  },
  {
-  "id": 1112,
+  "id": 1130,
   "name_en": "Soulrender Talon",
   "category": "material",
   "subcategory": 0,
@@ -11605,11 +12021,11 @@
   "sell_price": 3500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "White"
  },
  {
-  "id": 1113,
+  "id": 1131,
   "name_en": "Tempered Talon",
   "category": "material",
   "subcategory": 0,
@@ -11618,8 +12034,21 @@
   "sell_price": 5500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "White"
+ },
+ {
+  "id": 1132,
+  "name_en": "King's Scale",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "Red"
  },
  {
   "id": 1057,
@@ -11631,8 +12060,21 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1133,
+  "name_en": "Azure Scale",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "Blue"
  },
  {
   "id": 1058,
@@ -11644,11 +12086,11 @@
   "sell_price": 5500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Blue"
  },
  {
-  "id": 1114,
+  "id": 1134,
   "name_en": "Twisted Bravehorn",
   "category": "material",
   "subcategory": 0,
@@ -11657,11 +12099,11 @@
   "sell_price": 3000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "DarkBeige"
  },
  {
-  "id": 1115,
+  "id": 1135,
   "name_en": "Twisted Temperhorn",
   "category": "material",
   "subcategory": 0,
@@ -11670,11 +12112,24 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "DarkBeige"
  },
  {
-  "id": 1116,
+  "id": 1136,
+  "name_en": "Blackcurl Tyranthorn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1137,
   "name_en": "Blackcurl Temperhorn",
   "category": "material",
   "subcategory": 0,
@@ -11683,11 +12138,24 @@
   "sell_price": 5500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "Gray"
  },
  {
-  "id": 1117,
+  "id": 1138,
+  "name_en": "Assassin Cutwing",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Wing",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1139,
   "name_en": "Tempered Cutwing",
   "category": "material",
   "subcategory": 0,
@@ -11696,11 +12164,24 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Wing",
+  "icon_color": "Gray"
  },
  {
-  "id": 1118,
+  "id": 1140,
+  "name_en": "Smoldering Tailedge",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Tail",
+  "icon_color": "White"
+ },
+ {
+  "id": 1141,
   "name_en": "Tempered Tailedge",
   "category": "material",
   "subcategory": 0,
@@ -11709,11 +12190,24 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Tail",
+  "icon_color": "White"
  },
  {
-  "id": 1119,
+  "id": 1142,
+  "name_en": "Honed Tailblade",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Tail",
+  "icon_color": "Cyan"
+ },
+ {
+  "id": 1143,
   "name_en": "Tempered Tailblade",
   "category": "material",
   "subcategory": 0,
@@ -11722,11 +12216,50 @@
   "sell_price": 5500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Tail",
+  "icon_color": "Cyan"
  },
  {
-  "id": 1120,
+  "id": 1144,
+  "name_en": "Glossy Ebonshell",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1145,
+  "name_en": "Tempered Ebonshell",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 5000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1146,
+  "name_en": "Strongman's Jaw",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Jaw",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1147,
   "name_en": "Tempered Jaw",
   "category": "material",
   "subcategory": 0,
@@ -11735,11 +12268,11 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Jaw",
+  "icon_color": "Gold"
  },
  {
-  "id": 1121,
+  "id": 1148,
   "name_en": "Shuddering Darkjaw",
   "category": "material",
   "subcategory": 0,
@@ -11748,8 +12281,8 @@
   "sell_price": 4500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Jaw",
+  "icon_color": "Gray"
  },
  {
   "id": 1049,
@@ -11761,11 +12294,24 @@
   "sell_price": 6500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Jaw",
+  "icon_color": "Gray"
  },
  {
-  "id": 1122,
+  "id": 1149,
+  "name_en": "Charged Deathly Shocker",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 4500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Carapace",
+  "icon_color": "Cyan"
+ },
+ {
+  "id": 1150,
   "name_en": "Tempered Shocker",
   "category": "material",
   "subcategory": 0,
@@ -11774,11 +12320,50 @@
   "sell_price": 6500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Carapace",
+  "icon_color": "Cyan"
  },
  {
-  "id": 1123,
+  "id": 1151,
+  "name_en": "Crimson Blastscale",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "White"
+ },
+ {
+  "id": 1152,
+  "name_en": "Tempered Blastscale",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 6000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "White"
+ },
+ {
+  "id": 1153,
+  "name_en": "Bloodstained Ebonhide",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Hide",
+  "icon_color": "DarkGreen"
+ },
+ {
+  "id": 1154,
   "name_en": "Spattered Hide",
   "category": "material",
   "subcategory": 0,
@@ -11787,11 +12372,24 @@
   "sell_price": 6000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Hide",
+  "icon_color": "DarkGreen"
  },
  {
-  "id": 1124,
+  "id": 1155,
+  "name_en": "Solemn Azure Horn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1156,
   "name_en": "Tempered Azure Horn",
   "category": "material",
   "subcategory": 0,
@@ -11800,11 +12398,24 @@
   "sell_price": 6000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "Blue"
  },
  {
-  "id": 1125,
+  "id": 1157,
+  "name_en": "Hellfire Mane",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1158,
   "name_en": "Tempered Crimson Mane",
   "category": "material",
   "subcategory": 0,
@@ -11813,11 +12424,11 @@
   "sell_price": 6000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Red"
  },
  {
-  "id": 1126,
+  "id": 1159,
   "name_en": "Stormcall Steelwing",
   "category": "material",
   "subcategory": 0,
@@ -11826,11 +12437,11 @@
   "sell_price": 4000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Wing",
+  "icon_color": "Gray"
  },
  {
-  "id": 1127,
+  "id": 1160,
   "name_en": "Tempered Steelwing",
   "category": "material",
   "subcategory": 0,
@@ -11839,11 +12450,24 @@
   "sell_price": 6000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Wing",
+  "icon_color": "Gray"
  },
  {
-  "id": 1128,
+  "id": 1161,
+  "name_en": "Azure Mane",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1162,
   "name_en": "Tempered Azure Mane",
   "category": "material",
   "subcategory": 0,
@@ -11852,11 +12476,24 @@
   "sell_price": 6500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Blue"
  },
  {
-  "id": 1129,
+  "id": 1163,
+  "name_en": "Aurora Crownhorn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1164,
   "name_en": "Tempered Crownhorn",
   "category": "material",
   "subcategory": 0,
@@ -11865,11 +12502,24 @@
   "sell_price": 6000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "Blue"
  },
  {
-  "id": 1130,
+  "id": 1165,
+  "name_en": "Twilight Fang",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "White"
+ },
+ {
+  "id": 1166,
   "name_en": "Tempered Twilight Fang",
   "category": "material",
   "subcategory": 0,
@@ -11878,11 +12528,24 @@
   "sell_price": 6000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "White"
  },
  {
-  "id": 1131,
+  "id": 1167,
+  "name_en": "Enchanting Finehide",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Hide",
+  "icon_color": "Violet"
+ },
+ {
+  "id": 1168,
   "name_en": "Tempered Trancehide",
   "category": "material",
   "subcategory": 0,
@@ -11891,8 +12554,99 @@
   "sell_price": 6000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Fang",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1169,
+  "name_en": "Extinction Greathorn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 6500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1170,
+  "name_en": "Moonlight Scale",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 6500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1271,
+  "name_en": "Tempered Gold Scale",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 9000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1171,
+  "name_en": "Scorching Scale",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 6500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1172,
+  "name_en": "Tempered Silver Scale",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 9000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1173,
+  "name_en": "Bloodthirsty Glimmerpelt",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1174,
+  "name_en": "Tempered Glimmerpelt",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 6500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gold"
  },
  {
   "id": 487,
@@ -11906,6 +12660,19 @@
   "points": 0,
   "icon_name": "Voucher",
   "icon_color": "Gray"
+ },
+ {
+  "id": 1228,
+  "name_en": "Gourmet Voucher",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 5,
+  "buy_price": 0,
+  "sell_price": 1000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Gold"
  },
  {
   "id": 488,
@@ -11932,6 +12699,19 @@
   "points": 0,
   "icon_name": "Voucher",
   "icon_color": "Green"
+ },
+ {
+  "id": 1229,
+  "name_en": "Sublime First Wyverian Print",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 6,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Red"
  },
  {
   "id": 490,
@@ -11973,6 +12753,71 @@
   "icon_color": "Gold"
  },
  {
+  "id": 1230,
+  "name_en": "Celestial Wyverian Print",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Cyan"
+ },
+ {
+  "id": 1231,
+  "name_en": "Steel Melding Ticket",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 6,
+  "buy_price": 0,
+  "sell_price": 10,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1232,
+  "name_en": "Silver Melding Ticket",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 7,
+  "buy_price": 0,
+  "sell_price": 50,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "White"
+ },
+ {
+  "id": 1233,
+  "name_en": "Gold Melding Ticket",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 100,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1234,
+  "name_en": "Astral Melding Ticket",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Cyan"
+ },
+ {
   "id": 495,
   "name_en": "Commendation",
   "category": "material",
@@ -12009,7 +12854,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Beige"
  },
  {
   "id": 497,
@@ -12035,7 +12880,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Cyan"
  },
  {
   "id": 493,
@@ -12074,7 +12919,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "LightBeige"
  },
  {
   "id": 510,
@@ -12204,7 +13049,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Red"
  },
  {
   "id": 655,
@@ -12217,7 +13062,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Blue"
  },
  {
   "id": 656,
@@ -12230,7 +13075,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 672,
@@ -12243,7 +13088,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 657,
@@ -12256,7 +13101,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 658,
@@ -12269,7 +13114,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "White"
  },
  {
   "id": 519,
@@ -12308,7 +13153,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Red"
  },
  {
   "id": 680,
@@ -12321,7 +13166,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
   "id": 523,
@@ -12411,8 +13256,8 @@
   "sell_price": 800,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Streamstone",
+  "icon_color": "Violet"
  },
  {
   "id": 679,
@@ -12424,8 +13269,8 @@
   "sell_price": 400,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Question",
+  "icon_color": "LightBeige"
  },
  {
   "id": 529,
@@ -12438,7 +13283,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "White"
  },
  {
   "id": 530,
@@ -12451,7 +13296,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
   "id": 521,
@@ -12490,7 +13335,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Gold"
  },
  {
   "id": 676,
@@ -12503,7 +13348,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Cyan"
  },
  {
   "id": 677,
@@ -12516,7 +13361,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "LightBeige"
  },
  {
   "id": 1028,
@@ -12529,7 +13374,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "LightBeige"
  },
  {
   "id": 1029,
@@ -12542,7 +13387,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 1030,
@@ -12555,7 +13400,20 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Orange"
+ },
+ {
+  "id": 1175,
+  "name_en": "VIP Joyful Ticket",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 12,
+  "buy_price": 0,
+  "sell_price": 10000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Orange"
  },
  {
   "id": 1031,
@@ -12568,7 +13426,20 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1176,
+  "name_en": "VIP Gratitude Ticket",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 12,
+  "buy_price": 0,
+  "sell_price": 10000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Blue"
  },
  {
   "id": 1050,
@@ -12581,7 +13452,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Blue"
  },
  {
   "id": 1032,
@@ -12594,7 +13465,46 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "White"
+ },
+ {
+  "id": 1177,
+  "name_en": "Black Eagle Blueprint",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1178,
+  "name_en": "Wiggler Pot",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Question",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1208,
+  "name_en": "S.T.A.R.S. Badge",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 12,
+  "buy_price": 0,
+  "sell_price": 1500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Coin",
+  "icon_color": "Gold"
  },
  {
   "id": 1033,
@@ -12607,7 +13517,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "White"
  },
  {
   "id": 1034,
@@ -12619,8 +13529,21 @@
   "sell_price": 800,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Voucher",
+  "icon_color": "DarkRed"
+ },
+ {
+  "id": 1179,
+  "name_en": "Buff Ticket",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Voucher",
+  "icon_color": "DarkBeige"
  },
  {
   "id": 1051,
@@ -12633,7 +13556,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 1035,
@@ -12646,7 +13569,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Green"
  },
  {
   "id": 1052,
@@ -12659,7 +13582,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "Gold"
  },
  {
   "id": 1053,
@@ -12671,8 +13594,8 @@
   "sell_price": 800,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Voucher",
+  "icon_color": "Red"
  },
  {
   "id": 1054,
@@ -12685,7 +13608,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Voucher",
-  "icon_color": 0
+  "icon_color": "DarkBeige"
  },
  {
   "id": 498,
@@ -12854,7 +13777,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "DarkBeige"
  },
  {
   "id": 1037,
@@ -12867,7 +13790,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "White"
  },
  {
   "id": 1038,
@@ -12880,7 +13803,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 1039,
@@ -12893,7 +13816,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "DarkRed"
  },
  {
   "id": 1040,
@@ -12906,7 +13829,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "DarkRed"
  },
  {
   "id": 1041,
@@ -12919,7 +13842,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "Cyan"
  },
  {
   "id": 1042,
@@ -12932,7 +13855,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "Gray"
  },
  {
   "id": 1043,
@@ -12945,7 +13868,7 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "Gold"
  },
  {
   "id": 1044,
@@ -12958,11 +13881,375 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Coin",
-  "icon_color": 0
+  "icon_color": "DarkBeige"
  },
  {
-  "id": 1017,
-  "name_en": "Guiding Coral Dragonbone",
+  "id": 1275,
+  "name_en": "Dracolite Shard",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 8,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Question",
+  "icon_color": "DarkRed"
+ },
+ {
+  "id": 1276,
+  "name_en": "Dracolite",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Question",
+  "icon_color": "DarkRed"
+ },
+ {
+  "id": 1277,
+  "name_en": "Large Dracolite",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Question",
+  "icon_color": "DarkRed"
+ },
+ {
+  "id": 1278,
+  "name_en": "Rigid Dracolite",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Question",
+  "icon_color": "DarkRed"
+ },
+ {
+  "id": 1279,
+  "name_en": "Pure Dracolite",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 12,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Question",
+  "icon_color": "DarkRed"
+ },
+ {
+  "id": 1241,
+  "name_en": "Stygian Zinogre Cortex",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 6630,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Carapace",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1242,
+  "name_en": "Stygian Zinogre Dragonlocks",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 4330,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1243,
+  "name_en": "Stygian Zinogre Hardhorn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 9190,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1244,
+  "name_en": "Stygian Zinogre Hardclaw",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 8930,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1245,
+  "name_en": "Stygian Zinogre Lash",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 9450,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Tail",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1246,
+  "name_en": "Stygian Zinogre Dragonhold",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 9060,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Carapace",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1247,
+  "name_en": "Dracophage Bug",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 5520,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bug",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1248,
+  "name_en": "Stygian Zinogre Skymerald",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 21000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Mantle",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1250,
+  "name_en": "Safi'jiiva Shard",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4900,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1251,
+  "name_en": "Safi'jiiva Cortex",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 7600,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Carapace",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1252,
+  "name_en": "Pulsing Dragonshell",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 8100,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1253,
+  "name_en": "Safi'jiiva Lash",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 11800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Tail",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1254,
+  "name_en": "Safi'jiiva Hardhorn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 11300,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1255,
+  "name_en": "Safi'jiiva Hardclaw",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 10800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1256,
+  "name_en": "Safi'jiiva Fellwing",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 10300,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Wing",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1257,
+  "name_en": "Zionium Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 12,
+  "buy_price": 0,
+  "sell_price": 24000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Mantle",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1258,
+  "name_en": "Frozen Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "White"
+ },
+ {
+  "id": 1259,
+  "name_en": "Rime Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 1200,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "White"
+ },
+ {
+  "id": 1260,
+  "name_en": "Daybreak Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 1600,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "White"
+ },
+ {
+  "id": 1261,
+  "name_en": "Guiding Rime Crystal",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 2000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "White"
+ },
+ {
+  "id": 1262,
+  "name_en": "Hoary Icebone",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 800,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bone",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1263,
+  "name_en": "Tundra Icebone",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 1200,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bone",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1264,
+  "name_en": "Everfrost Icebone",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 1600,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Bone",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1265,
+  "name_en": "Guiding Tundra Dragonbone",
   "category": "material",
   "subcategory": 0,
   "rarity": 11,
@@ -12971,7 +14258,98 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Bone",
-  "icon_color": 0
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1266,
+  "name_en": "Enticing Viperthorn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 2500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Orange"
+ },
+ {
+  "id": 1267,
+  "name_en": "Tempered Viperthorn",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 4500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Body",
+  "icon_color": "Orange"
+ },
+ {
+  "id": 1268,
+  "name_en": "Crystal Frozenhide",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 3500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Hide",
+  "icon_color": "White"
+ },
+ {
+  "id": 1269,
+  "name_en": "Tempered Frosthide",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 5500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Hide",
+  "icon_color": "White"
+ },
+ {
+  "id": 1270,
+  "name_en": "Annihilating Temperhorm",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 9000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Fang",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1272,
+  "name_en": "Gushing Dragonhold",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 4500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Carapace",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1273,
+  "name_en": "Tempered Dragonhold",
+  "category": "material",
+  "subcategory": 0,
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 6500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Carapace",
+  "icon_color": "Gray"
  },
  {
   "id": 532,
@@ -12996,8 +14374,8 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Bone",
+  "icon_color": "Gold"
  },
  {
   "id": 534,
@@ -13143,6 +14521,32 @@
   "icon_color": "Gold"
  },
  {
+  "id": 1180,
+  "name_en": "Giant Scale",
+  "category": "material",
+  "subcategory": "trade",
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 8000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "LightBeige"
+ },
+ {
+  "id": 1181,
+  "name_en": "Magnificent Scale",
+  "category": "material",
+  "subcategory": "trade",
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 10000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Scale",
+  "icon_color": "DarkRed"
+ },
+ {
   "id": 545,
   "name_en": "Bhernastone",
   "category": "material",
@@ -13217,8 +14621,8 @@
   "sell_price": 1000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Gold"
  },
  {
   "id": 551,
@@ -13230,8 +14634,8 @@
   "sell_price": 10000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Gold"
  },
  {
   "id": 552,
@@ -13243,8 +14647,8 @@
   "sell_price": 2000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "White"
  },
  {
   "id": 553,
@@ -13256,8 +14660,8 @@
   "sell_price": 20000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "White"
  },
  {
   "id": 554,
@@ -13269,8 +14673,8 @@
   "sell_price": 500,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Gold"
  },
  {
   "id": 555,
@@ -13282,8 +14686,21 @@
   "sell_price": 5000,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Scale",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1239,
+  "name_en": "Emerald Shell",
+  "category": "material",
+  "subcategory": "trade",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 1500,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Carapace",
+  "icon_color": "Cyan"
  },
  {
   "id": 558,
@@ -13293,6 +14710,19 @@
   "rarity": 4,
   "buy_price": 0,
   "sell_price": 300,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Ore",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1240,
+  "name_en": "Gold Nugget Fragment",
+  "category": "material",
+  "subcategory": "trade",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 900,
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
@@ -13322,6 +14752,19 @@
   "carry_limit": 0,
   "points": 0,
   "icon_name": "Ore",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1182,
+  "name_en": "Magnificent Pelt",
+  "category": "material",
+  "subcategory": "trade",
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 9000,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Hide",
   "icon_color": "Gold"
  },
  {
@@ -13780,6 +15223,19 @@
   "icon_color": "Beige"
  },
  {
+  "id": 1183,
+  "name_en": "Close-range Coating",
+  "category": "ammo",
+  "subcategory": 0,
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 1,
+  "points": 0,
+  "icon_name": "Bottle",
+  "icon_color": "White"
+ },
+ {
   "id": 594,
   "name_en": "Power Coating",
   "category": "ammo",
@@ -13936,6 +15392,58 @@
   "icon_color": "Gold"
  },
  {
+  "id": 1235,
+  "name_en": "Steel Melding Feystone",
+  "category": "misc",
+  "subcategory": "appraisal",
+  "rarity": 6,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Feystone",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1236,
+  "name_en": "Silver Melding Feystone",
+  "category": "misc",
+  "subcategory": "appraisal",
+  "rarity": 7,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Feystone",
+  "icon_color": "White"
+ },
+ {
+  "id": 1237,
+  "name_en": "Gold Melding Feystone",
+  "category": "misc",
+  "subcategory": "appraisal",
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Feystone",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1238,
+  "name_en": "Astral Melding Feystone",
+  "category": "misc",
+  "subcategory": "appraisal",
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Feystone",
+  "icon_color": "Cyan"
+ },
+ {
   "id": 603,
   "name_en": "Sullied Streamstone",
   "category": "misc",
@@ -13971,8 +15479,8 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Question",
+  "icon_color": "Gray"
  },
  {
   "id": 660,
@@ -13984,8 +15492,8 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Question",
+  "icon_color": "White"
  },
  {
   "id": 661,
@@ -13997,8 +15505,8 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Question",
+  "icon_color": "Gold"
  },
  {
   "id": 662,
@@ -14010,8 +15518,21 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 0,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Question",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1274,
+  "name_en": "Dragonforce Chunk",
+  "category": "misc",
+  "subcategory": "appraisal",
+  "rarity": 12,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Question",
+  "icon_color": "Red"
  },
  {
   "id": 605,
@@ -14049,8 +15570,8 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 500,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Body",
+  "icon_color": "Blue"
  },
  {
   "id": 608,
@@ -14066,6 +15587,19 @@
   "icon_color": "Violet"
  },
  {
+  "id": 1184,
+  "name_en": "Old Dragon Treasure",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 1600,
+  "icon_name": "Ore",
+  "icon_color": "Violet"
+ },
+ {
   "id": 681,
   "name_en": "Transparent Stone",
   "category": "misc",
@@ -14075,8 +15609,8 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 500,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Decoration",
+  "icon_color": "White"
  },
  {
   "id": 609,
@@ -14205,6 +15739,32 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 12,
+  "icon_name": "Seed",
+  "icon_color": "Orange"
+ },
+ {
+  "id": 1185,
+  "name_en": "Rockfruit",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 24,
+  "icon_name": "Seed",
+  "icon_color": "Orange"
+ },
+ {
+  "id": 1186,
+  "name_en": "Wildfruit",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 145,
   "icon_name": "Seed",
   "icon_color": "Orange"
  },
@@ -14452,8 +16012,281 @@
   "sell_price": 0,
   "carry_limit": 0,
   "points": 88,
-  "icon_name": 0,
-  "icon_color": 0
+  "icon_name": "Mushroom",
+  "icon_color": "Violet"
+ },
+ {
+  "id": 1187,
+  "name_en": "Dragonbloom",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 84,
+  "icon_name": "Herb",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1188,
+  "name_en": "Divineapple",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 80,
+  "icon_name": "Seed",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1189,
+  "name_en": "Violet Abalone",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 78,
+  "icon_name": "Sac",
+  "icon_color": "Violet"
+ },
+ {
+  "id": 1190,
+  "name_en": "Platinum Pearl",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 90,
+  "icon_name": "CharmOre",
+  "icon_color": "White"
+ },
+ {
+  "id": 1191,
+  "name_en": "Wicked Fossil",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 110,
+  "icon_name": "Bone",
+  "icon_color": "Violet"
+ },
+ {
+  "id": 1192,
+  "name_en": "Heavenberry",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 90,
+  "icon_name": "Seed",
+  "icon_color": "Beige"
+ },
+ {
+  "id": 1193,
+  "name_en": "Twilight Stone",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 190,
+  "icon_name": "Ore",
+  "icon_color": "Orange"
+ },
+ {
+  "id": 1194,
+  "name_en": "Noahstone",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 210,
+  "icon_name": "Ore",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1195,
+  "name_en": "Decayed Scale",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 250,
+  "icon_name": "Scale",
+  "icon_color": "Gray"
+ },
+ {
+  "id": 1196,
+  "name_en": "Luminous Scale",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 1000,
+  "icon_name": "Scale",
+  "icon_color": "White"
+ },
+ {
+  "id": 1197,
+  "name_en": "Young Butterbur",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 2,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 30,
+  "icon_name": "Seed",
+  "icon_color": "Lime"
+ },
+ {
+  "id": 1198,
+  "name_en": "Exquisite Butterbur",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 50,
+  "icon_name": "Seed",
+  "icon_color": "Lime"
+ },
+ {
+  "id": 1199,
+  "name_en": "Millennium Butterbur",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 250,
+  "icon_name": "Seed",
+  "icon_color": "Lime"
+ },
+ {
+  "id": 1200,
+  "name_en": "Icebloom",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 2,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 32,
+  "icon_name": "Herb",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1201,
+  "name_en": "Moonlight Icebloom",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 54,
+  "icon_name": "Herb",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1202,
+  "name_en": "Snowpeak Icebloom",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 260,
+  "icon_name": "Herb",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1203,
+  "name_en": "Snow White",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 190,
+  "icon_name": "Seed",
+  "icon_color": "White"
+ },
+ {
+  "id": 1204,
+  "name_en": "Petalcryst",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 210,
+  "icon_name": "Herb",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1205,
+  "name_en": "Crystalized Bone Shard",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 9,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 100,
+  "icon_name": "Bone",
+  "icon_color": "Cyan"
+ },
+ {
+  "id": 1206,
+  "name_en": "Crystalized Monster Bone",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 10,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 250,
+  "icon_name": "Bone",
+  "icon_color": "Gold"
+ },
+ {
+  "id": 1207,
+  "name_en": "Crystalized Elder Dragon Bone",
+  "category": "misc",
+  "subcategory": "account",
+  "rarity": 11,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 700,
+  "icon_name": "Bone",
+  "icon_color": "Violet"
  },
  {
   "id": 638,
@@ -14495,6 +16328,32 @@
   "icon_color": "DarkBeige"
  },
  {
+  "id": 1214,
+  "name_en": "EZ Lifepowder",
+  "category": "misc",
+  "subcategory": "supply",
+  "rarity": 2,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Sac",
+  "icon_color": "LightBeige"
+ },
+ {
+  "id": 1215,
+  "name_en": "EZ Dust of Life",
+  "category": "misc",
+  "subcategory": "supply",
+  "rarity": 2,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Sac",
+  "icon_color": "LightBeige"
+ },
+ {
   "id": 641,
   "name_en": "EZ Max Potion",
   "category": "misc",
@@ -14506,6 +16365,19 @@
   "points": 0,
   "icon_name": "Pellets",
   "icon_color": "LightBeige"
+ },
+ {
+  "id": 1216,
+  "name_en": "EZ Large Barrel Bomb",
+  "category": "misc",
+  "subcategory": "supply",
+  "rarity": 3,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "BarrelBomb",
+  "icon_color": "Orange"
  },
  {
   "id": 642,
@@ -14532,6 +16404,45 @@
   "points": 0,
   "icon_name": "Trap",
   "icon_color": "DarkGreen"
+ },
+ {
+  "id": 1217,
+  "name_en": "EZ Herbal Powder",
+  "category": "misc",
+  "subcategory": "supply",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Sac",
+  "icon_color": "Blue"
+ },
+ {
+  "id": 1218,
+  "name_en": "EZ Demon Powder",
+  "category": "misc",
+  "subcategory": "supply",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Sac",
+  "icon_color": "Red"
+ },
+ {
+  "id": 1219,
+  "name_en": "EZ Hardshell Powder",
+  "category": "misc",
+  "subcategory": "supply",
+  "rarity": 4,
+  "buy_price": 0,
+  "sell_price": 0,
+  "carry_limit": 0,
+  "points": 0,
+  "icon_name": "Sac",
+  "icon_color": "Beige"
  },
  {
   "id": 644,

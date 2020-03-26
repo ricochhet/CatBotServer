@@ -3610,5 +3610,3815 @@
   "monster_en": "Black Diablos",
   "quantity": 1,
   "is_objective": "True"
+ },
+ {
+  "base_id": 241,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1101,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1101,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1102,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1102,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1102,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1201,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1201,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1201,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1201,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1202,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1202,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1202,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1203,
+  "monster_en": "Coral Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1203,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1203,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1301,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1301,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1301,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1301,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1302,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1302,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1302,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1303,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1303,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1303,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1304,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1304,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1304,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1305,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1305,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1305,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1306,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1401,
+  "monster_en": "Shrieking Legiana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1401,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1401,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1402,
+  "monster_en": "Acidic Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1402,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1402,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1403,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1403,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1403,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1404,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1405,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1405,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1405,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1501,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1502,
+  "monster_en": "Seething Bazelgeuse",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1502,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1502,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1502,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1503,
+  "monster_en": "Blackveil Vaal Hazak",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1504,
+  "monster_en": "Namielle",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1601,
+  "monster_en": "Ruiner Nergigante",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1602,
+  "monster_en": "Shara Ishvalda",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1603,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1603,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1604,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1604,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1606,
+  "monster_en": "Yian Garuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1606,
+  "monster_en": "Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1606,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1606,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1121,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1121,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1121,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1121,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1122,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1122,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1122,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1122,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1123,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1123,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1123,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1123,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1124,
+  "monster_en": "Wulg",
+  "quantity": 10,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1124,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1124,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1124,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1124,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1125,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1125,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1125,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1125,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1131,
+  "monster_en": "Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1132,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1133,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1134,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1151,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1151,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1151,
+  "monster_en": "Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1151,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1151,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1152,
+  "monster_en": "Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1152,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1152,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1152,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1152,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1153,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1153,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1153,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1153,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1153,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1154,
+  "monster_en": "Kulu-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1154,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1154,
+  "monster_en": "Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1154,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1154,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1155,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1155,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1155,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1155,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1155,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1161,
+  "monster_en": "Kulu-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1161,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1161,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1161,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1161,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1162,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1162,
+  "monster_en": "Jyuratodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1162,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1162,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1162,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1163,
+  "monster_en": "Jyuratodus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1163,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1163,
+  "monster_en": "Kulu-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1163,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1163,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1164,
+  "monster_en": "Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1164,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1164,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1164,
+  "monster_en": "Kulu-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1164,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1171,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1171,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1171,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1171,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1171,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1181,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1181,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1181,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1181,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1181,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1191,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1191,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1191,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1191,
+  "monster_en": "Lavasioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1191,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1192,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1192,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1192,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1192,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1221,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1221,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1221,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1221,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1222,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1222,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1222,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1222,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1223,
+  "monster_en": "Boaboa",
+  "quantity": 14,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1223,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1223,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1223,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1223,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1224,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1225,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1225,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1225,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1225,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1231,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1232,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1233,
+  "monster_en": "Coral Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1234,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1235,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1236,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1237,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1238,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1251,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1251,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1251,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1251,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1251,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1252,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1252,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1252,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1252,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1252,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1253,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1253,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1253,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1253,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1253,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1261,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1261,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1261,
+  "monster_en": "Jyuratodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1261,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1261,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1262,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1262,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1262,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1262,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1262,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1262,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1263,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1263,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1263,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1263,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1263,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1264,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1264,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1264,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1271,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1271,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1271,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1271,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1271,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1272,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1272,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1272,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1272,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1272,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1273,
+  "monster_en": "Coral Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1273,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1273,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1273,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1273,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1274,
+  "monster_en": "Coral Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1274,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1274,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1274,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1281,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1281,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1281,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1281,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1281,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1282,
+  "monster_en": "Vespoid",
+  "quantity": 15,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1282,
+  "monster_en": "Hornetaur",
+  "quantity": 20,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1282,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1282,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1282,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1282,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1282,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1291,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1291,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1291,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1291,
+  "monster_en": "Lavasioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1291,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1321,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1321,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1321,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1321,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1321,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1322,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1322,
+  "monster_en": "Shrieking Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1322,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1322,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1322,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1323,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1323,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1323,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1323,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1331,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1332,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1333,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1334,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1335,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1336,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1337,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1338,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1339,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1340,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1351,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1351,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1351,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1351,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1351,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1351,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1352,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1352,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1352,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1352,
+  "monster_en": "Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1352,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1352,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1353,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1353,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1353,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1353,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1353,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1353,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1354,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1354,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1354,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1354,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1354,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1361,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1361,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1361,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1361,
+  "monster_en": "Black Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1361,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1361,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1362,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1362,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1362,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1362,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1362,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1362,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1363,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1363,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1363,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1363,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1371,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1371,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1371,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1371,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1371,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1371,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1372,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1372,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1372,
+  "monster_en": "Coral Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1372,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1372,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1372,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1373,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1373,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1373,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1373,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1381,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1381,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1381,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1381,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1381,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1381,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1382,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1382,
+  "monster_en": "Acidic Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1382,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1382,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1382,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1382,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1383,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1383,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1383,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1383,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1391,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1391,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1391,
+  "monster_en": "Lavasioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1391,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1391,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1391,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1392,
+  "monster_en": "Lavasioth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1392,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1392,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1392,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1392,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1392,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1393,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1393,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1393,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1393,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1393,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1393,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1394,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1394,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1394,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1394,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1394,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1394,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1395,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1395,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1395,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1395,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1395,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1421,
+  "monster_en": "Shrieking Legiana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1421,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1421,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1421,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1421,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1421,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1422,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1422,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1422,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1422,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1422,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1422,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1423,
+  "monster_en": "Shrieking Legiana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1423,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1423,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1423,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1423,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1424,
+  "monster_en": "Shrieking Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1424,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1424,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1424,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1431,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1432,
+  "monster_en": "Black Diablos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1433,
+  "monster_en": "Acidic Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1434,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1435,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1451,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1451,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1451,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1451,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1451,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1451,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1452,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1452,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1452,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1452,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1452,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1461,
+  "monster_en": "Black Diablos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1461,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1461,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1461,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1461,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1461,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1462,
+  "monster_en": "Black Diablos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1462,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1462,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1471,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1471,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1471,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1471,
+  "monster_en": "Coral Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1471,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1481,
+  "monster_en": "Acidic Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1481,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1481,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1481,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1481,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1481,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1482,
+  "monster_en": "Acidic Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1482,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1482,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1482,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1482,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1482,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1483,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1483,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1483,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1483,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1483,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1491,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1491,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1491,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1491,
+  "monster_en": "Lavasioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1491,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1491,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1492,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1492,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1492,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1492,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1492,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1492,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1521,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1521,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1551,
+  "monster_en": "Kushala Daora",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1551,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1552,
+  "monster_en": "Blackveil Vaal Hazak",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1552,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1552,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1561,
+  "monster_en": "Teostra",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1561,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1562,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1562,
+  "monster_en": "Kulu-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1562,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1562,
+  "monster_en": "Black Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1571,
+  "monster_en": "Kirin",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1571,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1572,
+  "monster_en": "Namielle",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1572,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1581,
+  "monster_en": "Blackveil Vaal Hazak",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1581,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1581,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1591,
+  "monster_en": "Kushala Daora",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1591,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1591,
+  "monster_en": "Teostra",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1592,
+  "monster_en": "Teostra",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1592,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1592,
+  "monster_en": "Kushala Daora",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1593,
+  "monster_en": "Seething Bazelgeuse",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1593,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1593,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1593,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1593,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1594,
+  "monster_en": "Seething Bazelgeuse",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1594,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1594,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1594,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1594,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1605,
+  "monster_en": "Ruiner Nergigante",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1631,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1631,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1631,
+  "monster_en": "Zinogre",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1631,
+  "monster_en": "Brachydios",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1631,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1632,
+  "monster_en": "Zinogre",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1633,
+  "monster_en": "Yian Garuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1634,
+  "monster_en": "Brute Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1635,
+  "monster_en": "Gold Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1636,
+  "monster_en": "Silver Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1641,
+  "monster_en": "Shara Ishvalda",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1642,
+  "monster_en": "Gold Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1642,
+  "monster_en": "Silver Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1651,
+  "monster_en": "Kushala Daora",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1651,
+  "monster_en": "Blackveil Vaal Hazak",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1661,
+  "monster_en": "Lunastra",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1661,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1671,
+  "monster_en": "Kirin",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1671,
+  "monster_en": "Namielle",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1691,
+  "monster_en": "Lunastra",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1691,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1691,
+  "monster_en": "Kushala Daora",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 1692,
+  "monster_en": "Teostra",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1692,
+  "monster_en": "Lunastra",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1692,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 1692,
+  "monster_en": "Ruiner Nergigante",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 50901,
+  "monster_en": "Kulve Taroth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 51601,
+  "monster_en": "Rajang",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 51601,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 51601,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 51602,
+  "monster_en": "Kirin",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 61801,
+  "monster_en": "Beotodus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61801,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61801,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61801,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61811,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61811,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61811,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61811,
+  "monster_en": "Shrieking Legiana",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61812,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 61812,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 61812,
+  "monster_en": "Kulu-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61812,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61812,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 61813,
+  "monster_en": "Barioth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 61814,
+  "monster_en": "Zinogre",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 61814,
+  "monster_en": "Namielle",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63004,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63005,
+  "monster_en": "Kulu-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63006,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63007,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63008,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63009,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63034,
+  "monster_en": "Nergigante",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63035,
+  "monster_en": "Nergigante",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63036,
+  "monster_en": "Nergigante",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63037,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63038,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63039,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63071,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63071,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63073,
+  "monster_en": "Yian Garuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 63142,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 64801,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 64801,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 64802,
+  "monster_en": "Seething Bazelgeuse",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66801,
+  "monster_en": "Beotodus",
+  "quantity": 2,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66802,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66802,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66802,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66802,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66803,
+  "monster_en": "Banbaro",
+  "quantity": 2,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66804,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66804,
+  "monster_en": "Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66804,
+  "monster_en": "Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66804,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66805,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66805,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66805,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66805,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66805,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66806,
+  "monster_en": "Kulu-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66806,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66806,
+  "monster_en": "Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66806,
+  "monster_en": "Coral Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66807,
+  "monster_en": "Radobaan",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66807,
+  "monster_en": "Viper Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66808,
+  "monster_en": "Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66808,
+  "monster_en": "Lavasioth",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66808,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66808,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66808,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66809,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66809,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66809,
+  "monster_en": "Barroth",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66809,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66809,
+  "monster_en": "Black Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66810,
+  "monster_en": "Coral Pukei-Pukei",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66810,
+  "monster_en": "Legiana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66810,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66810,
+  "monster_en": "Pink Rathian",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66810,
+  "monster_en": "Paolumu",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66811,
+  "monster_en": "Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66811,
+  "monster_en": "Uragaan",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66811,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66811,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66811,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66812,
+  "monster_en": "Black Diablos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66812,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66812,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66812,
+  "monster_en": "Diablos",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66812,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66812,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66813,
+  "monster_en": "Azure Rathalos",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66813,
+  "monster_en": "Fulgur Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66813,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66813,
+  "monster_en": "Tobi-Kadachi",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66813,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66814,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66814,
+  "monster_en": "Acidic Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66814,
+  "monster_en": "Great Girros",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66814,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66814,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66815,
+  "monster_en": "Kirin",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66815,
+  "monster_en": "Kushala Daora",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66815,
+  "monster_en": "Teostra",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66816,
+  "monster_en": "Velkhana",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66816,
+  "monster_en": "Namielle",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66817,
+  "monster_en": "Savage Deviljho",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 66817,
+  "monster_en": "Dodogama",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66817,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 66817,
+  "monster_en": "Seething Bazelgeuse",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 67101,
+  "monster_en": "Anjanath",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 67102,
+  "monster_en": "Barnos",
+  "quantity": 8,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 67102,
+  "monster_en": "Tzitzi-Ya-Ku",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 67607,
+  "monster_en": "Deviljho",
+  "quantity": 2,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 67607,
+  "monster_en": "Great Jagras",
+  "quantity": 1,
+  "is_objective": "False"
+ },
+ {
+  "base_id": 3171,
+  "monster_en": "Banbaro",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 3071,
+  "monster_en": "Nightshade Paolumu",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 3072,
+  "monster_en": "Nargacuga",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 3073,
+  "monster_en": "Acidic Glavenus",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 3074,
+  "monster_en": "Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 3074,
+  "monster_en": "Ebony Odogaron",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 3091,
+  "monster_en": "Zinogre",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 3092,
+  "monster_en": "Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
+ },
+ {
+  "base_id": 3092,
+  "monster_en": "Brute Tigrex",
+  "quantity": 1,
+  "is_objective": "True"
  }
 ]

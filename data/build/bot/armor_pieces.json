@@ -27928,5 +27928,338 @@
       "Divine Blessing: While active, reduces damage taken by 15%. LVWhile active, reduces damage taken by 15%."
     ],
     "crafting": "-"
+  },
+  "grandgod'speermaskalpha+": {
+    "name": "Grand God's Peer Mask Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": "-",
+    "skills": [
+      "Earplugs: Nullifies weak monster roars. LVNullifies weak monster roars.",
+      "Heroics: While active, increases attack power by 5% and increases defense by 100 points. LVWhile active, increases attack power by 5% and increases defense by 100 points."
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speergarbalpha+": {
+    "name": "Grand God's Peer Garb Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 1"
+    ],
+    "skills": [
+      "Earplugs: Reduces the effects of weak monster roars. LVReduces the effects of weak monster roars.",
+      "Maximum Might: While active, increases affinity by 30%. LVWhile active, increases affinity by 30%."
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerarmsalpha+": {
+    "name": "Grand God's Peer Arms Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 2",
+      "Rank: 2"
+    ],
+    "skills": [
+      "Defense Boost: Defense +5%\nBonus: +10 LVDefense +5%\nBonus: +10",
+      "Stamina Surge: Stamina recovery speed +20% LVStamina recovery speed +20%"
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerbeltalpha+": {
+    "name": "Grand God's Peer Belt Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 1",
+      "Rank: 1",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Heroics: While active, increases attack power by 5% and increases defense by 50 points. LVWhile active, increases attack power by 5% and increases defense by 50 points.",
+      "Maximum Might: While active, increases affinity by 20%. LVWhile active, increases affinity by 20%."
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerfeetalpha+": {
+    "name": "Grand God's Peer Feet Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 2",
+      "Rank: 2"
+    ],
+    "skills": [
+      "Health Boost: Health +50 LVHealth +50",
+      "Heroics: While active, increases attack power by 5% and increases defense by 50 points. LVWhile active, increases attack power by 5% and increases defense by 50 points."
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speermaskbeta+": {
+    "name": "Grand God's Peer Mask Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 4"
+    ],
+    "skills": [
+      "Earplugs: Nullifies weak monster roars. LVNullifies weak monster roars.",
+      "Heroics: While active, increases defense by 50 points LVWhile active, increases defense by 50 points"
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speergarbbeta+": {
+    "name": "Grand God's Peer Garb Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 4",
+      "Rank: 2"
+    ],
+    "skills": [
+      "Maximum Might: While active, increases affinity by 30%. LVWhile active, increases affinity by 30%."
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerarmsbeta+": {
+    "name": "Grand God's Peer Arms Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 4",
+      "Rank: 2",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Stamina Surge: Stamina recovery speed +20% LVStamina recovery speed +20%"
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerbeltbeta+": {
+    "name": "Grand God's Peer Belt Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 4",
+      "Rank: 2",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Maximum Might: While active, increases affinity by 20%. LVWhile active, increases affinity by 20%."
+    ],
+    "crafting": "-"
+  },
+  "grandgod'speerfeetbeta+": {
+    "name": "Grand God's Peer Feet Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 2\n💧 0\n⚡ 3\n❄ -5\n🐉 2",
+    "slots": [
+      "Rank: 4",
+      "Rank: 4"
+    ],
+    "skills": [
+      "Health Boost: Health +50 LVHealth +50"
+    ],
+    "crafting": "-"
+  },
+  "brachydiumhelmalpha+": {
+    "name": "Brachydium Helm Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 2",
+      "Rank: 2",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Weakness Exploit: Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts. LVAttacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts.",
+      "Guard: Slightly decreases the impact of attacks and reduces stamina depletion by 15%. LVSlightly decreases the impact of attacks and reduces stamina depletion by 15%."
+    ],
+    "crafting": "-"
+  },
+  "brachydiummailalpha+": {
+    "name": "Brachydium Mail Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 2",
+      "Rank: 1",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Blast Attack: Blast buildup +20% Bonus: +10 LVBlast buildup +20% Bonus: +10",
+      "Agitator: While active, grants attack +8 and increases affinity by 5%. LVWhile active, grants attack +8 and increases affinity by 5%."
+    ],
+    "crafting": "-"
+  },
+  "brachydiumbracesalpha+": {
+    "name": "Brachydium Braces Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 2",
+      "Rank: 2"
+    ],
+    "skills": [
+      "Agitator: While active, grants attack +8 and increases affinity by 5%. LVWhile active, grants attack +8 and increases affinity by 5%.",
+      "Artillery: Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%. LVIncreases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%."
+    ],
+    "crafting": "-"
+  },
+  "brachydiumfauldsalpha+": {
+    "name": "Brachydium Faulds Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 3"
+    ],
+    "skills": [
+      "Agitator: While active, grants attack +12 and increases affinity by 7%. LVWhile active, grants attack +12 and increases affinity by 7%.",
+      "Artillery: Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%. LVIncreases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%."
+    ],
+    "crafting": "-"
+  },
+  "brachydiumgreavesalpha+": {
+    "name": "Brachydium Greaves Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 3",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Weakness Exploit: Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts. LVAttacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts.",
+      "Speed Sharpening: Removes three cycles from the sharpening process. LVRemoves three cycles from the sharpening process."
+    ],
+    "crafting": "-"
+  },
+  "brachydiumhelmbeta+": {
+    "name": "Brachydium Helm Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 4",
+      "Rank: 4",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Weakness Exploit: Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts. LVAttacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+    ],
+    "crafting": "-"
+  },
+  "brachydiummailbeta+": {
+    "name": "Brachydium Mail Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 4",
+      "Rank: 2",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Agitator: While active, grants attack +8 and increases affinity by 5%. LVWhile active, grants attack +8 and increases affinity by 5%."
+    ],
+    "crafting": "-"
+  },
+  "brachydiumbracesbeta+": {
+    "name": "Brachydium Braces Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 4",
+      "Rank: 4"
+    ],
+    "skills": [
+      "Agitator: While active, grants attack +8 and increases affinity by 5%. LVWhile active, grants attack +8 and increases affinity by 5%."
+    ],
+    "crafting": "-"
+  },
+  "brachydiumfauldsbeta+": {
+    "name": "Brachydium Faulds Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 4",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Agitator: While active, grants attack +12 and increases affinity by 7%. LVWhile active, grants attack +12 and increases affinity by 7%."
+    ],
+    "crafting": "-"
+  },
+  "brachydiumgreavesbeta+": {
+    "name": "Brachydium Greaves Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": "Base: 170\nMax: 0\nAugmented: 0",
+    "resistances": "🔥 3\n💧 -2\n⚡ 1\n❄ -3\n🐉 1",
+    "slots": [
+      "Rank: 4",
+      "Rank: 1",
+      "Rank: 1"
+    ],
+    "skills": [
+      "Weakness Exploit: Attacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts. LVAttacks that hit weak spots have 15% increased affinity, with an extra 15% on wounded parts."
+    ],
+    "crafting": "-"
   }
 }

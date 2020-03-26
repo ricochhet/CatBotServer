@@ -14,19 +14,10 @@ let monster_map = utils.buildMap(
 let monster_hzv_map = utils.buildMap('./data/python/hitzones.json');
 let monster_enrage_map = utils.buildMap('./data/python/enrage.json');
 let item_map = utils.buildMap('./data/build/api/items.json');
-let item_id_map = utils.buildMap(
-  './data/build/api/itemids.json',
-  {
-    extended: true
-  },
-  'Name'
-);
-
 let armor_map = utils.buildMap('./data/build/api/armors.json');
 let weapon_map = utils.buildMap('./data/build/api/weapons.json');
 let decoration_map = utils.buildMap('./data/build/api/decorations.json');
 let skill_map = utils.buildMap('./data/build/api/skills.json');
-let quest_id_database = require('../data/build/api/questids.json');
 let accounts_map = utils.buildMap('./auth/accounts.json');
 let monsterNames = utils.buildArray(monster_map, 'title');
 let weaponNames = utils.buildArray(weapon_map, 'name');
@@ -88,7 +79,6 @@ const armors = require('./routes/armors');
 const weapons = require('./routes/weapons');
 const decorations = require('./routes/decorations');
 const skills = require('./routes/skills');
-const quests = require('./routes/quests');
 
 class Server {
   run(port) {
@@ -123,7 +113,6 @@ class Server {
     items.route(
       mhwIcons,
       item_map,
-      item_id_map,
       mhwObjects,
       decorationNames,
       monsterNames,
@@ -177,19 +166,6 @@ class Server {
     skills.route(
       mhwIcons,
       skill_map,
-      mhwObjects,
-      decorationNames,
-      monsterNames,
-      weaponNames,
-      armorNames,
-      skillNames,
-      itemNames
-    );
-
-    quests.manager = manager;
-    quests.route(
-      mhwIcons,
-      quest_id_database,
       mhwObjects,
       decorationNames,
       monsterNames,
