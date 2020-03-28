@@ -17,7 +17,7 @@ class RouteManager {
 
     router.use(
       session({
-        secret: 'secret:key:sRy!bn0%f[key.data]',
+        secret: Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15),
         saveUninitialized: true,
         resave: false
       })

@@ -375,6 +375,21 @@
   "stun": 2
  },
  {
+  "name_en": "Lavasioth",
+  "form": "alt",
+  "alt_description": "when hardened",
+  "fire": 1,
+  "water": 2,
+  "thunder": 0,
+  "ice": 0,
+  "dragon": 1,
+  "poison": 0,
+  "sleep": 0,
+  "paralysis": 0,
+  "blast": 0,
+  "stun": 0
+ },
+ {
   "name_en": "Uragaan",
   "form": "normal",
   "alt_description": 0,

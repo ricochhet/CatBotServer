@@ -58,51 +58,51 @@
   <div class="page-container__center">
     <div>
       <ul class="list-grouped list-grouped__standard--size">
-        <h2 class="header-bottom">Database</h2>
+        <h2 class="header-bottom">MHWorld Database</h2>
         <li>
           <div>
-            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/monsters">Monster Database</a>
+            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/mhw/monsters">Monster Database</a>
             </h6>
             <div class="color-dark__muted">Monster Information</div>
           </div>
-          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/monsters">Visit</a></span>
+          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/mhw/monsters">Visit</a></span>
         </li>
         <li>
           <div>
-            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/weapons">Weapon Database</a>
+            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/mhw/weapons">Weapon Database</a>
             </h6>
             <div class="color-dark__muted">Weapon Information</div>
           </div>
-          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/weapons">Visit</a></span>
+          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/mhw/weapons">Visit</a></span>
         </li>
         <li>
           <div>
-            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/armors">Armor Database</a></h6>
+            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/mhw/armors">Armor Database</a></h6>
             <div class="color-dark__muted">Armor Information</div>
           </div>
-          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/armors">Visit</a></span>
+          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/mhw/armors">Visit</a></span>
         </li>
         <li>
           <div>
-            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/skills">Skill Database</a></h6>
+            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/mhw/skills">Skill Database</a></h6>
             <div class="color-dark__muted">Skill Information</div>
           </div>
-          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/skills">Visit</a></span>
+          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/mhw/skills">Visit</a></span>
         </li>
         <li>
           <div>
-            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/items">Item Database</a></h6>
+            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/mhw/items">Item Database</a></h6>
             <div class="color-dark__muted">Item Information</div>
           </div>
-          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/items">Visit</a></span>
+          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/mhw/items">Visit</a></span>
         </li>
         <li>
           <div>
-            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/decorations">Decoration
+            <h6><a class="link-none__no-padding link-none__block link-none__blue" href="/mhw/decorations">Decoration
                 Database</a></h6>
             <div class="color-dark__muted">Decoration Information</div>
           </div>
-          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/decorations">Visit</a></span>
+          <span class="color-dark__muted"><a class="btn btn-outline__small" href="/mhw/decorations">Visit</a></span>
         </li>
       </ul>
     </div>
@@ -116,12 +116,12 @@
 <script>
   _toggleTheme();
   _searchCompletion(`<%- MHW_OBJECTS %>`.split(','), function (input, finalInput) {
-    if (`<%- MHW_DECO_ARRAY %>`.split(',').includes(input)) { window.location.href = `/decorations/${finalInput.split('/').join('+')}`; }
-    if (`<%- MHW_MONSTER_ARRAY %>`.split(',').includes(input)) { window.location.href = `/monsters/${finalInput}`; }
-    if (`<%- MHW_WEAPON_ARRAY %>`.split(',').includes(input)) { window.location.href = `/weapons/${finalInput}`; }
-    if (`<%- MHW_ARMOR_ARRAY %>`.split(',').includes(input)) { window.location.href = `/armors/${finalInput}`; }
-    if (`<%- MHW_SKILL_ARRAY %>`.split(',').includes(input)) { window.location.href = `/skills/${finalInput}`; }
-    if (`<%- MHW_ITEM_ARRAY %>`.split(',').includes(input)) { window.location.href = `/items/${finalInput}`; }
+    if (`<%- MHW_DECO_ARRAY %>`.split(',').includes(input)) { window.location.href = `/mhw/decorations/${finalInput.split('/').join('+')}`; }
+    if (`<%- MHW_MONSTER_ARRAY %>`.split(',').includes(input)) { window.location.href = `/mhw/monsters/${finalInput}`; }
+    if (`<%- MHW_WEAPON_ARRAY %>`.split(',').includes(input)) { window.location.href = `/mhw/weapons/${finalInput}`; }
+    if (`<%- MHW_ARMOR_ARRAY %>`.split(',').includes(input)) { window.location.href = `/mhw/armors/${finalInput}`; }
+    if (`<%- MHW_SKILL_ARRAY %>`.split(',').includes(input)) { window.location.href = `/mhw/skills/${finalInput}`; }
+    if (`<%- MHW_ITEM_ARRAY %>`.split(',').includes(input)) { window.location.href = `/mhw/items/${finalInput}`; }
   });
 </script>
 

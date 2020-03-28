@@ -1,8 +1,8 @@
 const manager = require('./router');
-const utils = require('../data/tools/utils');
+const utils = require('../data/utils');
 
 let monster_map = utils.buildMap(
-  './data/build/def/monsters.json',
+  './data/build/def/monster_info.json',
   {
     extended: true,
     extraProp: true
@@ -11,14 +11,14 @@ let monster_map = utils.buildMap(
   'details'
 );
 
-let monster_hzv_map = utils.buildMap('./data/python/hitzones.json');
-let monster_enrage_map = utils.buildMap('./data/python/enrage.json');
-let item_map = utils.buildMap('./data/build/api/items.json');
-let armor_map = utils.buildMap('./data/build/api/armors.json');
-let weapon_map = utils.buildMap('./data/build/api/weapons.json');
-let decoration_map = utils.buildMap('./data/build/api/decorations.json');
-let skill_map = utils.buildMap('./data/build/api/skills.json');
-let accounts_map = utils.buildMap('./auth/accounts.json');
+let monster_hzv_map = utils.buildMap('./data/build/def/hitzone_data.json');
+let monster_enrage_map = utils.buildMap('./data/build/def/enrage_data.json');
+let item_map = utils.buildMap('./data/build/api/item_info.json');
+let armor_map = utils.buildMap('./data/build/api/armor_info.json');
+let weapon_map = utils.buildMap('./data/build/api/weapon_info.json');
+let decoration_map = utils.buildMap('./data/build/api/decoration_info.json');
+let skill_map = utils.buildMap('./data/build/api/skill_info.json');
+let accounts_map = utils.buildMap('./users/accounts.json');
 let monsterNames = utils.buildArray(monster_map, 'title');
 let weaponNames = utils.buildArray(weapon_map, 'name');
 let armorNames = utils.buildArray(armor_map, 'name');
@@ -35,54 +35,55 @@ let mhwObjects = [
 ];
 
 const mhwIcons = new Map([
-  ['hammer', '../icons/equipment/ic_equipment_hammer_base.svg'],
-  ['great-sword', '../icons/equipment/ic_equipment_greatsword_base.svg'],
-  ['hunting-horn', '../icons/equipment/ic_equipment_hunting_horn_base.svg'],
-  ['charge-blade', '../icons/equipment/ic_equipment_charge_blade_base.svg'],
-  ['switch-axe', '../icons/equipment/ic_equipment_switch_axe_base.svg'],
-  ['long-sword', '../icons/equipment/ic_equipment_longsword_base.svg'],
-  ['insect-glaive', '../icons/equipment/ic_equipment_insect_glaive_base.svg'],
-  ['lance', '../icons/equipment/ic_equipment_lance_base.svg'],
-  ['gunlance', '../icons/equipment/ic_equipment_gunlance_base.svg'],
-  ['heavy-bowgun', '../icons/equipment/ic_equipment_heavy_bowgun_base.svg'],
+  ['hammer', '/icons/equipment/ic_equipment_hammer_base.svg'],
+  ['great-sword', '/icons/equipment/ic_equipment_greatsword_base.svg'],
+  ['hunting-horn', '/icons/equipment/ic_equipment_hunting_horn_base.svg'],
+  ['charge-blade', '/icons/equipment/ic_equipment_charge_blade_base.svg'],
+  ['switch-axe', '/icons/equipment/ic_equipment_switch_axe_base.svg'],
+  ['long-sword', '/icons/equipment/ic_equipment_longsword_base.svg'],
+  ['insect-glaive', '/icons/equipment/ic_equipment_insect_glaive_base.svg'],
+  ['lance', '/icons/equipment/ic_equipment_lance_base.svg'],
+  ['gunlance', '/icons/equipment/ic_equipment_gunlance_base.svg'],
+  ['heavy-bowgun', '/icons/equipment/ic_equipment_heavy_bowgun_base.svg'],
   [
     'sword-and-shield',
-    '../icons/equipment/ic_equipment_sword_and_shield_base.svg'
+    '/icons/equipment/ic_equipment_sword_and_shield_base.svg'
   ],
-  ['dual-blades', '../icons/equipment/ic_equipment_dual_blades_base.svg'],
-  ['light-bowgun', '../icons/equipment/ic_equipment_light_bowgun_base.svg'],
-  ['bow', '../icons/equipment/ic_equipment_bow_base.svg'],
-  ['whetstone', '../icons/ui/ic_ui_whetstone.svg'],
-  ['element', '../icons/ui/ic_ui_element.svg'],
-  ['ammo', '../icons/items/ic_items_ammo_base.svg'],
-  ['crafting', '../icons/ui/ic_ui_crafting_base.svg'],
-  ['attack', '../icons/ui/ic_ui_attack.svg'],
-  ['affinity', '../icons/ui/ic_ui_affinity.svg'],
-  ['defense', '../icons/ui/ic_ui_defense.svg'],
-  ['elderseal', '../icons/ui/ic_ui_elderseal.svg'],
-  ['shelling', '../icons/ui/ic_ui_shelling.svg'],
-  ['specialAmmo', '../icons/ui/ic_ui_special_ammo.svg'],
-  ['deviation', '../icons/ui/ic_ui_deviation.svg'],
-  ['head', '../icons/equipment/ic_equipment_head_base.svg'],
-  ['skills', '../icons/ui/ic_ui_armor_skill_base.svg'],
-  ['setBonus', '../icons/ui/ic_ui_set_bonus_base.svg'],
-  ['slots', '../icons/ui/ic_ui_slots.svg'],
-  ['rank', '../icons/ui/ic_ui_hunter_rank.svg'],
-  ['itembox', '../icons/ui/ic_ui_item_box.svg'],
-  ['bookmark', '../icons/ui/ic_ui_bookmark.svg']
+  ['dual-blades', '/icons/equipment/ic_equipment_dual_blades_base.svg'],
+  ['light-bowgun', '/icons/equipment/ic_equipment_light_bowgun_base.svg'],
+  ['bow', '/icons/equipment/ic_equipment_bow_base.svg'],
+  ['whetstone', '/icons/ui/ic_ui_whetstone.svg'],
+  ['element', '/icons/ui/ic_ui_element.svg'],
+  ['ammo', '/icons/items/ic_items_ammo_base.svg'],
+  ['crafting', '/icons/ui/ic_ui_crafting_base.svg'],
+  ['attack', '/icons/ui/ic_ui_attack.svg'],
+  ['affinity', '/icons/ui/ic_ui_affinity.svg'],
+  ['defense', '/icons/ui/ic_ui_defense.svg'],
+  ['elderseal', '/icons/ui/ic_ui_elderseal.svg'],
+  ['shelling', '/icons/ui/ic_ui_shelling.svg'],
+  ['specialAmmo', '/icons/ui/ic_ui_special_ammo.svg'],
+  ['deviation', '/icons/ui/ic_ui_deviation.svg'],
+  ['head', '/icons/equipment/ic_equipment_head_base.svg'],
+  ['skills', '/icons/ui/ic_ui_armor_skill_base.svg'],
+  ['setBonus', '/icons/ui/ic_ui_set_bonus_base.svg'],
+  ['slots', '/icons/ui/ic_ui_slots.svg'],
+  ['rank', '/icons/ui/ic_ui_hunter_rank.svg'],
+  ['itembox', '/icons/ui/ic_ui_item_box.svg'],
+  ['bookmark', '/icons/ui/ic_ui_bookmark.svg']
 ]);
 
 const admin = require('./routes/admin');
-const monsters = require('./routes/monsters');
-const items = require('./routes/items');
-const armors = require('./routes/armors');
-const weapons = require('./routes/weapons');
-const decorations = require('./routes/decorations');
-const skills = require('./routes/skills');
+const monsters = require('./routes/mhw/monsters');
+const items = require('./routes/mhw/items');
+const armors = require('./routes/mhw/armors');
+const weapons = require('./routes/mhw/weapons');
+const decorations = require('./routes/mhw/decorations');
+const skills = require('./routes/mhw/skills');
 
 class Server {
-  run(port) {
+  run(port, opts = { handleErrors: true, adminDashboard: false }) {
     manager.makeRouter(port, 'public');
+
     manager.addRoute('/', 'main.ejs', function(render, req, res) {
       res.render(render, {
         MHW_OBJECTS: mhwObjects,
@@ -175,9 +176,14 @@ class Server {
       itemNames
     );
 
-    admin.manager = manager;
-    admin.route(accounts_map);
-    manager.handleErrors();
+    if (opts.adminDashboard) {
+      admin.manager = manager;
+      admin.route(accounts_map);
+    }
+
+    if (opts.handleErrors) {
+      manager.handleErrors();
+    }
   }
 }
 
