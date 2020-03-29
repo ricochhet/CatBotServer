@@ -1,0 +1,682 @@
+{
+    "acidicglavenus": {
+        "name": "Acidic Glavenus",
+        "tender": 0,
+        "dmgToEnrage": 370,
+        "enrageDuration": 130,
+        "enrageSpeed": "110%",
+        "monstrDmg": "100%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "ancientleshen": {
+        "name": "Ancient Leshen",
+        "tender": 0,
+        "dmgToEnrage": 0,
+        "enrageDuration": 0,
+        "enrageSpeed": "100%",
+        "monstrDmg": "100%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "anjanath": {
+        "name": "Anjanath",
+        "tender": 0,
+        "dmgToEnrage": 370,
+        "enrageDuration": 150,
+        "enrageSpeed": "110%",
+        "monstrDmg": "100%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "azurerathalos": {
+        "name": "Azure Rathalos",
+        "tender": 0,
+        "dmgToEnrage": 650,
+        "enrageDuration": 100,
+        "enrageSpeed": "115%",
+        "monstrDmg": "105%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "banbaro": {
+        "name": "Banbaro",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 90,
+        "enrageSpeed": "103%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "barioth": {
+        "name": "Barioth",
+        "tender": 0,
+        "dmgToEnrage": 300,
+        "enrageDuration": 90,
+        "enrageSpeed": "105%",
+        "monstrDmg": "105%",
+        "playerDmg": "105%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "barroth": {
+        "name": "Barroth",
+        "tender": 0,
+        "dmgToEnrage": 370,
+        "enrageDuration": 130,
+        "enrageSpeed": "105%",
+        "monstrDmg": "125%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "bazelgeuse": {
+        "name": "Bazelgeuse",
+        "tender": 0,
+        "dmgToEnrage": 400,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "125%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "behemoth": {
+        "name": "Behemoth",
+        "tender": 0,
+        "dmgToEnrage": 2000,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "125%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "beotodus": {
+        "name": "Beotodus",
+        "tender": 0,
+        "dmgToEnrage": 350,
+        "enrageDuration": 120,
+        "enrageSpeed": "105%",
+        "monstrDmg": "110%",
+        "playerDmg": "105%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "blackdiablos": {
+        "name": "Black Diablos",
+        "tender": 0,
+        "dmgToEnrage": 300,
+        "enrageDuration": 90,
+        "enrageSpeed": "115%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "blackveilvaalhazak": {
+        "name": "Blackveil Vaal Hazak",
+        "tender": 0,
+        "dmgToEnrage": 430,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "105%",
+        "playerDmg": "105%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "brachydios": {
+        "name": "Brachydios",
+        "tender": 0,
+        "dmgToEnrage": 500,
+        "enrageDuration": 130,
+        "enrageSpeed": "102%",
+        "monstrDmg": "100%",
+        "playerDmg": "95%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "brutetigrex": {
+        "name": "Brute Tigrex",
+        "tender": 0,
+        "dmgToEnrage": 450,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "coralpukei-pukei": {
+        "name": "Coral Pukei-Pukei",
+        "tender": 0,
+        "dmgToEnrage": 560,
+        "enrageDuration": 80,
+        "enrageSpeed": "105%",
+        "monstrDmg": "115%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "deviljho": {
+        "name": "Deviljho",
+        "tender": 0,
+        "dmgToEnrage": 500,
+        "enrageDuration": 135,
+        "enrageSpeed": "105%",
+        "monstrDmg": "105%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "diablos": {
+        "name": "Diablos",
+        "tender": 0,
+        "dmgToEnrage": 500,
+        "enrageDuration": 90,
+        "enrageSpeed": "105%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "dodogama": {
+        "name": "Dodogama",
+        "tender": 0,
+        "dmgToEnrage": 550,
+        "enrageDuration": 90,
+        "enrageSpeed": "103%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "ebonyodogaron": {
+        "name": "Ebony Odogaron",
+        "tender": 0,
+        "dmgToEnrage": 300,
+        "enrageDuration": 200,
+        "enrageSpeed": "105%",
+        "monstrDmg": "110%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "fulguranjanath": {
+        "name": "Fulgur Anjanath",
+        "tender": 0,
+        "dmgToEnrage": 370,
+        "enrageDuration": 130,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "furiousrajang": {
+        "name": "Furious Rajang",
+        "tender": 0,
+        "dmgToEnrage": "-",
+        "enrageDuration": "-",
+        "enrageSpeed": "-",
+        "monstrDmg": "-",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "glavenus": {
+        "name": "Glavenus",
+        "tender": 0,
+        "dmgToEnrage": 400,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "goldrathian": {
+        "name": "Gold Rathian",
+        "tender": 5,
+        "dmgToEnrage": 330,
+        "enrageDuration": 150,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+30"
+    },
+    "greatgirros": {
+        "name": "Great Girros",
+        "tender": 0,
+        "dmgToEnrage": 480,
+        "enrageDuration": 60,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "greatjagras": {
+        "name": "Great Jagras",
+        "tender": 0,
+        "dmgToEnrage": 440,
+        "enrageDuration": 60,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "jyuratodus": {
+        "name": "Jyuratodus",
+        "tender": 0,
+        "dmgToEnrage": 450,
+        "enrageDuration": 60,
+        "enrageSpeed": "105%",
+        "monstrDmg": "110%",
+        "playerDmg": "90%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "kirin": {
+        "name": "Kirin",
+        "tender": 5,
+        "dmgToEnrage": 200,
+        "enrageDuration": 150,
+        "enrageSpeed": "105%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+30"
+    },
+    "kulu-ya-ku": {
+        "name": "Kulu-Ya-Ku",
+        "tender": 0,
+        "dmgToEnrage": 500,
+        "enrageDuration": 100,
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "kulvetaroth": {
+        "name": "Kulve Taroth",
+        "tender": 0,
+        "dmgToEnrage": 1500,
+        "enrageDuration": 150,
+        "enrageSpeed": "115%",
+        "monstrDmg": "115%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "kushaladaora": {
+        "name": "Kushala Daora",
+        "tender": 0,
+        "dmgToEnrage": 550,
+        "enrageDuration": 80,
+        "enrageSpeed": "104%",
+        "monstrDmg": "105%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "lavasioth": {
+        "name": "Lavasioth",
+        "tender": 5,
+        "dmgToEnrage": 450,
+        "enrageDuration": 120,
+        "enrageSpeed": "105%",
+        "monstrDmg": "110%",
+        "playerDmg": "90%",
+        "tenderizeFormula": "int(3/4x)+30"
+    },
+    "legiana": {
+        "name": "Legiana",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 100,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "leshen": {
+        "name": "Leshen",
+        "tender": 0,
+        "dmgToEnrage": 0,
+        "enrageDuration": 0,
+        "enrageSpeed": "100%",
+        "monstrDmg": "100%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "lunastra": {
+        "name": "Lunastra",
+        "tender": 0,
+        "dmgToEnrage": 860,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "namielle": {
+        "name": "Namielle",
+        "tender": 5,
+        "dmgToEnrage": 600,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "90%",
+        "tenderizeFormula": "int(3/4x)+30"
+    },
+    "nargacuga": {
+        "name": "Nargacuga",
+        "tender": 0,
+        "dmgToEnrage": 550,
+        "enrageDuration": 75,
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "nergigante": {
+        "name": "Nergigante",
+        "tender": 0,
+        "dmgToEnrage": 400,
+        "enrageDuration": 100,
+        "enrageSpeed": "104%",
+        "monstrDmg": "120%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "nightshadepaolumu": {
+        "name": "Nightshade Paolumu",
+        "tender": 0,
+        "dmgToEnrage": 450,
+        "enrageDuration": 150,
+        "enrageSpeed": "120%",
+        "monstrDmg": "105%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "odogaron": {
+        "name": "Odogaron",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 100,
+        "enrageSpeed": "105%",
+        "monstrDmg": "115%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "paolumu": {
+        "name": "Paolumu",
+        "tender": 0,
+        "dmgToEnrage": 450,
+        "enrageDuration": 150,
+        "enrageSpeed": "120%",
+        "monstrDmg": "105%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "pinkrathian": {
+        "name": "Pink Rathian",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 100,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "pukei-pukei": {
+        "name": "Pukei-Pukei",
+        "tender": 0,
+        "dmgToEnrage": 560,
+        "enrageDuration": 80,
+        "enrageSpeed": "105%",
+        "monstrDmg": "115%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "radobaan": {
+        "name": "Radobaan",
+        "tender": 0,
+        "dmgToEnrage": 370,
+        "enrageDuration": 100,
+        "enrageSpeed": "105%",
+        "monstrDmg": "110%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "ragingbrachydios": {
+        "name": "Raging Brachydios",
+        "tender": 0,
+        "dmgToEnrage": "-",
+        "enrageDuration": "-",
+        "enrageSpeed": "-",
+        "monstrDmg": "-",
+        "playerDmg": "105%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "rajang": {
+        "name": "Rajang",
+        "tender": 0,
+        "dmgToEnrage": 350,
+        "enrageDuration": 80,
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "rathalos": {
+        "name": "Rathalos",
+        "tender": 0,
+        "dmgToEnrage": 650,
+        "enrageDuration": 100,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "rathian": {
+        "name": "Rathian",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 80,
+        "enrageSpeed": "105%",
+        "monstrDmg": "115%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "ruinernergigante": {
+        "name": "Ruiner Nergigante",
+        "tender": 0,
+        "dmgToEnrage": 400,
+        "enrageDuration": 90,
+        "enrageSpeed": "105%",
+        "monstrDmg": "105%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "safi'jiiva": {
+        "name": "Safi'jiiva",
+        "tender": "-5",
+        "dmgToEnrage": 1500,
+        "enrageDuration": 180,
+        "enrageSpeed": "100%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+20"
+    },
+    "savagedeviljho": {
+        "name": "Savage Deviljho",
+        "tender": 5,
+        "dmgToEnrage": 450,
+        "enrageDuration": 120,
+        "enrageSpeed": "113%",
+        "monstrDmg": "110%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+30"
+    },
+    "scarredyiangaruga": {
+        "name": "Scarred Yian Garuga",
+        "tender": 0,
+        "dmgToEnrage": 450,
+        "enrageDuration": 75,
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "seethingbazelgeuse": {
+        "name": "Seething Bazelgeuse",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 120,
+        "enrageSpeed": "103%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "sharaishvalda": {
+        "name": "Shara Ishvalda",
+        "tender": 0,
+        "dmgToEnrage": 1200,
+        "enrageDuration": 120,
+        "enrageSpeed": "100%",
+        "monstrDmg": "120%",
+        "playerDmg": "105%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "shriekinglegiana": {
+        "name": "Shrieking Legiana",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 100,
+        "enrageSpeed": "108%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "silverrathalos": {
+        "name": "Silver Rathalos",
+        "tender": 5,
+        "dmgToEnrage": 325,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+30"
+    },
+    "stygianzinogre": {
+        "name": "Stygian Zinogre",
+        "tender": 0,
+        "dmgToEnrage": 200,
+        "enrageDuration": 135,
+        "enrageSpeed": "105%",
+        "monstrDmg": "115%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "teostra": {
+        "name": "Teostra",
+        "tender": 0,
+        "dmgToEnrage": 860,
+        "enrageDuration": 120,
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "tigrex": {
+        "name": "Tigrex",
+        "tender": 0,
+        "dmgToEnrage": 450,
+        "enrageDuration": 110,
+        "enrageSpeed": "110%",
+        "monstrDmg": "110%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "tobi-kadachi": {
+        "name": "Tobi-Kadachi",
+        "tender": 0,
+        "dmgToEnrage": 550,
+        "enrageDuration": 80,
+        "enrageSpeed": "105%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "tzitzi-ya-ku": {
+        "name": "Tzitzi-Ya-Ku",
+        "tender": 0,
+        "dmgToEnrage": 500,
+        "enrageDuration": 100,
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "uragaan": {
+        "name": "Uragaan",
+        "tender": 5,
+        "dmgToEnrage": 450,
+        "enrageDuration": 120,
+        "enrageSpeed": "115%",
+        "monstrDmg": "110%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+30"
+    },
+    "vaalhazak": {
+        "name": "Vaal Hazak",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 60,
+        "enrageSpeed": "105%",
+        "monstrDmg": "110%",
+        "playerDmg": "105%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "velkhana": {
+        "name": "Velkhana",
+        "tender": 0,
+        "dmgToEnrage": 800,
+        "enrageDuration": 150,
+        "enrageSpeed": "110%",
+        "monstrDmg": "115%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "vipertobi-kadachi": {
+        "name": "Viper Tobi-Kadachi",
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 100,
+        "enrageSpeed": "104%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "xeno'jiiva": {
+        "name": "Xeno'jiiva",
+        "tender": 0,
+        "dmgToEnrage": 500,
+        "enrageDuration": 100,
+        "enrageSpeed": "110%",
+        "monstrDmg": "105%",
+        "playerDmg": "95%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "yiangaruga": {
+        "name": "Yian Garuga",
+        "tender": 0,
+        "dmgToEnrage": 450,
+        "enrageDuration": 75,
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
+        "playerDmg": "110%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "zinogre": {
+        "name": "Zinogre",
+        "tender": 0,
+        "dmgToEnrage": 200,
+        "enrageDuration": 120,
+        "enrageSpeed": "105%",
+        "monstrDmg": "110%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
+    "zorahmagdaros": {
+        "name": "Zorah Magdaros",
+        "tender": "-",
+        "dmgToEnrage": 0,
+        "enrageDuration": 0,
+        "enrageSpeed": "100%",
+        "monstrDmg": "100%",
+        "playerDmg": "100%",
+        "tenderizeFormula": "-"
+    }
+}
