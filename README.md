@@ -2,34 +2,43 @@
 Data proc. from the MHW API & Official Data
 
 # Usage
-*Public usage is not intended by this repository, gaining access to it likely means you have obtained it in illegitimate means*
+### Setup
+- `npm i --save` to install required modules
+- Running the app: `node index`
+- Added new data / updating data:
+  - Update `src/source_data` from MHWorldData Repository
+  - Update `src/source_tables` from Mech-E google spreadsheet.
+    Note: export as *.tsv and rename each to the appropriate names
 
-The api tools can be accessed via  api/client.js and api/mhw.js
+  - Run `python data/main.py` to update source_tables data
+  - Run `node data/main.js --convert` to convert data from *.csv to *.json
 
-Setting up the api tools is as follows:
+  - Run `node data/main.js --merge` to merge into a clean json output
+  - Run `node data/main.js --merge-fix` to fix / adjust files reliant on post-merge data
 
-Run npm in the directory of the git repo
-```bash
-npm i --save
-```
+  - Run `node data/main.js --build-api` to build the finalized json used in the API
+  - Run `node data/main.js --build-bot` to build the finalized json used in the Discord bot
+    Note: Running --build-* commands rely on the LartTyler API, which can take longer to process
 
-```javascript
-/* client.js */
+- `src/source_json` & `src/json` are processed during adding / updating data and should not be modified directly.
+- `src/source_tables` & `src/source_data` are retrieved from Mech-E google spreadsheet and MHWorldData repo respectively.
+- Final output results are in `data/build/api`, `data/build/bot`
+  - `data/build/def` data is assigned manually, and is not automated
 
-const mhw = require("./mhw);
+- Not all data is categorized yet
 
-// mhw.*("path/to/json")
-/* 
-* If you do not wish to specify a custom directory use the directory provided, 
-* making sure that api/databases/* exist and all json files
-* are present.
-*/
-mhw.writeItems("path/to/json");
-mhw.writeArmors("path/to/json");
-mhw.writeDecorations("path/to/json");
-mhw.writeSkills("path/to/json");
-```
 
-webdb/* is to be populated by future database utils
+### Web Routes
+  - `*/`
+  - `*/admin`
+    - `*/admin/login`
+    - `*/admin/logout`
+    - `*/admin/dashboard`
 
-website/* is the public release website found at `http://catbot.xyz`
+  - `*/mhw/armors/:id`
+  - `*/mhw/decorations/:id`
+  - `*/mhw/items/:id`
+  - `*/mhw/monsters/:id`
+  - `*/mhw/skills/:id`
+  - `*/mhw/weapons/:id`
+
