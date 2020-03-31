@@ -1,4 +1,4 @@
-const sql = require('../../sqlite');
+const sql = require('../../../utils/sqlite');
 sql.setup('./mhwdb.sqlite');
 
 class API {
@@ -7,7 +7,7 @@ class API {
     this.config = config;
   }
 
-  armorRoute() {
+  route_armors() {
     const self = this;
 
     this.manager.addRoute('/api/mhw/armors', '', function(render, req, res) {
@@ -50,7 +50,7 @@ class API {
     });
   }
 
-  decorationRoute() {
+  route_decorations() {
     const self = this;
 
     this.manager.addRoute('/api/mhw/decorations', '', function(
@@ -81,7 +81,7 @@ class API {
     });
   }
 
-  itemRoute() {
+  route_items() {
     const self = this;
 
     this.manager.addRoute('/api/mhw/items', '', function(render, req, res) {
@@ -112,7 +112,7 @@ class API {
     });
   }
 
-  monsterRoute() {
+  route_monsters() {
     const self = this;
 
     this.manager.addRoute('/api/mhw/monsters', '', function(render, req, res) {
@@ -125,8 +125,8 @@ class API {
             let object = {};
 
             for (const i in r) {
-              object[r[i]['name'].toLowerCase().replace(/ /g, '')] = {
-                name: r[i]['name'],
+              object = {
+                name: r[i]['name'].toLowerCase().replace(/ /g, ''),
                 details: {
                   aliases: sql.parsearr(r[i]['aliases']),
                   title: r[i]['title'],
@@ -161,7 +161,7 @@ class API {
     });
   }
 
-  skillRoute() {
+  route_skills() {
     const self = this;
 
     this.manager.addRoute('/api/mhw/skills', '', function(render, req, res) {
@@ -187,7 +187,7 @@ class API {
     });
   }
 
-  weaponRoute() {
+  route_weapons() {
     const self = this;
     this.manager.addRoute('/api/mhw/weapons', '', function(render, req, res) {
       if (req.query.key == self.config['api_key']) {

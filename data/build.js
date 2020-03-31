@@ -1,6 +1,6 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
-const utils = require('./utils');
+const utils = require('../utils/utils');
 const csv = require('./libraries/csvToJson');
 
 // Base URls used to retrieve data via the API

@@ -1,5 +1,5 @@
 const fs = require('fs');
-const csv = require('./libraries/csvToJson');
+const csv = require('../data/libraries/csvToJson');
 
 // Slightly useless at this moment in time, though planned to expand upon
 const logs = {

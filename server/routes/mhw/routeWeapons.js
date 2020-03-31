@@ -1,11 +1,11 @@
 const manager = require('../../router');
-const utils = require('../../../data/utils');
+const utils = require('../../../utils/utils');
 
-class WeaponsRoute {
-  route(data) {
+class RouteWeapons {
+  route(data, key) {
     manager
       .fetch(
-        'http://localhost:8080/api/mhw/weapons?key=h5Nyec}!8tR3gehAc!;DW4dyJ:'
+        `http://localhost:8080/api/mhw/weapons?key=${key}`
       )
       .then(function(r) {
         const map = utils.buildMap(r, {
@@ -183,4 +183,4 @@ class WeaponsRoute {
   }
 }
 
-module.exports = new WeaponsRoute();
+module.exports = new RouteWeapons();

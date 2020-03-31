@@ -1,11 +1,11 @@
 const manager = require('../../router');
-const utils = require('../../../data/utils');
+const utils = require('../../../utils/utils');
 
-class DecorationsRoute {
-  route(data) {
+class RouteDecorations {
+  route(data, key) {
     manager
       .fetch(
-        'http://localhost:8080/api/mhw/decorations?key=h5Nyec}!8tR3gehAc!;DW4dyJ:'
+        `http://localhost:8080/api/mhw/decorations?key=${key}`
       )
       .then(function(r) {
         const map = utils.buildMap(r, {
@@ -60,4 +60,4 @@ class DecorationsRoute {
   }
 }
 
-module.exports = new DecorationsRoute();
+module.exports = new RouteDecorations();

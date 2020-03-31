@@ -1,11 +1,11 @@
 const manager = require('../../router');
-const utils = require('../../../data/utils');
+const utils = require('../../../utils/utils');
 
-class SkillsRoute {
-  route(data) {
+class RouteSkills {
+  route(data, key) {
     manager
       .fetch(
-        'http://localhost:8080/api/mhw/skills?key=h5Nyec}!8tR3gehAc!;DW4dyJ:'
+        `http://localhost:8080/api/mhw/skills?key=${key}`
       )
       .then(function(r) {
         const map = utils.buildMap(r, {
@@ -57,4 +57,4 @@ class SkillsRoute {
   }
 }
 
-module.exports = new SkillsRoute();
+module.exports = new RouteSkills();

@@ -1,5 +1,5 @@
-from api_managers.SQLManager import SQLManager
-from api_structs.mhw import MHWStruct
+from server.api.api_managers.SQLManager import SQLManager
+from server.api.api_structs.mhw import MHWStruct
 
 import json
 import sqlite3

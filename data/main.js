@@ -3,7 +3,7 @@ const cmd = require('./libraries/commandUtils');
 const Merge = require('./merge');
 const merge = new Merge('./src/source_json')
 
-const utils = require('./utils');
+const utils = require('../utils/utils');
 const build = require('./build');
 
 // Input --convert as an arg into the cmd line to bulk convert all supplied csvs
