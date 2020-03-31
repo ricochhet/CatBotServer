@@ -162,6 +162,7 @@ class Merge {
           .join('Beta'),
         rarity: base.rarity,
         type: base.type,
+
         gender: base.gender,
         defenses: {
           base: base.defense_base,

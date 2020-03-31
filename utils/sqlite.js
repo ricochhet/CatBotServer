@@ -24,6 +24,21 @@ class SQLiteManager {
     });
   }
 
+  objectify(arr, opts = { keyed: true }) {
+    let outobj = {};
+    for (const i in arr) {
+      for (const k of Object.keys(arr[i])) {
+        if (opts.keyed) {
+          outobj[k.toLowerCase().replace(/ /g, '')] = arr[i][k];
+        } else {
+          outobj = arr[i];
+        }
+      }
+    }
+
+    return outobj;
+  }
+
   parsestr(str) {
     let parsestr = ``;
     let outstr = [];

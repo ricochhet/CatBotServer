@@ -4,9 +4,7 @@ const utils = require('../../../utils/utils');
 class RouteDecorations {
   route(data, key) {
     manager
-      .fetch(
-        `http://localhost:8080/api/mhw/decorations?key=${key}`
-      )
+      .fetch(`http://localhost:8080/api/mhw/decorations?key=${key}`)
       .then(function(r) {
         const map = utils.buildMap(r, {
           raw: true

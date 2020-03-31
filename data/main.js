@@ -1,7 +1,7 @@
 const cmd = require('./libraries/commandUtils');
 
 const Merge = require('./merge');
-const merge = new Merge('./src/source_json')
+const merge = new Merge('./src/source_json');
 
 const utils = require('../utils/utils');
 const build = require('./build');
@@ -63,7 +63,10 @@ cmd.command(['--merge'], function() {
 
 // Updates certain jsons that rely on others
 cmd.command(['--merge-fix'], function() {
-  merge.armors('./data/src/json/armors/armor_sets.json', './src/json/armors/armor_pieces.json');
+  merge.armors(
+    './data/src/json/armors/armor_sets.json',
+    './src/json/armors/armor_pieces.json'
+  );
   merge.decorations('./data/src/json/decorations/decorations.json', false);
 });
 

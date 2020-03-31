@@ -122,10 +122,10 @@ class API {
             `SELECT name, aliases, title, url, description, thumbnail, elements, ailments, blights, locations, info, slash, blunt, shot, fire, water, thunder, ice, dragon, hitzones, enrage FROM monsters`
           )
           .then(function(r) {
-            let object = {};
+            let json_out = [];
 
             for (const i in r) {
-              object = {
+              let object = {
                 name: r[i]['name'].toLowerCase().replace(/ /g, ''),
                 details: {
                   aliases: sql.parsearr(r[i]['aliases']),
@@ -147,13 +147,17 @@ class API {
                     ice: r[i]['ice'],
                     dragon: r[i]['dragon']
                   },
-                  hitzones: sql.parsestr(r[i]['hitzones']),
-                  enrage: sql.parsestr(r[i]['enrage'])
+                  hitzones: sql.objectify(sql.parsestr(r[i]['hitzones'])),
+                  enrage: sql.objectify(sql.parsestr(r[i]['enrage']), {
+                    keyed: false
+                  })
                 }
               };
+
+              json_out.push(object);
             }
 
-            res.json(object);
+            res.json(json_out);
           });
       } else {
         res.json({ error: '403 Unauthorized' });

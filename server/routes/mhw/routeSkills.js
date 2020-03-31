@@ -4,9 +4,7 @@ const utils = require('../../../utils/utils');
 class RouteSkills {
   route(data, key) {
     manager
-      .fetch(
-        `http://localhost:8080/api/mhw/skills?key=${key}`
-      )
+      .fetch(`http://localhost:8080/api/mhw/skills?key=${key}`)
       .then(function(r) {
         const map = utils.buildMap(r, {
           raw: true
