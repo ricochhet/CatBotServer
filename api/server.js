@@ -11,20 +11,19 @@ let monster_map = utils.buildMap(
   'details'
 );
 
-let monster_hzv_map = utils.buildMap('./data/build/def/hitzone_data.json');
-let monster_enrage_map = utils.buildMap('./data/build/def/enrage_data.json');
 let item_map = utils.buildMap('./data/build/api/item_info.json');
 let armor_map = utils.buildMap('./data/build/api/armor_info.json');
 let weapon_map = utils.buildMap('./data/build/api/weapon_info.json');
 let decoration_map = utils.buildMap('./data/build/api/decoration_info.json');
 let skill_map = utils.buildMap('./data/build/api/skill_info.json');
-let accounts_map = utils.buildMap('./users/accounts.json');
-let monsterNames = utils.buildArray(monster_map, 'title');
-let weaponNames = utils.buildArray(weapon_map, 'name');
-let armorNames = utils.buildArray(armor_map, 'name');
-let skillNames = utils.buildArray(skill_map, 'name');
-let itemNames = utils.buildArray(item_map, 'name');
-let decorationNames = utils.buildArray(decoration_map, 'name');
+
+let monsterNames = utils.buildArray(monster_map.map, 'title');
+let weaponNames = utils.buildArray(weapon_map.map, 'name');
+let armorNames = utils.buildArray(armor_map.map, 'name');
+let skillNames = utils.buildArray(skill_map.map, 'name');
+let itemNames = utils.buildArray(item_map.map, 'name');
+let decorationNames = utils.buildArray(decoration_map.map, 'name');
+
 let mhwObjects = [
   ...decorationNames.toString().split(','),
   ...monsterNames.toString().split(','),
@@ -72,7 +71,19 @@ const mhwIcons = new Map([
   ['bookmark', '/icons/ui/ic_ui_bookmark.svg']
 ]);
 
-const admin = require('./routes/admin');
+const api = require('./routes/mhw/api');
+const config = require('./config.json');
+const mhw_data = {
+  icons: mhwIcons,
+  objects: mhwObjects,
+  decoration_names: decorationNames,
+  monster_names: monsterNames,
+  weapon_names: weaponNames,
+  armor_names: armorNames,
+  skill_names: skillNames,
+  item_names: itemNames
+};
+
 const monsters = require('./routes/mhw/monsters');
 const items = require('./routes/mhw/items');
 const armors = require('./routes/mhw/armors');
@@ -81,7 +92,7 @@ const decorations = require('./routes/mhw/decorations');
 const skills = require('./routes/mhw/skills');
 
 class Server {
-  run(port, opts = { handleErrors: true, adminDashboard: false }) {
+  run(port, opts = { handleErrors: true, }) {
     manager.makeRouter(port, 'public');
 
     manager.addRoute('/', 'main.ejs', function(render, req, res) {
@@ -96,90 +107,21 @@ class Server {
       });
     });
 
-    monsters.manager = manager;
-    monsters.route(
-      monster_map,
-      monster_hzv_map,
-      monster_enrage_map,
-      mhwObjects,
-      decorationNames,
-      monsterNames,
-      weaponNames,
-      armorNames,
-      skillNames,
-      itemNames
-    );
+    api.manager = manager;
+    api.config = config;
+    api.armorRoute();
+    api.decorationRoute();
+    api.itemRoute();
+    api.monsterRoute();
+    api.skillRoute();
+    api.weaponRoute();
 
-    items.manager = manager;
-    items.route(
-      mhwIcons,
-      item_map,
-      mhwObjects,
-      decorationNames,
-      monsterNames,
-      weaponNames,
-      armorNames,
-      skillNames,
-      itemNames
-    );
-
-    armors.manager = manager;
-    armors.route(
-      mhwIcons,
-      armor_map,
-      mhwObjects,
-      decorationNames,
-      monsterNames,
-      weaponNames,
-      armorNames,
-      skillNames,
-      itemNames
-    );
-
-    weapons.manager = manager;
-    weapons.utils = utils;
-    weapons.route(
-      mhwIcons,
-      weapon_map,
-      mhwObjects,
-      decorationNames,
-      monsterNames,
-      weaponNames,
-      armorNames,
-      skillNames,
-      itemNames
-    );
-
-    decorations.manager = manager;
-    decorations.route(
-      mhwIcons,
-      decoration_map,
-      mhwObjects,
-      decorationNames,
-      monsterNames,
-      weaponNames,
-      armorNames,
-      skillNames,
-      itemNames
-    );
-
-    skills.manager = manager;
-    skills.route(
-      mhwIcons,
-      skill_map,
-      mhwObjects,
-      decorationNames,
-      monsterNames,
-      weaponNames,
-      armorNames,
-      skillNames,
-      itemNames
-    );
-
-    if (opts.adminDashboard) {
-      admin.manager = manager;
-      admin.route(accounts_map);
-    }
+    //armors.route(mhw_data);
+    //decorations.route(mhw_data);
+    //items.route(mhw_data);
+    //monsters.route(mhw_data);
+    //skills.route(mhw_data);
+    weapons.route(mhw_data);
 
     if (opts.handleErrors) {
       manager.handleErrors();

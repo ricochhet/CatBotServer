@@ -57962,7 +57962,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 2\nLV3: 0",
@@ -58002,7 +58002,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 2\nLV3: 0",
@@ -58042,7 +58042,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 2\nLV3: 0",
@@ -58082,7 +58082,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 2\nLV3: 0",
@@ -58122,7 +58122,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 2\nLV3: 0",
@@ -58162,7 +58162,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58195,7 +58195,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58228,7 +58228,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58263,7 +58263,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58298,7 +58298,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58334,7 +58334,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58371,7 +58371,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58409,7 +58409,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58448,7 +58448,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58487,7 +58487,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58526,7 +58526,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -58565,7 +58565,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 2\nLV3: 1",
@@ -58606,7 +58606,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 2\nLV3: 1",
@@ -58647,7 +58647,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -58691,7 +58691,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -58735,7 +58735,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 0\nLV2: 2\nLV3: 0",
@@ -58780,7 +58780,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 0",
@@ -58820,7 +58820,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 0",
@@ -58861,7 +58861,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 0",
@@ -58904,7 +58904,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 0",
@@ -58947,7 +58947,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 0",
@@ -58990,7 +58990,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 0",
@@ -59033,7 +59033,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 0",
@@ -59077,7 +59077,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 0",
@@ -59121,7 +59121,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 1\nLV3: 0",
@@ -59163,7 +59163,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 1\nLV3: 0",
@@ -59205,7 +59205,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 1\nLV3: 0",
@@ -59247,7 +59247,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 2",
@@ -59289,7 +59289,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 2",
@@ -59331,7 +59331,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 1\nLV3: 2",
@@ -59374,7 +59374,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -59417,7 +59417,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -59460,7 +59460,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -59503,7 +59503,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -59549,7 +59549,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -59595,7 +59595,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -59641,7 +59641,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -59687,7 +59687,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -59855,7 +59855,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -59894,7 +59894,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -59935,7 +59935,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -59976,7 +59976,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -60017,7 +60017,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 4\nLV3: 2",
@@ -60058,7 +60058,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 4\nLV3: 2",
@@ -60099,7 +60099,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 4\nLV3: 2",
@@ -60140,7 +60140,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -60179,7 +60179,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -60218,7 +60218,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -60259,7 +60259,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -60300,7 +60300,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -60341,7 +60341,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -60382,7 +60382,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 2",
@@ -60423,7 +60423,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 2",
@@ -60464,7 +60464,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 2",
@@ -60505,7 +60505,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -60544,7 +60544,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -60583,7 +60583,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -60622,7 +60622,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -60661,7 +60661,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -60700,7 +60700,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -60739,7 +60739,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -60778,7 +60778,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -60817,7 +60817,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 2\nLV3: 1",
@@ -60861,7 +60861,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 2\nLV3: 1",
@@ -60905,7 +60905,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -60943,7 +60943,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -60981,7 +60981,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -61020,7 +61020,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -61060,7 +61060,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -61100,7 +61100,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -61142,7 +61142,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -61184,7 +61184,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -61227,7 +61227,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 0\nLV2: 3\nLV3: 0",
@@ -61270,7 +61270,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 0\nLV2: 3\nLV3: 0",
@@ -61313,7 +61313,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 0\nLV2: 3\nLV3: 0",
@@ -61356,7 +61356,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 1",
@@ -61400,7 +61400,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 1",
@@ -61444,7 +61444,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 2",
@@ -61487,7 +61487,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 2",
@@ -61530,7 +61530,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 0\nLV2: 2\nLV3: 2",
@@ -61574,7 +61574,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 0\nLV2: 2\nLV3: 2",
@@ -61618,7 +61618,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 2",
@@ -61654,7 +61654,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 2",
@@ -61691,7 +61691,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 2",
@@ -61728,7 +61728,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 2",
@@ -61765,7 +61765,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 2",
@@ -61915,7 +61915,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -61955,7 +61955,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -61995,7 +61995,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -62035,7 +62035,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -62078,7 +62078,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -62121,7 +62121,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -62164,7 +62164,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -62207,7 +62207,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -62251,7 +62251,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -62295,7 +62295,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 0\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 2\nLV3: 1",
@@ -62335,7 +62335,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 0\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 2\nLV3: 1",
@@ -62375,7 +62375,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -62415,7 +62415,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -62456,7 +62456,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -62497,7 +62497,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -62622,7 +62622,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -62659,7 +62659,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -62697,7 +62697,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -62735,7 +62735,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -62775,7 +62775,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -62815,7 +62815,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -62855,7 +62855,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -62896,7 +62896,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -63190,7 +63190,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 4\nLV3: 2",
@@ -63233,7 +63233,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 4\nLV3: 2",
@@ -63277,7 +63277,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 4\nLV3: 2",
@@ -63321,7 +63321,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -63362,7 +63362,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -63402,7 +63402,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -63445,7 +63445,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 0\nLV2: 4\nLV3: 0",
@@ -63489,7 +63489,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 0\nLV2: 4\nLV3: 0",
@@ -63577,7 +63577,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 0\nLV3: 0",
@@ -63615,7 +63615,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 0",
       "pierce\nLV1: 1\nLV2: 0\nLV3: 0",
@@ -63691,7 +63691,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -63730,7 +63730,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -63769,7 +63769,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -63808,7 +63808,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 0",
@@ -63847,7 +63847,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -63888,7 +63888,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -63929,7 +63929,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -63970,7 +63970,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -64011,7 +64011,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 1",
@@ -64053,7 +64053,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 1",
@@ -64095,7 +64095,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 1",
@@ -64137,7 +64137,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "sticky\nLV1: 0\nLV2: 0\nLV3: 1",
       "poison\nLV1: 0\nLV2: 1\nLV3: 0",
@@ -64301,7 +64301,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 2",
       "sticky\nLV1: 2\nLV2: 1\nLV3: 1",
@@ -64339,7 +64339,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 2",
       "sticky\nLV1: 2\nLV2: 1\nLV3: 1",
@@ -64415,7 +64415,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -64460,7 +64460,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -64505,7 +64505,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 6\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 2",
@@ -64551,7 +64551,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 0",
@@ -64630,7 +64630,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 2",
@@ -64674,7 +64674,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 2",
@@ -64718,7 +64718,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "pierce\nLV1: 0\nLV2: 0\nLV3: 2",
       "spread\nLV1: 1\nLV2: 3\nLV3: 2",
@@ -64761,7 +64761,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "pierce\nLV1: 0\nLV2: 0\nLV3: 2",
       "spread\nLV1: 1\nLV2: 3\nLV3: 2",
@@ -64804,7 +64804,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 6",
@@ -64844,7 +64844,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 6",
@@ -64884,7 +64884,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 6",
@@ -64924,7 +64924,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 6",
@@ -64964,7 +64964,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 6",
@@ -65004,7 +65004,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 4",
@@ -65041,7 +65041,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 4",
@@ -65078,7 +65078,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 4",
@@ -65117,7 +65117,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 4",
@@ -65156,7 +65156,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 4",
@@ -65196,7 +65196,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 4",
@@ -65237,7 +65237,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 4",
@@ -65279,7 +65279,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 4",
@@ -65322,7 +65322,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 10\nLV2: 5\nLV3: 4",
@@ -65365,7 +65365,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 10\nLV2: 5\nLV3: 4",
@@ -65408,7 +65408,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 10\nLV2: 5\nLV3: 4",
@@ -65451,7 +65451,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 1",
@@ -65495,7 +65495,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 1",
@@ -65539,7 +65539,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -65584,7 +65584,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -65629,7 +65629,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 5",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -65674,7 +65674,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -65714,7 +65714,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -65754,7 +65754,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -65794,7 +65794,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -65836,7 +65836,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -65878,7 +65878,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -65920,7 +65920,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -65962,7 +65962,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -66005,7 +66005,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -66168,7 +66168,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -66206,7 +66206,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -66245,7 +66245,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -66286,7 +66286,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -66327,7 +66327,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -66368,7 +66368,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -66409,7 +66409,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -66450,7 +66450,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -66493,7 +66493,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -66536,7 +66536,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -66840,7 +66840,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -66880,7 +66880,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -66920,7 +66920,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -66960,7 +66960,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -67002,7 +67002,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -67044,7 +67044,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -67086,7 +67086,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 7\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -67128,7 +67128,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 7\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -67170,7 +67170,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "cluster\nLV1: 0\nLV2: 0\nLV3: 1",
       "paralysis\nLV1: 2\nLV2: 1\nLV3: 0",
@@ -67208,7 +67208,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "cluster\nLV1: 0\nLV2: 0\nLV3: 1",
       "paralysis\nLV1: 2\nLV2: 1\nLV3: 0",
@@ -67246,7 +67246,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "cluster\nLV1: 0\nLV2: 0\nLV3: 1",
       "paralysis\nLV1: 2\nLV2: 1\nLV3: 0",
@@ -67284,7 +67284,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 0",
@@ -67324,7 +67324,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 0",
@@ -67365,7 +67365,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 0",
@@ -67408,7 +67408,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 0",
@@ -67451,7 +67451,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "sticky\nLV1: 0\nLV2: 0\nLV3: 1",
       "cluster\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -67491,7 +67491,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "sticky\nLV1: 0\nLV2: 0\nLV3: 1",
       "cluster\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -67532,7 +67532,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "sticky\nLV1: 0\nLV2: 0\nLV3: 1",
       "cluster\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -67573,7 +67573,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "sticky\nLV1: 0\nLV2: 0\nLV3: 1",
       "cluster\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -67614,7 +67614,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67653,7 +67653,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67692,7 +67692,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67732,7 +67732,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67773,7 +67773,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67814,7 +67814,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67857,7 +67857,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67900,7 +67900,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67944,7 +67944,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -67988,7 +67988,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -68032,7 +68032,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 0",
@@ -68166,7 +68166,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68206,7 +68206,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68248,7 +68248,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68290,7 +68290,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68332,7 +68332,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68374,7 +68374,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 9\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68416,7 +68416,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 9\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68458,7 +68458,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68498,7 +68498,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68539,7 +68539,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68580,7 +68580,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68624,7 +68624,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68668,7 +68668,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68712,7 +68712,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68756,7 +68756,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68801,7 +68801,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -68846,7 +68846,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68887,7 +68887,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68929,7 +68929,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -68971,7 +68971,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -69013,7 +69013,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -69055,7 +69055,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -69097,7 +69097,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -69139,7 +69139,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 9\nLV2: 0\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 4",
@@ -69179,7 +69179,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 9\nLV2: 0\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 0\nLV3: 4",
@@ -69221,7 +69221,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 0",
@@ -69262,7 +69262,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 0",
@@ -69304,7 +69304,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 0",
@@ -69346,7 +69346,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 0",
@@ -69388,7 +69388,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 5",
@@ -69432,7 +69432,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 5",
@@ -69476,7 +69476,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 5",
@@ -69913,7 +69913,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -69954,7 +69954,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -69994,7 +69994,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -70037,7 +70037,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 0\nLV2: 5\nLV3: 0",
@@ -70081,7 +70081,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 0\nLV2: 5\nLV3: 0",
@@ -70125,7 +70125,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 1",
@@ -70171,7 +70171,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 3",
@@ -70211,7 +70211,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 3",
@@ -70253,7 +70253,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 3",
@@ -70295,7 +70295,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 1",
@@ -70337,7 +70337,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "sticky\nLV1: 0\nLV2: 3\nLV3: 3",
@@ -70381,7 +70381,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "sticky\nLV1: 0\nLV2: 3\nLV3: 3",
@@ -70425,7 +70425,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "sticky\nLV1: 0\nLV2: 3\nLV3: 3",
@@ -70469,7 +70469,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -70514,7 +70514,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -70555,7 +70555,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 0\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 0",
@@ -70596,7 +70596,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 4\nLV3: 2",
@@ -70636,7 +70636,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 4\nLV3: 2",
@@ -70676,7 +70676,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 4\nLV3: 3",
@@ -70716,7 +70716,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "cluster\nLV1: 0\nLV2: 0\nLV3: 1",
       "recover\nLV1: 0\nLV2: 2\nLV3: 0",
@@ -70760,7 +70760,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "sticky\nLV1: 0\nLV2: 3\nLV3: 3",
@@ -70800,7 +70800,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "sticky\nLV1: 0\nLV2: 3\nLV3: 3",
@@ -70840,7 +70840,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "sticky\nLV1: 0\nLV2: 3\nLV3: 3",
@@ -70880,7 +70880,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 3",
@@ -70926,7 +70926,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 3",
@@ -70972,7 +70972,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 3",
@@ -71019,7 +71019,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 0",
@@ -71062,7 +71062,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 5\nLV2: 5\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 0",
@@ -71106,7 +71106,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 5",
@@ -71152,7 +71152,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 10\nLV2: 7\nLV3: 5",
@@ -71198,7 +71198,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "sticky\nLV1: 0\nLV2: 0\nLV3: 3",
       "cluster\nLV1: 1\nLV2: 1\nLV3: 1",
@@ -71241,7 +71241,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "sticky\nLV1: 0\nLV2: 0\nLV3: 3",
       "cluster\nLV1: 1\nLV2: 1\nLV3: 1",
@@ -83990,7 +83990,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 3\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 2",
@@ -84025,7 +84025,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -84061,7 +84061,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 3\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -84092,7 +84092,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -84130,7 +84130,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -84165,7 +84165,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -84198,7 +84198,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 0\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 2",
@@ -84229,7 +84229,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 0",
@@ -84298,7 +84298,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 2",
@@ -84334,7 +84334,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -84368,7 +84368,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -84401,7 +84401,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 3\nLV3: 3",
       "sticky\nLV1: 2\nLV2: 2\nLV3: 1",
@@ -84436,7 +84436,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 1\nLV2: 1\nLV3: 3",
       "pierce\nLV1: 1\nLV2: 3\nLV3: 0",
@@ -84474,7 +84474,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 0",
@@ -84509,7 +84509,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 3\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -84542,7 +84542,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 0\nLV3: 2",
       "pierce\nLV1: 5\nLV2: 2\nLV3: 2",
@@ -84573,7 +84573,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 6\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 0",
@@ -84642,7 +84642,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 2",
@@ -84678,7 +84678,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -84712,7 +84712,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -84745,7 +84745,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 3\nLV3: 3",
       "sticky\nLV1: 2\nLV2: 2\nLV3: 1",
@@ -84780,7 +84780,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 3\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 2",
@@ -84817,7 +84817,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 4\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -84855,7 +84855,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 6\nLV2: 3\nLV3: 3",
       "pierce\nLV1: 5\nLV2: 3\nLV3: 2",
@@ -84966,7 +84966,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 0",
@@ -84998,7 +84998,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -85035,7 +85035,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -85068,7 +85068,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -85141,7 +85141,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 0",
@@ -85177,7 +85177,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -85211,7 +85211,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -85250,7 +85250,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "recover\nLV1: 1\nLV2: 0\nLV3: 0",
@@ -85281,7 +85281,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 0",
@@ -85314,7 +85314,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "recover\nLV1: 2\nLV2: 0\nLV3: 0",
@@ -85351,7 +85351,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 0",
       "pierce\nLV1: 5\nLV2: 0\nLV3: 0",
@@ -85384,7 +85384,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 5\nLV2: 4\nLV3: 3",
       "pierce\nLV1: 10\nLV2: 8\nLV3: 0",
@@ -85457,7 +85457,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 0",
@@ -85493,7 +85493,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 0",
       "pierce\nLV1: 6\nLV2: 0\nLV3: 0",
@@ -85527,7 +85527,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 2",
@@ -85566,7 +85566,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "recover\nLV1: 1\nLV2: 0\nLV3: 0",
@@ -85597,7 +85597,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 5\nLV3: 3",
       "pierce\nLV1: 4\nLV2: 3\nLV3: 0",
@@ -85630,7 +85630,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "recover\nLV1: 2\nLV2: 0\nLV3: 0",
@@ -85707,7 +85707,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 9\nLV2: 6\nLV3: 5",
       "pierce\nLV1: 7\nLV2: 5\nLV3: 0",
@@ -85741,7 +85741,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",
@@ -88534,7 +88534,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 1\nLV2: 3\nLV3: 3",
       "pierce\nLV1: 0\nLV2: 3\nLV3: 0",
@@ -88604,7 +88604,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 1",
       "pierce\nLV1: 4\nLV2: 0\nLV3: 2",
@@ -88641,7 +88641,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 4\nLV2: 4\nLV3: 2",
       "pierce\nLV1: 3\nLV2: 2\nLV3: 2",
@@ -88676,7 +88676,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 3\nLV2: 3\nLV3: 0",
       "pierce\nLV1: 4\nLV2: 4\nLV3: 2",
@@ -88714,7 +88714,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       "normal\nLV1: 3\nLV2: 2\nLV3: 0",
       "pierce\nLV1: 3\nLV2: 0\nLV3: 0",
@@ -88750,7 +88750,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "normal\nLV1: 10\nLV2: 9\nLV3: 6",
       "pierce\nLV1: 9\nLV2: 7\nLV3: 0",
@@ -88787,7 +88787,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "sticky\nLV1: 0\nLV2: 2\nLV3: 1",
@@ -88859,7 +88859,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       "spread\nLV1: 0\nLV2: 0\nLV3: 3",
       "cluster\nLV1: 1\nLV2: 1\nLV3: 1",
@@ -88936,7 +88936,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       "normal\nLV1: 7\nLV2: 6\nLV3: 4",
       "pierce\nLV1: 6\nLV2: 5\nLV3: 0",

@@ -102453,7 +102453,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -102566,7 +102566,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -102679,7 +102679,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -102792,7 +102792,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -102905,7 +102905,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -103018,7 +103018,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -103089,7 +103089,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -103160,7 +103160,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -103239,7 +103239,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -103318,7 +103318,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -103401,7 +103401,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -103484,7 +103484,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -103571,7 +103571,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -103661,7 +103661,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -103751,7 +103751,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -103841,7 +103841,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -103931,7 +103931,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -104036,7 +104036,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -104141,7 +104141,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -104264,7 +104264,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -104387,7 +104387,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -104513,7 +104513,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -104622,7 +104622,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -104735,7 +104735,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -104852,7 +104852,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -104969,7 +104969,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -105086,7 +105086,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -105203,7 +105203,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -105326,7 +105326,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -105449,7 +105449,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -105557,7 +105557,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -105665,7 +105665,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -105773,7 +105773,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -105884,7 +105884,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -105995,7 +105995,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -106109,7 +106109,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -106234,7 +106234,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -106359,7 +106359,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -106484,7 +106484,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -106616,7 +106616,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -106748,7 +106748,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -106880,7 +106880,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -107012,7 +107012,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -107447,7 +107447,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -107548,7 +107548,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -107653,7 +107653,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -107758,7 +107758,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -107863,7 +107863,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -107968,7 +107968,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -108073,7 +108073,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -108178,7 +108178,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -108279,7 +108279,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -108380,7 +108380,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -108485,7 +108485,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -108590,7 +108590,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -108695,7 +108695,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -108800,7 +108800,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -108905,7 +108905,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -109010,7 +109010,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -109115,7 +109115,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -109216,7 +109216,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -109317,7 +109317,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -109418,7 +109418,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -109519,7 +109519,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -109620,7 +109620,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -109721,7 +109721,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -109822,7 +109822,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -109923,7 +109923,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110043,7 +110043,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110163,7 +110163,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110264,7 +110264,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110365,7 +110365,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110470,7 +110470,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110579,7 +110579,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110688,7 +110688,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110801,7 +110801,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -110914,7 +110914,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -111031,7 +111031,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -111148,7 +111148,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -111265,7 +111265,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -111382,7 +111382,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -111505,7 +111505,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -111628,7 +111628,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -111745,7 +111745,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -111862,7 +111862,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -111982,7 +111982,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -112102,7 +112102,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -112187,7 +112187,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -112276,7 +112276,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -112365,7 +112365,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -112454,7 +112454,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -112822,7 +112822,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -112929,7 +112929,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -113036,7 +113036,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -113143,7 +113143,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -113257,7 +113257,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -113371,7 +113371,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -113485,7 +113485,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -113599,7 +113599,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -113719,7 +113719,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -113839,7 +113839,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -113946,7 +113946,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -114053,7 +114053,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -114151,7 +114151,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -114253,7 +114253,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -114355,7 +114355,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -114679,7 +114679,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -114770,7 +114770,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -114865,7 +114865,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -114960,7 +114960,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -115059,7 +115059,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -115158,7 +115158,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -115257,7 +115257,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -115359,7 +115359,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -116151,7 +116151,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -116268,7 +116268,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -116391,7 +116391,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -116514,7 +116514,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -116627,7 +116627,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -116736,7 +116736,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -116853,7 +116853,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -116973,7 +116973,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -117213,7 +117213,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -117300,7 +117300,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -117474,7 +117474,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -117575,7 +117575,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -117676,7 +117676,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -117777,7 +117777,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -117878,7 +117878,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -117991,7 +117991,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -118104,7 +118104,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -118217,7 +118217,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -118330,7 +118330,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -118441,7 +118441,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -118552,7 +118552,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -118663,7 +118663,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "sticky",
@@ -119080,7 +119080,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -119175,7 +119175,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -119365,7 +119365,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -119494,7 +119494,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -119623,7 +119623,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -119755,7 +119755,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -119944,7 +119944,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -120064,7 +120064,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -120184,7 +120184,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "pierce",
@@ -120301,7 +120301,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "pierce",
@@ -120418,7 +120418,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -120531,7 +120531,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -120644,7 +120644,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -120757,7 +120757,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -120870,7 +120870,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -120983,7 +120983,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121078,7 +121078,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121173,7 +121173,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121276,7 +121276,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121379,7 +121379,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121486,7 +121486,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121593,7 +121593,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121704,7 +121704,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121818,7 +121818,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -121932,7 +121932,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -122046,7 +122046,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -122160,7 +122160,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -122283,7 +122283,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -122406,7 +122406,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -122535,7 +122535,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -122664,7 +122664,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -122793,7 +122793,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -122900,7 +122900,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -123007,7 +123007,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -123114,7 +123114,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -123225,7 +123225,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -123336,7 +123336,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -123447,7 +123447,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -123558,7 +123558,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -123675,7 +123675,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124113,7 +124113,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124210,7 +124210,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124311,7 +124311,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124416,7 +124416,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124521,7 +124521,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124626,7 +124626,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124731,7 +124731,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124836,7 +124836,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -124953,7 +124953,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -125070,7 +125070,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -125917,7 +125917,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -126024,7 +126024,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -126131,7 +126131,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -126238,7 +126238,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -126349,7 +126349,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -126460,7 +126460,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -126571,7 +126571,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -126682,7 +126682,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -126793,7 +126793,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "cluster",
@@ -126888,7 +126888,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "cluster",
@@ -126983,7 +126983,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "cluster",
@@ -127078,7 +127078,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -127187,7 +127187,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -127300,7 +127300,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -127417,7 +127417,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -127534,7 +127534,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "sticky",
@@ -127633,7 +127633,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "sticky",
@@ -127738,7 +127738,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "sticky",
@@ -127843,7 +127843,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "sticky",
@@ -127948,7 +127948,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128055,7 +128055,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128162,7 +128162,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128273,7 +128273,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128388,7 +128388,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128503,7 +128503,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128622,7 +128622,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128741,7 +128741,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128864,7 +128864,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -128987,7 +128987,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -129110,7 +129110,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -129491,7 +129491,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -129598,7 +129598,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -129709,7 +129709,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -129820,7 +129820,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -129931,7 +129931,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -130042,7 +130042,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -130153,7 +130153,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -130264,7 +130264,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -130373,7 +130373,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -130486,7 +130486,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -130599,7 +130599,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -130719,7 +130719,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -130839,7 +130839,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -130959,7 +130959,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -131079,7 +131079,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -131205,7 +131205,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -131331,7 +131331,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -131446,7 +131446,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -131565,7 +131565,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -131684,7 +131684,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -131803,7 +131803,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -131922,7 +131922,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -132041,7 +132041,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -132160,7 +132160,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -132267,7 +132267,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -132378,7 +132378,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -132485,7 +132485,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -132596,7 +132596,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -132707,7 +132707,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -132818,7 +132818,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -132941,7 +132941,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -133064,7 +133064,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -134302,7 +134302,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -134415,7 +134415,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -134524,7 +134524,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -134641,7 +134641,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -134761,7 +134761,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -134881,7 +134881,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -135013,7 +135013,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -135120,7 +135120,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -135231,7 +135231,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -135342,7 +135342,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -135453,7 +135453,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -135576,7 +135576,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -135699,7 +135699,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -135822,7 +135822,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -135948,7 +135948,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -136061,7 +136061,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -136174,7 +136174,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -136281,7 +136281,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -136388,7 +136388,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -136495,7 +136495,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "cluster",
@@ -136615,7 +136615,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -136722,7 +136722,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -136829,7 +136829,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -136936,7 +136936,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -137071,7 +137071,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -137206,7 +137206,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -137344,7 +137344,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -137461,7 +137461,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -137581,7 +137581,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -137713,7 +137713,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -137845,7 +137845,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "sticky",
@@ -137962,7 +137962,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "sticky",
@@ -156560,7 +156560,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -156650,7 +156650,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -156746,7 +156746,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -156812,7 +156812,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -156920,7 +156920,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -157010,7 +157010,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -157088,7 +157088,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -157154,7 +157154,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -157328,7 +157328,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -157424,7 +157424,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -157508,7 +157508,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -157586,7 +157586,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -157676,7 +157676,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -157784,7 +157784,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -157874,7 +157874,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -157952,7 +157952,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -158018,7 +158018,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -158192,7 +158192,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -158288,7 +158288,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -158372,7 +158372,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -158450,7 +158450,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -158540,7 +158540,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -158634,7 +158634,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -158734,7 +158734,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -159024,7 +159024,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -159096,7 +159096,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -159198,7 +159198,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -159276,7 +159276,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -159474,7 +159474,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -159570,7 +159570,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -159654,7 +159654,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -159768,7 +159768,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -159834,7 +159834,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -159912,7 +159912,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -160014,7 +160014,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -160092,7 +160092,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -160290,7 +160290,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -160386,7 +160386,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -160470,7 +160470,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -160584,7 +160584,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -160650,7 +160650,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -160728,7 +160728,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -160942,7 +160942,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -161018,7 +161018,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -164950,7 +164950,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -165130,7 +165130,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -165232,7 +165232,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -165322,7 +165322,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",
@@ -165422,7 +165422,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernblast",
-    "deviation": "-",
+    "deviation": "average",
     "ammos": [
       {
         "type": "normal",
@@ -165518,7 +165518,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "normal",
@@ -165620,7 +165620,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -165804,7 +165804,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernheart",
-    "deviation": "-",
+    "deviation": "high",
     "ammos": [
       {
         "type": "spread",
@@ -166018,7 +166018,7 @@
     "elderseal": "-",
     "shelling": "-",
     "specialAmmo": "Wyvernsnipe",
-    "deviation": "-",
+    "deviation": "low",
     "ammos": [
       {
         "type": "normal",

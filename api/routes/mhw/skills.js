@@ -1,60 +1,59 @@
+const manager = require('../../router');
+const utils = require('../../../data/utils');
+
 class SkillsRoute {
-  constructor(manager) {
-    this.manager = manager;
-  }
+  route(data) {
+    manager
+      .fetch(
+        'http://localhost:8080/api/mhw/skills?key=h5Nyec}!8tR3gehAc!;DW4dyJ:'
+      )
+      .then(function(r) {
+        const map = utils.buildMap(r, {
+          raw: true
+        }).map;
 
-  route(
-    mhwIcons,
-    skill_map,
-    mhwObjects,
-    decorationNames,
-    monsterNames,
-    weaponNames,
-    armorNames,
-    skillNames,
-    itemNames
-  ) {
-    this.manager.addRoute('/mhw/skills', 'pages/skill_list.ejs', function(
-      render,
-      req,
-      res
-    ) {
-      res.render(render, {
-        SKILL_MAP: skill_map,
-        MHW_OBJECTS: mhwObjects,
-        MHW_DECO_ARRAY: decorationNames,
-        MHW_MONSTER_ARRAY: monsterNames,
-        MHW_WEAPON_ARRAY: weaponNames,
-        MHW_ARMOR_ARRAY: armorNames,
-        MHW_SKILL_ARRAY: skillNames,
-        MHW_ITEM_ARRAY: itemNames
-      });
-    });
-
-    this.manager.addRoute('/mhw/skills/:id', 'pages/skill_info.ejs', function(
-      render,
-      req,
-      res
-    ) {
-      if (skill_map.has(req.params.id)) {
-        const skill = skill_map.get(req.params.id);
-        res.render(render, {
-          ICON_MAP: mhwIcons,
-          SKILL_NAME: skill.name,
-          SKILL_DESCRIPTION: skill.description,
-          SKILL_RANKS: skill.ranks,
-          MHW_OBJECTS: mhwObjects,
-          MHW_DECO_ARRAY: decorationNames,
-          MHW_MONSTER_ARRAY: monsterNames,
-          MHW_WEAPON_ARRAY: weaponNames,
-          MHW_ARMOR_ARRAY: armorNames,
-          MHW_SKILL_ARRAY: skillNames,
-          MHW_ITEM_ARRAY: itemNames
+        manager.addRoute('/mhw/skills', 'pages/mhw/skill_list.ejs', function(
+          render,
+          req,
+          res
+        ) {
+          res.render(render, {
+            SKILL_MAP: map,
+            MHW_OBJECTS: data.objects,
+            MHW_DECO_ARRAY: data.decoration_names,
+            MHW_MONSTER_ARRAY: data.monster_names,
+            MHW_WEAPON_ARRAY: data.weapon_names,
+            MHW_ARMOR_ARRAY: data.armor_names,
+            MHW_SKILL_ARRAY: data.skill_names,
+            MHW_ITEM_ARRAY: data.item_names
+          });
         });
-      } else {
-        res.render('errors/404.ejs');
-      }
-    });
+
+        manager.addRoute(
+          '/mhw/skills/:id',
+          'pages/mhw/skill_info.ejs',
+          function(render, req, res) {
+            if (map.has(req.params.id)) {
+              const skill = map.get(req.params.id);
+              res.render(render, {
+                ICON_MAP: data.icons,
+                SKILL_NAME: skill.name,
+                SKILL_DESCRIPTION: skill.description,
+                SKILL_RANKS: skill.ranks,
+                MHW_OBJECTS: data.objects,
+                MHW_DECO_ARRAY: data.decoration_names,
+                MHW_MONSTER_ARRAY: data.monster_names,
+                MHW_WEAPON_ARRAY: data.weapon_names,
+                MHW_ARMOR_ARRAY: data.armor_names,
+                MHW_SKILL_ARRAY: data.skill_names,
+                MHW_ITEM_ARRAY: data.item_names
+              });
+            } else {
+              res.render('errors/404.ejs');
+            }
+          }
+        );
+      });
   }
 }
 

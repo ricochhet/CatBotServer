@@ -1,13 +1,36 @@
 const express = require('express');
 const app = express();
-const http = require('http').Server(app);
+const http = require('http');
 const bodyParser = require('body-parser');
 const router = express.Router();
 const session = require('express-session');
 
 class RouteManager {
+  fetch(url) {
+    return new Promise(function(resolve, reject) {
+      http
+        .get(url, function(res) {
+          let body = '';
+          res.on('data', chunk => {
+            body += chunk;
+          });
+
+          res.on('end', () => {
+            try {
+              resolve(body);
+            } catch (error) {
+              resolve(error);
+            }
+          });
+        })
+        .on('error', error => {
+          console.error(error.message);
+        });
+    });
+  }
+
   makeRouter(port, assets, errorRenders = { notFound: '-' }) {
-    http.listen(`${port}`, function() {
+    http.Server(app).listen(`${port}`, function() {
       console.log('Listening on *:' + port);
     });
 
@@ -17,7 +40,13 @@ class RouteManager {
 
     router.use(
       session({
-        secret: Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15),
+        secret:
+          Math.random()
+            .toString(36)
+            .substring(2, 15) +
+          Math.random()
+            .toString(36)
+            .substring(2, 15),
         saveUninitialized: true,
         resave: false
       })

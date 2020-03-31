@@ -1,65 +1,64 @@
+const manager = require('../../router');
+const utils = require('../../../data/utils');
+
 class ArmorsRoute {
-  constructor(manager) {
-    this.manager = manager;
-  }
+  route(data) {
+    manager
+      .fetch(
+        'http://localhost:8080/api/mhw/armors?key=h5Nyec}!8tR3gehAc!;DW4dyJ:'
+      )
+      .then(function(r) {
+        const map = utils.buildMap(r, {
+          raw: true
+        }).map;
 
-  route(
-    mhwIcons,
-    armor_map,
-    mhwObjects,
-    decorationNames,
-    monsterNames,
-    weaponNames,
-    armorNames,
-    skillNames,
-    itemNames
-  ) {
-    this.manager.addRoute('/mhw/armors', 'pages/armor_list.ejs', function(
-      render,
-      req,
-      res
-    ) {
-      res.render(render, {
-        ARMOR_MAP: armor_map,
-        MHW_OBJECTS: mhwObjects,
-        MHW_DECO_ARRAY: decorationNames,
-        MHW_MONSTER_ARRAY: monsterNames,
-        MHW_WEAPON_ARRAY: weaponNames,
-        MHW_ARMOR_ARRAY: armorNames,
-        MHW_SKILL_ARRAY: skillNames,
-        MHW_ITEM_ARRAY: itemNames
-      });
-    });
-
-    this.manager.addRoute('/mhw/armors/:id', 'pages/armor_info.ejs', function(
-      render,
-      req,
-      res
-    ) {
-      if (armor_map.has(req.params.id)) {
-        const armor = armor_map.get(req.params.id);
-        res.render(render, {
-          ICON_MAP: mhwIcons,
-          ARMOR_NAME: armor.name,
-          ARMOR_RANK: armor.rank,
-          ARMOR_SETBONUS: armor.setBonus,
-          ARMOR_DEFENSES: armor.defenses,
-          ARMOR_RESISTANCES: armor.resistances,
-          ARMOR_PIECES: armor.pieces,
-          ARMOR_SKILLS: armor.skills,
-          ARMOR_SLOTS: armor.slots,
-          MHW_OBJECTS: mhwObjects,
-          MHW_DECO_ARRAY: decorationNames,
-          MHW_MONSTER_ARRAY: monsterNames,
-          MHW_WEAPON_ARRAY: weaponNames,
-          MHW_ARMOR_ARRAY: armorNames,
-          MHW_SKILL_ARRAY: skillNames,
-          MHW_ITEM_ARRAY: itemNames
+        manager.addRoute('/mhw/armors', 'pages/mhw/armor_list.ejs', function(
+          render,
+          req,
+          res
+        ) {
+          res.render(render, {
+            ARMOR_MAP: map,
+            MHW_OBJECTS: data.objects,
+            MHW_DECO_ARRAY: data.decoration_names,
+            MHW_MONSTER_ARRAY: data.monster_names,
+            MHW_WEAPON_ARRAY: data.weapon_names,
+            MHW_ARMOR_ARRAY: data.armor_names,
+            MHW_SKILL_ARRAY: data.skill_names,
+            MHW_ITEM_ARRAY: data.item_names
+          });
         });
-      } else {
-        res.render('errors/404.ejs');
-      }
-    });
+
+        manager.addRoute(
+          '/mhw/armors/:id',
+          'pages/mhw/armor_info.ejs',
+          function(render, req, res) {
+            if (map.has(req.params.id)) {
+              const armor = map.get(req.params.id);
+              res.render(render, {
+                ICON_MAP: data.icons,
+                ARMOR_NAME: armor.name,
+                ARMOR_RANK: armor.rank,
+                ARMOR_SETBONUS: armor.setBonus,
+                ARMOR_DEFENSES: armor.defenses,
+                ARMOR_RESISTANCES: armor.resistances,
+                ARMOR_PIECES: armor.pieces,
+                ARMOR_SKILLS: armor.skills,
+                ARMOR_SLOTS: armor.slots,
+                MHW_OBJECTS: data.objects,
+                MHW_DECO_ARRAY: data.decoration_names,
+                MHW_MONSTER_ARRAY: data.monster_names,
+                MHW_WEAPON_ARRAY: data.weapon_names,
+                MHW_ARMOR_ARRAY: data.armor_names,
+                MHW_SKILL_ARRAY: data.skill_names,
+                MHW_ITEM_ARRAY: data.item_names
+              });
+            } else {
+              res.render('errors/404.ejs');
+            }
+          }
+        );
+      });
   }
 }
 

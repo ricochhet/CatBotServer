@@ -20,6 +20,8 @@ Data proc. from the MHW API & Official Data
   - Run `node data/main.js --build-bot` to build the finalized json used in the Discord bot
     Note: Running --build-* commands rely on the LartTyler API, which can take longer to process
 
+  - Run `python api_main.py` to build the sqlite3 database
+
 - `src/source_json` & `src/json` are processed during adding / updating data and should not be modified directly.
 - `src/source_tables` & `src/source_data` are retrieved from Mech-E google spreadsheet and MHWorldData repo respectively.
 - Final output results are in `data/build/api`, `data/build/bot`
@@ -27,6 +29,13 @@ Data proc. from the MHW API & Official Data
 
 - Not all data is categorized yet
 
+### API Routes
+  - `*/api/mhw/armors`
+  - `*/api/mhw/decorations`
+  - `*/api/mhw/items`
+  - `*/api/mhw/monsters`
+  - `*/api/mhw/skills`
+  - `*/api/mhw/weapons`
 
 ### Web Routes
   - `*/`

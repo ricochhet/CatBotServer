@@ -21856,7 +21856,7 @@
       "Rank: 1"
     ],
     "skills": [
-      "Defense Boost: Defense +5%\nBonus: +10 LVDefense +5%\nBonus: +10"
+      "Defense Boost: Defense +5%Bonus: +10 LVDefense +5%Bonus: +10"
     ],
     "crafting": "-"
   },
@@ -21938,7 +21938,7 @@
       "Rank: 3"
     ],
     "skills": [
-      "Defense Boost: Defense +5%\nBonus: +10 LVDefense +5%\nBonus: +10",
+      "Defense Boost: Defense +5%Bonus: +10 LVDefense +5%Bonus: +10",
       "Speed Sharpening: Removes two cycles from the sharpening process. LVRemoves two cycles from the sharpening process."
     ],
     "crafting": "-"
@@ -27971,7 +27971,7 @@
       "Rank: 2"
     ],
     "skills": [
-      "Defense Boost: Defense +5%\nBonus: +10 LVDefense +5%\nBonus: +10",
+      "Defense Boost: Defense +5%Bonus: +10 LVDefense +5%Bonus: +10",
       "Stamina Surge: Stamina recovery speed +20% LVStamina recovery speed +20%"
     ],
     "crafting": "-"

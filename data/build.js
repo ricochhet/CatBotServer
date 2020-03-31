@@ -115,11 +115,11 @@ class Build {
       let deviation = '-';
       if (key.deviation) {
         if (key.deviation == 3) {
-          deviation == 'high';
+          deviation = 'high';
         } else if (key.deviation == 2) {
-          deviation == 'average';
+          deviation = 'average';
         } else if (key.deviation == 1) {
-          deviation == 'low';
+          deviation = 'low';
         }
       }
 
@@ -757,7 +757,7 @@ class Build {
 
       db[key.name.toLowerCase().replace(/ /g, '')] = {
         name: key.name,
-        description: key.description,
+        description: key.description.replace(/\n/g, ''),
         rarity: key.rarity,
         carryLimit: key.carryLimit,
         buy: buyPrice,
@@ -782,12 +782,14 @@ class Build {
 
       for (let i of key.skills) {
         if (!advanced) {
-          skills.push(`${i.skillName}: ${i.description} LV${i.level}`);
+          skills.push(
+            `${i.skillName}: ${i.description.replace(/\n/g, '')} LV${i.level}`
+          );
         } else {
           let obj = {};
           obj = {
             name: i.skillName,
-            description: i.description,
+            description: i.description.replace(/\n/g, ''),
             level: i.level
           };
 
@@ -826,12 +828,12 @@ class Build {
 
       for (let i of key.ranks) {
         if (!advanced) {
-          ranks.push(`LV${i.level}: ${i.description}`);
+          ranks.push(`LV${i.level}: ${i.description.replace(/\n/g, '')}`);
         } else {
           let obj = {};
           obj = {
             level: i.level,
-            description: i.description
+            description: i.description.replace(/\n/g, '')
           };
 
           ranks.push(obj);
@@ -839,7 +841,7 @@ class Build {
 
         db[key.name.toLowerCase().replace(/ /g, '')] = {
           name: key.name,
-          description: key.description,
+          description: key.description.replace(/\n/g, ''),
           ranks: ranks
         };
       }
@@ -875,13 +877,15 @@ class Build {
           for (let i of key.bonus.ranks) {
             if (!advanced) {
               setBonus.push(
-                `${key.bonus.name}: ${i.description} (${i.pieces} pieces)`
+                `${key.bonus.name}: ${i.description.replace(/\n/g, '')} (${
+                  i.pieces
+                } pieces)`
               );
             } else {
               let obj = {};
               obj = {
                 name: key.bonus.name,
-                description: i.description,
+                description: i.description.replace(/\n/g, ''),
                 pieces: i.pieces
               };
 
@@ -1038,14 +1042,17 @@ class Build {
         for (const i in key.skills) {
           if (!advanced) {
             skills.push(
-              `${key.skills[i].skillName}: ${key.skills[i].description} LV${key.skills[i].description}`
+              `${key.skills[i].skillName}: ${key.skills[i].description.replace(
+                /\n/g,
+                ''
+              )} LV${key.skills[i].description.replace(/\n/g, '')}`
             );
           } else {
             let obj = {};
             obj = {
               name: key.skills[i].skillName,
               level: key.skills[i].level,
-              description: key.skills[i].description
+              description: key.skills[i].description.replace(/\n/g, '')
             };
 
             skills.push(obj);
@@ -1075,13 +1082,21 @@ class Build {
           for (const i in key.crafting.materials) {
             if (!advanced) {
               crafting.push(
-                `${key.crafting.materials[i].item.name}: ${key.crafting.materials[i].item.description} (x${key.crafting.materials[i].quantity})`
+                `${
+                  key.crafting.materials[i].item.name
+                }: ${key.crafting.materials[i].item.description.replace(
+                  /\n/g,
+                  ''
+                )} (x${key.crafting.materials[i].quantity})`
               );
             } else {
               let obj = {};
               obj = {
                 name: key.crafting.materials[i].item.name,
-                description: key.crafting.materials[i].item.description,
+                description: key.crafting.materials[i].item.description.replace(
+                  /\n/g,
+                  ''
+                ),
                 quantity: key.crafting.materials[i].quantity
               };
 

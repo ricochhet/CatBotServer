@@ -10,11 +10,16 @@ class Utils {
   // Create a map based on a json file, allowing you to specify what exactly goes into the map with a potential for two props
   buildMap(
     file,
-    opts = { extended: false, extraProp: false },
+    opts = { extended: false, extraProp: false, raw: false },
     prop = '',
     extraProp = ''
   ) {
-    let json = JSON.parse(fs.readFileSync(file, 'utf8'));
+    let json = `NULL`;
+    if (opts.raw != true) {
+      json = JSON.parse(fs.readFileSync(file, 'utf8'));
+    } else {
+      json = JSON.parse(file);
+    }
     let map = new Map();
 
     if (!opts.extended) {
@@ -35,7 +40,10 @@ class Utils {
       }
     }
 
-    return map;
+    return {
+      map: map,
+      raw: json
+    };
   }
 
   // Make an array based on a map, then push to the array based on the prop provided

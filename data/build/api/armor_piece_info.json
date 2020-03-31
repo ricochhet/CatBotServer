@@ -54513,7 +54513,7 @@
       {
         "name": "Defense Boost",
         "level": 3,
-        "description": "Defense +5%\nBonus: +10"
+        "description": "Defense +5%Bonus: +10"
       }
     ],
     "crafting": "-"
@@ -54691,7 +54691,7 @@
       {
         "name": "Defense Boost",
         "level": 3,
-        "description": "Defense +5%\nBonus: +10"
+        "description": "Defense +5%Bonus: +10"
       },
       {
         "name": "Speed Sharpening",
@@ -68094,7 +68094,7 @@
       {
         "name": "Defense Boost",
         "level": 3,
-        "description": "Defense +5%\nBonus: +10"
+        "description": "Defense +5%Bonus: +10"
       },
       {
         "name": "Stamina Surge",

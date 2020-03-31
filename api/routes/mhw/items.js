@@ -1,63 +1,62 @@
+const manager = require('../../router');
+const utils = require('../../../data/utils');
+
 class ItemsRoute {
-  constructor(manager) {
-    this.manager = manager;
-  }
+  route(data) {
+    manager
+      .fetch(
+        'http://localhost:8080/api/mhw/items?key=h5Nyec}!8tR3gehAc!;DW4dyJ:'
+      )
+      .then(function(r) {
+        const map = utils.buildMap(r, {
+          raw: true
+        }).map;
 
-  route(
-    mhwIcons,
-    item_map,
-    mhwObjects,
-    decorationNames,
-    monsterNames,
-    weaponNames,
-    armorNames,
-    skillNames,
-    itemNames
-  ) {
-    this.manager.addRoute('/mhw/items', 'pages/item_list.ejs', function(
-      render,
-      req,
-      res
-    ) {
-      res.render(render, {
-        ITEM_MAP: item_map,
-        MHW_OBJECTS: mhwObjects,
-        MHW_DECO_ARRAY: decorationNames,
-        MHW_MONSTER_ARRAY: monsterNames,
-        MHW_WEAPON_ARRAY: weaponNames,
-        MHW_ARMOR_ARRAY: armorNames,
-        MHW_SKILL_ARRAY: skillNames,
-        MHW_ITEM_ARRAY: itemNames
-      });
-    });
-
-    this.manager.addRoute('/mhw/items/:id', 'pages/item_info.ejs', function(
-      render,
-      req,
-      res
-    ) {
-      if (item_map.has(req.params.id)) {
-        const item = item_map.get(req.params.id);
-        res.render(render, {
-          ICON_MAP: mhwIcons,
-          ITEM_NAME: item.name,
-          ITEM_DESCRIPTION: item.description,
-          ITEM_RARITY: item.rarity,
-          ITEM_CARRYLIMIT: item.carryLimit,
-          ITEM_BUY: item.buy,
-          ITEM_VALUE: item.value,
-          MHW_OBJECTS: mhwObjects,
-          MHW_DECO_ARRAY: decorationNames,
-          MHW_MONSTER_ARRAY: monsterNames,
-          MHW_WEAPON_ARRAY: weaponNames,
-          MHW_ARMOR_ARRAY: armorNames,
-          MHW_SKILL_ARRAY: skillNames,
-          MHW_ITEM_ARRAY: itemNames
+        manager.addRoute('/mhw/items', 'pages/mhw/item_list.ejs', function(
+          render,
+          req,
+          res
+        ) {
+          res.render(render, {
+            ITEM_MAP: map,
+            MHW_OBJECTS: data.objects,
+            MHW_DECO_ARRAY: data.decoration_names,
+            MHW_MONSTER_ARRAY: data.monster_names,
+            MHW_WEAPON_ARRAY: data.weapon_names,
+            MHW_ARMOR_ARRAY: data.armor_names,
+            MHW_SKILL_ARRAY: data.skill_names,
+            MHW_ITEM_ARRAY: data.item_names
+          });
         });
-      } else {
-        res.render('errors/404.ejs');
-      }
-    });
+
+        manager.addRoute('/mhw/items/:id', 'pages/mhw/item_info.ejs', function(
+          render,
+          req,
+          res
+        ) {
+          if (map.has(req.params.id)) {
+            const item = map.get(req.params.id);
+            res.render(render, {
+              ICON_MAP: data.icons,
+              ITEM_NAME: item.name,
+              ITEM_DESCRIPTION: item.description,
+              ITEM_RARITY: item.rarity,
+              ITEM_CARRYLIMIT: item.carryLimit,
+              ITEM_BUY: item.buy,
+              ITEM_VALUE: item.value,
+              MHW_OBJECTS: data.objects,
+              MHW_DECO_ARRAY: data.decoration_names,
+              MHW_MONSTER_ARRAY: data.monster_names,
+              MHW_WEAPON_ARRAY: data.weapon_names,
+              MHW_ARMOR_ARRAY: data.armor_names,
+              MHW_SKILL_ARRAY: data.skill_names,
+              MHW_ITEM_ARRAY: data.item_names
+            });
+          } else {
+            res.render('errors/404.ejs');
+          }
+        });
+      });
   }
 }
 
