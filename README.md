@@ -38,12 +38,6 @@ Data proc. from the MHW API & Official Data
   - `*/api/mhw/weapons`
 
 ### Web Routes
-  - `*/`
-  - `*/admin`
-    - `*/admin/login`
-    - `*/admin/logout`
-    - `*/admin/dashboard`
-
   - `*/mhw/armors/:id`
   - `*/mhw/decorations/:id`
   - `*/mhw/items/:id`
