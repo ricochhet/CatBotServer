@@ -1,4 +1,4 @@
-const sql = require('../../../utils/sqlite');
+const sql = require('../../../utils/utils');
 sql.setup('./mhwdb.sqlite');
 
 class API {

@@ -757,7 +757,7 @@ class Build {
 
       db[key.name.toLowerCase().replace(/ /g, '')] = {
         name: key.name,
-        description: key.description.replace(/\n/g, ''),
+        description: key.description.replace(/\n/g, ' '),
         rarity: key.rarity,
         carryLimit: key.carryLimit,
         buy: buyPrice,
@@ -783,13 +783,13 @@ class Build {
       for (let i of key.skills) {
         if (!advanced) {
           skills.push(
-            `${i.skillName}: ${i.description.replace(/\n/g, '')} LV${i.level}`
+            `${i.skillName}: ${i.description.replace(/\n/g, ' ')} LV${i.level}`
           );
         } else {
           let obj = {};
           obj = {
             name: i.skillName,
-            description: i.description.replace(/\n/g, ''),
+            description: i.description.replace(/\n/g, ' '),
             level: i.level
           };
 
@@ -828,12 +828,12 @@ class Build {
 
       for (let i of key.ranks) {
         if (!advanced) {
-          ranks.push(`LV${i.level}: ${i.description.replace(/\n/g, '')}`);
+          ranks.push(`LV${i.level}: ${i.description.replace(/\n/g, ' ')}`);
         } else {
           let obj = {};
           obj = {
             level: i.level,
-            description: i.description.replace(/\n/g, '')
+            description: i.description.replace(/\n/g, ' ')
           };
 
           ranks.push(obj);
@@ -841,7 +841,7 @@ class Build {
 
         db[key.name.toLowerCase().replace(/ /g, '')] = {
           name: key.name,
-          description: key.description.replace(/\n/g, ''),
+          description: key.description.replace(/\n/g, ' '),
           ranks: ranks
         };
       }
@@ -877,7 +877,7 @@ class Build {
           for (let i of key.bonus.ranks) {
             if (!advanced) {
               setBonus.push(
-                `${key.bonus.name}: ${i.description.replace(/\n/g, '')} (${
+                `${key.bonus.name}: ${i.description.replace(/\n/g, ' ')} (${
                   i.pieces
                 } pieces)`
               );
@@ -885,7 +885,7 @@ class Build {
               let obj = {};
               obj = {
                 name: key.bonus.name,
-                description: i.description.replace(/\n/g, ''),
+                description: i.description.replace(/\n/g, ' '),
                 pieces: i.pieces
               };
 
@@ -1045,14 +1045,14 @@ class Build {
               `${key.skills[i].skillName}: ${key.skills[i].description.replace(
                 /\n/g,
                 ''
-              )} LV${key.skills[i].description.replace(/\n/g, '')}`
+              )} LV${key.skills[i].description.replace(/\n/g, ' ')}`
             );
           } else {
             let obj = {};
             obj = {
               name: key.skills[i].skillName,
               level: key.skills[i].level,
-              description: key.skills[i].description.replace(/\n/g, '')
+              description: key.skills[i].description.replace(/\n/g, ' ')
             };
 
             skills.push(obj);

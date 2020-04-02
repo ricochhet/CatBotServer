@@ -1,13 +1,18 @@
-const fs = require('fs');
 const csv = require('../data/libraries/csvToJson');
+const sqlite = require('sqlite3').verbose();
+const fs = require('fs');
 
-// Slightly useless at this moment in time, though planned to expand upon
-const logs = {
-  success: 'File saved: '
-};
+class Manager {
+  constructor() {
+    this.logs = {
+      success: 'File saved: '
+    };
+  }
 
-class Utils {
-  // Create a map based on a json file, allowing you to specify what exactly goes into the map with a potential for two props
+  setup(db) {
+    this.db = new sqlite.Database(db);
+  }
+
   buildMap(
     file,
     opts = { extended: false, extraProp: false, raw: false },
@@ -46,7 +51,6 @@ class Utils {
     };
   }
 
-  // Make an array based on a map, then push to the array based on the prop provided
   buildArray(map, prop) {
     let array = [];
 
@@ -58,18 +62,101 @@ class Utils {
     return array;
   }
 
-  // Basic function to write to a file with FS
+  execute(sql) {
+    const self = this;
+    return new Promise(function(res, rej) {
+      self.db.all(sql, [], (err, rows) => {
+        const data = [];
+
+        if (err) {
+          throw err;
+        }
+
+        rows.forEach(row => {
+          data.push(row);
+        });
+
+        res(data);
+      });
+    });
+  }
+
+  objectify(arr, opts = { keyed: true }) {
+    let outobj = {};
+    for (const i in arr) {
+      for (const k of Object.keys(arr[i])) {
+        if (opts.keyed) {
+          outobj[k.toLowerCase().replace(/ /g, '')] = arr[i][k];
+        } else {
+          outobj = arr[i];
+        }
+      }
+    }
+
+    return outobj;
+  }
+
+  parsestr(str) {
+    let parsestr = ``;
+    let outstr = [];
+    if (str.includes('&&')) {
+      parsestr = str.split('&&');
+      for (const i in parsestr) {
+        try {
+          outstr.push(JSON.parse(parsestr[i]));
+        } catch (e) {
+          try {
+            let stringify = JSON.stringify(parsestr[i]);
+            outstr.push(JSON.parse(stringify));
+          } catch (e) {
+            throw console.log(e);
+          }
+        }
+      }
+      outstr = outstr.flat(2);
+    } else if (str == '-') {
+      parsestr = '-';
+      outstr = parsestr;
+    } else if (!str.includes('&&') && str != '-') {
+      try {
+        parsestr = JSON.parse(str);
+      } catch (e) {
+        try {
+          let stringify = JSON.stringify(str);
+          parsestr = JSON.parse(stringify);
+        } catch (err) {
+          throw console.log(e);
+        }
+      }
+      outstr = parsestr;
+    }
+
+    return outstr;
+  }
+
+  parsearr(arr) {
+    let parsearr = [];
+    if (arr == '' || arr == null) {
+      parsearr = [];
+    } else if (!arr.includes(',') && (arr != '' || arr != null)) {
+      parsearr.push(arr);
+    } else if (arr.includes(',')) {
+      parsearr = arr.split(',');
+    }
+
+    return parsearr;
+  }
+
   writeFile(writeTo, db) {
     fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
       if (err) {
         console.log(err);
       } else {
-        console.log(`${logs.success}${writeTo}`);
+        console.log(`${this.logs.success}${writeTo}`);
       }
     });
   }
 
-  // Search within array, based on prop and value provided
   search(array, prop, value) {
     let filtered = array.filter(function(item) {
       return item[prop] == value;
@@ -78,7 +165,6 @@ class Utils {
     return filtered;
   }
 
-  // A more advanced search to check if multiple props have a specific value
   advancedSearch(array, prop, newProp, value, newValue) {
     let filtered = array.filter(function(item) {
       return item[prop] == value && item[newProp] == newValue;
@@ -87,7 +173,6 @@ class Utils {
     return filtered;
   }
 
-  // Bulk convert csv to json, params including an array of objects taking in input and output
   bulkConvertCSVs(bulkData = [{ input: '', output: '' }]) {
     for (const i in bulkData) {
       fs.readdir(bulkData[i].input, (err, files) => {
@@ -106,7 +191,6 @@ class Utils {
     }
   }
 
-  // Base write function, which allows us to convert csv to json
   write(data = { delim: `,`, input: 'file.csv', output: 'file.json' }) {
     csv.fieldDelimiter(data.delim).getJsonFromCsv(data.input);
     csv.formatValueByType().getJsonFromCsv(data.input);
@@ -114,4 +198,4 @@ class Utils {
   }
 }
 
-module.exports = new Utils();
+module.exports = new Manager();

@@ -140,11 +140,11 @@
     "ranks": [
       "LV1: Defense +5",
       "LV2: Defense +10",
-      "LV3: Defense +5%Bonus: +10",
-      "LV4: Defense +5%Bonus: +20All Elemental Resistances +3",
-      "LV5: Defense +8%Bonus: +20All Elemental Resistances +3",
-      "LV6: Defense +8%Bonus: +35All Elemental Resistances +5",
-      "LV7: Defense +10%Bonus: +35All Elemental Resistances +5"
+      "LV3: Defense +5% Bonus: +10",
+      "LV4: Defense +5% Bonus: +20 All Elemental Resistances +3",
+      "LV5: Defense +8% Bonus: +20 All Elemental Resistances +3",
+      "LV6: Defense +8% Bonus: +35 All Elemental Resistances +5",
+      "LV7: Defense +10% Bonus: +35 All Elemental Resistances +5"
     ]
   },
   "healthboost": {
