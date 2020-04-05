@@ -2,8 +2,8 @@ const manager = require('./router');
 const api = require('./api/mhw/api');
 const config = require('./config.json');
 
-const mhw_struct = require('./structs/mhw');
-mhw_struct.setup(require('../utils/utils'));
+const mhw_struct = require('./api/mhw/struct');
+mhw_struct.setup(require('../util/mapUtil'));
 
 const routeDecorations = require('./routes/mhw/routeDecorations');
 const routeMonsters = require('./routes/mhw/routeMonsters');

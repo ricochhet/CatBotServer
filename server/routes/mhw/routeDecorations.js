@@ -1,5 +1,5 @@
 const manager = require('../../router');
-const utils = require('../../../utils/utils');
+const utils = require('../../../util/mapUtil');
 
 class RouteDecorations {
   route(data, key) {

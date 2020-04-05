@@ -1,4 +1,4 @@
-const utils = require('../utils/utils');
+const utils = require('../../util/mapUtil');
 
 class Merge {
   constructor(sourceJsonDir) {
@@ -155,11 +155,7 @@ class Merge {
           .replace(/ /g, '')
       ] = {
         id: base.id,
-        name: base.name_en
-          .split('α')
-          .join('Alpha')
-          .split('β')
-          .join('Beta'),
+        name: base.name_en.split('α').join('Alpha').split('β').join('Beta'),
         rarity: base.rarity,
         type: base.type,
 
@@ -218,44 +214,19 @@ class Merge {
     for (const [k, v] of armorset_base_map) {
       const base = armorset_base_map.get(k);
       const head = armor_pieces_map.get(
-        base.head
-          .toString()
-          .split('α')
-          .join('Alpha')
-          .split('β')
-          .join('Beta')
+        base.head.toString().split('α').join('Alpha').split('β').join('Beta')
       );
       const chest = armor_pieces_map.get(
-        base.chest
-          .toString()
-          .split('α')
-          .join('Alpha')
-          .split('β')
-          .join('Beta')
+        base.chest.toString().split('α').join('Alpha').split('β').join('Beta')
       );
       const arms = armor_pieces_map.get(
-        base.arms
-          .toString()
-          .split('α')
-          .join('Alpha')
-          .split('β')
-          .join('Beta')
+        base.arms.toString().split('α').join('Alpha').split('β').join('Beta')
       );
       const waist = armor_pieces_map.get(
-        base.waist
-          .toString()
-          .split('α')
-          .join('Alpha')
-          .split('β')
-          .join('Beta')
+        base.waist.toString().split('α').join('Alpha').split('β').join('Beta')
       );
       const legs = armor_pieces_map.get(
-        base.legs
-          .toString()
-          .split('α')
-          .join('Alpha')
-          .split('β')
-          .join('Beta')
+        base.legs.toString().split('α').join('Alpha').split('β').join('Beta')
       );
 
       let bonus = null;
@@ -295,7 +266,7 @@ class Merge {
       }
 
       const pieces = [head, chest, arms, waist, legs];
-      const filtered_pieces = pieces.filter(function(element) {
+      const filtered_pieces = pieces.filter(function (element) {
         return element !== undefined;
       });
 
@@ -406,13 +377,7 @@ class Merge {
       }
 
       if (nop) {
-        obj[
-          k
-            .split('/')
-            .join('+')
-            .toLowerCase()
-            .replace(/ /g, '')
-        ] = {
+        obj[k.split('/').join('+').toLowerCase().replace(/ /g, '')] = {
           id: base.id,
           name: base.name_en,
           slot: base.slot,
@@ -706,13 +671,7 @@ class Merge {
         }
       }
 
-      obj[
-        k
-          .split(`\"`)
-          .join('')
-          .toLowerCase()
-          .replace(/ /g, '')
-      ] = {
+      obj[k.split(`\"`).join('').toLowerCase().replace(/ /g, '')] = {
         id: base.id,
         name: base.name_en.split(`\"`).join(''),
         stars: base.stars,
@@ -1289,13 +1248,7 @@ class Merge {
         elderseal = base.elderseal;
       }
 
-      obj[
-        k
-          .split(`\"`)
-          .join('')
-          .toLowerCase()
-          .replace(/ /g, '')
-      ] = {
+      obj[k.split(`\"`).join('').toLowerCase().replace(/ /g, '')] = {
         id: base.id,
         name: base.name_en.split(`\"`).join(''),
         shelling: shelling,

@@ -1,7 +1,8 @@
-class MHWStruct {
+class Struct {
   setup(utils) {
+    this.utils = utils;
     this.monster_map = utils.buildMap(
-      './data/build/def/monster_info.json',
+      './database/mhw/build/def/monster_info.json',
       {
         extended: true,
         extraProp: true
@@ -9,14 +10,23 @@ class MHWStruct {
       'name',
       'details'
     );
-
-    this.item_map = utils.buildMap('./data/build/api/item_info.json');
-    this.armor_map = utils.buildMap('./data/build/api/armor_info.json');
-    this.weapon_map = utils.buildMap('./data/build/api/weapon_info.json');
-    this.decoration_map = utils.buildMap(
-      './data/build/api/decoration_info.json'
+    this.monster_hitzone_map = utils.buildMap(
+      './database/mhw/build/def/hitzone_data.json'
     );
-    this.skill_map = utils.buildMap('./data/build/api/skill_info.json');
+
+    this.monster_enrage_map = utils.buildMap(
+      './database/mhw/build/def/enrage_data.json'
+    );
+
+    this.item_map = utils.buildMap('./database/mhw/build/api/item_info.json');
+    this.armor_map = utils.buildMap('./database/mhw/build/api/armor_info.json');
+    this.weapon_map = utils.buildMap(
+      './database/mhw/build/api/weapon_info.json'
+    );
+    this.decoration_map = utils.buildMap(
+      './database/mhw/build/api/decoration_info.json'
+    );
+    this.skill_map = utils.buildMap('./database/mhw/build/api/skill_info.json');
 
     this.monster_names = utils.buildArray(this.monster_map.map, 'title');
     this.weapon_names = utils.buildArray(this.weapon_map.map, 'name');
@@ -85,4 +95,4 @@ class MHWStruct {
   }
 }
 
-module.exports = new MHWStruct();
+module.exports = new Struct();

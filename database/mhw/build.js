@@ -1,7 +1,7 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
-const utils = require('../utils/utils');
-const csv = require('./libraries/csvToJson');
+const utils = require('../../util/mapUtil');
+const csv = require('../libraries/csvToJson');
 
 // Base URls used to retrieve data via the API
 const itemsURL = `https://mhw-db.com/items`;
@@ -696,13 +696,7 @@ class Build {
         upgrade = '-';
       }
 
-      db[
-        key.name
-          .toLowerCase()
-          .replace(/ /g, '')
-          .split('"')
-          .join('')
-      ] = {
+      db[key.name.toLowerCase().replace(/ /g, '').split('"').join('')] = {
         name: key.name.split('"').join(''),
         type: key.type,
         rarity: key.rarity,

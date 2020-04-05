@@ -1,16 +1,16 @@
 const manager = require('../../router');
-const utils = require('../../../utils/utils');
+const utils = require('../../../util/mapUtil');
 
 class RouteWeapons {
   route(data, key) {
     manager
       .fetch(`http://localhost:8080/api/mhw/weapons?key=${key}`)
-      .then(function(r) {
+      .then(function (r) {
         const map = utils.buildMap(r, {
           raw: true
         }).map;
 
-        manager.addRoute('/mhw/weapons', 'pages/mhw/weapon_list.ejs', function(
+        manager.addRoute('/mhw/weapons', 'pages/mhw/weapon_list.ejs', function (
           render,
           req,
           res
@@ -117,7 +117,7 @@ class RouteWeapons {
         manager.addRoute(
           '/mhw/weapons/:id',
           'pages/mhw/weapon_info.ejs',
-          function(render, req, res) {
+          function (render, req, res) {
             if (map.has(req.params.id)) {
               const weapon = map.get(req.params.id);
               let coatingArray = '-';
@@ -135,7 +135,7 @@ class RouteWeapons {
                 let arr = [];
 
                 for (const i in weapon.slots) {
-                  arr.push(`Rank: ${weapon.slots[i].slots}`);
+                  arr.push(`Rank: ${weapon.slots[i].rank}`);
                 }
                 slotsArray = arr.join('<br>');
               } else {
@@ -153,9 +153,9 @@ class RouteWeapons {
                 WEAPON_DMGTYPE: weapon.damageType,
                 WEAPON_AFFINITY: weapon.affinity,
                 WEAPON_DEFENSE: weapon.defense,
-                WEAPON_SHARPNESS: weapon.sharpness[0],
+                WEAPON_SHARPNESS: weapon.sharpness,
                 WEAPON_ELDERSEAL: weapon.elderseal,
-                WEAPON_SHELLING: weapon.shelling[0],
+                WEAPON_SHELLING: weapon.shelling,
                 WEAPON_SPECIALAMMO: weapon.specialAmmo,
                 WEAPON_DEVIATION: weapon.deviation,
                 WEAPON_AMMOS: weapon.ammos,
