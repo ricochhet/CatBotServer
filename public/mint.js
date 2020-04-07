@@ -159,12 +159,12 @@ function _searchDropdown(inp, arr) {
 /*Responsive navigation bar function*/
 /************************************/
 
-function responsiveNavigation() {
-  let x = document.getElementById('navigation-bar__light');
+function _responsiveNavigation() {
+  let x = document.getElementById('navigation-bar');
 
-  if (x.className === 'navigation-bar__light') {
+  if (x.className === 'navigation-bar') {
     x.className += ' responsive';
   } else {
-    x.className = 'navigation-bar__light';
+    x.className = 'navigation-bar';
   }
 }

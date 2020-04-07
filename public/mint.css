@@ -129,7 +129,7 @@ a:hover, button:hover {
     padding-top: 3rem;
     margin-bottom: 3rem;
     margin-top: 3rem;
-    border-top: 1px solid var(--light-border-bottom);
+    border-top: 1px solid var(--border-bottom);
 }
 
 .page-footer__links-row {
@@ -163,41 +163,41 @@ a:hover, button:hover {
 /*Navigation bar properties*/
 /***************************/
 
-.navigation-bar__light {
+.navigation-bar {
     display: flex;
-    border-bottom: 1px solid var(--light-border-bottom);
-    background: var(--light-navigation-bar-background);
+    border-bottom: 4px solid var(--border-bottom);
+    background: var(--navigation-bar-background);
     flex-direction: row;
     align-items: center;
     padding: .5rem 1rem;
 }
 
-.navigation-bar__light--header__link {
+.navigation-bar--header__link {
     text-decoration: none;
     color: var(--header-link);
     padding: .5rem;
     transition: 0.2s;
 }
 
-.navigation-bar__light--link {
+.navigation-bar--link {
     text-decoration: none;
-    color: var(--light-navigation-bar-link);
+    color: var(--navigation-bar-link);
     padding: .5rem;
     transition: 0.2s;
 }
 
-.navigation-bar__light--link:hover {
+.navigation-bar--link:hover {
     letter-spacing: 0.2em;
     color: var(--list-item-color);
 }
 
-.navigation-bar__light h5 img {
-    width: 28px;
+.navigation-bar h5 img {
+    width: 32px;
     vertical-align: middle;
-    border-radius: 8px;
+    border-radius: 3px;
 }
 
-.navigation-bar__light h5 {
+.navigation-bar h5 {
     font-weight: 400;
     margin-bottom: 0;
     margin-top: 0;
@@ -205,68 +205,68 @@ a:hover, button:hover {
     font-size: 1.25rem;
 }
 
-.navigation-bar__light nav {
+.navigation-bar nav {
     font-weight: 400;
     margin-bottom: 0;
 }
 
-.navigation-bar__light .icon {
+.navigation-bar .icon {
     display: none;
 }
 
 @media screen and (max-width: 600px) {
-    .navigation-bar__light a {
+    .navigation-bar a {
         display: none;
     }
 
-    .navigation-bar__light form {
+    .navigation-bar form {
         display: none;
     }
 
-    .navigation-bar__light div {
+    .navigation-bar div {
         display: none;
     }
 
-    .navigation-bar__light h5 {
+    .navigation-bar h5 {
         display: block;
     }
 
-    .navigation-bar__light a.icon {
+    .navigation-bar a.icon {
         float: right;
         display: block;
     }
 }
 
 @media screen and (max-width: 600px) {
-    .navigation-bar__light.responsive {
+    .navigation-bar.responsive {
         position: relative;
     }
 
-    .navigation-bar__light.responsive .icon {
+    .navigation-bar.responsive .icon {
         position: absolute;
         right: 0;
         top: 0;
         padding: 1rem;
     }
 
-    .navigation-bar__light.responsive a {
+    .navigation-bar.responsive a {
         display: block;
     }
 
-    .navigation-bar__light.responsive form {
+    .navigation-bar.responsive form {
         display: block;
         margin-top: 5px;
     }
 
-    .navigation-bar__light.responsive div .dropdown-items {
+    .navigation-bar.responsive div .dropdown-items {
         display: block;
     }
 
-    .navigation-bar__light.responsive div {
+    .navigation-bar.responsive div {
         display: flex;
     }
 
-    .navigation-bar__light.responsive h5 {
+    .navigation-bar.responsive h5 {
         display: none;
     }
 }
@@ -301,16 +301,16 @@ a:hover, button:hover {
 }
 
 .btn-outline__submit {
-    color: var(--submit-button);
+    color: var(--confirm-button);
     background-color: transparent;
-    border-color: var(--submit-button);
+    border-color: var(--confirm-button);
     font-size: 16px; 
 }
 
 .btn-outline__submit:hover {
     color: var(--bg-color);
-    background-color: var(--submit-button);
-    border-color: var(--submit-button);
+    background-color: var(--confirm-button);
+    border-color: var(--confirm-button);
 }
 
 .btn:hover {
@@ -323,28 +323,28 @@ a:hover, button:hover {
 }
 
 .btn-outline {
-    color: var(--button-fill-color);
+    color: var(--standard-button);
     background-color: transparent;
-    border-color: var(--button-fill-color);
+    border-color: var(--standard-button);
 }
 
 .btn-outline:hover {
     color: var(--bg-color);
-    background-color: var(--button-fill-color);
-    border-color: var(--button-fill-color);
+    background-color: var(--standard-button);
+    border-color: var(--standard-button);
 }
 
 .btn-outline__small {
-    color: var(--button-fill-color);
+    color: var(--standard-button);
     background-color: transparent;
-    border-color: var(--button-fill-color);
+    border-color: var(--standard-button);
     font-size: 16px;
 }
 
 .btn-outline__small:hover {
     color: var(--bg-color);
-    background-color: var(--button-fill-color);
-    border-color: var(--button-fill-color);
+    background-color: var(--standard-button);
+    border-color: var(--standard-button);
 }
 
 .btn-outline__nohover {
@@ -370,8 +370,8 @@ a:hover, button:hover {
 
 .btn-primary__full {
     color: var(--bg-color);
-    background-color: var(--button-fill-color);
-    border-color: var(--button-fill-color);
+    background-color: var(--standard-button);
+    border-color: var(--standard-button);
 }
 
 .btn-primary__full:hover {
@@ -391,7 +391,7 @@ a:hover, button:hover {
 
 .header-bottom:after {
     content: "";
-    background-color: var(--button-fill-color);
+    background-color: var(--standard-button);
     width: 85px;
     height: 4px;
     border-radius: 0;
@@ -442,7 +442,7 @@ a:hover, button:hover {
 
 .card-command__tag {
     align-items: center;
-    background-color: var(--light-background);
+    background-color: var(--background);
     color: var(--dark-font-color);
     display: inline-flex;
     font-size: .75rem;
@@ -480,8 +480,8 @@ a:hover, button:hover {
 }
 
 .card-command__header code {
-    background-color: var(--light-background);
-    color: var(--code-block-font-color);
+    background-color: var(--background);
+    color: var(--code-color);
     font-size: .8em;
     font-weight: 400;
     padding: .25em .5em;
@@ -494,8 +494,8 @@ a:hover, button:hover {
 }
 
 .card-command code {
-    background-color: var(--light-background);
-    color: var(--code-block-font-color);
+    background-color: var(--background);
+    color: var(--code-color);
     font-weight: 400;
     padding: .25em .5em;
 }
@@ -513,7 +513,7 @@ a:hover, button:hover {
     word-wrap: break-word;
     background-color: var(--bg-color);
     background-clip: border-box;
-    border: var(--light-item-border);
+    border: var(--item-border);
     border-radius: .25rem;
     min-width: 220px;
     max-width: 320px;
@@ -558,7 +558,7 @@ a:hover, button:hover {
     padding: 1rem;
     max-width: 325px;
     border-radius: 5px;
-    background-color: var(--button-fill-color);
+    background-color: var(--standard-button);
     transition: opacity .2s;
     margin-bottom: 1rem;
     transition: all 0.3s ease 0s;
@@ -567,7 +567,7 @@ a:hover, button:hover {
 }
 
 .card-business__header {
-    color: var(--card-business-header);
+    color: var(--card-header);
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -581,7 +581,7 @@ a:hover, button:hover {
 }
 
 .card-business__btn {
-    color: var(--card-business-header);
+    color: var(--card-header);
     text-decoration: none;
     font-size: 16px;
     transition: all 0.3s ease 0s;
@@ -663,8 +663,8 @@ a:hover, button:hover {
     justify-content: space-between;
     padding: .75rem 1.25rem;
     margin-bottom: -1px;
-    background-color: var(--list-grouped-item-background);
-    border: var(--light-item-border);
+    background-color: var(--list-item-background);
+    border: var(--item-border);
 }
 
 .list-grouped span {
@@ -690,8 +690,8 @@ a:hover, button:hover {
     display: block;
     padding: .75rem 1.25rem;
     margin-bottom: -1px;
-    background-color: var(--list-grouped-item-background);
-    border: var(--light-item-border);
+    background-color: var(--list-item-background);
+    border: var(--item-border);
     width: 450px;
     margin: auto;
     transition: 0.2s;
@@ -717,7 +717,7 @@ a:hover, button:hover {
 
 .link-none__no-padding {
     text-decoration: none;
-    color: var(--light-navigation-bar-link);
+    color: var(--navigation-bar-link);
 }
 
 .link-none__no-padding--light {
@@ -726,7 +726,7 @@ a:hover, button:hover {
 }
 
 .link-none__blue {
-    color: var(--link-none-blue);
+    color: var(--link-font-color);
 }
 
 .link-none__block {
@@ -775,7 +775,7 @@ a:hover, button:hover {
     color: var(--form-input-font-color);
     background-color: var(--bg-color);
     background-clip: padding-box;
-    border: var(--light-item-border);
+    border: var(--item-border);
     transition: 0.2s;
     border-radius: .25rem;
     z-index: 1;
@@ -795,7 +795,7 @@ a:hover, button:hover {
     color: var(--form-input-font-color);
     background-color: var(--bg-color);
     background-clip: padding-box;
-    border: var(--light-item-border);
+    border: var(--item-border);
     transition: 0.2s;
     z-index: 1;
     cursor: pointer;
@@ -853,7 +853,7 @@ a:hover, button:hover {
     text-align: left;
     max-width: 1140px;
     border-radius: .25rem;
-    border: var(--light-item-border);
+    border: var(--item-border);
 }
 
 .table-responsive__no-border {
@@ -894,7 +894,7 @@ a:hover, button:hover {
 
 .table th {
     vertical-align: bottom;
-    border-bottom: 2px solid var(--light-border-bottom);
+    border-bottom: 2px solid var(--table-border-bottom);
     padding: .3rem;
     text-align: inherit;
 }
@@ -902,7 +902,7 @@ a:hover, button:hover {
 .table td {
     padding: .3rem;
     vertical-align: top;
-    border-top: 1px solid var(--light-border-bottom);
+    border-top: 1px solid var(--table-border-bottom);
 }
 
 /**************************/
@@ -975,7 +975,7 @@ input:checked + .toggle-switch__slider:before {
 
 .dropdown-items {
     position: absolute;
-    border: var(--light-item-border);
+    border: var(--item-border);
     border-bottom: none;
     border-top: none;
     z-index: 99;
@@ -988,7 +988,7 @@ input:checked + .toggle-switch__slider:before {
     padding: 10px;
     cursor: pointer;
     background-color: var(--bg-color); 
-    border-bottom: var(--light-item-border); 
+    border-bottom: var(--item-border); 
 }
 
 .dropdown-items div:hover {
@@ -996,7 +996,7 @@ input:checked + .toggle-switch__slider:before {
 }
 
 .dropdown-active {
-    background-color: var(--button-fill-color) !important; 
+    background-color: var(--standard-button) !important; 
     color: var(--bg-color); 
 }
 
@@ -1022,12 +1022,12 @@ ul.breadcrumb li+li:before {
 }
 
 ul.breadcrumb li a {
-    color: var(--link-none-blue);
+    color: var(--link-font-color);
     text-decoration: none;
 }
 
 ul.breadcrumb li a:hover {
-    color: var(--link-none-blue);
+    color: var(--link-font-color);
     text-decoration: underline;
 }
 
@@ -1085,7 +1085,7 @@ ul.breadcrumb li a:hover {
 /*******************************/
 
 .background {
-    background: var(--code-block-font-color);
+    background: var(--code-color);
 }
 
 /***********************/
@@ -1129,24 +1129,25 @@ ul.breadcrumb li a:hover {
 
 :root {
     --scroll-bar: rgba(27, 27, 27, .4);
-    --light-item-border: 1px solid rgba(0, 0, 0, .125);
+    --item-border: 1px solid rgba(0, 0, 0, .125);
     --table-header-background: rgba(0, 0, 0, .08);
-    --light-navigation-bar-background: #343a40;
-    --light-navigation-bar-link: #ffffff80;
-    --list-grouped-item-background: #fff;
-    --page-header-wrapper-a: #12191f;
-    --code-block-font-color: #12191f;
-    --light-background-alt: #e9ecef;
-    --card-business-header: #f0f0ff;
-    --light-border-bottom: #dee2e6;
-    --button-fill-color: #007bff;
-    --light-background: #f5f5f5;
-    --light-font-color: #f0f0ff;
+    --table-border-bottom: #dee2e6;
+    --navigation-bar-background: #343a40;
+    --navigation-bar-link: #ffffff80;
+    --list-item-background: #fff;
+    --code-color: #12191f;
+    --background-alt: #e9ecef;
+    --card-header: #f0f0ff;
+    --border-bottom: #ff412e;
+    --standard-button: #f2506f;
+    --background: #f5f5f5;
+    --font-color: #f0f0ff;
     --list-item-color: #e2e2e2;
     --dark-font-color: #4a4a4a;
-    --link-none-blue: #047bf8;
-    --submit-button: #379959;
-    --light-border: #dbdbdb;
+    /* --link-font-color: #047bf8 */
+    --link-font-color: #f2506f;
+    --confirm-button: #00d1b2;
+    --standard-border: #dbdbdb;
     --dark-header: #363636;
     --grey-border: #ced4da;
     --text-muted: #6c757d;
@@ -1158,24 +1159,23 @@ ul.breadcrumb li a:hover {
 
 [data-theme="dark"] {
     --scroll-bar: rgba(227, 227, 227, .4);
-    --light-item-border: 1px solid hsla(0,0%,100%,.05);
+    --item-border: 1px solid hsla(0,0%,100%,.05);
     --table-header-background: #272727;
-    --light-navigation-bar-background: #272727;
-    --light-navigation-bar-link: #ffffff80;
-    --list-grouped-item-background: #121212;
-    --page-header-wrapper-a: #12191f;
-    --code-block-font-color: #12191f;
-    --light-background-alt: #e9ecef;
-    --card-business-header: #f0f0ff;
-    --light-border-bottom: hsla(0,0%,100%,.05);
-    --button-fill-color: #0053ac;
-    --light-background: #f5f5f5;
-    --light-font-color: #f0f0ff;
+    --navigation-bar-background: #272727;
+    --navigation-bar-link: #ffffff80;
+    --list-item-background: #121212;
+    --code-color: #12191f;
+    --background-alt: #e9ecef;
+    --card-header: #f0f0ff;
+    --border-bottom: hsla(0,0%,100%,.05);
+    --standard-button: #0053ac;
+    --background: #f5f5f5;
+    --font-color: #f0f0ff;
     --list-item-color: #3b3b3b;
     --dark-font-color: #4a4a4a;
-    --link-none-blue: #005fc4;
-    --submit-button: #2b7243;
-    --light-border: #dbdbdb;
+    --link-font-color: #005fc4;
+    --confirm-button: #2b7243;
+    --standard-border: #dbdbdb;
     --dark-header: #363636;
     --grey-border: #ced4da;
     --text-muted: #6c757d;
