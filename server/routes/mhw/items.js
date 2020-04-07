@@ -1,5 +1,5 @@
 const manager = require('../../router');
-const utils = require('../../../util/mapUtil');
+const utils = require('../../../database/libraries/util/mapUtils');
 
 class RouteItems {
   route(data, key) {

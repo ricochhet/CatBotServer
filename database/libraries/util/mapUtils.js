@@ -1,4 +1,4 @@
-const csv = require('../database/libraries/csvToJson');
+const csv = require('../csvToJson');
 const fs = require('fs');
 
 class Manager {
@@ -72,7 +72,7 @@ class Manager {
   }
 
   search(array, prop, value) {
-    let filtered = array.filter(function(item) {
+    let filtered = array.filter(function (item) {
       return item[prop] == value;
     });
 
@@ -80,7 +80,7 @@ class Manager {
   }
 
   advancedSearch(array, prop, newProp, value, newValue) {
-    let filtered = array.filter(function(item) {
+    let filtered = array.filter(function (item) {
       return item[prop] == value && item[newProp] == newValue;
     });
 
