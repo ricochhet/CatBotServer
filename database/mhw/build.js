@@ -16,17 +16,486 @@ class Build {
     return response.json();
   }
 
-  async weapons(
-    writeTo,
-    advanced,
-    extended = './src/json/weapons/weapons.json'
-  ) {
-    const weaponsDatabase = require(extended);
-    const weaponsDatabaseIterator = [];
-    for (const i of Object.keys(weaponsDatabase)) {
-      weaponsDatabaseIterator.push(weaponsDatabase[i]);
+  async weapons(writeTo, advanced, dir) {
+    const weapon_base = require(`${dir}/weapons/weapon_base.json`);
+    const weapon_ammo = require(`${dir}/weapons/weapon_ammo.json`);
+    const weapon_bow_ext = require(`${dir}/weapons/weapon_bow_ext.json`);
+    const weapon_craft = require(`${dir}/weapons/weapon_craft.json`);
+    const weapon_sharpness = require(`${dir}/weapons/weapon_sharpness.json`);
+
+    let weapon_base_map = new Map();
+    for (const i of Object.keys(weapon_base)) {
+      weapon_base_map.set(weapon_base[i].name_en, weapon_base[i]);
     }
+
+    let weapon_ammo_map = new Map();
+    for (const i of Object.keys(weapon_ammo)) {
+      weapon_ammo_map.set(weapon_ammo[i].key, weapon_ammo[i]);
+    }
+
+    let weapon_bow_ext_map = new Map();
+    for (const i of Object.keys(weapon_bow_ext)) {
+      weapon_bow_ext_map.set(weapon_bow_ext[i].base_name_en, weapon_bow_ext[i]);
+    }
+
+    let weapon_craft_map = new Map();
+    for (const i of Object.keys(weapon_craft)) {
+      weapon_craft_map.set(weapon_craft[i].base_name_en, weapon_craft[i]);
+    }
+
+    let weapon_sharpness_map = new Map();
+    for (const i of Object.keys(weapon_sharpness)) {
+      weapon_sharpness_map.set(
+        weapon_sharpness[i].base_name_en,
+        weapon_sharpness[i]
+      );
+    }
+
+    let obj = {};
+    for (const [k, v] of weapon_base_map) {
+      const base = weapon_base_map.get(k);
+
+      let coatings = [];
+      let sharpness = null;
+      let affinity = null;
+      let defense = null;
+      let shelling = null;
+      let crafting = null;
+      let phials = null;
+      let elements_array = [];
+      let slots_array = [];
+      let ammos_array = [];
+      let specialAmmo = null;
+      let deviation = null;
+
+      if (weapon_craft_map.has(k)) {
+        const craft = weapon_craft_map.get(k);
+
+        let crafting_array = [];
+        crafting = {
+          type: craft.type,
+          materials: crafting_array
+        };
+
+        if (craft.item1_name != 0) {
+          let obj = {
+            name: craft.item1_name,
+            quantity: craft.item1_qty
+          };
+
+          crafting_array.push(obj);
+        }
+
+        if (craft.item2_name != 0) {
+          let obj = {
+            name: craft.item2_name,
+            quantity: craft.item2_qty
+          };
+
+          crafting_array.push(obj);
+        }
+
+        if (craft.item3_name != 0) {
+          let obj = {
+            name: craft.item3_name,
+            quantity: craft.item3_qty
+          };
+
+          crafting_array.push(obj);
+        }
+
+        if (craft.item4_name != 0) {
+          let obj = {
+            name: craft.item4_name,
+            quantity: craft.item4_qty
+          };
+
+          crafting_array.push(obj);
+        }
+      }
+
+      if (weapon_bow_ext_map.has(k)) {
+        const base = weapon_bow_ext_map.get(k);
+        if (base.close == 'TRUE') {
+          coatings.push('Close Range');
+        }
+
+        if (base.power == 'TRUE') {
+          coatings.push('Power');
+        }
+
+        if (base.paralysis == 'TRUE') {
+          coatings.push('Paralysis');
+        }
+
+        if (base.poison == 'TRUE') {
+          coatings.push('Poison');
+        }
+
+        if (base.sleep == 'TRUE') {
+          coatings.push('Sleep');
+        }
+
+        if (base.blast == 'TRUE') {
+          coatings.push('Blast');
+        }
+      }
+
+      if (base.affinity != 0) {
+        affinity = base.affinity;
+      }
+
+      if (base.defense != 0) {
+        defense = base.defense;
+      }
+
+      if (base.element1 != 0) {
+        let obj = {
+          type: base.element1,
+          damage: base.element1_attack,
+          hidden: base.element_hidden
+        };
+
+        elements_array.push(obj);
+      }
+
+      if (base.element2 != 0) {
+        let obj = {
+          type: base.element2,
+          damage: base.element2_attack,
+          hidden: base.element_hidden
+        };
+
+        elements_array.push(obj);
+      }
+
+      if (base.slot_1 != 0) {
+        let obj = {
+          rank: base.slot_1
+        };
+
+        slots_array.push(obj);
+      }
+
+      if (base.slot_2 != 0) {
+        let obj = {
+          rank: base.slot_2
+        };
+
+        slots_array.push(obj);
+      }
+
+      if (base.slot_3 != 0) {
+        let obj = {
+          rank: base.slot_3
+        };
+
+        slots_array.push(obj);
+      }
+
+      if (base.shelling != 0) {
+        shelling = {
+          type: base.shelling,
+          level: base.shelling_level
+        };
+      }
+
+      if (base.phial != 0) {
+        phials = {
+          type: base.phial,
+          damage: base.phial_power
+        };
+      }
+
+      if (base.ammo_config != 0) {
+        const config = weapon_ammo_map.get(base.ammo_config);
+        specialAmmo = config.special;
+        deviation = config.deviation;
+
+        let normal_ammo = {
+          type: 'normal',
+          capacities: [
+            config.normal1_clip,
+            config.normal2_clip,
+            config.normal3_clip
+          ]
+        };
+
+        let pierce_ammo = {
+          type: 'pierce',
+          capacities: [
+            config.pierce1_clip,
+            config.pierce2_clip,
+            config.pierce3_clip
+          ]
+        };
+
+        let spread_ammo = {
+          type: 'spread',
+          capacities: [
+            config.spread1_clip,
+            config.spread2_clip,
+            config.spread3_clip
+          ]
+        };
+
+        let sticky_ammo = {
+          type: 'sticky',
+          capacities: [
+            config.sticky1_clip,
+            config.sticky2_clip,
+            config.sticky3_clip
+          ]
+        };
+
+        let cluster_ammo = {
+          type: 'cluster',
+          capacities: [
+            config.cluster1_clip,
+            config.cluster2_clip,
+            config.cluster3_clip
+          ]
+        };
+
+        let recover_ammo = {
+          type: 'recover',
+          capacities: [config.recover1_clip, config.recover2_clip]
+        };
+
+        let poison_ammo = {
+          type: 'poison',
+          capacities: [config.poison1_clip, config.poison2_clip]
+        };
+
+        let paralysis_ammo = {
+          type: 'paralysis',
+          capacities: [config.paralysis1_clip, config.paralysis2_clip]
+        };
+
+        let sleep_ammo = {
+          type: 'sleep',
+          capacities: [config.sleep1_clip, config.sleep2_clip]
+        };
+
+        let exhaust_ammo = {
+          type: 'exhaust',
+          capacities: [config.exhaust1_clip, config.exhaust2_clip]
+        };
+
+        let flaming_ammo = {
+          type: 'flaming',
+          capacities: [config.flaming_clip]
+        };
+
+        let water_ammo = {
+          type: 'water',
+          capacities: [config.water_clip]
+        };
+
+        let freeze_ammo = {
+          type: 'freeze',
+          capacities: [config.freeze_clip]
+        };
+
+        let thunder_ammo = {
+          type: 'thunder',
+          capacities: [config.thunder_clip]
+        };
+
+        let dragon_ammo = {
+          type: 'dragon',
+          capacities: [config.dragon_clip]
+        };
+
+        let slicing_ammo = {
+          type: 'slicing',
+          capacities: [config.slicing_clip]
+        };
+
+        let wyvern_ammo = {
+          type: 'wyvern',
+          capacities: [config.wyvern_clip]
+        };
+
+        let demon_ammo = {
+          type: 'demon',
+          capacities: [config.demon_clip]
+        };
+
+        let armor_ammo = {
+          type: 'armor',
+          capacities: [config.armor_clip]
+        };
+
+        let tranq_ammo = {
+          type: 'tranq',
+          capacities: [config.tranq_clip]
+        };
+
+        if (
+          normal_ammo.capacities[0] != 0 ||
+          normal_ammo.capacities[1] != 0 ||
+          normal_ammo.capacities[2] != 0
+        ) {
+          ammos_array.push(normal_ammo);
+        }
+
+        if (
+          pierce_ammo.capacities[0] != 0 ||
+          pierce_ammo.capacities[1] != 0 ||
+          pierce_ammo.capacities[2] != 0
+        ) {
+          ammos_array.push(pierce_ammo);
+        }
+
+        if (
+          spread_ammo.capacities[0] != 0 ||
+          spread_ammo.capacities[1] != 0 ||
+          spread_ammo.capacities[2] != 0
+        ) {
+          ammos_array.push(spread_ammo);
+        }
+
+        if (
+          sticky_ammo.capacities[0] != 0 ||
+          sticky_ammo.capacities[1] != 0 ||
+          sticky_ammo.capacities[2] != 0
+        ) {
+          ammos_array.push(sticky_ammo);
+        }
+
+        if (
+          cluster_ammo.capacities[0] != 0 ||
+          cluster_ammo.capacities[1] != 0 ||
+          cluster_ammo.capacities[2] != 0
+        ) {
+          ammos_array.push(cluster_ammo);
+        }
+
+        if (
+          recover_ammo.capacities[0] != 0 ||
+          recover_ammo.capacities[1] != 0
+        ) {
+          ammos_array.push(recover_ammo);
+        }
+
+        if (poison_ammo.capacities[0] != 0 || poison_ammo.capacities[1] != 0) {
+          ammos_array.push(poison_ammo);
+        }
+
+        if (
+          paralysis_ammo.capacities[0] != 0 ||
+          paralysis_ammo.capacities[1] != 0
+        ) {
+          ammos_array.push(paralysis_ammo);
+        }
+
+        if (sleep_ammo.capacities[0] != 0 || sleep_ammo.capacities[1] != 0) {
+          ammos_array.push(sleep_ammo);
+        }
+
+        if (
+          exhaust_ammo.capacities[0] != 0 ||
+          exhaust_ammo.capacities[1] != 0
+        ) {
+          ammos_array.push(exhaust_ammo);
+        }
+
+        if (flaming_ammo.capacities[0] != 0) {
+          ammos_array.push(flaming_ammo);
+        }
+
+        if (water_ammo.capacities[0] != 0) {
+          ammos_array.push(water_ammo);
+        }
+
+        if (freeze_ammo.capacities[0] != 0) {
+          ammos_array.push(freeze_ammo);
+        }
+
+        if (thunder_ammo.capacities[0] != 0) {
+          ammos_array.push(thunder_ammo);
+        }
+
+        if (dragon_ammo.capacities[0] != 0) {
+          ammos_array.push(dragon_ammo);
+        }
+
+        if (slicing_ammo.capacities[0] != 0) {
+          ammos_array.push(slicing_ammo);
+        }
+
+        if (wyvern_ammo.capacities[0] != 0) {
+          ammos_array.push(wyvern_ammo);
+        }
+
+        if (demon_ammo.capacities[0] != 0) {
+          ammos_array.push(demon_ammo);
+        }
+
+        if (armor_ammo.capacities[0] != 0) {
+          ammos_array.push(armor_ammo);
+        }
+
+        if (tranq_ammo.capacities[0] != 0) {
+          ammos_array.push(tranq_ammo);
+        }
+      }
+
+      if (weapon_sharpness_map.has(k)) {
+        const sharp = weapon_sharpness_map.get(k);
+        sharpness = {
+          maxed: sharp.maxed,
+          red: sharp.red,
+          orange: sharp.orange,
+          yellow: sharp.yellow,
+          green: sharp.green,
+          blue: sharp.blue,
+          white: sharp.white,
+          purple: sharp.purple
+        };
+      }
+
+      let kinsect_bonus = null;
+      if (base.kinsect_bonus != 0) {
+        kinsect_bonus = base.kinsect_bonus;
+      }
+
+      let elderseal = null;
+      if (base.elderseal != 0) {
+        elderseal = base.elderseal;
+      }
+
+      obj[k.split(`\"`).join('').toLowerCase().replace(/ /g, '')] = {
+        id: base.id,
+        name: base.name_en.split(`\"`).join(''),
+        shelling: shelling,
+        phials: phials,
+        slots: slots_array,
+        elements: elements_array,
+        type: base.weapon_type,
+        durability: sharpness,
+        rarity: base.rarity,
+        attack: base.attack,
+        elderseal: elderseal,
+        affinity: affinity,
+        defense: defense,
+        coatings: coatings,
+        kinsect_bonus: kinsect_bonus,
+        crafting: crafting,
+        ammos: ammos_array,
+        special_ammo: specialAmmo,
+        deviation: deviation
+      };
+    }
+
+    const weaponsDatabaseIterator = [];
+    for (const i of Object.keys(obj)) {
+      weaponsDatabaseIterator.push(obj[i]);
+    }
+
     const db = {};
+
     for (let key of weaponsDatabaseIterator) {
       let affinity = '-';
       if (key.affinity) {
@@ -707,31 +1176,15 @@ class Build {
     utils.writeFile(writeTo, db);
   }
 
-  async items(writeTo, extended = './src/json/items/items.json') {
+  async items(writeTo) {
     const itemsAPIDatabase = await this.getData(itemsURL);
-    const itemsData = require(extended);
-
     const db = {};
-
-    const itemsDataMap = new Map();
-    for (const i of Object.keys(itemsData)) {
-      itemsDataMap.set(itemsData[i].name, itemsData[i]);
-    }
-
     for (let key of itemsAPIDatabase) {
-      let buyPrice = 0;
-
-      if (itemsDataMap.has(key.name)) {
-        const item = itemsDataMap.get(key.name);
-        buyPrice = item.buy_price;
-      }
-
       db[key.name.toLowerCase().replace(/ /g, '')] = {
         name: key.name,
         description: key.description.replace(/\n/g, ' '),
         rarity: key.rarity,
         carryLimit: key.carryLimit,
-        buy: buyPrice,
         value: key.value
       };
     }

@@ -7,7 +7,7 @@ class Generate:
     self.generateHitzoneData()
 
   def generateEnrageData(self):
-    with open('database/mhw/src/source_tables/enrage.tsv', 'r', encoding="utf8") as f:
+    with open('database/mhw/src/tables/enrage.tsv', 'r', encoding="utf8") as f:
       openFile = f.read()
 
     openFile = openFile.split('\n')
@@ -73,7 +73,7 @@ class Generate:
         json.dump(monsters, outfile, ensure_ascii=False, indent=4)
 
   def generateHitzoneData(self):
-    with open('database/mhw/src/source_tables/hitzones.tsv', 'r', encoding="utf8") as f:
+    with open('database/mhw/src/tables/hitzones.tsv', 'r', encoding="utf8") as f:
       openFile = f.read()
 
     openFile = openFile.split('\n')

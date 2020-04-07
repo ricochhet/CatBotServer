@@ -40,7 +40,6 @@ class RouteItems {
               ITEM_DESCRIPTION: item.description,
               ITEM_RARITY: item.rarity,
               ITEM_CARRYLIMIT: item.carryLimit,
-              ITEM_BUY: item.buy,
               ITEM_VALUE: item.value,
               MHW_OBJECTS: data.objects,
               MHW_DECO_ARRAY: data.decoration_names,
