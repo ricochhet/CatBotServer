@@ -1,4 +1,5 @@
 const cmd = require('../libraries/commandUtils');
+const child_process = require('child_process').spawn;
 
 const Merge = require('./merge');
 const merge = new Merge('./src/source_json');
@@ -6,7 +7,6 @@ const merge = new Merge('./src/source_json');
 const utils = require('../../util/mapUtil');
 const build = require('./build');
 
-// Input --convert as an arg into the cmd line to bulk convert all supplied csvs
 cmd.command(['--convert'], function () {
   utils.bulkConvertCSVs([
     {
@@ -48,7 +48,6 @@ cmd.command(['--convert'], function () {
   ]);
 });
 
-// Build the inital data and write to supplied path
 cmd.command(['--merge'], function () {
   merge.armorPieces('./database/mhw/src/json/armors/armor_pieces.json');
   merge.charms('./database/mhw/src/json/charms/charms.json');
@@ -61,7 +60,6 @@ cmd.command(['--merge'], function () {
   merge.weapons('./database/mhw/src/json/weapons/weapons.json');
 });
 
-// Updates certain jsons that rely on others
 cmd.command(['--merge-fix'], function () {
   merge.armors(
     './database/mhw/src/json/armors/armor_sets.json',
@@ -73,36 +71,20 @@ cmd.command(['--merge-fix'], function () {
   );
 });
 
-// Creates the full version of the JSONs
-cmd.command(['--build-api'], function () {
-  build.items(
-    './database/mhw/build/api/item_info.json',
-    './src/json/items/items.json'
-  );
-  build.armors('./database/mhw/build/api/armor_info.json', true);
-  build.armorPieces('./database/mhw/build/api/armor_piece_info.json', true);
-  build.decorations('./database/mhw/build/api/decoration_info.json', true);
-  build.skills('./database/mhw/build/api/skill_info.json', true);
-  build.weapons(
-    './database/mhw/build/api/weapon_info.json',
-    true,
-    './src/json/weapons/weapons.json'
-  );
-});
+cmd.command(['--build'], function () {
+  child_process('python', ['./database/mhw/main.py']);
 
-// Creates a minified, minimal use JSONs
-cmd.command(['--build-bot'], function () {
   build.items(
-    './database/mhw/build/bot/item_info.json',
+    './database/mhw/build/item_info.json',
     './src/json/items/items.json'
   );
-  build.armors('./database/mhw/build/bot/armor_info.json', false);
-  build.armorPieces('./database/mhw/build/bot/armor_piece_info.json', false);
-  build.decorations('./database/mhw/build/bot/decoration_info.json', false);
-  build.skills('./database/mhw/build/bot/skill_info.json', false);
+  build.armors('./database/mhw/build/armor_info.json', true);
+  build.armorPieces('./database/mhw/build/armor_piece_info.json', true);
+  build.decorations('./database/mhw/build/decoration_info.json', true);
+  build.skills('./database/mhw/build/skill_info.json', true);
   build.weapons(
-    './database/mhw/build/bot/weapon_info.json',
-    false,
+    './database/mhw/build/weapon_info.json',
+    true,
     './src/json/weapons/weapons.json'
   );
 });

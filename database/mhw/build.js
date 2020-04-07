@@ -3,7 +3,6 @@ const fetch = require('node-fetch');
 const utils = require('../../util/mapUtil');
 const csv = require('../libraries/csvToJson');
 
-// Base URls used to retrieve data via the API
 const itemsURL = `https://mhw-db.com/items`;
 const armorsURL = `https://mhw-db.com/armor/sets`;
 const decorationsURL = `https://mhw-db.com/decorations`;
@@ -12,30 +11,11 @@ const weaponsURL = `https://mhw-db.com/weapons`;
 const armorPiecesURL = `https://mhw-db.com/armor`;
 
 class Build {
-  // Async & await fetching data from the url
   async getData(url) {
     const response = await fetch(url);
     return response.json();
   }
 
-  // TODO: remove, this is redundant and is handled in utils
-  async buildJSON(
-    data = { delim: `,`, input: 'file.csv', output: 'file.json' },
-    advanced
-  ) {
-    if (!advanced) {
-      csv.fieldDelimiter(data.delim).getJsonFromCsv(data.input);
-      csv.formatValueByType().getJsonFromCsv(data.input);
-      csv.generateJsonFileFromCsv(data.input, data.output);
-    } else {
-      csv.fieldDelimiter(data.delim).getJsonFromCsv(data.input);
-      csv.formatValueByType().getJsonFromCsv(data.input);
-      csv.generateJsonFileFromCsv(data.input, data.output);
-    }
-  }
-
-  // Creates an object and then writes that object to a specified file
-  // Current build of weapons, doesn't rely on node-fetch as it takes from the generated json via the parser
   async weapons(
     writeTo,
     advanced,
@@ -335,8 +315,6 @@ class Build {
     utils.writeFile(writeTo, db);
   }
 
-  // Creates an object and then writes that object to a specified file
-  // This is considered ~legacy~ but is kept around in case of data being different compared to the two
   async weaponsApi(writeTo, advanced) {
     const weaponsAPIDatabase = await this.getData(weaponsURL);
     const db = {};
@@ -729,7 +707,6 @@ class Build {
     utils.writeFile(writeTo, db);
   }
 
-  // Creates an object and then writes that object to a specified file
   async items(writeTo, extended = './src/json/items/items.json') {
     const itemsAPIDatabase = await this.getData(itemsURL);
     const itemsData = require(extended);
@@ -812,7 +789,6 @@ class Build {
     utils.writeFile(writeTo, db);
   }
 
-  // Creates an object and then writes that object to a specified file
   async skills(writeTo, advanced) {
     const skillAPIDatabase = await this.getData(skillsURL);
     const db = {};
@@ -844,7 +820,6 @@ class Build {
     utils.writeFile(writeTo, db);
   }
 
-  // Creates an object and then writes that object to a specified file
   async armors(writeTo, advanced) {
     const armorsAPIDatabase = await this.getData(armorsURL);
     const db = {};
@@ -1025,7 +1000,6 @@ class Build {
     utils.writeFile(writeTo, db);
   }
 
-  // Creates an object and then writes that object to a specified file
   async armorPieces(writeTo, advanced) {
     const armorsAPIDatabase = await this.getData(armorPiecesURL);
     const db = {};

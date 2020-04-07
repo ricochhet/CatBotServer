@@ -2,7 +2,7 @@ class Struct {
   setup(utils) {
     this.utils = utils;
     this.monster_map = utils.buildMap(
-      './database/mhw/build/def/monster_info.json',
+      './database/mhw/build/monster_info.json',
       {
         extended: true,
         extraProp: true
@@ -11,22 +11,20 @@ class Struct {
       'details'
     );
     this.monster_hitzone_map = utils.buildMap(
-      './database/mhw/build/def/hitzone_data.json'
+      './database/mhw/build/hitzone_data.json'
     );
 
     this.monster_enrage_map = utils.buildMap(
-      './database/mhw/build/def/enrage_data.json'
+      './database/mhw/build/enrage_data.json'
     );
 
-    this.item_map = utils.buildMap('./database/mhw/build/api/item_info.json');
-    this.armor_map = utils.buildMap('./database/mhw/build/api/armor_info.json');
-    this.weapon_map = utils.buildMap(
-      './database/mhw/build/api/weapon_info.json'
-    );
+    this.item_map = utils.buildMap('./database/mhw/build/item_info.json');
+    this.armor_map = utils.buildMap('./database/mhw/build/armor_info.json');
+    this.weapon_map = utils.buildMap('./database/mhw/build/weapon_info.json');
     this.decoration_map = utils.buildMap(
-      './database/mhw/build/api/decoration_info.json'
+      './database/mhw/build/decoration_info.json'
     );
-    this.skill_map = utils.buildMap('./database/mhw/build/api/skill_info.json');
+    this.skill_map = utils.buildMap('./database/mhw/build/skill_info.json');
 
     this.monster_names = utils.buildArray(this.monster_map.map, 'title');
     this.weapon_names = utils.buildArray(this.weapon_map.map, 'name');

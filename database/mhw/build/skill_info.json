@@ -1112,6 +1112,14 @@
       {
         "level": 5,
         "description": "While active, increases attack power by 15% and increases defense by 100 points."
+      },
+      {
+        "level": 6,
+        "description": "While active, increases attack power by 25% and increases defense by 150 points."
+      },
+      {
+        "level": 7,
+        "description": "While active, increases attack power by 40% and increases defense by 150 points."
       }
     ]
   },
@@ -2648,6 +2656,26 @@
       {
         "level": 1,
         "description": "Raises the maximum level of the Heroics skill."
+      }
+    ]
+  },
+  "fullbloom'sgift": {
+    "name": "Full Bloom's Gift",
+    "description": "Increases odds of getting special Full Bloom rewards.",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Increases odds of getting special Full Bloom rewards."
+      }
+    ]
+  },
+  "fullbloom'sgratitude": {
+    "name": "Full Bloom's Gratitude",
+    "description": "Greatly increases odds of getting special Full Bloom rewards.",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Greatly increases odds of getting special Full Bloom rewards."
       }
     ]
   }

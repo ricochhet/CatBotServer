@@ -68739,5 +68739,172 @@
       }
     ],
     "crafting": "-"
+  },
+  "roseheadplacealpha+": {
+    "name": "Rose Headplace Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "head",
+    "defenses": {
+      "base": 150,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Fortify",
+        "level": 1,
+        "description": "Increases attack by 10% and defense by 15% with each use."
+      }
+    ],
+    "crafting": "-"
+  },
+  "rosejacketalpha+": {
+    "name": "Rose Jacket Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "chest",
+    "defenses": {
+      "base": 150,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 3,
+        "description": "Attack +9"
+      }
+    ],
+    "crafting": "-"
+  },
+  "rosearmsalpha+": {
+    "name": "Rose Arms Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "gloves",
+    "defenses": {
+      "base": 150,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Tool Specialist",
+        "level": 3,
+        "description": "Shortens time until reuse by 30%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "rosebeltalpha+": {
+    "name": "Rose Belt Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "waist",
+    "defenses": {
+      "base": 150,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Resentment",
+        "level": 3,
+        "description": "While active, grants attack +15."
+      }
+    ],
+    "crafting": "-"
+  },
+  "rosebootsalpha+": {
+    "name": "Rose Boots Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "legs",
+    "defenses": {
+      "base": 150,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 1,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Partbreaker",
+        "level": 2,
+        "description": "Part damage +20%"
+      }
+    ],
+    "crafting": "-"
   }
 }

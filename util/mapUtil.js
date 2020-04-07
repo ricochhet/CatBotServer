@@ -87,7 +87,7 @@ class Manager {
     return filtered;
   }
 
-  bulkConvertCSVs(bulkData = [{ input: '', output: '' }]) {
+  bulkConvertCSVs(bulkData = [{ input: '', output: '', delim: ',' }]) {
     for (const i in bulkData) {
       fs.readdir(bulkData[i].input, (err, files) => {
         if (err) return console.error(err);
@@ -96,7 +96,7 @@ class Manager {
           if (!file.endsWith('.csv')) return;
 
           this.write({
-            delim: ',',
+            delim: bulkData[i].delim,
             input: `${bulkData[i].input}/${file}`,
             output: `${bulkData[i].output}/${name}.json`
           });

@@ -35107,5 +35107,120 @@
         "rank": 1
       }
     ]
+  },
+  "rosealpha+": {
+    "name": "Rose Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Full Bloom Blessing",
+        "description": "Increases odds of getting special Full Bloom rewards.",
+        "pieces": 3
+      },
+      {
+        "name": "Full Bloom Blessing",
+        "description": "Greatly increases odds of getting special Full Bloom rewards.",
+        "pieces": 5
+      }
+    ],
+    "defenses": {
+      "base": 750,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 20,
+      "water": 5,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 5
+    },
+    "pieces": [
+      {
+        "name": "Rose Headplace Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Rose Jacket Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Rose Arms Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Rose Belt Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Rose Boots Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Rose Headplace Alpha +",
+        "name": "Fortify",
+        "rank": 1
+      },
+      {
+        "piece": "Rose Jacket Alpha +",
+        "name": "Attack Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Rose Arms Alpha +",
+        "name": "Tool Specialist",
+        "rank": 3
+      },
+      {
+        "piece": "Rose Belt Alpha +",
+        "name": "Resentment",
+        "rank": 3
+      },
+      {
+        "piece": "Rose Boots Alpha +",
+        "name": "Partbreaker",
+        "rank": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "Rose Headplace Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Rose Headplace Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Rose Headplace Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Rose Jacket Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Rose Arms Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Rose Belt Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Rose Belt Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Rose Boots Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Rose Boots Alpha +",
+        "rank": 1
+      }
+    ]
   }
 }
