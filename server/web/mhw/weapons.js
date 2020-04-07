@@ -1,5 +1,5 @@
-const manager = require('../../router');
-const utils = require('../../../database/libraries/util/mapUtils');
+const manager = require('../../../util/routeUtils');
+const utils = require('../../../util/mapUtils');
 
 class RouteWeapons {
   route(data, key) {

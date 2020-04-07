@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const utils = require('../libraries/util/mapUtils');
+const utils = require('../../util/mapUtils');
 const itemsURL = `https://mhw-db.com/items`;
 const armorsURL = `https://mhw-db.com/armor/sets`;
 const decorationsURL = `https://mhw-db.com/decorations`;

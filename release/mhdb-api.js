@@ -10,6 +10,7 @@ class API {
       'armors',
       'decorations',
       'items',
+      'monsters',
       'skills',
       'weapons'
     ];

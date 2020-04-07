@@ -1,6 +1,6 @@
-const cmd = require('../libraries/commandUtils');
+const cmd = require('../../util/commandUtils');
 const child_process = require('child_process').spawn;
-const utils = require('../libraries/util/mapUtils');
+const utils = require('../../util/mapUtils');
 const build = require('./build');
 cmd.command(['--convert'], function () {
   utils.bulkConvertCSVs([

@@ -1,16 +1,16 @@
-const manager = require('./router');
-const api = require('./api/mhw/api');
+const manager = require('../util/routeUtils');
+const api = require('./api/mhw/router');
 const config = require('./config.json');
 
-const mhw_struct = require('./api/mhw/struct');
-mhw_struct.setup(require('../database/libraries/util/mapUtils'));
+const mhw_struct = require('./api/mhw/data');
+mhw_struct.setup(require('../util/mapUtils'));
 
-const routeDecorations = require('./routes/mhw/decorations');
-const routeMonsters = require('./routes/mhw/monsters');
-const routeWeapons = require('./routes/mhw/weapons');
-const routeSkills = require('./routes/mhw/skills');
-const routeArmors = require('./routes/mhw/armors');
-const routeItems = require('./routes/mhw/items');
+const routeDecorations = require('./web/mhw/decorations');
+const routeMonsters = require('./web/mhw/monsters');
+const routeWeapons = require('./web/mhw/weapons');
+const routeSkills = require('./web/mhw/skills');
+const routeArmors = require('./web/mhw/armors');
+const routeItems = require('./web/mhw/items');
 
 class Webserver {
   run(port, opts = { handleErrors: true }) {

@@ -1,4 +1,4 @@
-const csv = require('../csvToJson');
+const csv = require('./csvToJson');
 const fs = require('fs');
 
 class Manager {
