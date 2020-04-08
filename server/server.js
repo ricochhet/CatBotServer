@@ -1,6 +1,6 @@
 const manager = require('../util/routeUtils');
 const api = require('./api/mhw/router');
-const config = require('./config.json');
+const config = require('../config.json');
 
 const mhw_struct = require('./api/mhw/data');
 mhw_struct.setup(require('../util/mapUtils'));
@@ -12,7 +12,7 @@ const routeSkills = require('./web/mhw/skills');
 const routeArmors = require('./web/mhw/armors');
 const routeItems = require('./web/mhw/items');
 
-class Webserver {
+class Server {
   run(port, opts = { handleErrors: true }) {
     manager.makeRouter(port, 'public');
 
@@ -31,19 +31,19 @@ class Webserver {
     api.manager = manager;
     api.config = config;
 
-    api.route_armors();
-    api.route_decorations();
-    api.route_items();
-    api.route_monsters();
-    api.route_skills();
-    api.route_weapons();
+    api.armors();
+    api.decorations();
+    api.items();
+    api.monsters();
+    api.skills();
+    api.weapons();
 
-    routeArmors.route(mhw_struct.data, config.api_key);
-    routeDecorations.route(mhw_struct.data, config.api_key);
-    routeItems.route(mhw_struct.data, config.api_key);
-    routeMonsters.route(mhw_struct.data, config.api_key);
-    routeSkills.route(mhw_struct.data, config.api_key);
-    routeWeapons.route(mhw_struct.data, config.api_key);
+    routeArmors.route(mhw_struct.data, config['api']['token']);
+    routeDecorations.route(mhw_struct.data, config['api']['token']);
+    routeItems.route(mhw_struct.data, config['api']['token']);
+    routeMonsters.route(mhw_struct.data, config['api']['token']);
+    routeSkills.route(mhw_struct.data, config['api']['token']);
+    routeWeapons.route(mhw_struct.data, config['api']['token']);
 
     if (opts.handleErrors) {
       manager.handleErrors();
@@ -51,4 +51,7 @@ class Webserver {
   }
 }
 
-module.exports = Webserver;
+const server = new Server();
+server.run(config['server']['port'], {
+  handleErrors: config['server']['handle_errors']
+});

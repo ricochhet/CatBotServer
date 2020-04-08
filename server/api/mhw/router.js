@@ -6,10 +6,10 @@ class API {
     this.config = config;
   }
 
-  route_armors() {
+  armors() {
     const self = this;
     this.manager.addRoute('/api/mhw/armors', '', function (render, req, res) {
-      if (req.query.key == self.config['api_key']) {
+      if (req.query.key == self.config['api']['token']) {
         res.json(data.armor_map.raw);
       } else {
         res.json({ error: '403 Unauthorized' });
@@ -17,14 +17,14 @@ class API {
     });
   }
 
-  route_decorations() {
+  decorations() {
     const self = this;
     this.manager.addRoute('/api/mhw/decorations', '', function (
       render,
       req,
       res
     ) {
-      if (req.query.key == self.config['api_key']) {
+      if (req.query.key == self.config['api']['token']) {
         res.json(data.decoration_map.raw);
       } else {
         res.json({ error: '403 Unauthorized' });
@@ -32,10 +32,10 @@ class API {
     });
   }
 
-  route_items() {
+  items() {
     const self = this;
     this.manager.addRoute('/api/mhw/items', '', function (render, req, res) {
-      if (req.query.key == self.config['api_key']) {
+      if (req.query.key == self.config['api']['token']) {
         res.json(data.item_map.raw);
       } else {
         res.json({ error: '403 Unauthorized' });
@@ -43,10 +43,10 @@ class API {
     });
   }
 
-  route_monsters() {
+  monsters() {
     const self = this;
     this.manager.addRoute('/api/mhw/monsters', '', function (render, req, res) {
-      if (req.query.key == self.config['api_key']) {
+      if (req.query.key == self.config['api']['token']) {
         let array = [];
         for (const i in data.monster_map.raw) {
           if (
@@ -98,10 +98,10 @@ class API {
     });
   }
 
-  route_skills() {
+  skills() {
     const self = this;
     this.manager.addRoute('/api/mhw/skills', '', function (render, req, res) {
-      if (req.query.key == self.config['api_key']) {
+      if (req.query.key == self.config['api']['token']) {
         res.json(data.skill_map.raw);
       } else {
         res.json({ error: '403 Unauthorized' });
@@ -109,10 +109,10 @@ class API {
     });
   }
 
-  route_weapons() {
+  weapons() {
     const self = this;
     this.manager.addRoute('/api/mhw/weapons', '', function (render, req, res) {
-      if (req.query.key == self.config['api_key']) {
+      if (req.query.key == self.config['api']['token']) {
         res.json(data.weapon_map.raw);
       } else {
         res.json({ error: '403 Unauthorized' });
