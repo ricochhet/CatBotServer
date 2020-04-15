@@ -1,9 +1,13 @@
 const manager = require('../util/routeUtils');
-const api = require('./api/mhw/router');
+const mhw_api = require('./api/mhw/router');
+const mhgu_api = require('./api/mhgu/router');
 const config = require('../config.json');
 
 const mhw_struct = require('./api/mhw/data');
 mhw_struct.setup(require('../util/mapUtils'));
+
+const mhgu_struct = require('./api/mhgu/data');
+mhgu_struct.setup(require('../util/mapUtils'));
 
 const routeDecorations = require('./web/mhw/decorations');
 const routeMonsters = require('./web/mhw/monsters');
@@ -28,15 +32,21 @@ class Server {
       });
     });
 
-    api.manager = manager;
-    api.config = config;
+    mhw_api.manager = manager;
+    mhw_api.config = config;
 
-    api.armors();
-    api.decorations();
-    api.items();
-    api.monsters();
-    api.skills();
-    api.weapons();
+    mhgu_api.manager = manager;
+    mhgu_api.config = config;
+
+    mhw_api.armors();
+    mhw_api.decorations();
+    mhw_api.items();
+    mhw_api.monsters();
+    mhw_api.skills();
+    mhw_api.weapons();
+
+    mhgu_api.monsters();
+    mhgu_api.weapons();
 
     routeArmors.route(mhw_struct.data, config['api']['token']);
     routeDecorations.route(mhw_struct.data, config['api']['token']);
