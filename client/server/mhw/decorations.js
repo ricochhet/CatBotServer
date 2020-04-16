@@ -1,16 +1,16 @@
-const manager = require('../../../util/routeUtils');
-const utils = require('../../../util/mapUtils');
+const routeUtils = require('../../../util/routeUtils');
+const mapUtils = require('../../../util/mapUtils');
 
 class RouteDecorations {
   route(url, data, key) {
-    manager
+    routeUtils
       .fetch(`${url}?key=${key}`)
       .then(function(r) {
-        const map = utils.buildMap(r, {
+        const map = mapUtils.buildMap(r, {
           raw: true
         }).map;
 
-        manager.addRoute(
+        routeUtils.addRoute(
           '/mhw/decorations',
           'pages/mhw/decoration_list.ejs',
           function(render, req, res) {
@@ -27,7 +27,7 @@ class RouteDecorations {
           }
         );
 
-        manager.addRoute(
+        routeUtils.addRoute(
           '/mhw/decorations/:id',
           'pages/mhw/decoration_info.ejs',
           function(render, req, res) {

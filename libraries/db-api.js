@@ -5,7 +5,7 @@ class API {
   constructor(url, key) {
     this.url = url;
     this.key = key;
-    this.types = ['mhw'];
+    this.types = ['mhw', 'mhgu'];
     this.mhw_categories = [
       'armors',
       'decorations',
@@ -14,22 +14,32 @@ class API {
       'skills',
       'weapons'
     ];
+    this.mhgu_categories = [
+      'monsters',
+      'weapons'
+    ]
   }
 
-  setup(url, key) {
+  config(url, key) {
     this.url = url;
     this.key = key;
   }
 
-  fetch(type = 'none', category = 'none') {
+  fetch_url(type = 'none', category = 'none') {
     if (this.types.includes(type) && type == 'mhw') {
       if (this.mhw_categories.includes(category)) {
         return `${this.url}${type}/${category}?key=${this.key}`;
       }
     }
+
+    if (this.types.includes(type) && type == 'mhgu') {
+      if (this.mhgu_categories.includes(category)) {
+        return `${this.url}${type}/${category}?key=${this.key}`;
+      }
+    }
   }
 
-  request(url) {
+  get_request(url) {
     return new Promise(function (resolve, reject) {
       http
         .get(url, function (res) {

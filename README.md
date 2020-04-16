@@ -1,16 +1,16 @@
-# CatBotAPI
-API &amp; Database for CatBot
+# CatBotServer
+API & Database for CatBot
 
-# Usage
+# Development / Usage
 - Run `npm i --save`
 - Configure `config.json` if needed
 - Run `node server`
 
-# Development
-- Run `npm i --save`
-- Configure `config.json` if needed
+## Config Options
+`api.client` - Controls whether the frontend (client) is used (true / false)
+`api.token` - Secure token that gets access to the API (string)
 
-### Database Updating (mh_data)
+## Database Updating (mh_data)
 - Update `data/csv/weapons` with data found here: https://github.com/gatheringhallstudios/MHWorldData (when needed)
 - Update `tables/` with data found here: https://docs.google.com/spreadsheets/d/1ttUaWtw2aaBFpz3NUp6izr-FgtQHSYJA_CjJA-xuets/edit#gid=837252457&fvid=113058775 (when needed)
 
@@ -19,4 +19,15 @@ API &amp; Database for CatBot
 - Final output can be found under `databases/mh_data/mhw/build/`
 
 ### API (mh_data)
-- mh_data routes are as follows:
+- `mh_data` routes are as follows:
+- **Monster Hunter: World**
+  - `base_url/api/mhw/armors`
+  - `base_url/api/mhw/decorations`
+  - `base_url/api/mhw/items`
+  - `base_url/api/mhw/monsters`
+  - `base_url/api/mhw/skills`
+  - `base_url/api/mhw/weapons`
+
+- **Monster Hunter: Generations Ultimate**
+  - `base_url/api/mhgu/monsters`
+  - `base_url/api/mhgu/weapons`

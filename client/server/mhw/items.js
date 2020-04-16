@@ -1,16 +1,16 @@
-const manager = require('../../../util/routeUtils');
-const utils = require('../../../util/mapUtils');
+const routeUtils = require('../../../util/routeUtils');
+const mapUtils = require('../../../util/mapUtils');
 
 class RouteItems {
   route(url, data, key) {
-    manager
+    routeUtils
       .fetch(`${url}?key=${key}`)
       .then(function(r) {
-        const map = utils.buildMap(r, {
+        const map = mapUtils.buildMap(r, {
           raw: true
         }).map;
 
-        manager.addRoute('/mhw/items', 'pages/mhw/item_list.ejs', function(
+        routeUtils.addRoute('/mhw/items', 'pages/mhw/item_list.ejs', function(
           render,
           req,
           res
@@ -27,7 +27,7 @@ class RouteItems {
           });
         });
 
-        manager.addRoute('/mhw/items/:id', 'pages/mhw/item_info.ejs', function(
+        routeUtils.addRoute('/mhw/items/:id', 'pages/mhw/item_info.ejs', function(
           render,
           req,
           res

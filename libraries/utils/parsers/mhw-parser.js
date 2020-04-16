@@ -1,6 +1,10 @@
 class Parser {
-  constructor() {
-    this.lib = require('../mhdb-api');
+  constructor(lib_dir) {
+    this.lib = require(lib_dir);
+  }
+
+  config(lib_dir) {
+    this.lib = require(lib_dir);
   }
 
   parse_as_armors(data) {
@@ -18,9 +22,13 @@ class Parser {
       let array_slots = [];
 
       for (const i in item.setBonus) {
-        array_setBonus.push(
-          `${item.setBonus[i].name}: ${item.setBonus[i].description} (${item.setBonus[i].pieces} pieces)`
-        );
+        if (item.setBonus[i] == '-') {
+          array_setBonus.push('-');
+        } else {
+          array_setBonus.push(
+            `${item.setBonus[i].name}: ${item.setBonus[i].description} (${item.setBonus[i].pieces} pieces)`
+          );
+        }
       }
 
       for (const i in item.pieces) {
@@ -32,7 +40,13 @@ class Parser {
       }
 
       for (const i in item.slots) {
-        array_slots.push(`${item.slots[i].name}: Slot LV${item.slots[i].rank}`);
+        if (item.slots[i] == '-') {
+          array_slots.push('-');
+        } else {
+          array_slots.push(
+            `${item.slots[i].name}: Slot LV${item.slots[i].rank}`
+          );
+        }
       }
 
       object[k] = {
@@ -202,7 +216,7 @@ class Parser {
       };
     }
 
-    console.log(object);
+    return object;
   }
 }
 

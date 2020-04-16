@@ -1,16 +1,16 @@
-const manager = require('../../../util/routeUtils');
-const utils = require('../../../util/mapUtils');
+const routeUtils = require('../../../util/routeUtils');
+const mapUtils = require('../../../util/mapUtils');
 
 class RouteWeapons {
   route(url, data, key) {
-    manager
+    routeUtils
       .fetch(`${url}?key=${key}`)
       .then(function (r) {
-        const map = utils.buildMap(r, {
+        const map = mapUtils.buildMap(r, {
           raw: true
         }).map;
 
-        manager.addRoute('/mhw/weapons', 'pages/mhw/weapon_list.ejs', function (
+        routeUtils.addRoute('/mhw/weapons', 'pages/mhw/weapon_list.ejs', function (
           render,
           req,
           res
@@ -26,64 +26,64 @@ class RouteWeapons {
             weapon_array.push(weapon);
           }
 
-          const filtered_great_sword = utils.search(
+          const filtered_great_sword = mapUtils.search(
             weapon_array,
             'type',
             'great-sword'
           );
-          const filtered_sword_and_shield = utils.search(
+          const filtered_sword_and_shield = mapUtils.search(
             weapon_array,
             'type',
             'sword-and-shield'
           );
-          const filtered_dual_blades = utils.search(
+          const filtered_dual_blades = mapUtils.search(
             weapon_array,
             'type',
             'dual-blades'
           );
-          const filtered_long_sword = utils.search(
+          const filtered_long_sword = mapUtils.search(
             weapon_array,
             'type',
             'long-sword'
           );
-          const filtered_hunting_horn = utils.search(
+          const filtered_hunting_horn = mapUtils.search(
             weapon_array,
             'type',
             'hunting-horn'
           );
-          const filtered_gunlance = utils.search(
+          const filtered_gunlance = mapUtils.search(
             weapon_array,
             'type',
             'gunlance'
           );
-          const filtered_switch_axe = utils.search(
+          const filtered_switch_axe = mapUtils.search(
             weapon_array,
             'type',
             'switch-axe'
           );
-          const filtered_charge_blade = utils.search(
+          const filtered_charge_blade = mapUtils.search(
             weapon_array,
             'type',
             'charge-blade'
           );
-          const filtered_insect_glaive = utils.search(
+          const filtered_insect_glaive = mapUtils.search(
             weapon_array,
             'type',
             'insect-glaive'
           );
-          const filtered_heavy_bowgun = utils.search(
+          const filtered_heavy_bowgun = mapUtils.search(
             weapon_array,
             'type',
             'heavy-bowgun'
           );
-          const filtered_light_bowgun = utils.search(
+          const filtered_light_bowgun = mapUtils.search(
             weapon_array,
             'type',
             'light-bowgun'
           );
-          const filtered_bow = utils.search(weapon_array, 'type', 'bow');
-          const filtered_lance = utils.search(weapon_array, 'type', 'lance');
-          const filtered_hammer = utils.search(weapon_array, 'type', 'hammer');
+          const filtered_bow = mapUtils.search(weapon_array, 'type', 'bow');
+          const filtered_lance = mapUtils.search(weapon_array, 'type', 'lance');
+          const filtered_hammer = mapUtils.search(weapon_array, 'type', 'hammer');
           const weapon_list = [
             filtered_great_sword,
             filtered_sword_and_shield,
@@ -114,7 +114,7 @@ class RouteWeapons {
           });
         });
 
-        manager.addRoute(
+        routeUtils.addRoute(
           '/mhw/weapons/:id',
           'pages/mhw/weapon_info.ejs',
           function (render, req, res) {

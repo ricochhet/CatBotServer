@@ -1,12 +1,12 @@
-const manager = require('../../../util/routeUtils');
-const utils = require('../../../util/mapUtils');
+const routeUtils = require('../../../util/routeUtils');
+const mapUtils = require('../../../util/mapUtils');
 
 class RouteMonsters {
   route(url, data, key) {
-    manager
+    routeUtils
       .fetch(`${url}?key=${key}`)
       .then(function(a) {
-        const map = utils.buildMap(
+        const map = mapUtils.buildMap(
           a,
           {
             extended: true,
@@ -17,7 +17,7 @@ class RouteMonsters {
           'details'
         ).map;
 
-        manager.addRoute(
+        routeUtils.addRoute(
           '/mhw/monsters',
           'pages/mhw/monster_list.ejs',
           function(render, req, res) {
@@ -34,7 +34,7 @@ class RouteMonsters {
           }
         );
 
-        manager.addRoute(
+        routeUtils.addRoute(
           '/mhw/monsters/:id',
           'pages/mhw/monster_info.ejs',
           function(render, req, res) {

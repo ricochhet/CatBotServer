@@ -1,8 +1,9 @@
-const a = require('./mhdb-api');
-a.setup('http://localhost:8080/api/', 'h5Nyec8tR3gehAcDW4dyJ');
+const api = require('./db-api');
+const mhw_parser = require('./utils/parsers/mhw-parser');
 
-a.request(a.fetch('mhw', 'weapons')).then(function (data) {
-  const parser = require('./utils/mhw-parser');
-  const output = parser.parse_as_weapons(data);
-  // do whatever
+mhw_parser.config(api);
+api.config('http://localhost:8080/api/', 'h5Nyec8tR3gehAcDW4dyJ');
+
+api.get_request(api.fetch_url('mhw', 'weapons')).then(function (data) {
+  const output = mhw_parser.parse_as_weapons(data);
 });

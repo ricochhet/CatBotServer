@@ -72,9 +72,7 @@ if (config['api']['client']) {
 
   routeUtils.handleErrors();
 } else {
-  routeUtils.addRoute('/', '', function (render, req, res) {
-    res.json({ error: '403 Unauthorized' });
-  });
+  routeUtils.addRoute('/', '');
 }
 
 mhw_router.manager = routeUtils;
