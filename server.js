@@ -2,19 +2,28 @@ const routeUtils = require('./util/routeUtils');
 const mapUtils = require('./util/mapUtils');
 const config = require('./config.json');
 
-const mhw_data = require('./api/mhw/data');
-const mhw_router = require('./api/mhw/router');
+const database = require('./api/database/router');
+const queries = require('./queries');
 
-const mhgu_data = require('./api/mhgu/data');
-const mhgu_router = require('./api/mhgu/router');
+const mhw_data = require('./api/user/mhw/data');
+const mhw_router = require('./api/user/mhw/router');
+
+const mhgu_data = require('./api/user/mhgu/data');
+const mhgu_router = require('./api/user/mhgu/router');
 
 mhw_data.setup(mapUtils);
 mhgu_data.setup(mapUtils);
 
 routeUtils.makeRouter(8080, 'client/public', 'client/views');
+database.routeUtils = routeUtils;
+database.config = config;
+
+if (config['api']['api_database']) {
+  queries.initialize();
+}
 
 if (config['api']['client']) {
-  const mhw_datafile = require('./api/mhw/data');
+  const mhw_datafile = require('./api/user/mhw/data');
   const mhw_armors = require('./client/server/mhw/armors');
   const mhw_decorations = require('./client/server/mhw/decorations');
   const mhw_items = require('./client/server/mhw/items');
@@ -75,8 +84,8 @@ if (config['api']['client']) {
   routeUtils.addRoute('/', '');
 }
 
-mhw_router.manager = routeUtils;
-mhgu_router.manager = routeUtils;
+mhw_router.routeUtils = routeUtils;
+mhgu_router.routeUtils = routeUtils;
 
 mhw_router.config = config;
 mhgu_router.config = config;

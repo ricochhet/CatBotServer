@@ -1,14 +1,14 @@
 const data = require('./data');
 
 class API {
-  constructor(manager, config) {
-    this.manager = manager;
+  constructor(routeUtils, config) {
+    this.routeUtils = routeUtils;
     this.config = config;
   }
 
   armors() {
     const self = this;
-    this.manager.addRoute('/api/mhw/armors', '', function (render, req, res) {
+    this.routeUtils.addRoute('/api/mhw/armors', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(data.armor_map.raw);
       } else {
@@ -19,7 +19,7 @@ class API {
 
   decorations() {
     const self = this;
-    this.manager.addRoute('/api/mhw/decorations', '', function (
+    this.routeUtils.addRoute('/api/mhw/decorations', '', function (
       render,
       req,
       res
@@ -34,7 +34,7 @@ class API {
 
   items() {
     const self = this;
-    this.manager.addRoute('/api/mhw/items', '', function (render, req, res) {
+    this.routeUtils.addRoute('/api/mhw/items', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(data.item_map.raw);
       } else {
@@ -45,7 +45,7 @@ class API {
 
   monsters() {
     const self = this;
-    this.manager.addRoute('/api/mhw/monsters', '', function (render, req, res) {
+    this.routeUtils.addRoute('/api/mhw/monsters', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         let array = [];
         for (const i in data.monster_map.raw) {
@@ -100,7 +100,7 @@ class API {
 
   skills() {
     const self = this;
-    this.manager.addRoute('/api/mhw/skills', '', function (render, req, res) {
+    this.routeUtils.addRoute('/api/mhw/skills', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(data.skill_map.raw);
       } else {
@@ -111,7 +111,7 @@ class API {
 
   weapons() {
     const self = this;
-    this.manager.addRoute('/api/mhw/weapons', '', function (render, req, res) {
+    this.routeUtils.addRoute('/api/mhw/weapons', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(data.weapon_map.raw);
       } else {

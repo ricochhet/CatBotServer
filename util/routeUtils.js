@@ -4,6 +4,7 @@ const http = require('http');
 const bodyParser = require('body-parser');
 const router = express.Router();
 const session = require('express-session');
+const cors = require('cors');
 
 class RouteManager {
   fetch(url) {
@@ -36,7 +37,9 @@ class RouteManager {
 
     app.use('/', router);
     app.use(bodyParser.urlencoded({ extended: true }));
+    app.use(bodyParser.json());
     app.use(express.static(assets));
+    app.use(cors());
     app.set('views', views);
 
     router.use(

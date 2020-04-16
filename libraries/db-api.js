@@ -14,15 +14,44 @@ class API {
       'skills',
       'weapons'
     ];
-    this.mhgu_categories = [
-      'monsters',
-      'weapons'
-    ]
+    this.mhgu_categories = ['monsters', 'weapons'];
   }
 
   config(url, key) {
     this.url = url;
     this.key = key;
+  }
+
+  req(
+    json,
+    options = {
+      hostname: 'localhost',
+      port: 8080,
+      path: '/api',
+      method: 'POST'
+    }
+  ) {
+    const data = JSON.stringify(json);
+
+    options.headers = {
+      'Content-Type': 'application/json',
+      'Content-Length': data.length
+    };
+
+    const req = http.request(options, res => {
+      console.log(`statusCode: ${res.statusCode}`);
+
+      res.on('data', d => {
+        process.stdout.write(d);
+      });
+    });
+
+    req.on('error', error => {
+      console.error(error);
+    });
+
+    req.write(data);
+    req.end();
   }
 
   fetch_url(type = 'none', category = 'none') {

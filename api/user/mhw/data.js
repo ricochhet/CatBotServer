@@ -1,7 +1,7 @@
 class Data {
-  setup(utils) {
-    this.utils = utils;
-    this.monster_map = utils.buildMap(
+  setup(mapUtils) {
+    this.mapUtils = mapUtils;
+    this.monster_map = mapUtils.buildMap(
       './databases/mh_data/mhw/build/monster_info.json',
       {
         extended: true,
@@ -10,28 +10,28 @@ class Data {
       'name',
       'details'
     );
-    this.monster_hitzone_map = utils.buildMap(
+    this.monster_hitzone_map = mapUtils.buildMap(
       './databases/mh_data/mhw/build/hitzone_data.json'
     );
 
-    this.monster_enrage_map = utils.buildMap(
+    this.monster_enrage_map = mapUtils.buildMap(
       './databases/mh_data/mhw/build/enrage_data.json'
     );
 
-    this.item_map = utils.buildMap('./databases/mh_data/mhw/build/item_info.json');
-    this.armor_map = utils.buildMap('./databases/mh_data/mhw/build/armor_info.json');
-    this.weapon_map = utils.buildMap('./databases/mh_data/mhw/build/weapon_info.json');
-    this.decoration_map = utils.buildMap(
+    this.item_map = mapUtils.buildMap('./databases/mh_data/mhw/build/item_info.json');
+    this.armor_map = mapUtils.buildMap('./databases/mh_data/mhw/build/armor_info.json');
+    this.weapon_map = mapUtils.buildMap('./databases/mh_data/mhw/build/weapon_info.json');
+    this.decoration_map = mapUtils.buildMap(
       './databases/mh_data/mhw/build/decoration_info.json'
     );
-    this.skill_map = utils.buildMap('./databases/mh_data/mhw/build/skill_info.json');
+    this.skill_map = mapUtils.buildMap('./databases/mh_data/mhw/build/skill_info.json');
 
-    this.monster_names = utils.buildArray(this.monster_map.map, 'title');
-    this.weapon_names = utils.buildArray(this.weapon_map.map, 'name');
-    this.armor_names = utils.buildArray(this.armor_map.map, 'name');
-    this.skill_names = utils.buildArray(this.skill_map.map, 'name');
-    this.item_names = utils.buildArray(this.item_map.map, 'name');
-    this.decoration_names = utils.buildArray(this.decoration_map.map, 'name');
+    this.monster_names = mapUtils.buildArray(this.monster_map.map, 'title');
+    this.weapon_names = mapUtils.buildArray(this.weapon_map.map, 'name');
+    this.armor_names = mapUtils.buildArray(this.armor_map.map, 'name');
+    this.skill_names = mapUtils.buildArray(this.skill_map.map, 'name');
+    this.item_names = mapUtils.buildArray(this.item_map.map, 'name');
+    this.decoration_names = mapUtils.buildArray(this.decoration_map.map, 'name');
 
     this.objects = [
       ...this.decoration_names.toString().split(','),

@@ -1,6 +1,8 @@
 {
   "api": {
     "client": true,
-    "token": "h5Nyec8tR3gehAcDW4dyJ"
+    "client_id": "none",
+    "token": "h5Nyec8tR3gehAcDW4dyJ",
+    "api_database": true
   }
 }
