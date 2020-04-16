@@ -1,22 +1,22 @@
 const manager = require('../../../util/routeUtils');
 const utils = require('../../../util/mapUtils');
 
-class RouteArmors {
-  route(data, key) {
+class RouteSkills {
+  route(url, data, key) {
     manager
-      .fetch(`http://localhost:8080/api/mhw/armors?key=${key}`)
+      .fetch(`${url}?key=${key}`)
       .then(function(r) {
         const map = utils.buildMap(r, {
           raw: true
         }).map;
 
-        manager.addRoute('/mhw/armors', 'pages/mhw/armor_list.ejs', function(
+        manager.addRoute('/mhw/skills', 'pages/mhw/skill_list.ejs', function(
           render,
           req,
           res
         ) {
           res.render(render, {
-            ARMOR_MAP: map,
+            SKILL_MAP: map,
             MHW_OBJECTS: data.objects,
             MHW_DECO_ARRAY: data.decoration_names,
             MHW_MONSTER_ARRAY: data.monster_names,
@@ -28,21 +28,16 @@ class RouteArmors {
         });
 
         manager.addRoute(
-          '/mhw/armors/:id',
-          'pages/mhw/armor_info.ejs',
+          '/mhw/skills/:id',
+          'pages/mhw/skill_info.ejs',
           function(render, req, res) {
             if (map.has(req.params.id)) {
-              const armor = map.get(req.params.id);
+              const skill = map.get(req.params.id);
               res.render(render, {
                 ICON_MAP: data.icons,
-                ARMOR_NAME: armor.name,
-                ARMOR_RANK: armor.rank,
-                ARMOR_SETBONUS: armor.setBonus,
-                ARMOR_DEFENSES: armor.defenses,
-                ARMOR_RESISTANCES: armor.resistances,
-                ARMOR_PIECES: armor.pieces,
-                ARMOR_SKILLS: armor.skills,
-                ARMOR_SLOTS: armor.slots,
+                SKILL_NAME: skill.name,
+                SKILL_DESCRIPTION: skill.description,
+                SKILL_RANKS: skill.ranks,
                 MHW_OBJECTS: data.objects,
                 MHW_DECO_ARRAY: data.decoration_names,
                 MHW_MONSTER_ARRAY: data.monster_names,
@@ -60,4 +55,4 @@ class RouteArmors {
   }
 }
 
-module.exports = new RouteArmors();
+module.exports = new RouteSkills();

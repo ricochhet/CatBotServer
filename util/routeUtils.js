@@ -7,9 +7,9 @@ const session = require('express-session');
 
 class RouteManager {
   fetch(url) {
-    return new Promise(function(resolve, reject) {
+    return new Promise(function (resolve, reject) {
       http
-        .get(url, function(res) {
+        .get(url, function (res) {
           let body = '';
           res.on('data', chunk => {
             body += chunk;
@@ -29,24 +29,21 @@ class RouteManager {
     });
   }
 
-  makeRouter(port, assets, errorRenders = { notFound: '-' }) {
-    http.Server(app).listen(`${port}`, function() {
+  makeRouter(port, assets, views) {
+    http.Server(app).listen(`${port}`, function () {
       console.log('Listening on *:' + port);
     });
 
     app.use('/', router);
     app.use(bodyParser.urlencoded({ extended: true }));
     app.use(express.static(assets));
+    app.set('views', views);
 
     router.use(
       session({
         secret:
-          Math.random()
-            .toString(36)
-            .substring(2, 15) +
-          Math.random()
-            .toString(36)
-            .substring(2, 15),
+          Math.random().toString(36).substring(2, 15) +
+          Math.random().toString(36).substring(2, 15),
         saveUninitialized: true,
         resave: false
       })
@@ -61,7 +58,7 @@ class RouteManager {
   }
 
   addExtendedRoute(path, render, functionObject, authObject) {
-    router.get(path, authObject, function(req, res) {
+    router.get(path, authObject, function (req, res) {
       const thisRender = render;
       functionObject(thisRender, req, res, authObject);
     });
@@ -82,7 +79,7 @@ class RouteManager {
   }
 
   handleErrors() {
-    app.use(function(req, res, next) {
+    app.use(function (req, res, next) {
       res.status(404).render('errors/404.ejs');
     });
   }

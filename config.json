@@ -1,9 +1,6 @@
 {
-  "server": {
-    "port": 8080,
-    "handle_errors": true
-  },
   "api": {
+    "client": true,
     "token": "h5Nyec8tR3gehAcDW4dyJ"
   }
 }

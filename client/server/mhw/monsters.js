@@ -2,9 +2,9 @@ const manager = require('../../../util/routeUtils');
 const utils = require('../../../util/mapUtils');
 
 class RouteMonsters {
-  route(data, key) {
+  route(url, data, key) {
     manager
-      .fetch(`http://localhost:8080/api/mhw/monsters?key=${key}`)
+      .fetch(`${url}?key=${key}`)
       .then(function(a) {
         const map = utils.buildMap(
           a,
