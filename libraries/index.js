@@ -1,12 +1,22 @@
 const db = require('./utils/db-api');
 
-db.request(
-  { message: 'CHANNEL_ID' },
+/*db.request(
+  { message: 'channel_id' },
   {
     hostname: 'localhost',
     port: 8080,
     path: '/api/database/none/lfg?key=h5Nyec8tR3gehAcDW4dyJ',
     method: 'POST'
+  }
+);*/
+
+db.request(
+  { message: 'item0' },
+  {
+    hostname: 'localhost',
+    port: 8080,
+    path: '/api/database/none/lfg?key=h5Nyec8tR3gehAcDW4dyJ',
+    method: 'DELETE'
   }
 );
 

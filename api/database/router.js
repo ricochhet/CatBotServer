@@ -25,6 +25,25 @@ class API {
     });
   }
 
+  delete_db(url, functionObject) {
+    const self = this;
+    const queries = [];
+
+    this.routeUtils.addDelete(url, function (req, res) {
+      if (req.query.key == self.config['api']['token']) {
+        const data = req.body;
+        queries.push(data);
+
+        functionObject(queries);
+        res.send(`Removed data from queries successfully`);
+      } else {
+        res.send(
+          `An incorrect API key was provided: ${req.query.key} (403 Unauthorized)`
+        );
+      }
+    });
+  }
+
   get_db(url, database_file) {
     const self = this;
 

@@ -4,25 +4,36 @@ const config = require('./config.json');
 
 class Queries {
   initialize() {
-    database.post_db(
-      `/api/database/${config['api']['client_id']}/lfg`,
-      function (queries) {
-        let object = {
-          subscribe: []
-        };
+    this.manage_lfg();
+  }
 
-        for (const i in queries) {
-          object.subscribe.push(queries[i].message);
-        }
+  manage_lfg() {
+    const pathname = `/api/database/${config['api']['client_id']}/lfg`;
+    const filename = `./databases/api_data/lfg.json`;
 
-        mapUtils.writeFile('./databases/api_data/lfg.json', object);
-      }
-    );
+    database.post_db(pathname, function (queries) {
+      let object = {
+        subscribe: mapUtils.readFile(filename).subscribe
+      };
 
-    database.get_db(
-      `/api/database/${config['api']['client_id']}/lfg`,
-      './databases/api_data/lfg.json'
-    );
+      object.subscribe.push(mapUtils.latestQuery(queries).message);
+      mapUtils.writeFile(filename, object);
+    });
+
+    database.delete_db(pathname, function (queries) {
+      let object = {
+        subscribe: mapUtils.readFile(filename).subscribe
+      };
+
+      object.subscribe = mapUtils.removeFromArray(
+        object.subscribe,
+        mapUtils.latestQuery(queries).message
+      );
+
+      mapUtils.writeFile(filename, object);
+    });
+
+    database.get_db(pathname, filename);
   }
 }
 

@@ -81,6 +81,12 @@ class RouteManager {
     });
   }
 
+  addDelete(path, functionObject) {
+    app.delete(path, (req, res) => {
+      functionObject(req, res);
+    });
+  }
+
   handleErrors() {
     app.use(function (req, res, next) {
       res.status(404).render('errors/404.ejs');

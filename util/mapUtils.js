@@ -61,6 +61,18 @@ class Manager {
     return array;
   }
 
+  latestQuery(array) {
+    return array.slice(-1).pop();
+  }
+
+  removeFromArray(array, item) {
+    return array.filter(e => e !== item);
+  }
+
+  readFile(db) {
+    return JSON.parse(fs.readFileSync(db, 'utf8'));
+  }
+
   writeFile(writeTo, db) {
     fs.writeFile(writeTo, JSON.stringify(db, null, 2), err => {
       if (err) {

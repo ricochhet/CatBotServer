@@ -19,6 +19,7 @@ database.routeUtils = routeUtils;
 database.config = config;
 
 if (config['api']['api_database']) {
+  console.log(`Running database queries.`);
   queries.initialize();
 }
 
@@ -81,6 +82,7 @@ if (config['api']['client']) {
 
   routeUtils.handleErrors();
 } else {
+  console.log(`Running in clientless mode.`);
   routeUtils.addRoute('/', '');
 }
 
