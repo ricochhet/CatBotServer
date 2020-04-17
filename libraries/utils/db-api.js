@@ -15,14 +15,21 @@ class API {
       'weapons'
     ];
     this.mhgu_categories = ['monsters', 'weapons'];
+
+    const mhw_parser = require('./parsers/mhw-parser');
+    mhw_parser.lib = this;
+
+    this.parsers = {
+      mhw: mhw_parser
+    };
   }
 
-  config(url, key) {
-    this.url = url;
-    this.key = key;
+  config(options = { url: 'http://localhost:8080', key: 'key' }) {
+    this.url = options.url;
+    this.key = options.key;
   }
 
-  req(
+  request(
     json,
     options = {
       hostname: 'localhost',
@@ -54,7 +61,7 @@ class API {
     req.end();
   }
 
-  fetch_url(type = 'none', category = 'none') {
+  query(type = 'none', category = 'none') {
     if (this.types.includes(type) && type == 'mhw') {
       if (this.mhw_categories.includes(category)) {
         return `${this.url}${type}/${category}?key=${this.key}`;
@@ -68,7 +75,7 @@ class API {
     }
   }
 
-  get_request(url) {
+  get(url) {
     return new Promise(function (resolve, reject) {
       http
         .get(url, function (res) {

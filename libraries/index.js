@@ -1,7 +1,6 @@
-const api = require('./db-api');
-const mhw_parser = require('./utils/parsers/mhw-parser');
+const db = require('./utils/db-api');
 
-api.req(
+db.request(
   { message: 'CHANNEL_ID' },
   {
     hostname: 'localhost',
@@ -11,10 +10,12 @@ api.req(
   }
 );
 
-mhw_parser.config(api);
-api.config('http://localhost:8080/api/', 'h5Nyec8tR3gehAcDW4dyJ');
+db.config({
+  url: 'http://localhost:8080/api/',
+  key: 'h5Nyec8tR3gehAcDW4dyJ'
+});
 
-api.get_request(api.fetch_url('mhw', 'weapons')).then(function (data) {
-  const output = mhw_parser.parse_as_weapons(data);
-  console.log(output)
+db.get(db.query('mhw', 'weapons')).then(function (data) {
+  const output = db.parsers.mhw.parse_as_weapons(data);
+  // console.log(output);
 });

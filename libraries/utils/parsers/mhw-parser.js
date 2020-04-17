@@ -1,10 +1,6 @@
 class Parser {
-  constructor(lib_dir) {
-    this.lib = require(lib_dir);
-  }
-
-  config(lib_dir) {
-    this.lib = require(lib_dir);
+  constructor(lib) {
+    this.lib = lib;
   }
 
   parse_as_armors(data) {

@@ -1,11 +1,10 @@
+const database = require('./api/database/router');
 const mapUtils = require('./util/mapUtils');
 const config = require('./config.json');
 
-const database = require('./api/database/router');
-
 class Queries {
   initialize() {
-    database.post_database(
+    database.post_db(
       `/api/database/${config['api']['client_id']}/lfg`,
       function (queries) {
         let object = {
@@ -20,7 +19,7 @@ class Queries {
       }
     );
 
-    database.get_database(
+    database.get_db(
       `/api/database/${config['api']['client_id']}/lfg`,
       './databases/api_data/lfg.json'
     );
