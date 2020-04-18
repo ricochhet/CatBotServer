@@ -5,7 +5,7 @@ const db = require('./utils/db-api');
   {
     hostname: 'localhost',
     port: 8080,
-    path: '/api/database/none/lfg?key=h5Nyec8tR3gehAcDW4dyJ',
+    path: '/api/database/573958899582107653/lfg/subscribe?key=h5Nyec8tR3gehAcDW4dyJ',
     method: 'POST'
   }
 );*/
@@ -15,7 +15,7 @@ db.request(
   {
     hostname: 'localhost',
     port: 8080,
-    path: '/api/database/none/lfg?key=h5Nyec8tR3gehAcDW4dyJ',
+    path: '/api/database/573958899582107653/lfg/subscribe?key=h5Nyec8tR3gehAcDW4dyJ',
     method: 'DELETE'
   }
 );

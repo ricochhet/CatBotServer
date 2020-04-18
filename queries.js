@@ -4,12 +4,12 @@ const config = require('./config.json');
 
 class Queries {
   initialize() {
-    this.manage_lfg();
+    this.manage_lfg_subscribe();
   }
 
-  manage_lfg() {
-    const pathname = `/api/database/${config['api']['client_id']}/lfg`;
-    const filename = `./databases/api_data/lfg.json`;
+  manage_lfg_subscribe() {
+    const pathname = `/api/database/${config['api']['client_id']}/lfg/subscribe`;
+    const filename = `./databases/api_data/${config['api']['client_id']}/lfg/subscribe.json`;
 
     database.post_db(pathname, function (queries) {
       let object = {
