@@ -8,7 +8,7 @@ const db = require('./utils/db-api');
     path: '/api/database/573958899582107653/lfg/subscribe?key=h5Nyec8tR3gehAcDW4dyJ',
     method: 'POST'
   }
-);*/
+);
 
 db.request(
   { message: 'item0' },
@@ -18,7 +18,7 @@ db.request(
     path: '/api/database/573958899582107653/lfg/subscribe?key=h5Nyec8tR3gehAcDW4dyJ',
     method: 'DELETE'
   }
-);
+);*/
 
 db.config({
   url: 'http://localhost:8080/api/',
