@@ -11,8 +11,12 @@ const mhw_router = require('./api/monhun/mhw/router');
 const mhgu_data = require('./api/monhun/mhgu/data');
 const mhgu_router = require('./api/monhun/mhgu/router');
 
+const catfact_data = require('./api/catfacts/data');
+const catfact_router = require('./api/catfacts/router');
+
 mhw_data.setup(mapUtils);
 mhgu_data.setup(mapUtils);
+catfact_data.setup(mapUtils);
 
 routeUtils.makeRouter(8080, 'client/public', 'client/views');
 database.routeUtils = routeUtils;
@@ -88,9 +92,11 @@ if (config['api']['client']) {
 
 mhw_router.routeUtils = routeUtils;
 mhgu_router.routeUtils = routeUtils;
+catfact_router.routeUtils = routeUtils;
 
 mhw_router.config = config;
 mhgu_router.config = config;
+catfact_router.config = config;
 
 mhw_router.armors();
 mhw_router.decorations();
@@ -101,3 +107,5 @@ mhw_router.weapons();
 
 mhgu_router.monsters();
 mhgu_router.weapons();
+
+catfact_router.catfacts();
