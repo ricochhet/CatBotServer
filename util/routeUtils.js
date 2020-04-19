@@ -6,7 +6,7 @@ const router = express.Router();
 const session = require('express-session');
 const cors = require('cors');
 
-class RouteManager {
+class RouteUtils {
   fetch(url) {
     return new Promise(function (resolve, reject) {
       http
@@ -94,4 +94,4 @@ class RouteManager {
   }
 }
 
-module.exports = new RouteManager();
+module.exports = new RouteUtils();

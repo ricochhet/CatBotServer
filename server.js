@@ -1,6 +1,9 @@
 const routeUtils = require('./util/routeUtils');
+const logger = require('./util/loggingUtils');
+
 const mapUtils = require('./util/mapUtils');
 const config = require('./config.json');
+const pjson = require('./package.json');
 
 const database = require('./api/database/router');
 const queries = require('./queries');
@@ -14,16 +17,28 @@ const mhgu_router = require('./api/monhun/mhgu/router');
 const catfact_data = require('./api/catfacts/data');
 const catfact_router = require('./api/catfacts/router');
 
+logger.config({
+  autoNewLine: true,
+  systemIdentifier: pjson.name
+});
+
+logger.log(`Running on v${pjson.version}`);
+
 mhw_data.setup(mapUtils);
 mhgu_data.setup(mapUtils);
 catfact_data.setup(mapUtils);
 
-routeUtils.makeRouter(8080, 'client/public', 'client/views');
+routeUtils.makeRouter(
+  config['server']['port'],
+  config['server']['public'],
+  config['server']['views']
+);
+
 database.routeUtils = routeUtils;
 database.config = config;
 
 if (config['api']['api_database']) {
-  console.log(`Running database queries.`);
+  logger.log('Running database queries.');
   queries.initialize();
 }
 
@@ -86,7 +101,7 @@ if (config['api']['client']) {
 
   routeUtils.handleErrors();
 } else {
-  console.log(`Running in clientless mode.`);
+  logger.log('Running in clientless mode.');
   routeUtils.addRoute('/', '');
 }
 

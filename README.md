@@ -4,7 +4,7 @@ API & Database for CatBot
 # Development / Usage
 - Run `npm i --save`
 - Configure `config.json` if needed
-- Run `node server`
+- Run `node server` or `npm run start`
 
 ## Config Options
 `api.client` - Controls whether the frontend (client) is used (true / false)
@@ -23,31 +23,14 @@ API & Database for CatBot
 ## Database Updating (api_data)
 - Data is modified using different HTTP requests
 - Setup a "database" within the `queries.js` file
+
 ```javascript
-// (Consider this setup a singular database)
-database.post_database(url, function(queries){});
-database.get_database(url, database_path);
+database.post_db(url, function(queries){});
+database.delete_db(url, function(queries){});
+database.get_db(url, database_path);
 ```
 
 **Database URLs must be unique**
-
-- Modify saved data using the `post_database()` method
-```javascript
-database.post_database(
-  url, function (queries) {
-    let object = {
-      queries: []
-    };
-
-    for (const i in queries) {
-      object.queries.push(queries[i]["message"]);
-    }
-
-    mapUtils.writeFile(database_path*.json, object);
-  }
-);
-```
-
 - Usage examples & libraries can be found under `libraries/db-api.js` & `libraries/index.js`
 
 ### API Routes (mh_data)

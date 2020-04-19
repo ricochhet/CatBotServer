@@ -1,4 +1,4 @@
-const db = require('./utils/db-api');
+const db = require('./utils/client');
 
 /*db.request(
   { message: 'channel_id' },

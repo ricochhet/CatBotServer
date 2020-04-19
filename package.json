@@ -1,5 +1,5 @@
 {
-  "name": "catbotapi",
+  "name": "catbotserver",
   "version": "1.0.0",
   "description": "API &amp; Database for CatBot",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ricochhet/CatBotAPI.git"
+    "url": "git+https://github.com/ricochhet/CatBotServer.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ricochet",
+  "license": "NONE",
   "bugs": {
-    "url": "https://github.com/ricochhet/CatBotAPI/issues"
+    "url": "https://github.com/ricochhet/CatBotServer/issues"
   },
-  "homepage": "https://github.com/ricochhet/CatBotAPI#readme",
+  "homepage": "https://github.com/ricochhet/CatBotServer#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "ejs": "^3.0.2",

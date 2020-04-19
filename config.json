@@ -1,4 +1,9 @@
 {
+  "server": {
+    "port": 8080,
+    "public": "client/public",
+    "views": "client/views" 
+  },
   "api": {
     "client": true,
     "client_id": "573958899582107653",

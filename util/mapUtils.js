@@ -1,7 +1,7 @@
 const csv = require('./csvToJson');
 const fs = require('fs');
 
-class Manager {
+class MapUtils {
   constructor() {
     this.logs = {
       success: 'File saved: '
@@ -124,4 +124,4 @@ class Manager {
   }
 }
 
-module.exports = new Manager();
+module.exports = new MapUtils();

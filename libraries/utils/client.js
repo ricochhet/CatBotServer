@@ -1,7 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 
-class API {
+class Client {
   constructor(url, key) {
     this.url = url;
     this.key = key;
@@ -16,7 +16,7 @@ class API {
     ];
     this.mhgu_categories = ['monsters', 'weapons'];
 
-    const mhw_parser = require('./parsers/mhw-parser');
+    const mhw_parser = require('./parsers/mhw');
     mhw_parser.lib = this;
 
     this.parsers = {
@@ -137,4 +137,4 @@ class API {
   }
 }
 
-module.exports = new API();
+module.exports = new Client();
