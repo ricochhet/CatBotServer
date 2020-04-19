@@ -21,7 +21,7 @@ API & Database for CatBot
 - Final output can be found under `databases/mh_data/mhw/build/`
 
 ## Database Updating (api_data)
-- Data is modified using different HTTP requests
+Requests: POST, DELETE, GET
 - Setup a "database" within the `queries.js` file
 
 ```javascript
@@ -48,3 +48,19 @@ database.get_db(url, database_path);
 
 ### API Routes (api_data)
 - `base_url/api/database/:client_id/database_name`
+- or `base_url/api/database/:client_id/database_category/database_name`
+
+- Location of databases should mimic API endpoints e.g.
+  - API: `/:client_id/category/name`
+  - Path: `/client_id/category/name.json`
+- This is done to keep consistency and organization in the structure. 
+
+# User Data
+All user data in the databases is used on an opt-in, opt-out basis by the users own choice.
+All user data collected may not be redistributed without explicit permission.
+
+# Contributions
+Please do not contribute to this project without explicit permission from the project owner.
+
+# Licensing
+NONE (No Permission)
