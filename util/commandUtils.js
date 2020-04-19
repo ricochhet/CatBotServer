@@ -1,4 +1,5 @@
 'use strict';
+const stringUtils = require('./stringUtils');
 
 class CommandUtils {
   command(props = [], functionObject) {
@@ -14,6 +15,22 @@ class CommandUtils {
       functionObject(params, props);
     }
   }
+
+  cmd(string = '', functionObject, slice = 2) {
+    const params = process.argv.slice(slice);
+
+    if (!stringUtils.isBlank(string)) {
+      if (params.includes(string)) {
+        if (typeof functionObject !== 'function')
+          throw `functionObject param is not of type function!`;
+
+        functionObject(params, string);
+      }
+    } else {
+      throw `string is either null or blank!`;
+    }
+  }
+
   checkArraySimilarities(array, target) {
     return target.every(v => array.includes(v));
   }

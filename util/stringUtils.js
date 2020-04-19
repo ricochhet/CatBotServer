@@ -45,5 +45,9 @@ class StringUtils {
       return true;
     }
   }
+
+  jsonStringify(json) {
+    return JSON.stringify(json).toString();
+  }
 }
 module.exports = new StringUtils();

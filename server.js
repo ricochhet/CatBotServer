@@ -1,3 +1,5 @@
+const commandUtils = require('./util/commandUtils');
+const stringUtils = require('./util/stringUtils');
 const routeUtils = require('./util/routeUtils');
 const logger = require('./util/loggingUtils');
 
@@ -36,6 +38,18 @@ routeUtils.makeRouter(
 
 database.routeUtils = routeUtils;
 database.config = config;
+
+commandUtils.cmd('--nocli', function () {
+  config['api']['client'] = false;
+});
+
+commandUtils.cmd('--db', function () {
+  config['api']['api_database'] = true;
+});
+
+commandUtils.cmd('--config', function () {
+  logger.log(stringUtils.jsonStringify(config));
+});
 
 if (config['api']['api_database']) {
   logger.log('Running database queries.');
