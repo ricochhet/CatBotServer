@@ -6,6 +6,13 @@ API & Database for CatBot
 - Configure `config.json` if needed
 - Run `node server` or `npm run start`
 
+## Command Line Arguments
+- Append each argument to the end of `node server`
+- `--nocli` - Clientless mode
+- `--db` - Use database
+- `--config` - Log the config JSON
+- `--newtoken` - Generate and save a new token to the config file
+
 ## Config Options
 `api.client` - Controls whether the frontend (client) is used (true / false)
 `api.client_id` - Database API client id, used for identification of the app (string / int)
