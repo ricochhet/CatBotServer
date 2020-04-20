@@ -52,7 +52,7 @@ commandUtils.cmd('--newtoken', function () {
   json.api.token = key;
 
   mapUtils.writeFile('./config.json', json);
-  logger.log(`New key generated and saved: ${key}`);
+  logger.log(`Token generated: ${key}`);
 });
 
 if (config['api']['api_database']) {
