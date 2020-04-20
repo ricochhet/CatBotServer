@@ -1,16 +1,28 @@
-const data = require('./data');
-
-class API {
+class Router {
   constructor(routeUtils, config) {
     this.routeUtils = routeUtils;
     this.config = config;
   }
 
+  setup(mapUtils) {
+    this.mapUtils = mapUtils;
+    this.monster_map = mapUtils.buildMap(
+      './databases/mh_data/mhgu/monster_info.json'
+    );
+    this.weapon_map = mapUtils.buildMap(
+      './databases/mh_data/mhgu/weapon_info.json'
+    );
+  }
+
   monsters() {
     const self = this;
-    this.routeUtils.addRoute('/api/mhgu/monsters', '', function (render, req, res) {
+    this.routeUtils.addRoute('/api/mhgu/monsters', '', function (
+      render,
+      req,
+      res
+    ) {
       if (req.query.key == self.config['api']['token']) {
-        res.json(data.monster_map.raw);
+        res.json(self.monster_map.raw);
       } else {
         res.json({ error: '403 Unauthorized' });
       }
@@ -25,7 +37,7 @@ class API {
       res
     ) {
       if (req.query.key == self.config['api']['token']) {
-        res.json(data.weapon_map.raw);
+        res.json(self.weapon_map.raw);
       } else {
         res.json({ error: '403 Unauthorized' });
       }
@@ -33,4 +45,4 @@ class API {
   }
 }
 
-module.exports = new API();
+module.exports = new Router();

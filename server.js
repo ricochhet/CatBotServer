@@ -10,14 +10,9 @@ const pjson = require('./package.json');
 const database = require('./api/database/router');
 const queries = require('./queries');
 
-const mhw_data = require('./api/monhun/mhw/data');
-const mhw_router = require('./api/monhun/mhw/router');
-
-const mhgu_data = require('./api/monhun/mhgu/data');
-const mhgu_router = require('./api/monhun/mhgu/router');
-
-const catfact_data = require('./api/catfacts/data');
-const catfact_router = require('./api/catfacts/router');
+const mhwRoute = require('./api/monhun/mhw');
+const mhguRoute = require('./api/monhun/mhgu');
+const catfactRoute = require('./api/catfacts/catfact');
 
 logger.config({
   autoNewLine: true,
@@ -26,9 +21,9 @@ logger.config({
 
 logger.log(`Running on v${pjson.version}`);
 
-mhw_data.setup(mapUtils);
-mhgu_data.setup(mapUtils);
-catfact_data.setup(mapUtils);
+mhwRoute.setup(mapUtils);
+mhguRoute.setup(mapUtils);
+catfactRoute.setup(mapUtils);
 
 routeUtils.makeRouter(
   config['server']['port'],
@@ -51,65 +46,73 @@ commandUtils.cmd('--config', function () {
   logger.log(stringUtils.jsonStringify(config));
 });
 
+commandUtils.cmd('--newtoken', function () {
+  const key = stringUtils.generateUUID();
+  let json = config;
+  json.api.token = key;
+
+  mapUtils.writeFile('./config.json', json);
+  logger.log(`New key generated and saved: ${key}`);
+});
+
 if (config['api']['api_database']) {
   logger.log('Running database queries.');
   queries.initialize();
 }
 
 if (config['api']['client']) {
-  const mhw_datafile = require('./api/monhun/mhw/data');
-  const mhw_armors = require('./client/server/mhw/armors');
-  const mhw_decorations = require('./client/server/mhw/decorations');
-  const mhw_items = require('./client/server/mhw/items');
-  const mhw_monsters = require('./client/server/mhw/monsters');
-  const mhw_skills = require('./client/server/mhw/skills');
-  const mhw_weapons = require('./client/server/mhw/weapons');
+  const mhw_armors = require('./client/routes/mhw/armors');
+  const mhw_decorations = require('./client/routes/mhw/decorations');
+  const mhw_items = require('./client/routes/mhw/items');
+  const mhw_monsters = require('./client/routes/mhw/monsters');
+  const mhw_skills = require('./client/routes/mhw/skills');
+  const mhw_weapons = require('./client/routes/mhw/weapons');
 
   routeUtils.addRoute('/', 'main.ejs', function (render, req, res) {
     res.render(render, {
-      MHW_OBJECTS: mhw_datafile.objects,
-      MHW_DECO_ARRAY: mhw_datafile.decoration_names,
-      MHW_MONSTER_ARRAY: mhw_datafile.monster_names,
-      MHW_WEAPON_ARRAY: mhw_datafile.weapon_names,
-      MHW_ARMOR_ARRAY: mhw_datafile.armor_names,
-      MHW_SKILL_ARRAY: mhw_datafile.skill_names,
-      MHW_ITEM_ARRAY: mhw_datafile.item_names
+      MHW_OBJECTS: mhwRoute.objects,
+      MHW_DECO_ARRAY: mhwRoute.decoration_names,
+      MHW_MONSTER_ARRAY: mhwRoute.monster_names,
+      MHW_WEAPON_ARRAY: mhwRoute.weapon_names,
+      MHW_ARMOR_ARRAY: mhwRoute.armor_names,
+      MHW_SKILL_ARRAY: mhwRoute.skill_names,
+      MHW_ITEM_ARRAY: mhwRoute.item_names
     });
   });
 
   mhw_armors.route(
     'http://localhost:8080/api/mhw/armors',
-    mhw_datafile.data,
+    mhwRoute.data,
     config['api']['token']
   );
 
   mhw_decorations.route(
     'http://localhost:8080/api/mhw/decorations',
-    mhw_datafile.data,
+    mhwRoute.data,
     config['api']['token']
   );
 
   mhw_items.route(
     'http://localhost:8080/api/mhw/items',
-    mhw_datafile.data,
+    mhwRoute.data,
     config['api']['token']
   );
 
   mhw_monsters.route(
     'http://localhost:8080/api/mhw/monsters',
-    mhw_datafile.data,
+    mhwRoute.data,
     config['api']['token']
   );
 
   mhw_skills.route(
     'http://localhost:8080/api/mhw/skills',
-    mhw_datafile.data,
+    mhwRoute.data,
     config['api']['token']
   );
 
   mhw_weapons.route(
     'http://localhost:8080/api/mhw/weapons',
-    mhw_datafile.data,
+    mhwRoute.data,
     config['api']['token']
   );
 
@@ -119,22 +122,22 @@ if (config['api']['client']) {
   routeUtils.addRoute('/', '');
 }
 
-mhw_router.routeUtils = routeUtils;
-mhgu_router.routeUtils = routeUtils;
-catfact_router.routeUtils = routeUtils;
+mhwRoute.routeUtils = routeUtils;
+mhguRoute.routeUtils = routeUtils;
+catfactRoute.routeUtils = routeUtils;
 
-mhw_router.config = config;
-mhgu_router.config = config;
-catfact_router.config = config;
+mhwRoute.config = config;
+mhguRoute.config = config;
+catfactRoute.config = config;
 
-mhw_router.armors();
-mhw_router.decorations();
-mhw_router.items();
-mhw_router.monsters();
-mhw_router.skills();
-mhw_router.weapons();
+mhwRoute.armors();
+mhwRoute.decorations();
+mhwRoute.items();
+mhwRoute.monsters();
+mhwRoute.skills();
+mhwRoute.weapons();
 
-mhgu_router.monsters();
-mhgu_router.weapons();
+mhguRoute.monsters();
+mhguRoute.weapons();
 
-catfact_router.catfacts();
+catfactRoute.catfacts();

@@ -31,12 +31,6 @@
     <nav>
       <a class="navigation-bar--link" href="https://catbot.xyz">Bot</a>
       <a class="navigation-bar--link" href="https://discord.gg/srNyk8G">Support</a>
-      <div class="toggle-switch__container">
-        <label class="toggle-switch" for="checkbox">
-          <input class="toggle-switch__input" type="checkbox" id="checkbox" />
-          <div class="toggle-switch__slider toggle-switch__round"></div>
-        </label>
-      </div>
       <form autocomplete="off" id="search-bar" class="form-input__label">
         <div class="dropdown-container">
           <input class="form-input form-input__right-margin" type="text" id="search-input" placeholder="Search..."
@@ -108,7 +102,6 @@
 </body>
 <script src="/mint.js"></script>
 <script>
-  _toggleTheme();
   _searchCompletion(`<%- MHW_OBJECTS %>`.split(','), function (input, finalInput) {
     if (`<%- MHW_DECO_ARRAY %>`.split(',').includes(input)) { window.location.href = `/mhw/decorations/${finalInput.split('/').join('+')}`; }
     if (`<%- MHW_MONSTER_ARRAY %>`.split(',').includes(input)) { window.location.href = `/mhw/monsters/${finalInput}`; }
