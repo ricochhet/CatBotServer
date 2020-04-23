@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 class API {
-  constructor(routeUtils, config) {
+  setup(routeUtils, config) {
     this.routeUtils = routeUtils;
     this.config = config;
   }

@@ -8,6 +8,8 @@ const config = require('./config.json');
 const pjson = require('./package.json');
 
 const database = require('./api/database/router');
+database.setup(routeUtils, config);
+
 const queries = require('./queries');
 
 const mhwRoute = require('./api/monhun/mhw');
@@ -21,18 +23,15 @@ logger.config({
 
 logger.log(`Running on v${pjson.version}`);
 
-mhwRoute.setup(mapUtils);
-mhguRoute.setup(mapUtils);
-catfactRoute.setup(mapUtils);
+mhwRoute.setup(mapUtils, routeUtils, config);
+mhguRoute.setup(mapUtils, routeUtils, config);
+catfactRoute.setup(mapUtils, routeUtils, config);
 
 routeUtils.makeRouter(
   config['server']['port'],
   config['server']['public'],
   config['server']['views']
 );
-
-database.routeUtils = routeUtils;
-database.config = config;
 
 commandUtils.cmd('--nocli', function () {
   config['api']['client'] = false;
@@ -121,14 +120,6 @@ if (config['api']['client']) {
   logger.log('Running in clientless mode.');
   routeUtils.addRoute('/', '');
 }
-
-mhwRoute.routeUtils = routeUtils;
-mhguRoute.routeUtils = routeUtils;
-catfactRoute.routeUtils = routeUtils;
-
-mhwRoute.config = config;
-mhguRoute.config = config;
-catfactRoute.config = config;
 
 mhwRoute.armors();
 mhwRoute.decorations();

@@ -1,11 +1,9 @@
 class Router {
-  constructor(routeUtils, config) {
+  setup(mapUtils, routeUtils, config) {
+    this.mapUtils = mapUtils;
     this.routeUtils = routeUtils;
     this.config = config;
-  }
 
-  setup(mapUtils) {
-    this.mapUtils = mapUtils;
     this.catfact = mapUtils.buildMap('./databases/catfact_data/catfacts.json');
   }
 
