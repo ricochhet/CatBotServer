@@ -118,7 +118,7 @@ class Router {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.armor_map.raw);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }
@@ -133,7 +133,7 @@ class Router {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.decoration_map.raw);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }
@@ -144,7 +144,7 @@ class Router {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.item_map.raw);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }
@@ -197,7 +197,7 @@ class Router {
 
         res.json(array);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }
@@ -212,7 +212,7 @@ class Router {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.skill_map.raw);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }
@@ -227,7 +227,7 @@ class Router {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.weapon_map.raw);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }

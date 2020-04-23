@@ -24,7 +24,7 @@ class Router {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.monster_map.raw);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }
@@ -39,7 +39,7 @@ class Router {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.weapon_map.raw);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }

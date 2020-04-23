@@ -3,18 +3,15 @@ const mapUtils = require('../../../util/mapUtils');
 
 class RouteWeapons {
   route(url, data, key) {
-    routeUtils
-      .fetch(`${url}?key=${key}`)
-      .then(function (r) {
-        const map = mapUtils.buildMap(r, {
-          raw: true
-        }).map;
+    routeUtils.fetch(`${url}?key=${key}`).then(function (r) {
+      const map = mapUtils.buildMap(r, {
+        raw: true
+      }).map;
 
-        routeUtils.addRoute('/mhw/weapons', 'pages/mhw/weapon_list.ejs', function (
-          render,
-          req,
-          res
-        ) {
+      routeUtils.addRoute(
+        '/mhw/weapons',
+        'pages/mhw/weapon_list.ejs',
+        function (render, req, res) {
           let id = req.query.id;
           if (id == null || (id > 14 && id < 0)) {
             id = 0;
@@ -83,7 +80,11 @@ class RouteWeapons {
           );
           const filtered_bow = mapUtils.search(weapon_array, 'type', 'bow');
           const filtered_lance = mapUtils.search(weapon_array, 'type', 'lance');
-          const filtered_hammer = mapUtils.search(weapon_array, 'type', 'hammer');
+          const filtered_hammer = mapUtils.search(
+            weapon_array,
+            'type',
+            'hammer'
+          );
           const weapon_list = [
             filtered_great_sword,
             filtered_sword_and_shield,
@@ -112,72 +113,70 @@ class RouteWeapons {
             MHW_SKILL_ARRAY: data.skill_names,
             MHW_ITEM_ARRAY: data.item_names
           });
-        });
+        }
+      );
 
-        routeUtils.addRoute(
-          '/mhw/weapons/:id',
-          'pages/mhw/weapon_info.ejs',
-          function (render, req, res) {
-            if (map.has(req.params.id)) {
-              const weapon = map.get(req.params.id);
-              let coatingArray = '-';
-              if (
-                Array.isArray(weapon.coatings) &&
-                weapon.coatings.length > 0
-              ) {
-                coatingArray = weapon.coatings.join('<br>');
-              } else {
-                coatingArray = weapon.coatings;
-              }
-
-              let slotsArray = '-';
-              if (Array.isArray(weapon.slots) && weapon.slots.length > 0) {
-                let arr = [];
-
-                for (const i in weapon.slots) {
-                  arr.push(`Rank: ${weapon.slots[i].rank}`);
-                }
-                slotsArray = arr.join('<br>');
-              } else {
-                slotsArray = weapon.slots;
-              }
-
-              res.render(render, {
-                ICON_MAP: data.icons,
-                ICON: data.icons.get(weapon.type),
-                WEAPON_NAME: weapon.name,
-                WEAPON_TYPE: weapon.type,
-                WEAPON_RARITY: weapon.rarity,
-                WEAPON_DISPLAYATTACK: weapon.displayAttack,
-                WEAPON_RAWATTACK: weapon.rawAttack,
-                WEAPON_DMGTYPE: weapon.damageType,
-                WEAPON_AFFINITY: weapon.affinity,
-                WEAPON_DEFENSE: weapon.defense,
-                WEAPON_SHARPNESS: weapon.sharpness,
-                WEAPON_ELDERSEAL: weapon.elderseal,
-                WEAPON_SHELLING: weapon.shelling,
-                WEAPON_SPECIALAMMO: weapon.specialAmmo,
-                WEAPON_DEVIATION: weapon.deviation,
-                WEAPON_AMMOS: weapon.ammos,
-                WEAPON_ELEMENTS: weapon.elements,
-                WEAPON_SLOTS: slotsArray,
-                WEAPON_COATINGS: coatingArray,
-                WEAPON_CRAFTING: weapon.crafting,
-                WEAPON_UPGRADE: weapon.upgrade,
-                MHW_OBJECTS: data.objects,
-                MHW_DECO_ARRAY: data.decoration_names,
-                MHW_MONSTER_ARRAY: data.monster_names,
-                MHW_WEAPON_ARRAY: data.weapon_names,
-                MHW_ARMOR_ARRAY: data.armor_names,
-                MHW_SKILL_ARRAY: data.skill_names,
-                MHW_ITEM_ARRAY: data.item_names
-              });
+      routeUtils.addRoute(
+        '/mhw/weapons/:id',
+        'pages/mhw/weapon_info.ejs',
+        function (render, req, res) {
+          if (map.has(req.params.id)) {
+            const weapon = map.get(req.params.id);
+            let coatingArray = '-';
+            if (Array.isArray(weapon.coatings) && weapon.coatings.length > 0) {
+              coatingArray = weapon.coatings.join('<br>');
             } else {
-              res.render('errors/404.ejs');
+              coatingArray = weapon.coatings;
             }
+
+            let slotsArray = '-';
+            if (Array.isArray(weapon.slots) && weapon.slots.length > 0) {
+              let arr = [];
+
+              for (const i in weapon.slots) {
+                arr.push(`Rank: ${weapon.slots[i].rank}`);
+              }
+              slotsArray = arr.join('<br>');
+            } else {
+              slotsArray = weapon.slots;
+            }
+
+            res.render(render, {
+              ICON_MAP: data.icons,
+              ICON: data.icons.get(weapon.type),
+              WEAPON_NAME: weapon.name,
+              WEAPON_TYPE: weapon.type,
+              WEAPON_RARITY: weapon.rarity,
+              WEAPON_DISPLAYATTACK: weapon.displayAttack,
+              WEAPON_RAWATTACK: weapon.rawAttack,
+              WEAPON_DMGTYPE: weapon.damageType,
+              WEAPON_AFFINITY: weapon.affinity,
+              WEAPON_DEFENSE: weapon.defense,
+              WEAPON_SHARPNESS: weapon.sharpness,
+              WEAPON_ELDERSEAL: weapon.elderseal,
+              WEAPON_SHELLING: weapon.shelling,
+              WEAPON_SPECIALAMMO: weapon.specialAmmo,
+              WEAPON_DEVIATION: weapon.deviation,
+              WEAPON_AMMOS: weapon.ammos,
+              WEAPON_ELEMENTS: weapon.elements,
+              WEAPON_SLOTS: slotsArray,
+              WEAPON_COATINGS: coatingArray,
+              WEAPON_CRAFTING: weapon.crafting,
+              WEAPON_UPGRADE: weapon.upgrade,
+              MHW_OBJECTS: data.objects,
+              MHW_DECO_ARRAY: data.decoration_names,
+              MHW_MONSTER_ARRAY: data.monster_names,
+              MHW_WEAPON_ARRAY: data.weapon_names,
+              MHW_ARMOR_ARRAY: data.armor_names,
+              MHW_SKILL_ARRAY: data.skill_names,
+              MHW_ITEM_ARRAY: data.item_names
+            });
+          } else {
+            res.render(routeUtils.statusCodeRenders.get(404));
           }
-        );
-      });
+        }
+      );
+    });
   }
 }
 

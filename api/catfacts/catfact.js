@@ -15,7 +15,7 @@ class Router {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.catfact.raw);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }

@@ -52,7 +52,7 @@ class API {
         const json = JSON.parse(fs.readFileSync(database_file, 'utf8'));
         res.json(json);
       } else {
-        res.json({ error: '403 Unauthorized' });
+        res.json({ error: self.routeUtils.statusCode('403') });
       }
     });
   }

@@ -5,8 +5,16 @@ const bodyParser = require('body-parser');
 const router = express.Router();
 const session = require('express-session');
 const cors = require('cors');
+const statusCodes = require('./managers/statusCodes');
 
 class RouteUtils {
+  constructor() {
+    this.statusCodeRenders = new Map([
+      [404, 'errors/404.ejs'],
+      [403, 'errors/403.ejs']
+    ]);
+  }
+
   fetch(url) {
     return new Promise(function (resolve, reject) {
       http
@@ -28,6 +36,11 @@ class RouteUtils {
           console.error(error.message);
         });
     });
+  }
+
+  statusCode(str = '') {
+    const code = str.toString();
+    return statusCodes.get_code(code);
   }
 
   makeRouter(port, assets, views) {
@@ -69,7 +82,7 @@ class RouteUtils {
 
   addAuthUtil(req, res, next) {
     if (!req.session.user_id) {
-      res.render('errors/403.ejs');
+      res.render(this.statusCodeRenders.get(403));
     } else {
       next();
     }
@@ -88,8 +101,10 @@ class RouteUtils {
   }
 
   handleErrors() {
+    const self = this;
+
     app.use(function (req, res, next) {
-      res.status(404).render('errors/404.ejs');
+      res.status(404).render(self.statusCodeRenders.get(404));
     });
   }
 }
