@@ -8,7 +8,7 @@ class RouteDecorations {
         raw: true
       }).map;
 
-      routeUtils.addRoute(
+      routeUtils.get(
         '/mhw/decorations',
         'pages/mhw/decoration_list.ejs',
         function (render, req, res) {
@@ -25,7 +25,7 @@ class RouteDecorations {
         }
       );
 
-      routeUtils.addRoute(
+      routeUtils.get(
         '/mhw/decorations/:id',
         'pages/mhw/decoration_info.ejs',
         function (render, req, res) {

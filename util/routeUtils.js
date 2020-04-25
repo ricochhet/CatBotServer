@@ -43,7 +43,7 @@ class RouteUtils {
     return statusCodes.get_code(code);
   }
 
-  makeRouter(port, assets, views) {
+  start(port, assets, views) {
     http.Server(app).listen(`${port}`, function () {
       console.log('Listening on *:' + port);
     });
@@ -66,21 +66,21 @@ class RouteUtils {
     );
   }
 
-  addRoute(path, render, functionObject) {
+  get(path, render, functionObject) {
     router.get(path, (req, res, next) => {
       const thisRender = render;
       functionObject(thisRender, req, res);
     });
   }
 
-  addExtendedRoute(path, render, functionObject, authObject) {
+  addAuthGet(path, render, functionObject, authObject) {
     router.get(path, authObject, function (req, res) {
       const thisRender = render;
       functionObject(thisRender, req, res, authObject);
     });
   }
 
-  addAuthUtil(req, res, next) {
+  next(req, res, next) {
     if (!req.session.user_id) {
       res.render(this.statusCodeRenders.get(403));
     } else {
@@ -88,19 +88,19 @@ class RouteUtils {
     }
   }
 
-  addPost(path, functionObject) {
+  post(path, functionObject) {
     app.post(path, (req, res) => {
       functionObject(req, res);
     });
   }
 
-  addDelete(path, functionObject) {
+  delete(path, functionObject) {
     app.delete(path, (req, res) => {
       functionObject(req, res);
     });
   }
 
-  handleErrors() {
+  errors() {
     const self = this;
 
     app.use(function (req, res, next) {

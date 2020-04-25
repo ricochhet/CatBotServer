@@ -125,7 +125,7 @@ Barroth Shredder I,great-sword,FALSE,110,100,40,40,60,0,0
 Barroth Shredder II,great-sword,FALSE,100,100,40,40,70,0,0
 Barroth Shredder III,great-sword,FALSE,110,120,40,50,80,0,0
 Barroth Greatedge I,great-sword,FALSE,130,100,30,30,80,30,0
-Barroth Greatedge II,great-sword,FALSE,130,100,30,30,80,30,0
+Barroth Greatedge II,great-sword,FALSE,70,60,60,100,80,30,0
 Acid Shredder I,great-sword,FALSE,160,100,30,30,50,30,0
 Acid Shredder II,great-sword,FALSE,60,50,110,90,60,20,10
 Spiked Blade I,great-sword,FALSE,120,70,30,80,0,0,0
@@ -141,7 +141,7 @@ Dragonbone Cleaver I,great-sword,FALSE,110,70,30,90,0,0,0
 Dragonbone Cleaver II,great-sword,FALSE,100,70,30,100,0,0,0
 Dragonbone Cleaver III,great-sword,FALSE,120,110,40,40,70,20,0
 Dragonseal Sword I,great-sword,FALSE,130,100,30,30,80,30,0
-Dragonseal Sword II,great-sword,FALSE,130,100,30,30,80,30,0
+Dragonseal Sword II,great-sword,FALSE,70,60,60,100,80,30,0
 Immovable Dharma,great-sword,FALSE,170,30,30,60,50,30,30
 Thundersword,great-sword,FALSE,60,50,80,110,0,0,0
 Kirin Thundersword,great-sword,FALSE,110,20,20,160,90,0,0
@@ -174,6 +174,12 @@ Empress Galea,great-sword,FALSE,110,30,60,80,40,80,0
 Frozen Speartuna,great-sword,FALSE,110,30,30,110,40,80,0
 Freezer Speartuna,great-sword,FALSE,90,30,30,110,40,100,0
 Xiphias Gladius,great-sword,FALSE,70,30,30,110,40,120,0
+Demon Rod,great-sword,FALSE,110,100,40,50,50,50,0
+Great Demon Rod,great-sword,FALSE,100,100,40,50,60,50,0
+Demonlord Goldrod,great-sword,FALSE,120,20,20,70,40,30,100
+Infernal Executioner,great-sword,FALSE,150,20,20,70,40,30,70
+Infernal Executioner+,great-sword,FALSE,130,20,20,70,40,30,90
+Lightbreak Blade,great-sword,TRUE,150,30,90,30,30,50,20
 Guild Palace Blade,great-sword,FALSE,150,30,30,60,50,50,30
 Royal Venus Blade,great-sword,FALSE,150,30,30,60,50,30,50
 Defender Katana I,long-sword,FALSE,30,60,20,140,0,0,0
@@ -315,7 +321,7 @@ Dragonbone Stabber I,long-sword,FALSE,110,70,30,90,0,0,0
 Dragonbone Stabber II,long-sword,FALSE,100,70,30,100,0,0,0
 Dragonbone Stabber III,long-sword,FALSE,150,100,30,30,60,30,0
 Dragonseal Aldblade I,long-sword,FALSE,130,100,30,30,80,30,0
-Dragonseal Aldblade II,long-sword,FALSE,130,100,30,30,80,30,0
+Dragonseal Aldblade II,long-sword,FALSE,70,60,60,100,80,30,0
 Radiant Flow,long-sword,FALSE,170,30,30,60,50,30,30
 Magda Facultas I,long-sword,FALSE,110,50,80,100,10,0,0
 Magda Facultas II,long-sword,FALSE,210,30,40,90,30,0,0
@@ -343,6 +349,12 @@ Empress Sword,long-sword,FALSE,110,30,60,80,40,80,0
 "Soulfire Lash ""Ruin""",long-sword,FALSE,120,30,90,30,30,80,20
 "Empress Sword ""Styx""",long-sword,FALSE,110,30,60,80,40,80,0
 "Soulfire Lash ""Styx""",long-sword,FALSE,120,30,90,30,30,80,20
+Demon Halberd,long-sword,FALSE,110,100,40,50,50,50,0
+Great Demon Halberd,long-sword,FALSE,100,100,40,50,60,50,0
+Demonlord Halberd,long-sword,FALSE,120,20,20,70,40,30,100
+Brimstren Drakebone,long-sword,FALSE,150,20,20,70,40,30,70
+Stygian Gula,long-sword,FALSE,130,20,20,70,40,30,90
+Lightbreak Edge,long-sword,TRUE,150,30,90,30,30,50,20
 Mad Scavenger Pickaxe,long-sword,FALSE,110,30,30,110,40,80,0
 Demon Scavenger Pickaxe,long-sword,FALSE,90,30,30,110,40,100,0
 Guild Palace Rapier,long-sword,FALSE,150,30,30,60,50,50,30
@@ -365,7 +377,7 @@ Chrome Knight Sword II,sword-and-shield,FALSE,70,80,30,30,80,110,0
 Chrome Knight Sword III,sword-and-shield,FALSE,110,30,30,60,50,90,30
 Nergal Jack,sword-and-shield,TRUE,110,120,40,50,80,0,0
 Eradication Vanguard,sword-and-shield,TRUE,90,120,40,50,100,0,0
-Ruinous Eradication,sword-and-shield,TRUE,70,30,30,110,40,120,0
+Ruinous Madness,sword-and-shield,TRUE,70,30,30,110,40,120,0
 Flame Knife I,sword-and-shield,FALSE,60,50,80,110,0,0,0
 Flame Knife II,sword-and-shield,FALSE,100,50,80,100,20,0,0
 Heat Edge,sword-and-shield,FALSE,90,50,50,80,80,0,0
@@ -526,6 +538,12 @@ Empress Edge,sword-and-shield,FALSE,90,30,60,80,40,100,0
 Witcher's Silver Sword,sword-and-shield,TRUE,250,20,20,20,30,60,0
 Witcher's Silver Sword+,sword-and-shield,TRUE,240,20,20,20,30,70,0
 Witcher's Silver Sword++,sword-and-shield,TRUE,50,30,30,110,40,140,0
+Rajang Club,sword-and-shield,FALSE,100,100,40,50,60,50,0
+Banned Rajang Club,sword-and-shield,FALSE,90,100,40,50,70,50,0
+Demonlord Mace,sword-and-shield,FALSE,110,20,20,70,40,30,110
+Brimstren Drakescale,sword-and-shield,FALSE,130,20,20,70,40,30,90
+Stygian Luxuria,sword-and-shield,FALSE,100,20,20,70,40,30,120
+Lightbreak Sword,sword-and-shield,TRUE,140,30,30,60,50,60,30
 Guild Palace Sword,sword-and-shield,FALSE,140,30,30,60,50,60,30
 Royal Nova Sword,sword-and-shield,FALSE,140,30,30,60,50,40,50
 Defender Chainsaws I,dual-blades,FALSE,30,60,20,140,0,0,0
@@ -702,6 +720,14 @@ Downy Crake Love,dual-blades,FALSE,90,50,50,80,130,0,0
 Downy Paradise,dual-blades,FALSE,40,80,30,30,80,140,0
 Zireael,dual-blades,FALSE,230,20,20,20,30,80,0
 Zireael+,dual-blades,FALSE,140,20,20,70,40,30,80
+Suzuka Takamaru,dual-blades,FALSE,90,100,40,50,70,50,0
+Suzuka Otakemaru,dual-blades,FALSE,80,100,40,50,80,50,0
+Demonlord Hellfists,dual-blades,FALSE,110,20,20,70,40,30,110
+Drakespirit Hellclaws,dual-blades,FALSE,130,20,20,70,40,30,90
+Stygian Bloodclaws,dual-blades,FALSE,100,20,20,70,40,30,120
+Lightbreak Twins,dual-blades,TRUE,140,30,30,60,50,60,30
+Whetfish Sabers,dual-blades,TRUE,80,50,110,90,40,20,10
+Whetfish Sabers+,dual-blades,TRUE,170,30,30,60,50,30,30
 Guild Palace Sabers,dual-blades,FALSE,130,30,30,60,50,70,30
 Royal Savior Daggers,dual-blades,FALSE,130,30,30,60,50,50,50
 Defender Warhammer I,hammer,FALSE,30,60,20,140,0,0,0
@@ -832,7 +858,7 @@ Barroth Breaker I,hammer,FALSE,130,70,30,100,20,0,0
 Barroth Breaker II,hammer,FALSE,110,70,30,100,40,0,0
 Barroth Breaker III,hammer,FALSE,110,120,40,50,80,0,0
 Barroth Crusher I,hammer,FALSE,130,100,30,30,80,30,0
-Barroth Crusher II,hammer,FALSE,130,100,30,30,80,30,0
+Barroth Crusher II,hammer,FALSE,70,60,60,100,80,30,0
 Dios Tailhammer,hammer,FALSE,100,100,40,50,60,50,0
 Brachy Tailhammer,hammer,FALSE,90,30,30,110,40,100,0
 Blazing Hammer I,hammer,FALSE,120,70,30,80,0,0,0
@@ -848,7 +874,7 @@ Dragonbone Basher I,hammer,FALSE,110,70,30,90,0,0,0
 Dragonbone Basher II,hammer,FALSE,70,70,30,130,0,0,0
 Dragonbone Basher III,hammer,FALSE,120,110,40,40,70,20,0
 Dragonseal Basher I,hammer,FALSE,130,100,30,30,80,30,0
-Dragonseal Hammer II,hammer,FALSE,130,100,30,30,80,30,0
+Dragonseal Hammer II,hammer,FALSE,70,60,60,100,80,30,0
 Dawning Tranquility,hammer,FALSE,170,30,30,60,50,30,30
 Magda Floga,hammer,FALSE,110,50,80,100,10,0,0
 Ragefire Magda Floga,hammer,FALSE,190,30,60,80,40,0,0
@@ -872,6 +898,12 @@ Empress Mace,hammer,FALSE,110,30,60,80,40,80,0
 "Soulfire Heel ""Ruin""",hammer,FALSE,120,30,90,30,30,80,20
 "Empress Mace ""Styx""",hammer,FALSE,110,30,60,80,40,80,0
 "Soulfire Heel ""Styx""",hammer,FALSE,120,30,90,30,30,80,20
+Mane Malice,hammer,FALSE,110,100,40,50,50,50,0
+Mane Malice Rajang,hammer,FALSE,100,100,40,50,60,50,0
+Demonlord Sledge,hammer,FALSE,120,20,20,70,40,30,100
+Brimstren Drakemaw,hammer,FALSE,150,20,20,70,40,30,70
+Stygian Industria,hammer,FALSE,130,20,20,70,40,30,90
+Lightbreak Hammer,hammer,TRUE,150,30,90,30,30,50,20
 Bristly Pincushion,hammer,FALSE,60,50,80,110,0,0,0
 Bristly Grudge,hammer,FALSE,110,50,50,80,110,0,0
 Bristly Inferno,hammer,FALSE,60,30,30,110,40,130,0
@@ -1024,7 +1056,7 @@ Dragonbone Auldhorn I,hunting-horn,FALSE,110,70,30,90,0,0,0
 Dragonbone Auldhorn II,hunting-horn,FALSE,70,70,30,130,0,0,0
 Dragonbone Auldhorn III,hunting-horn,FALSE,120,110,40,40,70,20,0
 Dragonseal Aldhorn I,hunting-horn,FALSE,130,100,30,30,80,30,0
-Dragonseal Aldhorn II,hunting-horn,FALSE,130,100,30,30,80,30,0
+Dragonseal Aldhorn II,hunting-horn,FALSE,70,60,60,100,80,30,0
 Austere Paradise,hunting-horn,FALSE,170,30,30,60,50,30,30
 Thundercry Horn,hunting-horn,FALSE,60,50,80,110,0,0,0
 Thunderbolt Horn I,hunting-horn,FALSE,110,20,20,150,100,0,0
@@ -1047,6 +1079,12 @@ Empress Roar,hunting-horn,FALSE,110,30,60,80,40,80,0
 "Soulfire Chorus ""Ruin""",hunting-horn,FALSE,120,30,90,30,30,80,20
 "Empress Roar ""Styx""",hunting-horn,FALSE,110,30,60,80,40,80,0
 "Soulfire Chorus ""Styx""",hunting-horn,FALSE,120,30,90,30,30,80,20
+Denden Daiko,hunting-horn,FALSE,110,100,40,50,50,50,0
+Denden Doomsounder,hunting-horn,FALSE,100,100,40,50,60,50,0
+Demonlord Wardrum,hunting-horn,FALSE,120,20,20,70,40,30,100
+Brimstren Drakesong,hunting-horn,FALSE,150,20,20,70,40,30,70
+Stygian Tristitia,hunting-horn,FALSE,130,20,20,70,40,30,90
+Lightbreak Timbre,hunting-horn,TRUE,150,30,90,30,30,50,20
 Guild Palace Bard,hunting-horn,FALSE,150,30,30,60,50,50,30
 Royal Song Symphony,hunting-horn,FALSE,140,30,30,60,50,40,50
 Defender Lance I,lance,FALSE,30,60,20,140,0,0,0
@@ -1156,7 +1194,7 @@ Barroth Stinger I,lance,FALSE,130,70,30,100,20,0,0
 Barroth Stinger II,lance,FALSE,110,70,30,100,40,0,0
 Barroth Stinger III,lance,FALSE,100,120,40,50,90,0,0
 Barroth Halberd I,lance,FALSE,130,100,30,30,80,30,0
-Barroth Halberd II,lance,FALSE,130,100,30,30,80,30,0
+Barroth Halberd II,lance,FALSE,70,60,60,100,80,30,0
 Dios Halberd I,lance,FALSE,100,100,40,50,60,50,0
 Dios Halberd II,lance,FALSE,100,30,30,110,40,90,0
 Garon Lance I,lance,FALSE,90,70,30,110,0,0,0
@@ -1185,7 +1223,7 @@ Dragonbone Lance I,lance,FALSE,110,70,30,90,0,0,0
 Dragonbone Lance II,lance,FALSE,70,70,30,130,0,0,0
 Dragonbone Lance III,lance,FALSE,120,110,40,40,70,20,0
 Dragonseal Aldspear I,lance,FALSE,130,100,30,30,80,30,0
-Dragonseal Aldspear II,lance,FALSE,130,100,30,30,80,30,0
+Dragonseal Aldspear II,lance,FALSE,70,60,60,100,80,30,0
 Unblinking Gatekeeper,lance,FALSE,170,30,30,60,50,30,30
 Rookslayer Lance,lance,FALSE,110,100,40,40,60,0,0
 Bazel Myniad Rookslayer,lance,FALSE,70,120,80,60,20,50,0
@@ -1220,6 +1258,12 @@ Shining Star Lance,lance,FALSE,60,80,30,30,80,120,0
 Fair Wind Lance,lance,FALSE,60,50,80,110,0,0,0
 White Wind Lance,lance,FALSE,220,20,20,20,30,90,0
 Sweeping Gale Lance,lance,FALSE,70,80,30,30,80,110,0
+Demon Lance,lance,FALSE,110,100,40,50,50,50,0
+Great Demon Lance,lance,FALSE,100,100,40,50,60,50,0
+Demonlord Rajang,lance,FALSE,120,20,20,70,40,30,100
+Infernal Warlance,lance,FALSE,140,20,20,70,40,30,80
+Infernal Warlance+,lance,FALSE,110,20,20,70,40,30,110
+Lightbreak Lance,lance,TRUE,120,30,30,60,50,80,30
 Guild Palace Tower,lance,FALSE,150,30,30,60,50,50,30
 Royal Grace Pike,lance,FALSE,140,30,30,60,50,40,50
 Defender Gunlance I,gunlance,FALSE,30,60,20,140,0,0,0
@@ -1338,7 +1382,7 @@ Barroth Blaster I,gunlance,FALSE,120,70,30,100,30,0,0
 Barroth Blaster II,gunlance,FALSE,100,50,50,80,70,0,0
 Barroth Blaster III,gunlance,FALSE,120,70,30,100,80,0,0
 Barroth Bluff I,gunlance,FALSE,60,60,60,100,90,30,0
-Barroth Bluff II,gunlance,FALSE,60,60,60,100,90,30,0
+Barroth Bluff II,gunlance,FALSE,50,60,20,150,90,30,0
 Brachydios Buster I,gunlance,FALSE,90,100,40,50,70,50,0
 Brachydios Buster II,gunlance,FALSE,90,30,30,110,40,100,0
 Mammoth Gunlance I,gunlance,FALSE,80,50,50,80,140,0,0
@@ -1359,7 +1403,7 @@ Dragonbone Gunlance I,gunlance,FALSE,110,70,30,90,0,0,0
 Dragonbone Gunlance II,gunlance,FALSE,70,70,30,130,0,0,0
 Dragonbone Gunlance III,gunlance,FALSE,120,110,40,40,70,20,0
 Dragonseal Gunlance I,gunlance,FALSE,60,60,60,100,90,30,0
-Dragonseal Gunlance II,gunlance,FALSE,60,60,60,100,90,30,0
+Dragonseal Gunlance II,gunlance,FALSE,50,60,20,150,90,30,0
 Broken Silence,gunlance,FALSE,160,30,30,60,50,40,30
 Magda Lahat,gunlance,FALSE,110,50,80,100,10,0,0
 Earthshaker Magda Lahat,gunlance,FALSE,210,30,40,90,30,0,0
@@ -1382,6 +1426,12 @@ Empress Howl,gunlance,FALSE,100,30,60,80,40,90,0
 "Soulfire Talon ""Ruin""",gunlance,FALSE,110,30,90,30,30,90,20
 "Empress Howl ""Styx""",gunlance,FALSE,100,30,60,80,40,90,0
 "Soulfire Talon ""Styx""",gunlance,FALSE,110,30,90,30,30,90,20
+Demon Gunlance,gunlance,FALSE,100,100,40,50,60,50,0
+Great Demon Gunlance,gunlance,FALSE,90,100,40,50,70,50,0
+Demonlord Gunlance,gunlance,FALSE,110,20,20,70,40,30,110
+Brimstren Drakeblood,gunlance,FALSE,140,20,20,70,40,30,80
+Stygian Avaritia,gunlance,FALSE,110,20,20,70,40,30,110
+Lightbreak Gunlance,gunlance,TRUE,140,30,30,60,50,60,30
 Gajalaka Firestabber,gunlance,FALSE,60,100,40,40,160,0,0
 Gajalaka Firepike,gunlance,FALSE,40,100,40,40,180,0,0
 Guild Palace Order,gunlance,FALSE,140,30,30,60,50,60,30
@@ -1506,7 +1556,7 @@ Barroth Grinder I,switch-axe,FALSE,130,70,30,100,20,0,0
 Barroth Grinder II,switch-axe,FALSE,120,70,30,100,30,0,0
 Barroth Grinder III,switch-axe,FALSE,120,70,30,100,80,0,0
 Barroth Dozer I,switch-axe,FALSE,130,100,30,30,80,30,0
-Barroth Dozer II,switch-axe,FALSE,130,100,30,30,80,30,0
+Barroth Dozer II,switch-axe,FALSE,70,60,60,100,80,30,0
 Dios Smasher I,switch-axe,FALSE,90,100,40,50,70,50,0
 Dios Smasher II,switch-axe,FALSE,100,30,30,110,40,90,0
 Diablos Axe I,switch-axe,FALSE,100,70,30,100,0,0,0
@@ -1528,7 +1578,7 @@ Dragonbone Slicer I,switch-axe,FALSE,110,70,30,90,0,0,0
 Dragonbone Slicer II,switch-axe,FALSE,70,70,30,130,0,0,0
 Dragonbone Slicer III,switch-axe,FALSE,120,110,40,40,70,20,0
 Dragonseal Axe I,switch-axe,FALSE,130,100,30,30,80,30,0
-Dragonseal Axe II,switch-axe,FALSE,130,100,30,30,80,30,0
+Dragonseal Axe II,switch-axe,FALSE,70,60,60,100,80,30,0
 Evanescent Glow,switch-axe,FALSE,170,30,30,60,50,30,30
 Peal,switch-axe,FALSE,60,50,80,110,0,0,0
 Peal+,switch-axe,FALSE,110,20,20,150,100,0,0
@@ -1552,6 +1602,12 @@ Empress Axe,switch-axe,FALSE,110,30,60,80,40,80,0
 "Soulfire Scourge ""Ruin""",switch-axe,FALSE,120,30,90,30,30,80,20
 "Empress Axe ""Styx""",switch-axe,FALSE,110,30,60,80,40,80,0
 "Soulfire Scourge ""Styx""",switch-axe,FALSE,120,30,90,30,30,80,20
+Undying Axe,switch-axe,FALSE,110,100,40,50,50,50,0
+Undying Light,switch-axe,FALSE,100,100,40,50,60,50,0
+Demonlord Edge,switch-axe,FALSE,120,20,20,70,40,30,100
+Infernal Cleave-axe,switch-axe,FALSE,150,20,20,70,40,30,70
+Infernal Cleave-axe+,switch-axe,FALSE,130,20,20,70,40,30,90
+Lightbreak Axe,switch-axe,TRUE,150,30,90,30,30,50,20
 Guild Palace Cleaver,switch-axe,FALSE,150,30,30,60,50,50,30
 Royal Titan Axe,switch-axe,FALSE,140,30,30,60,50,40,50
 Defender Shield I,charge-blade,FALSE,30,60,20,140,0,0,0
@@ -1655,7 +1711,7 @@ Girros Nadja I,charge-blade,FALSE,110,100,40,40,60,0,0
 Girros Nadja II,charge-blade,FALSE,100,100,40,40,70,0,0
 Girros Nadja III,charge-blade,FALSE,110,110,40,40,80,20,0
 Naaga Ghadab I,charge-blade,FALSE,60,60,60,100,90,30,0
-Naaga Ghadab II,charge-blade,FALSE,60,60,60,100,90,30,0
+Naaga Ghadab II,charge-blade,FALSE,50,60,20,150,90,30,0
 Dios Strongarm,charge-blade,FALSE,90,30,30,110,40,100,0
 Volatile Blade,charge-blade,FALSE,80,30,30,110,40,110,0
 Hazak Aspida I,charge-blade,FALSE,130,110,40,40,60,20,0
@@ -1707,6 +1763,12 @@ Empress Alma,charge-blade,FALSE,100,30,60,80,40,90,0
 "Soulfire Brand ""Ruin""",charge-blade,FALSE,110,30,90,30,30,90,20
 "Empress Alma ""Styx""",charge-blade,FALSE,100,30,60,80,40,90,0
 "Soulfire Brand ""Styx""",charge-blade,FALSE,110,30,90,30,30,90,20
+Rajang Beastblade,charge-blade,FALSE,100,100,40,50,60,50,0
+Rajang Beastblade Ikazuchi,charge-blade,FALSE,90,100,40,50,70,50,0
+Demonlord Blade,charge-blade,FALSE,120,20,20,70,40,30,100
+Brimstren Drakeclaw,charge-blade,FALSE,130,20,20,70,40,30,90
+Stygian Maledicta,charge-blade,FALSE,100,20,20,70,40,30,120
+Lightbreak Charge Blade,charge-blade,TRUE,140,30,30,60,50,60,30
 Guild Palace Disc,charge-blade,FALSE,140,30,30,60,50,60,30
 Royal Star Shield,charge-blade,FALSE,140,30,30,60,50,40,50
 Defender Glaive I,insect-glaive,FALSE,30,60,20,140,0,0,0
@@ -1851,7 +1913,7 @@ Dragonbone Glaive I,insect-glaive,FALSE,110,70,30,90,0,0,0
 Dragonbone Glaive II,insect-glaive,FALSE,70,70,30,130,0,0,0
 Dragonbone Glaive III,insect-glaive,FALSE,120,110,40,40,70,20,0
 Dragonseal Aldstaff I,insect-glaive,FALSE,60,60,60,100,90,30,0
-Dragonseal Aldstaff II,insect-glaive,FALSE,60,60,60,100,90,30,0
+Dragonseal Aldstaff II,insect-glaive,FALSE,50,60,20,150,90,30,0
 Infinite Wisdom,insect-glaive,FALSE,160,30,30,60,50,40,30
 Indigo Flash,insect-glaive,FALSE,40,50,80,130,0,0,0
 Azure Bolt,insect-glaive,FALSE,110,20,20,140,110,0,0
@@ -1876,6 +1938,12 @@ Empress Cane,insect-glaive,FALSE,100,30,60,80,40,90,0
 "Soulfire Reach ""Ruin""",insect-glaive,FALSE,110,30,90,30,30,90,20
 "Empress Cane ""Styx""",insect-glaive,FALSE,100,30,60,80,40,90,0
 "Soulfire Reach ""Styx""",insect-glaive,FALSE,110,30,90,30,30,90,20
+Metal Mauler,insect-glaive,FALSE,100,100,40,50,60,50,0
+Metalmangler,insect-glaive,FALSE,90,100,40,50,70,50,0
+Demonlord Cudgel,insect-glaive,FALSE,110,20,20,70,40,30,110
+Brimstren Drakerod,insect-glaive,FALSE,130,20,20,70,40,30,90
+Stygian Oblivia,insect-glaive,FALSE,110,20,20,70,40,30,110
+Lightbreak Press,insect-glaive,TRUE,140,30,30,60,50,60,30
 Guild Palace Rod,insect-glaive,FALSE,140,30,30,60,50,60,30
 Royal March Banner,insect-glaive,FALSE,140,30,30,60,50,40,50
 Gold Water Fellsword,great-sword,FALSE,190,70,20,50,30,40,0
@@ -2240,3 +2308,102 @@ Crusher Gold Naginata,insect-glaive,FALSE,130,110,40,40,60,20,0
 "Kjárr Glaive ""Water""",insect-glaive,FALSE,50,50,60,120,80,40,0
 "Kjárr Glaive ""Ice""",insect-glaive,FALSE,90,30,60,80,40,100,0
 "Kjárr Glaive ""Paralysis""",insect-glaive,FALSE,240,20,20,20,30,70,0
+Safi's Hellsplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Aquasplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Boltsplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Frostsplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Draksplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Bindsplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Dreamsplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Shattersplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Venomsplitter,great-sword,FALSE,100,50,50,50,60,90,0
+Safi's Hellblade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Aquablade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Boltblade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Frostblade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Drakblade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Bindblade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Dreamblade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Shatterblade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Venomblade,long-sword,FALSE,100,50,50,50,60,90,0
+Safi's Hellfang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Aquafang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Boltfang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Frostfang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Drakfang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Bindfang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Dreamfang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Shatterfang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Venomfang,sword-and-shield,FALSE,100,50,50,50,60,90,0
+Safi's Hellclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Aquaclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Boltclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Frostclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Drakclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Bindclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Dreamclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Shatterclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Venomclaws,dual-blades,FALSE,100,50,50,50,60,90,0
+Safi's Hellcrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Aquacrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Boltcrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Frostcrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Drakcrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Bindcrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Dreamcrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Shattercrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Venomcrusher,hammer,FALSE,100,50,50,50,60,90,0
+Safi's Hellhorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Aquahorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Bolthorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Frosthorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Drakhorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Bindhorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Dreamhorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Shatterhorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Venomhorn,hunting-horn,FALSE,100,50,50,50,60,90,0
+Safi's Hellsnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Aquasnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Boltsnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Frostsnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Draksnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Bindsnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Dreamsnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Shattersnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Venomsnout,lance,FALSE,100,50,50,50,60,90,0
+Safi's Hellbuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Aquabuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Boltbuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Frostbuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Drakbuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Bindbuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Dreambuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Shatterbuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Venombuster,gunlance,FALSE,100,50,50,50,60,90,0
+Safi's Hellaxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Aquaaxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Boltaxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Frostaxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Drakaxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Bindaxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Dreamaxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Shatteraxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Venomaxe,switch-axe,FALSE,100,50,50,50,60,90,0
+Safi's Hellshield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Aquashield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Boltshield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Frostshield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Drakshield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Bindshield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Dreamshield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Shattershield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Venomshield,charge-blade,FALSE,100,50,50,50,60,90,0
+Safi's Hellspear,insect-glaive,FALSE,100,50,50,50,60,90,0
+Safi's Aquaspear,insect-glaive,FALSE,100,50,50,50,60,90,0
+Safi's Boltspear,insect-glaive,FALSE,100,50,50,50,60,90,0
+Safi's Frostspear,insect-glaive,FALSE,100,50,50,50,60,90,0
+Safi's Drakspear,insect-glaive,FALSE,100,50,50,50,60,90,0
+Safi's Bindspear,insect-glaive,FALSE,100,50,50,50,60,90,0
+Safi's Dreamspear,insect-glaive,FALSE,100,50,50,50,60,90,0
+Safi's Shatterspear,insect-glaive,FALSE,100,50,50,50,60,90,0
+Safi's Venomspear,insect-glaive,FALSE,100,50,50,50,60,90,0

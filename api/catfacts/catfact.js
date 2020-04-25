@@ -9,7 +9,7 @@ class Router {
 
   catfacts() {
     const self = this;
-    this.routeUtils.addRoute('/api/catfacts', '', function (render, req, res) {
+    this.routeUtils.get('/api/catfacts', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.catfact.raw);
       } else {

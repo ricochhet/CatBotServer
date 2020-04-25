@@ -15,24 +15,24 @@ class RouteMonsters {
         'details'
       ).map;
 
-      routeUtils.addRoute(
-        '/mhw/monsters',
-        'pages/mhw/monster_list.ejs',
-        function (render, req, res) {
-          res.render(render, {
-            MONSTER_MAP: map,
-            MHW_OBJECTS: data.objects,
-            MHW_DECO_ARRAY: data.decoration_names,
-            MHW_MONSTER_ARRAY: data.monster_names,
-            MHW_WEAPON_ARRAY: data.weapon_names,
-            MHW_ARMOR_ARRAY: data.armor_names,
-            MHW_SKILL_ARRAY: data.skill_names,
-            MHW_ITEM_ARRAY: data.item_names
-          });
-        }
-      );
+      routeUtils.get('/mhw/monsters', 'pages/mhw/monster_list.ejs', function (
+        render,
+        req,
+        res
+      ) {
+        res.render(render, {
+          MONSTER_MAP: map,
+          MHW_OBJECTS: data.objects,
+          MHW_DECO_ARRAY: data.decoration_names,
+          MHW_MONSTER_ARRAY: data.monster_names,
+          MHW_WEAPON_ARRAY: data.weapon_names,
+          MHW_ARMOR_ARRAY: data.armor_names,
+          MHW_SKILL_ARRAY: data.skill_names,
+          MHW_ITEM_ARRAY: data.item_names
+        });
+      });
 
-      routeUtils.addRoute(
+      routeUtils.get(
         '/mhw/monsters/:id',
         'pages/mhw/monster_info.ejs',
         function (render, req, res) {

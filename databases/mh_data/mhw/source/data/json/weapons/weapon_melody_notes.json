@@ -196,7 +196,7 @@
   "notes": "CCY"
  },
  {
-  "base_name_en": "Muck Res",
+  "base_name_en": "Muck/Water/Deep Snow Res",
   "notes": "CRC"
  },
  {
@@ -298,5 +298,29 @@
  {
   "base_name_en": "Health Recovery (M)",
   "notes": "GWCG"
+ },
+ {
+  "base_name_en": "Impact Echo Wave",
+  "notes": "ER"
+ },
+ {
+  "base_name_en": "\"Echo Wave \"\"Dragon\"\"\"",
+  "notes": "EO"
+ },
+ {
+  "base_name_en": "Max Stamina Up + Recovery",
+  "notes": "EB"
+ },
+ {
+  "base_name_en": "Extended Health Recovery",
+  "notes": "EG"
+ },
+ {
+  "base_name_en": "Speed Boost + Evade Window Up",
+  "notes": "EC"
+ },
+ {
+  "base_name_en": "Elemental Effectiveness Up",
+  "notes": "EY"
  }
 ]

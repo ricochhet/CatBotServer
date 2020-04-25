@@ -108,11 +108,7 @@ class Router {
 
   armors() {
     const self = this;
-    this.routeUtils.addRoute('/api/mhw/armors', '', function (
-      render,
-      req,
-      res
-    ) {
+    this.routeUtils.get('/api/mhw/armors', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.armor_map.raw);
       } else {
@@ -123,7 +119,7 @@ class Router {
 
   decorations() {
     const self = this;
-    this.routeUtils.addRoute('/api/mhw/decorations', '', function (
+    this.routeUtils.get('/api/mhw/decorations', '', function (
       render,
       req,
       res
@@ -138,7 +134,7 @@ class Router {
 
   items() {
     const self = this;
-    this.routeUtils.addRoute('/api/mhw/items', '', function (render, req, res) {
+    this.routeUtils.get('/api/mhw/items', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.item_map.raw);
       } else {
@@ -149,11 +145,7 @@ class Router {
 
   monsters() {
     const self = this;
-    this.routeUtils.addRoute('/api/mhw/monsters', '', function (
-      render,
-      req,
-      res
-    ) {
+    this.routeUtils.get('/api/mhw/monsters', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         let array = [];
         for (const i in self.monster_map.raw) {
@@ -202,11 +194,7 @@ class Router {
 
   skills() {
     const self = this;
-    this.routeUtils.addRoute('/api/mhw/skills', '', function (
-      render,
-      req,
-      res
-    ) {
+    this.routeUtils.get('/api/mhw/skills', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.skill_map.raw);
       } else {
@@ -217,11 +205,7 @@ class Router {
 
   weapons() {
     const self = this;
-    this.routeUtils.addRoute('/api/mhw/weapons', '', function (
-      render,
-      req,
-      res
-    ) {
+    this.routeUtils.get('/api/mhw/weapons', '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         res.json(self.weapon_map.raw);
       } else {

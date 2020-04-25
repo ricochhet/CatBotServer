@@ -107,7 +107,7 @@ class MapUtils {
           const name = file.split('.')[0];
           if (!file.endsWith('.csv')) return;
 
-          this.write({
+          this.writeCSV({
             delim: bulkData[i].delim,
             input: `${bulkData[i].input}/${file}`,
             output: `${bulkData[i].output}/${name}.json`
@@ -117,7 +117,7 @@ class MapUtils {
     }
   }
 
-  write(data = { delim: `,`, input: 'file.csv', output: 'file.json' }) {
+  writeCSV(data = { delim: `,`, input: 'file.csv', output: 'file.json' }) {
     csv.fieldDelimiter(data.delim).getJsonFromCsv(data.input);
     csv.formatValueByType().getJsonFromCsv(data.input);
     csv.generateJsonFileFromCsv(data.input, data.output);

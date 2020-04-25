@@ -10,7 +10,7 @@ class API {
     const self = this;
     const queries = [];
 
-    this.routeUtils.addPost(url, function (req, res) {
+    this.routeUtils.post(url, function (req, res) {
       if (req.query.key == self.config['api']['token']) {
         const data = req.body;
         queries.push(data);
@@ -29,7 +29,7 @@ class API {
     const self = this;
     const queries = [];
 
-    this.routeUtils.addDelete(url, function (req, res) {
+    this.routeUtils.delete(url, function (req, res) {
       if (req.query.key == self.config['api']['token']) {
         const data = req.body;
         queries.push(data);
@@ -47,7 +47,7 @@ class API {
   get_db(url, database_file) {
     const self = this;
 
-    this.routeUtils.addRoute(url, '', function (render, req, res) {
+    this.routeUtils.get(url, '', function (render, req, res) {
       if (req.query.key == self.config['api']['token']) {
         const json = JSON.parse(fs.readFileSync(database_file, 'utf8'));
         res.json(json);

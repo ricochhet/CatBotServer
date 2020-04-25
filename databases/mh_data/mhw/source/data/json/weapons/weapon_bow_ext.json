@@ -1560,6 +1560,96 @@
   "blast": "FALSE"
  },
  {
+  "base_name_en": "\"Soulfire Arch \"\"Styx\"\"\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Beast Thunderbow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Beastking Thunderbow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Archbeast Paragon",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Brimstren Drakesight",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Stygian Patientia",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Lightbreak Bow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Guild Palace Arc",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Royal North Wing",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
   "base_name_en": "Gold Water Piercer",
   "weapon_type": "bow",
   "close": "TRUE",
@@ -1870,7 +1960,7 @@
   "blast": "TRUE"
  },
  {
-  "base_name_en": "\"Soulfire Arch \"\"Styx\"\"\"",
+  "base_name_en": "Safi's Hellbow",
   "weapon_type": "bow",
   "close": "TRUE",
   "power": "TRUE",
@@ -1880,23 +1970,53 @@
   "blast": "FALSE"
  },
  {
-  "base_name_en": "Guild Palace Arc",
+  "base_name_en": "Safi's Aquabow",
   "weapon_type": "bow",
   "close": "TRUE",
   "power": "TRUE",
   "paralysis": "FALSE",
   "poison": "FALSE",
-  "sleep": "TRUE",
+  "sleep": "FALSE",
   "blast": "FALSE"
  },
  {
-  "base_name_en": "Royal North Wing",
+  "base_name_en": "Safi's Boltbow",
   "weapon_type": "bow",
   "close": "TRUE",
   "power": "TRUE",
   "paralysis": "FALSE",
   "poison": "FALSE",
-  "sleep": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Safi's Frostbow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Safi's Drakbow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Safi's Shatterbow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
   "blast": "FALSE"
  }
 ]
