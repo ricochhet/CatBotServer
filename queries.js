@@ -14,6 +14,7 @@ class Queries {
 
     /* SERVER / GUILD Features */
     this.manage_server_ignoredChannels();
+    this.manage_server_disabledCommands();
   }
 
   manage_lfg_subscribe() {
@@ -25,20 +26,7 @@ class Queries {
         subscribe: mapUtils.readFile(filename).subscribe
       };
 
-      object.subscribe.push(mapUtils.latestQuery(queries).message);
-      mapUtils.writeFile(filename, object);
-    });
-
-    database.delete_db(pathname, function (queries) {
-      let object = {
-        subscribe: mapUtils.readFile(filename).subscribe
-      };
-
-      object.subscribe = mapUtils.removeFromArray(
-        object.subscribe,
-        mapUtils.latestQuery(queries).message
-      );
-
+      object = mapUtils.latestQuery(queries).message;
       mapUtils.writeFile(filename, object);
     });
 
@@ -50,11 +38,38 @@ class Queries {
     const filename = `./databases/api_data/${config['api']['client_id']}/lfg/lfg.json`;
 
     database.post_db(pathname, function (queries) {
-      //
+      let object = {};
+      try {
+        object = mapUtils.readFile(filename);
+      } catch (e) {
+        object = {};
+      }
+
+      //let object = mapUtils.readFile(filename);
+
+      object = mapUtils.latestQuery(queries).message;
+      mapUtils.writeFile(filename, object);
     });
 
-    database.delete_db(pathname, function (queries) {
-      //
+    database.get_db(pathname, filename);
+  }
+
+  manage_server_disabledCommands() {
+    const pathname = `/api/database/${config['api']['client_id']}/server/disabledCommands`;
+    const filename = `./databases/api_data/${config['api']['client_id']}/server/disabledCommands.json`;
+
+    database.post_db(pathname, function (queries) {
+      let object = {};
+      try {
+        object = mapUtils.readFile(filename);
+      } catch (e) {
+        object = {};
+      }
+
+      //let object = mapUtils.readFile(filename);
+
+      object = mapUtils.latestQuery(queries).message;
+      mapUtils.writeFile(filename, object);
     });
 
     database.get_db(pathname, filename);
@@ -69,20 +84,7 @@ class Queries {
         channels: mapUtils.readFile(filename).channels
       };
 
-      object.channels.push(mapUtils.latestQuery(queries).message);
-      mapUtils.writeFile(filename, object);
-    });
-
-    database.delete_db(pathname, function (queries) {
-      let object = {
-        channels: mapUtils.readFile(filename).channels
-      };
-
-      object.channels = mapUtils.removeFromArray(
-        object.channels,
-        mapUtils.latestQuery(queries).message
-      );
-
+      object = mapUtils.latestQuery(queries).message;
       mapUtils.writeFile(filename, object);
     });
 
