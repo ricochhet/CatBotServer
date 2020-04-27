@@ -14,8 +14,6 @@ const queries = require('./queries');
 const mhwRouter = require('./api/monhun/mhw');
 const mhguRouter = require('./api/monhun/mhgu');
 const catfactRouter = require('./api/catfacts/catfact');
-const clientManager = require('./client/managers/clientManager');
-clientManager.setup(mapUtils, routeUtils, config);
 
 logger.config({
   autoNewLine: true,
@@ -62,6 +60,10 @@ if (config['api']['api_database']) {
 
 if (config['api']['client']) {
   clientManager.init_mhw(mhwRouter);
+
+  const clientManager = require('./client/managers/clientManager');
+  clientManager.setup(mapUtils, routeUtils, config);
+
   routeUtils.errors();
 } else {
   logger.log('Running in clientless mode.');

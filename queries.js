@@ -45,8 +45,6 @@ class Queries {
         object = {};
       }
 
-      //let object = mapUtils.readFile(filename);
-
       object = mapUtils.latestQuery(queries).message;
       mapUtils.writeFile(filename, object);
     });
@@ -65,8 +63,6 @@ class Queries {
       } catch (e) {
         object = {};
       }
-
-      //let object = mapUtils.readFile(filename);
 
       object = mapUtils.latestQuery(queries).message;
       mapUtils.writeFile(filename, object);
