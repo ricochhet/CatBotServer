@@ -1,6 +1,6 @@
 {
   "server": {
-    "port": 8080,
+    "port": 443,
     "public": "client/public",
     "views": "client/views"
   },
