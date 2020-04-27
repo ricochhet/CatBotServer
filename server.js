@@ -34,8 +34,8 @@ routeUtils.start(
   config['server']['views']
 );
 
-commandUtils.cmd('--nocli', function () {
-  config['api']['client'] = false;
+commandUtils.cmd('--cli', function () {
+  config['api']['client'] = true;
 });
 
 commandUtils.cmd('--db', function () {
