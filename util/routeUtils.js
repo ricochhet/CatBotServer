@@ -46,6 +46,7 @@ class RouteUtils {
   start(port, assets, views) {
     http.Server(app).listen(`${port}`, function () {
       console.log('Listening on *:' + port);
+      console.log('Type CTRL + C to kill the app');
     });
 
     app.use('/', router);
@@ -66,17 +67,23 @@ class RouteUtils {
     );
   }
 
-  get(path, render, functionObject) {
+  get(path, render = '', functionObject) {
     router.get(path, (req, res, next) => {
-      const thisRender = render;
-      functionObject(thisRender, req, res);
+      if (typeof functionObject == 'function') {
+        functionObject(render, req, res);
+      } else {
+        res.send('Server');
+      }
     });
   }
 
   addAuthGet(path, render, functionObject, authObject) {
     router.get(path, authObject, function (req, res) {
-      const thisRender = render;
-      functionObject(thisRender, req, res, authObject);
+      if (typeof functionObject == 'function') {
+        functionObject(render, req, res, authObject);
+      } else {
+        res.send('Server');
+      }
     });
   }
 
@@ -90,22 +97,44 @@ class RouteUtils {
 
   post(path, functionObject) {
     app.post(path, (req, res) => {
-      functionObject(req, res);
+      if (typeof functionObject == 'function') {
+        functionObject(req, res);
+      } else {
+        res.send('Server');
+      }
     });
   }
 
   delete(path, functionObject) {
     app.delete(path, (req, res) => {
-      functionObject(req, res);
+      if (typeof functionObject == 'function') {
+        functionObject(req, res);
+      } else {
+        res.send('Server');
+      }
     });
   }
 
-  errors() {
+  errors(options = { type: 'html' }) {
     const self = this;
 
-    app.use(function (req, res, next) {
-      res.status(404).render(self.statusCodeRenders.get(404));
-    });
+    if (options.type == 'html') {
+      app.use(function (req, res, next) {
+        res.status(404).render(self.statusCodeRenders.get(404));
+      });
+
+      app.use(function (req, res, next) {
+        res.status(403).render(self.statusCodeRenders.get(403));
+      });
+    } else if (options.type == 'json') {
+      app.use(function (req, res, next) {
+        res.status(404).send('404');
+      });
+
+      app.use(function (req, res, next) {
+        res.status(403).send('403');
+      });
+    }
   }
 }
 

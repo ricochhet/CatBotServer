@@ -9,11 +9,15 @@ const pjson = require('./package.json');
 
 const database = require('./api/database/router');
 database.setup(routeUtils, config);
+
 const queries = require('./queries');
 
 const mhwRouter = require('./api/monhun/mhw');
 const mhguRouter = require('./api/monhun/mhgu');
 const catfactRouter = require('./api/catfacts/catfact');
+
+const cli = require('./client/managers/clientManager');
+cli.setup(routeUtils);
 
 logger.config({
   autoNewLine: true,
@@ -53,21 +57,25 @@ commandUtils.cmd('--newtoken', function () {
   logger.log(`Token generated: ${key}`);
 });
 
-if (config['api']['api_database']) {
-  logger.log('Running database queries.');
-  queries.initialize();
-}
-
 if (config['api']['client']) {
-  clientManager.init_mhw(mhwRouter);
+  logger.log('Running in client mode.');
+  cli.render('/', 'index.ejs', {});
 
-  const clientManager = require('./client/managers/clientManager');
-  clientManager.setup(mapUtils, routeUtils, config);
-
-  routeUtils.errors();
+  routeUtils.errors({
+    type: 'html'
+  });
 } else {
   logger.log('Running in clientless mode.');
   routeUtils.get('/', '');
+
+  routeUtils.errors({
+    type: 'json'
+  });
+}
+
+if (config['api']['api_database']) {
+  logger.log('Running database queries.');
+  queries.initialize();
 }
 
 mhwRouter.armors();

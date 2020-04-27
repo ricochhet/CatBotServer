@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>CatBot / Monster Hunter Discord Bot</title>
+  <link rel="stylesheet" type="text/css" href="../mintcss/mint.css">
+  <!--<link rel="stylesheet" type="text/css" href="../mintcss/styles/style.css">-->
+  <link rel="stylesheet" type="text/css" href="../all.min.css">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="../icons/icon.png" />
+  <meta name="theme-color" content="#8fde5d" />
+  <meta property="og:url" content="https://catbot.xyz/" />
+  <meta property="og:title" content="CatBot / Monster Hunter Discord Bot" />
+  <meta property="og:image" content="https://catbot.xyz/icons/icon.png" />
+  <meta property="og:description"
+    content="CatBot is a Discord bot dedicated to providing information on Monster Hunter, CatBot offers information on monsters, weapons, armors, and more!" />
+  <meta name="description"
+    content="CatBot is a Discord bot dedicated to providing information on Monster Hunter, CatBot offers information on monsters, weapons, armors, and more!">
+  <meta name="keywords"
+    content="catbot,discord bot,catbot bot,catbotxyz,discord,catbot mhw,mhw,mhworld,monster hunter,iceborne,monster hunter world,monster hunter world iceborne,database">
+  <link rel="shortcut icon" href="/favicon.ico" />
+</head>
+
+<body>
+  <div class="navigation-bar" id="navigation-bar">
+    <h5><img src="../icons/icon.png" alt="CatBot" /><a class="navigation-bar--link" href="/">CatBot</a></h5>
+    <nav>
+      <a class="navigation-bar--link"
+        href="https://discordapp.com/oauth2/authorize?client_id=573958899582107653&permissions=339008&scope=bot">Invite</a>
+      <a class="navigation-bar--link" href="https://discord.gg/srNyk8G">Support</a>
+      <a href="javascript:void(0);" class="icon" onclick="_responsiveNavigation()">
+        <i class="link-none__no-padding fa fa-bars"></i>
+      </a>
+    </nav>
+  </div>
+  <div class="page-header__container--paddedsmall">
+    <div class="page-header__wrapper--paddedsmall">
+      <h1><span class="color-catbot">CatBot</span></h1>
+      <h1><span class="color-discord">Monster Hunter Discord Bot</span></h1>
+    </div>
+  </div>
+  <div class="page-container">
+    <div class="page-container__content-container">
+      <h1>CatBot is dedicated to helping hunters in Monster Hunter</h1>
+      <p class="page-container__content-paragraph">
+        CatBot is a bot dedicated to providing resources on monsters in Monster Hunter. It helps you with
+        different aspects of the hunt such as the monsters weaknesses in certain states, what ailments affect it
+        and where it can be found. CatBot can also assist with plenty more! Including armor information, weapon
+        information, and item information!
+      </p>
+    </div>
+    <div class="page-container__content-container">
+      <h1>Commands</h1>
+    </div>
+    <div class="page-container__content-container">
+      <h2 class="header-bottom">Main</h2>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+help</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">List all commands and their information.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">MHW - Monster Hunter World: Iceborne.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhgu</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">MHGU - Monster Hunter Generations Ultimate.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+lfg</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Looking For Group.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+calc</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Math/Calculation (MHWI).</span>
+      </div>
+    </div>
+    <div class="page-container__content-container">
+      <h2 class="header-bottom">Math</h2>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+calc dmgtaken [defense]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Percentage of damage taken based on defense.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+calc elem [sharpness] [true elem] (monster hitzone)</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Effective elemental attack (average damage over time).</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+calc eraw [sharpness] [true raw] [critical boost level] (monster hitzone)</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Effective raw attack (average damage over time).</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+calc trueelem [attack]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">True elemental value (removed bloat modifier).</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+calc trueraw [weapon type] [attack]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">True attack value (removed bloat modifier).</span>
+      </div>
+    </div>
+    <div class="page-container__content-container">
+      <h2 class="header-bottom">General</h2>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+about</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Shows extra information about the bot.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+catfact</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Shows a random cat fact.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+changelog</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Shows latest update log.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+feedback</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Send us some feedback about CatBot!.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+ignore</code>
+        </p>
+        <div class="card-command__header-icon">
+          <span class="card-command__tag color-is__success card-command__is-pulled-right">MANAGE_CHANNELS</span>
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Allows the bot to ignore a channel.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+invite</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Invite CatBot to your Server.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+stats</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Usage stats.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+support</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Support server for CatBot.</span>
+      </div>
+    </div>
+    <div class="page-container__content-container">
+      <h2 class="header-bottom">MHWorld</h2>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw armor [armor name]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get info for a specific armor set.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw deco [deco name]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get info for a specific decoration.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw events</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get all current events info.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw item [item name]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get info for a specific item.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw list</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">List all monsters in MHW & Iceborne.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw monster [monster name]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get info for a specific monster.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw rollhunt</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get a random roll of what monster you should hunt with which
+          gear.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw skill [skill name]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get info for a specific skill.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhw weapon [weapon name]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get info for a specific weapon.</span>
+      </div>
+    </div>
+    <div class="page-container__content-container">
+      <h2 class="header-bottom">Monster Hunter Generations Ultimate</h2>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhgu monster [monster name]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get info for a specific monster.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+mhgu weapon [weapon name]</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Get info for a specific weapon.</span>
+      </div>
+    </div>
+    <div class="page-container__content-container">
+      <h2 class="header-bottom">Looking for Game</h2>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+lfg cancel</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Cancel your current active session.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+lfg find</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Show a menu listing all of the current active user
+          sessions.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+lfg post [platform] [session id] (description)</code>
+        </p>
+        <div class="card-command__header-icon">
+          <!--<span class="card-command__tag color-is__success card-command__is-pulled-right">SERVER ONLY</span>-->
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">Posts an active session to CatBots LFG command.</span>
+      </div>
+    </div>
+    <div class="card-command">
+      <div class="card-command__header">
+        <p class="card-command__header-title">
+          <code>+lfg subscribe (channel name)</code>
+        </p>
+        <div class="card-command__header-icon">
+          <span class="card-command__tag color-is__success card-command__is-pulled-right">MANAGE_CHANNELS</span>
+          <span class="card-command__tag color-is__info card-command__is-pulled-right">SERVER ONLY</span>
+        </div>
+      </div>
+      <div class="card-command__card-content">
+        <span class="card-command__description">All user posted sessions will be sent to the subscribed Discord
+          channel.</span>
+      </div>
+    </div>
+  </div>
+  <div class="page-footer">
+    <p>Copyright © <a class="link-underline" href="https://ricochhet.github.io/">Ricochet</a>, All Rights Reserved.</p>
+  </div>
+</body>
+<script src="../mintcss/mint.js"></script>
+
+</html>
