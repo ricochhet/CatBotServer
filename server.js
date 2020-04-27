@@ -16,9 +16,6 @@ const mhwRouter = require('./api/monhun/mhw');
 const mhguRouter = require('./api/monhun/mhgu');
 const catfactRouter = require('./api/catfacts/catfact');
 
-const cli = require('./client/managers/clientManager');
-cli.setup(routeUtils);
-
 logger.config({
   autoNewLine: true,
   systemIdentifier: pjson.name
@@ -35,10 +32,6 @@ routeUtils.start(
   config['server']['public'],
   config['server']['views']
 );
-
-commandUtils.cmd('--nocli', function () {
-  config['api']['client'] = false;
-});
 
 commandUtils.cmd('--db', function () {
   config['api']['api_database'] = true;
@@ -57,21 +50,11 @@ commandUtils.cmd('--newtoken', function () {
   logger.log(`Token generated: ${key}`);
 });
 
-if (config['api']['client']) {
-  logger.log('Running in client mode.');
-  cli.render('/', 'index.ejs', {});
+routeUtils.get('/', '');
 
-  routeUtils.errors({
-    type: 'html'
-  });
-} else {
-  logger.log('Running in clientless mode.');
-  routeUtils.get('/', '');
-
-  routeUtils.errors({
-    type: 'json'
-  });
-}
+routeUtils.errors({
+  type: 'json'
+});
 
 if (config['api']['api_database']) {
   logger.log('Running database queries.');
