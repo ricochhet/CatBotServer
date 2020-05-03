@@ -4,10 +4,6 @@ const config = require('./config.json');
 
 class Queries {
   initialize() {
-    /**
-     * Function naming scheme: manage_[category]_[database]
-     */
-
     /* LFG Features */
     this.manage_lfg_subscribe();
     this.manage_lfg_posts();
@@ -21,6 +17,8 @@ class Queries {
     const pathname = `/api/database/${config['api']['client_id']}/lfg/subscribe`;
     const filename = `./databases/api_data/${config['api']['client_id']}/lfg/subscribe.json`;
 
+    database.get_db(pathname, filename);
+
     database.post_db(pathname, function (queries) {
       let object = {
         subscribe: mapUtils.readFile(filename).subscribe
@@ -29,14 +27,14 @@ class Queries {
       object = mapUtils.latestQuery(queries).message;
       mapUtils.writeFile(filename, object);
     });
-
-    database.get_db(pathname, filename);
   }
 
   manage_lfg_posts() {
     const pathname = `/api/database/${config['api']['client_id']}/lfg/posts`;
     const filename = `./databases/api_data/${config['api']['client_id']}/lfg/lfg.json`;
 
+    database.get_db(pathname, filename);
+
     database.post_db(pathname, function (queries) {
       let object = {};
       try {
@@ -48,14 +46,14 @@ class Queries {
       object = mapUtils.latestQuery(queries).message;
       mapUtils.writeFile(filename, object);
     });
-
-    database.get_db(pathname, filename);
   }
 
   manage_server_disabledCommands() {
     const pathname = `/api/database/${config['api']['client_id']}/server/disabledCommands`;
     const filename = `./databases/api_data/${config['api']['client_id']}/server/disabledCommands.json`;
 
+    database.get_db(pathname, filename);
+
     database.post_db(pathname, function (queries) {
       let object = {};
       try {
@@ -67,15 +65,16 @@ class Queries {
       object = mapUtils.latestQuery(queries).message;
       mapUtils.writeFile(filename, object);
     });
-
-    database.get_db(pathname, filename);
   }
 
   manage_server_ignoredChannels() {
     const pathname = `/api/database/${config['api']['client_id']}/server/ignoredChannels`;
     const filename = `./databases/api_data/${config['api']['client_id']}/server/ignoredChannels.json`;
+
+    database.get_db(pathname, filename);
     
     database.post_db(pathname, function (queries) {
+      console.log(queries);
       let object = {
         channels: mapUtils.readFile(filename).channels
       };
@@ -83,8 +82,6 @@ class Queries {
       object = mapUtils.latestQuery(queries).message;
       mapUtils.writeFile(filename, object);
     });
-
-    database.get_db(pathname, filename);
   }
 }
 

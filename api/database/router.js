@@ -44,6 +44,19 @@ class API {
     });
   }
 
+  all_access(url, database_file) {
+    const self = this;
+
+    this.routeUtils.all(url, '', function (render, req, res) {
+      if (req.query.key == self.config['api']['token']) {
+        const json = JSON.parse(fs.readFileSync(database_file, 'utf8'));
+        res.json(json);
+      } else {
+        res.json({ error: self.routeUtils.statusCode('403') });
+      }
+    });
+  }
+
   get_db(url, database_file) {
     const self = this;
 

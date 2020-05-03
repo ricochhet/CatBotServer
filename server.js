@@ -52,10 +52,6 @@ commandUtils.cmd('--newtoken', function () {
 
 routeUtils.get('/', '');
 
-routeUtils.errors({
-  type: 'json'
-});
-
 if (config['api']['api_database']) {
   logger.log('Running database queries.');
   queries.initialize();
@@ -72,3 +68,7 @@ mhguRouter.monsters();
 mhguRouter.weapons();
 
 catfactRouter.catfacts();
+
+routeUtils.errors({
+  type: 'json'
+});

@@ -77,6 +77,16 @@ class RouteUtils {
     });
   }
 
+  all(path, render = '', functionObject) {
+    router.all(path, (req, res, next) => {
+      if (typeof functionObject == 'function') {
+        functionObject(render, req, res);
+      } else {
+        res.send('Server');
+      }
+    });
+  }
+
   addAuthGet(path, render, functionObject, authObject) {
     router.get(path, authObject, function (req, res) {
       if (typeof functionObject == 'function') {
