@@ -74,7 +74,7 @@ class Queries {
   manage_server_ignoredChannels() {
     const pathname = `/api/database/${config['api']['client_id']}/server/ignoredChannels`;
     const filename = `./databases/api_data/${config['api']['client_id']}/server/ignoredChannels.json`;
-
+    
     database.post_db(pathname, function (queries) {
       let object = {
         channels: mapUtils.readFile(filename).channels
