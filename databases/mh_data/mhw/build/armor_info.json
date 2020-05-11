@@ -35222,5 +35222,394 @@
         "rank": 1
       }
     ]
+  },
+  "kulvetarothalpha+": {
+    "name": "Kulve Taroth Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Kulve Taroth Essence",
+        "description": "Above a certain health threshold, you withstand an attack that would normally cart you (once only).",
+        "pieces": 2
+      },
+      {
+        "name": "Kulve Taroth Essence",
+        "description": "Raises the maximum level of the Free Meal skill.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 880,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 20,
+      "water": -10,
+      "thunder": 15,
+      "ice": -10,
+      "dragon": -20
+    },
+    "pieces": [
+      {
+        "name": "Kulve Taroth's Fury Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Kulve Taroth's Ire Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Kulve Taroth's Rage Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Kulve Taroth's MAlice Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Kulve Taroth's Wrath Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Kulve Taroth's Fury Alpha +",
+        "name": "Free Elem/Ammo Up",
+        "rank": 3
+      },
+      {
+        "piece": "Kulve Taroth's Fury Alpha +",
+        "name": "Free Meal",
+        "rank": 1
+      },
+      {
+        "piece": "Kulve Taroth's Ire Alpha +",
+        "name": "Free Meal",
+        "rank": 1
+      },
+      {
+        "piece": "Kulve Taroth's Ire Alpha +",
+        "name": "Speed Eating",
+        "rank": 3
+      },
+      {
+        "piece": "Kulve Taroth's Rage Alpha +",
+        "name": "Critical Boost",
+        "rank": 1
+      },
+      {
+        "piece": "Kulve Taroth's Rage Alpha +",
+        "name": "Wide-Range",
+        "rank": 3
+      },
+      {
+        "piece": "Kulve Taroth's MAlice Alpha +",
+        "name": "Peak Performance",
+        "rank": 2
+      },
+      {
+        "piece": "Kulve Taroth's MAlice Alpha +",
+        "name": "Free Meal",
+        "rank": 1
+      },
+      {
+        "piece": "Kulve Taroth's Wrath Alpha +",
+        "name": "Critical Boost",
+        "rank": 2
+      },
+      {
+        "piece": "Kulve Taroth's Wrath Alpha +",
+        "name": "Peak Performance",
+        "rank": 1
+      }
+    ],
+    "slots": [
+      {
+        "name": "Kulve Taroth's Ire Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Kulve Taroth's Ire Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Kulve Taroth's Rage Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Kulve Taroth's Rage Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Kulve Taroth's MAlice Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Kulve Taroth's MAlice Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Kulve Taroth's MAlice Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Kulve Taroth's Wrath Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Kulve Taroth's Wrath Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Kulve Taroth's Wrath Alpha +",
+        "rank": 1
+      }
+    ]
+  },
+  "kulvetarothbeta+": {
+    "name": "Kulve Taroth Beta +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Kulve Taroth Essence",
+        "description": "Above a certain health threshold, you withstand an attack that would normally cart you (once only).",
+        "pieces": 2
+      },
+      {
+        "name": "Kulve Taroth Essence",
+        "description": "Raises the maximum level of the Free Meal skill.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 880,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 20,
+      "water": -10,
+      "thunder": 15,
+      "ice": -10,
+      "dragon": -20
+    },
+    "pieces": [
+      {
+        "name": "Kulve Taroth's Fury Beta +",
+        "type": "head"
+      },
+      {
+        "name": "Kulve Taroth's Ire Beta +",
+        "type": "chest"
+      },
+      {
+        "name": "Kulve Taroth's Rage Beta +",
+        "type": "gloves"
+      },
+      {
+        "name": "Kulve Taroth's Malice Beta +",
+        "type": "waist"
+      },
+      {
+        "name": "Kulve Taroth's Wrath Beta +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Kulve Taroth's Fury Beta +",
+        "name": "Free Meal",
+        "rank": 1
+      },
+      {
+        "piece": "Kulve Taroth's Ire Beta +",
+        "name": "Speed Eating",
+        "rank": 3
+      },
+      {
+        "piece": "Kulve Taroth's Rage Beta +",
+        "name": "Critical Boost",
+        "rank": 1
+      },
+      {
+        "piece": "Kulve Taroth's Malice Beta +",
+        "name": "Peak Performance",
+        "rank": 2
+      },
+      {
+        "piece": "Kulve Taroth's Wrath Beta +",
+        "name": "Critical Boost",
+        "rank": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "Kulve Taroth's Fury Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Kulve Taroth's Fury Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Kulve Taroth's Fury Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Kulve Taroth's Ire Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Kulve Taroth's Ire Beta +",
+        "rank": 3
+      },
+      {
+        "name": "Kulve Taroth's Rage Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Kulve Taroth's Rage Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Kulve Taroth's Malice Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Kulve Taroth's Malice Beta +",
+        "rank": 2
+      },
+      {
+        "name": "Kulve Taroth's Wrath Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Kulve Taroth's Wrath Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Kulve Taroth's Wrath Beta +",
+        "rank": 1
+      }
+    ]
+  },
+  "namiellegamma+": {
+    "name": "Namielle Gamma +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Namielle Divinity",
+        "description": "Continually attacking a monster activates Free Element/Ammo Up Lv2 and increases elemental damage.",
+        "pieces": 2
+      },
+      {
+        "name": "Namielle Divinity",
+        "description": "Continually attacking a monster activates Free Element/Ammo Up Lv3 and increases elemental damage.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 704,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -12,
+      "water": 16,
+      "thunder": 12,
+      "ice": 0,
+      "dragon": -2
+    },
+    "pieces": [
+      {
+        "name": "Tentacle Cowl Gamma +",
+        "type": "head"
+      },
+      {
+        "name": "Tentacle Cloak Gamma +",
+        "type": "chest"
+      },
+      {
+        "name": "Tentacle Gloves Gamma +",
+        "type": "gloves"
+      },
+      {
+        "name": "Tentacle Coil Gamma +",
+        "type": "waist"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Tentacle Cowl Gamma +",
+        "name": "Stamina Surge",
+        "rank": 3
+      },
+      {
+        "piece": "Tentacle Cowl Gamma +",
+        "name": "Tool Specialist",
+        "rank": 1
+      },
+      {
+        "piece": "Tentacle Cloak Gamma +",
+        "name": "Water Attack",
+        "rank": 2
+      },
+      {
+        "piece": "Tentacle Cloak Gamma +",
+        "name": "Evade Window",
+        "rank": 4
+      },
+      {
+        "piece": "Tentacle Gloves Gamma +",
+        "name": "Blight Resistance",
+        "rank": 1
+      },
+      {
+        "piece": "Tentacle Gloves Gamma +",
+        "name": "Marathon Runner",
+        "rank": 3
+      },
+      {
+        "piece": "Tentacle Coil Gamma +",
+        "name": "Recovery Speed",
+        "rank": 2
+      },
+      {
+        "piece": "Tentacle Coil Gamma +",
+        "name": "Evade Extender",
+        "rank": 3
+      }
+    ],
+    "slots": [
+      {
+        "name": "Tentacle Cowl Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Tentacle Cowl Gamma +",
+        "rank": 2
+      },
+      {
+        "name": "Tentacle Cloak Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Tentacle Gloves Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Tentacle Gloves Gamma +",
+        "rank": 2
+      },
+      {
+        "name": "Tentacle Coil Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Tentacle Coil Gamma +",
+        "rank": 2
+      }
+    ]
   }
 }

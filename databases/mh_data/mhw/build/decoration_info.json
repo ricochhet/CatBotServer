@@ -2015,7 +2015,7 @@
       }
     ]
   },
-  "drain+physiquejewel4": {
+  "drain/physiquejewel4": {
     "name": "Drain/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2032,7 +2032,7 @@
       }
     ]
   },
-  "fortitude+physiquejewel4": {
+  "fortitude/physiquejewel4": {
     "name": "Fortitude/Physique Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2049,7 +2049,7 @@
       }
     ]
   },
-  "crisis+physiquejewel4": {
+  "crisis/physiquejewel4": {
     "name": "Crisis/Physique Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2066,7 +2066,7 @@
       }
     ]
   },
-  "ironwall+physiquejewel4": {
+  "ironwall/physiquejewel4": {
     "name": "Ironwall/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2083,7 +2083,7 @@
       }
     ]
   },
-  "friendship+physiquejewel4": {
+  "friendship/physiquejewel4": {
     "name": "Friendship/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2100,7 +2100,7 @@
       }
     ]
   },
-  "satiated+physiquejewel4": {
+  "satiated/physiquejewel4": {
     "name": "Satiated/Physique Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2117,7 +2117,7 @@
       }
     ]
   },
-  "stonethrower+physiquejewel4": {
+  "stonethrower/physiquejewel4": {
     "name": "Stonethrower/Physique Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2134,7 +2134,7 @@
       }
     ]
   },
-  "resistor+physiquejewel4": {
+  "resistor/physiquejewel4": {
     "name": "Resistor/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2151,7 +2151,7 @@
       }
     ]
   },
-  "flight+physiquejewel4": {
+  "flight/physiquejewel4": {
     "name": "Flight/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2168,7 +2168,7 @@
       }
     ]
   },
-  "sprinter+physiquejewel4": {
+  "sprinter/physiquejewel4": {
     "name": "Sprinter/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2185,7 +2185,7 @@
       }
     ]
   },
-  "refresh+physiquejewel4": {
+  "refresh/physiquejewel4": {
     "name": "Refresh/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2202,7 +2202,7 @@
       }
     ]
   },
-  "jumping+physiquejewel4": {
+  "jumping/physiquejewel4": {
     "name": "Jumping/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2219,7 +2219,7 @@
       }
     ]
   },
-  "sheath+physiquejewel4": {
+  "sheath/physiquejewel4": {
     "name": "Sheath/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2236,7 +2236,7 @@
       }
     ]
   },
-  "gobbler+physiquejewel4": {
+  "gobbler/physiquejewel4": {
     "name": "Gobbler/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2253,7 +2253,7 @@
       }
     ]
   },
-  "grinder+physiquejewel4": {
+  "grinder/physiquejewel4": {
     "name": "Grinder/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2270,7 +2270,7 @@
       }
     ]
   },
-  "bomber+physiquejewel4": {
+  "bomber/physiquejewel4": {
     "name": "Bomber/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2287,7 +2287,7 @@
       }
     ]
   },
-  "fungiform+physiquejewel4": {
+  "fungiform/physiquejewel4": {
     "name": "Fungiform/Physique Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2304,7 +2304,7 @@
       }
     ]
   },
-  "slider+physiquejewel4": {
+  "slider/physiquejewel4": {
     "name": "Slider/Physique Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2321,7 +2321,7 @@
       }
     ]
   },
-  "guardian+physiquejewel4": {
+  "guardian/physiquejewel4": {
     "name": "Guardian/Physique Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2338,7 +2338,7 @@
       }
     ]
   },
-  "drain+evasionjewel4": {
+  "drain/evasionjewel4": {
     "name": "Drain/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2355,7 +2355,7 @@
       }
     ]
   },
-  "fortitude+evasionjewel4": {
+  "fortitude/evasionjewel4": {
     "name": "Fortitude/Evasion Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2372,7 +2372,7 @@
       }
     ]
   },
-  "crisis+evasionjewel4": {
+  "crisis/evasionjewel4": {
     "name": "Crisis/Evasion Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2389,7 +2389,7 @@
       }
     ]
   },
-  "ironwall+evasionjewel4": {
+  "ironwall/evasionjewel4": {
     "name": "Ironwall/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2406,7 +2406,7 @@
       }
     ]
   },
-  "friendship+evasionjewel4": {
+  "friendship/evasionjewel4": {
     "name": "Friendship/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2423,7 +2423,7 @@
       }
     ]
   },
-  "satiated+evasionjewel4": {
+  "satiated/evasionjewel4": {
     "name": "Satiated/Evasion Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2440,7 +2440,7 @@
       }
     ]
   },
-  "stonethrower+evasionjewel4": {
+  "stonethrower/evasionjewel4": {
     "name": "Stonethrower/Evasion Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2457,7 +2457,7 @@
       }
     ]
   },
-  "resistor+evasionjewel4": {
+  "resistor/evasionjewel4": {
     "name": "Resistor/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2474,7 +2474,7 @@
       }
     ]
   },
-  "flight+evasionjewel4": {
+  "flight/evasionjewel4": {
     "name": "Flight/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2491,7 +2491,7 @@
       }
     ]
   },
-  "sprinter+evasionjewel4": {
+  "sprinter/evasionjewel4": {
     "name": "Sprinter/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2508,7 +2508,7 @@
       }
     ]
   },
-  "refresh+evasionjewel4": {
+  "refresh/evasionjewel4": {
     "name": "Refresh/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2525,7 +2525,7 @@
       }
     ]
   },
-  "jumping+evasionjewel4": {
+  "jumping/evasionjewel4": {
     "name": "Jumping/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2542,7 +2542,7 @@
       }
     ]
   },
-  "sheath+evasionjewel4": {
+  "sheath/evasionjewel4": {
     "name": "Sheath/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2559,7 +2559,7 @@
       }
     ]
   },
-  "gobbler+evasionjewel4": {
+  "gobbler/evasionjewel4": {
     "name": "Gobbler/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2576,7 +2576,7 @@
       }
     ]
   },
-  "grinder+evasionjewel4": {
+  "grinder/evasionjewel4": {
     "name": "Grinder/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2593,7 +2593,7 @@
       }
     ]
   },
-  "bomber+evasionjewel4": {
+  "bomber/evasionjewel4": {
     "name": "Bomber/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2610,7 +2610,7 @@
       }
     ]
   },
-  "fungiform+evasionjewel4": {
+  "fungiform/evasionjewel4": {
     "name": "Fungiform/Evasion Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2627,7 +2627,7 @@
       }
     ]
   },
-  "slider+evasionjewel4": {
+  "slider/evasionjewel4": {
     "name": "Slider/Evasion Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2644,7 +2644,7 @@
       }
     ]
   },
-  "guardian+evasionjewel4": {
+  "guardian/evasionjewel4": {
     "name": "Guardian/Evasion Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2661,7 +2661,7 @@
       }
     ]
   },
-  "drain+attackjewel4": {
+  "drain/attackjewel4": {
     "name": "Drain/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2678,7 +2678,7 @@
       }
     ]
   },
-  "fortitude+attackjewel4": {
+  "fortitude/attackjewel4": {
     "name": "Fortitude/Attack Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2695,7 +2695,7 @@
       }
     ]
   },
-  "crisis+attackjewel4": {
+  "crisis/attackjewel4": {
     "name": "Crisis/Attack Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2712,7 +2712,7 @@
       }
     ]
   },
-  "ironwall+attackjewel4": {
+  "ironwall/attackjewel4": {
     "name": "Ironwall/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2729,7 +2729,7 @@
       }
     ]
   },
-  "friendship+attackjewel4": {
+  "friendship/attackjewel4": {
     "name": "Friendship/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2746,7 +2746,7 @@
       }
     ]
   },
-  "satiated+attackjewel4": {
+  "satiated/attackjewel4": {
     "name": "Satiated/Attack Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2763,7 +2763,7 @@
       }
     ]
   },
-  "stonethrower+attackjewel4": {
+  "stonethrower/attackjewel4": {
     "name": "Stonethrower/Attack Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2780,7 +2780,7 @@
       }
     ]
   },
-  "resistor+attackjewel4": {
+  "resistor/attackjewel4": {
     "name": "Resistor/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2797,7 +2797,7 @@
       }
     ]
   },
-  "flight+attackjewel4": {
+  "flight/attackjewel4": {
     "name": "Flight/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2814,7 +2814,7 @@
       }
     ]
   },
-  "sprinter+attackjewel4": {
+  "sprinter/attackjewel4": {
     "name": "Sprinter/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2831,7 +2831,7 @@
       }
     ]
   },
-  "refresh+attackjewel4": {
+  "refresh/attackjewel4": {
     "name": "Refresh/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2848,7 +2848,7 @@
       }
     ]
   },
-  "jumping+attackjewel4": {
+  "jumping/attackjewel4": {
     "name": "Jumping/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2865,7 +2865,7 @@
       }
     ]
   },
-  "sheath+attackjewel4": {
+  "sheath/attackjewel4": {
     "name": "Sheath/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2882,7 +2882,7 @@
       }
     ]
   },
-  "gobbler+attackjewel4": {
+  "gobbler/attackjewel4": {
     "name": "Gobbler/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2899,7 +2899,7 @@
       }
     ]
   },
-  "grinder+attackjewel4": {
+  "grinder/attackjewel4": {
     "name": "Grinder/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2916,7 +2916,7 @@
       }
     ]
   },
-  "bomber+attackjewel4": {
+  "bomber/attackjewel4": {
     "name": "Bomber/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2933,7 +2933,7 @@
       }
     ]
   },
-  "fungiform+attackjewel4": {
+  "fungiform/attackjewel4": {
     "name": "Fungiform/Attack Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -2950,7 +2950,7 @@
       }
     ]
   },
-  "slider+attackjewel4": {
+  "slider/attackjewel4": {
     "name": "Slider/Attack Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2967,7 +2967,7 @@
       }
     ]
   },
-  "guardian+attackjewel4": {
+  "guardian/attackjewel4": {
     "name": "Guardian/Attack Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -2984,7 +2984,7 @@
       }
     ]
   },
-  "drain+expertjewel4": {
+  "drain/expertjewel4": {
     "name": "Drain/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3001,7 +3001,7 @@
       }
     ]
   },
-  "fortitude+expertjewel4": {
+  "fortitude/expertjewel4": {
     "name": "Fortitude/Expert Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -3018,7 +3018,7 @@
       }
     ]
   },
-  "crisis+expertjewel4": {
+  "crisis/expertjewel4": {
     "name": "Crisis/Expert Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -3035,7 +3035,7 @@
       }
     ]
   },
-  "ironwall+expertjewel4": {
+  "ironwall/expertjewel4": {
     "name": "Ironwall/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3052,7 +3052,7 @@
       }
     ]
   },
-  "friendship+expertjewel4": {
+  "friendship/expertjewel4": {
     "name": "Friendship/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3069,7 +3069,7 @@
       }
     ]
   },
-  "satiated+expertjewel4": {
+  "satiated/expertjewel4": {
     "name": "Satiated/Expert Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -3086,7 +3086,7 @@
       }
     ]
   },
-  "stonethrower+expertjewel4": {
+  "stonethrower/expertjewel4": {
     "name": "Stonethrower/Expert Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -3103,7 +3103,7 @@
       }
     ]
   },
-  "resistor+expertjewel4": {
+  "resistor/expertjewel4": {
     "name": "Resistor/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3120,7 +3120,7 @@
       }
     ]
   },
-  "flight+expertjewel4": {
+  "flight/expertjewel4": {
     "name": "Flight/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3137,7 +3137,7 @@
       }
     ]
   },
-  "sprinter+expertjewel4": {
+  "sprinter/expertjewel4": {
     "name": "Sprinter/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3154,7 +3154,7 @@
       }
     ]
   },
-  "refresh+expertjewel4": {
+  "refresh/expertjewel4": {
     "name": "Refresh/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3171,7 +3171,7 @@
       }
     ]
   },
-  "jumping+expertjewel4": {
+  "jumping/expertjewel4": {
     "name": "Jumping/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3188,7 +3188,7 @@
       }
     ]
   },
-  "sheath+expertjewel4": {
+  "sheath/expertjewel4": {
     "name": "Sheath/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3205,7 +3205,7 @@
       }
     ]
   },
-  "gobbler+expertjewel4": {
+  "gobbler/expertjewel4": {
     "name": "Gobbler/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3222,7 +3222,7 @@
       }
     ]
   },
-  "grinder+expertjewel4": {
+  "grinder/expertjewel4": {
     "name": "Grinder/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3239,7 +3239,7 @@
       }
     ]
   },
-  "bomber+expertjewel4": {
+  "bomber/expertjewel4": {
     "name": "Bomber/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3256,7 +3256,7 @@
       }
     ]
   },
-  "fungiform+expertjewel4": {
+  "fungiform/expertjewel4": {
     "name": "Fungiform/Expert Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3273,7 +3273,7 @@
       }
     ]
   },
-  "slider+expertjewel4": {
+  "slider/expertjewel4": {
     "name": "Slider/Expert Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -3290,7 +3290,7 @@
       }
     ]
   },
-  "guardian+expertjewel4": {
+  "guardian/expertjewel4": {
     "name": "Guardian/Expert Jewel 4",
     "rarity": 9,
     "slot": 4,
@@ -3307,7 +3307,7 @@
       }
     ]
   },
-  "drain+releasejewel4": {
+  "drain/releasejewel4": {
     "name": "Drain/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3324,7 +3324,7 @@
       }
     ]
   },
-  "fortitude+releasejewel4": {
+  "fortitude/releasejewel4": {
     "name": "Fortitude/Release Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3341,7 +3341,7 @@
       }
     ]
   },
-  "crisis+releasejewel4": {
+  "crisis/releasejewel4": {
     "name": "Crisis/Release Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3358,7 +3358,7 @@
       }
     ]
   },
-  "ironwall+releasejewel4": {
+  "ironwall/releasejewel4": {
     "name": "Ironwall/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3375,7 +3375,7 @@
       }
     ]
   },
-  "friendship+releasejewel4": {
+  "friendship/releasejewel4": {
     "name": "Friendship/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3392,7 +3392,7 @@
       }
     ]
   },
-  "satiated+releasejewel4": {
+  "satiated/releasejewel4": {
     "name": "Satiated/Release Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3409,7 +3409,7 @@
       }
     ]
   },
-  "stonethrower+releasejewel4": {
+  "stonethrower/releasejewel4": {
     "name": "Stonethrower/Release Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3426,7 +3426,7 @@
       }
     ]
   },
-  "resistor+releasejewel4": {
+  "resistor/releasejewel4": {
     "name": "Resistor/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3443,7 +3443,7 @@
       }
     ]
   },
-  "flight+releasejewel4": {
+  "flight/releasejewel4": {
     "name": "Flight/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3460,7 +3460,7 @@
       }
     ]
   },
-  "sprinter+releasejewel4": {
+  "sprinter/releasejewel4": {
     "name": "Sprinter/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3477,7 +3477,7 @@
       }
     ]
   },
-  "refresh+releasejewel4": {
+  "refresh/releasejewel4": {
     "name": "Refresh/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3494,7 +3494,7 @@
       }
     ]
   },
-  "jumping+releasejewel4": {
+  "jumping/releasejewel4": {
     "name": "Jumping/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3511,7 +3511,7 @@
       }
     ]
   },
-  "sheath+releasejewel4": {
+  "sheath/releasejewel4": {
     "name": "Sheath/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3528,7 +3528,7 @@
       }
     ]
   },
-  "gobbler+releasejewel4": {
+  "gobbler/releasejewel4": {
     "name": "Gobbler/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3545,7 +3545,7 @@
       }
     ]
   },
-  "grinder+releasejewel4": {
+  "grinder/releasejewel4": {
     "name": "Grinder/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3562,7 +3562,7 @@
       }
     ]
   },
-  "bomber+releasejewel4": {
+  "bomber/releasejewel4": {
     "name": "Bomber/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3579,7 +3579,7 @@
       }
     ]
   },
-  "fungiform+releasejewel4": {
+  "fungiform/releasejewel4": {
     "name": "Fungiform/Release Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3596,7 +3596,7 @@
       }
     ]
   },
-  "slider+releasejewel4": {
+  "slider/releasejewel4": {
     "name": "Slider/Release Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3613,7 +3613,7 @@
       }
     ]
   },
-  "guardian+releasejewel4": {
+  "guardian/releasejewel4": {
     "name": "Guardian/Release Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3630,7 +3630,7 @@
       }
     ]
   },
-  "drain+handicraftjewel4": {
+  "drain/handicraftjewel4": {
     "name": "Drain/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3647,7 +3647,7 @@
       }
     ]
   },
-  "fortitude+handicraftjewel4": {
+  "fortitude/handicraftjewel4": {
     "name": "Fortitude/Handicraft Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3664,7 +3664,7 @@
       }
     ]
   },
-  "crisis+handicraftjewel4": {
+  "crisis/handicraftjewel4": {
     "name": "Crisis/Handicraft Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3681,7 +3681,7 @@
       }
     ]
   },
-  "ironwall+handicraftjewel4": {
+  "ironwall/handicraftjewel4": {
     "name": "Ironwall/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3698,7 +3698,7 @@
       }
     ]
   },
-  "friendship+handicraftjewel4": {
+  "friendship/handicraftjewel4": {
     "name": "Friendship/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3715,7 +3715,7 @@
       }
     ]
   },
-  "satiated+handicraftjewel4": {
+  "satiated/handicraftjewel4": {
     "name": "Satiated/Handicraft Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3732,7 +3732,7 @@
       }
     ]
   },
-  "stonethrower+handicraftjewel4": {
+  "stonethrower/handicraftjewel4": {
     "name": "Stonethrower/Handicraft Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3749,7 +3749,7 @@
       }
     ]
   },
-  "resistor+handicraftjewel4": {
+  "resistor/handicraftjewel4": {
     "name": "Resistor/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3766,7 +3766,7 @@
       }
     ]
   },
-  "flight+handicraftjewel4": {
+  "flight/handicraftjewel4": {
     "name": "Flight/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3783,7 +3783,7 @@
       }
     ]
   },
-  "sprinter+handicraftjewel4": {
+  "sprinter/handicraftjewel4": {
     "name": "Sprinter/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3800,7 +3800,7 @@
       }
     ]
   },
-  "refresh+handicraftjewel4": {
+  "refresh/handicraftjewel4": {
     "name": "Refresh/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3817,7 +3817,7 @@
       }
     ]
   },
-  "jumping+handicraftjewel4": {
+  "jumping/handicraftjewel4": {
     "name": "Jumping/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3834,7 +3834,7 @@
       }
     ]
   },
-  "sheath+handicraftjewel4": {
+  "sheath/handicraftjewel4": {
     "name": "Sheath/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3851,7 +3851,7 @@
       }
     ]
   },
-  "gobbler+handicraftjewel4": {
+  "gobbler/handicraftjewel4": {
     "name": "Gobbler/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3868,7 +3868,7 @@
       }
     ]
   },
-  "grinder+handicraftjewel4": {
+  "grinder/handicraftjewel4": {
     "name": "Grinder/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3885,7 +3885,7 @@
       }
     ]
   },
-  "bomber+handicraftjewel4": {
+  "bomber/handicraftjewel4": {
     "name": "Bomber/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3902,7 +3902,7 @@
       }
     ]
   },
-  "fungiform+handicraftjewel4": {
+  "fungiform/handicraftjewel4": {
     "name": "Fungiform/Handicraft Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -3919,7 +3919,7 @@
       }
     ]
   },
-  "slider+handicraftjewel4": {
+  "slider/handicraftjewel4": {
     "name": "Slider/Handicraft Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3936,7 +3936,7 @@
       }
     ]
   },
-  "guardian+handicraftjewel4": {
+  "guardian/handicraftjewel4": {
     "name": "Guardian/Handicraft Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3953,7 +3953,7 @@
       }
     ]
   },
-  "footing+protectionjewel4": {
+  "footing/protectionjewel4": {
     "name": "Footing/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3970,7 +3970,7 @@
       }
     ]
   },
-  "charger+protectionjewel4": {
+  "charger/protectionjewel4": {
     "name": "Charger/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -3987,7 +3987,7 @@
       }
     ]
   },
-  "enhancer+protectionjewel4": {
+  "enhancer/protectionjewel4": {
     "name": "Enhancer/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4004,7 +4004,7 @@
       }
     ]
   },
-  "destroyer+protectionjewel4": {
+  "destroyer/protectionjewel4": {
     "name": "Destroyer/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4021,7 +4021,7 @@
       }
     ]
   },
-  "ko+protectionjewel4": {
+  "ko/protectionjewel4": {
     "name": "KO/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4038,7 +4038,7 @@
       }
     ]
   },
-  "potential+protectionjewel4": {
+  "potential/protectionjewel4": {
     "name": "Potential/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4055,7 +4055,7 @@
       }
     ]
   },
-  "windresist+protectionjewel4": {
+  "windresist/protectionjewel4": {
     "name": "Wind Resist/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4072,7 +4072,7 @@
       }
     ]
   },
-  "draw+protectionjewel4": {
+  "draw/protectionjewel4": {
     "name": "Draw/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4089,7 +4089,7 @@
       }
     ]
   },
-  "throttle+protectionjewel4": {
+  "throttle/protectionjewel4": {
     "name": "Throttle/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4106,7 +4106,7 @@
       }
     ]
   },
-  "challenger+protectionjewel4": {
+  "challenger/protectionjewel4": {
     "name": "Challenger/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4123,7 +4123,7 @@
       }
     ]
   },
-  "flawless+protectionjewel4": {
+  "flawless/protectionjewel4": {
     "name": "Flawless/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4140,7 +4140,7 @@
       }
     ]
   },
-  "furor+protectionjewel4": {
+  "furor/protectionjewel4": {
     "name": "Furor/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4157,7 +4157,7 @@
       }
     ]
   },
-  "mighty+protectionjewel4": {
+  "mighty/protectionjewel4": {
     "name": "Mighty/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4174,7 +4174,7 @@
       }
     ]
   },
-  "brace+protectionjewel4": {
+  "brace/protectionjewel4": {
     "name": "Brace/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4191,7 +4191,7 @@
       }
     ]
   },
-  "phoenix+protectionjewel4": {
+  "phoenix/protectionjewel4": {
     "name": "Phoenix/Protection Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4208,7 +4208,7 @@
       }
     ]
   },
-  "earplug+protectionjewel4": {
+  "earplug/protectionjewel4": {
     "name": "Earplug/Protection Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4225,7 +4225,7 @@
       }
     ]
   },
-  "critical+protectionjewel4": {
+  "critical/protectionjewel4": {
     "name": "Critical/Protection Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4242,7 +4242,7 @@
       }
     ]
   },
-  "tenderizer+protectionjewel4": {
+  "tenderizer/protectionjewel4": {
     "name": "Tenderizer/Protection Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4259,7 +4259,7 @@
       }
     ]
   },
-  "handicraft+protectionjewel4": {
+  "handicraft/protectionjewel4": {
     "name": "Handicraft/Protection Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4276,7 +4276,7 @@
       }
     ]
   },
-  "release+protectionjewel4": {
+  "release/protectionjewel4": {
     "name": "Release/Protection Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4293,7 +4293,7 @@
       }
     ]
   },
-  "footing+medicinejewel4": {
+  "footing/medicinejewel4": {
     "name": "Footing/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4310,7 +4310,7 @@
       }
     ]
   },
-  "charger+medicinejewel4": {
+  "charger/medicinejewel4": {
     "name": "Charger/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4327,7 +4327,7 @@
       }
     ]
   },
-  "enhancer+medicinejewel4": {
+  "enhancer/medicinejewel4": {
     "name": "Enhancer/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4344,7 +4344,7 @@
       }
     ]
   },
-  "destroyer+medicinejewel4": {
+  "destroyer/medicinejewel4": {
     "name": "Destroyer/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4361,7 +4361,7 @@
       }
     ]
   },
-  "ko+medicinejewel4": {
+  "ko/medicinejewel4": {
     "name": "KO/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4378,7 +4378,7 @@
       }
     ]
   },
-  "potential+medicinejewel4": {
+  "potential/medicinejewel4": {
     "name": "Potential/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4395,7 +4395,7 @@
       }
     ]
   },
-  "windresist+medicinejewel4": {
+  "windresist/medicinejewel4": {
     "name": "Wind Resist/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4412,7 +4412,7 @@
       }
     ]
   },
-  "draw+medicinejewel4": {
+  "draw/medicinejewel4": {
     "name": "Draw/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4429,7 +4429,7 @@
       }
     ]
   },
-  "throttle+medicinejewel4": {
+  "throttle/medicinejewel4": {
     "name": "Throttle/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4446,7 +4446,7 @@
       }
     ]
   },
-  "challenger+medicinejewel4": {
+  "challenger/medicinejewel4": {
     "name": "Challenger/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4463,7 +4463,7 @@
       }
     ]
   },
-  "flawless+medicinejewel4": {
+  "flawless/medicinejewel4": {
     "name": "Flawless/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4480,7 +4480,7 @@
       }
     ]
   },
-  "furor+medicinejewel4": {
+  "furor/medicinejewel4": {
     "name": "Furor/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4497,7 +4497,7 @@
       }
     ]
   },
-  "mighty+medicinejewel4": {
+  "mighty/medicinejewel4": {
     "name": "Mighty/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4514,7 +4514,7 @@
       }
     ]
   },
-  "brace+medicinejewel4": {
+  "brace/medicinejewel4": {
     "name": "Brace/Medicine Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4531,7 +4531,7 @@
       }
     ]
   },
-  "phoenix+medicinejewel4": {
+  "phoenix/medicinejewel4": {
     "name": "Phoenix/Medicine Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4548,7 +4548,7 @@
       }
     ]
   },
-  "earplug+medicinejewel4": {
+  "earplug/medicinejewel4": {
     "name": "Earplug/Medicine Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4565,7 +4565,7 @@
       }
     ]
   },
-  "critical+medicinejewel4": {
+  "critical/medicinejewel4": {
     "name": "Critical/Medicine Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4582,7 +4582,7 @@
       }
     ]
   },
-  "tenderizer+medicinejewel4": {
+  "tenderizer/medicinejewel4": {
     "name": "Tenderizer/Medicine Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4599,7 +4599,7 @@
       }
     ]
   },
-  "handicraft+medicinejewel4": {
+  "handicraft/medicinejewel4": {
     "name": "Handicraft/Medicine Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4616,7 +4616,7 @@
       }
     ]
   },
-  "release+medicinejewel4": {
+  "release/medicinejewel4": {
     "name": "Release/Medicine Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4633,7 +4633,7 @@
       }
     ]
   },
-  "footing+vitalityjewel4": {
+  "footing/vitalityjewel4": {
     "name": "Footing/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4650,7 +4650,7 @@
       }
     ]
   },
-  "charger+vitalityjewel4": {
+  "charger/vitalityjewel4": {
     "name": "Charger/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4667,7 +4667,7 @@
       }
     ]
   },
-  "enhancer+vitalityjewel4": {
+  "enhancer/vitalityjewel4": {
     "name": "Enhancer/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4684,7 +4684,7 @@
       }
     ]
   },
-  "destroyer+vitalityjewel4": {
+  "destroyer/vitalityjewel4": {
     "name": "Destroyer/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4701,7 +4701,7 @@
       }
     ]
   },
-  "ko+vitalityjewel4": {
+  "ko/vitalityjewel4": {
     "name": "KO/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4718,7 +4718,7 @@
       }
     ]
   },
-  "potential+vitalityjewel4": {
+  "potential/vitalityjewel4": {
     "name": "Potential/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4735,7 +4735,7 @@
       }
     ]
   },
-  "windresist+vitalityjewel4": {
+  "windresist/vitalityjewel4": {
     "name": "Wind Resist/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4752,7 +4752,7 @@
       }
     ]
   },
-  "draw+vitalityjewel4": {
+  "draw/vitalityjewel4": {
     "name": "Draw/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4769,7 +4769,7 @@
       }
     ]
   },
-  "throttle+vitalityjewel4": {
+  "throttle/vitalityjewel4": {
     "name": "Throttle/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4786,7 +4786,7 @@
       }
     ]
   },
-  "challenger+vitalityjewel4": {
+  "challenger/vitalityjewel4": {
     "name": "Challenger/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4803,7 +4803,7 @@
       }
     ]
   },
-  "flawless+vitalityjewel4": {
+  "flawless/vitalityjewel4": {
     "name": "Flawless/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4820,7 +4820,7 @@
       }
     ]
   },
-  "furor+vitalityjewel4": {
+  "furor/vitalityjewel4": {
     "name": "Furor/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4837,7 +4837,7 @@
       }
     ]
   },
-  "mighty+vitalityjewel4": {
+  "mighty/vitalityjewel4": {
     "name": "Mighty/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4854,7 +4854,7 @@
       }
     ]
   },
-  "brace+vitalityjewel4": {
+  "brace/vitalityjewel4": {
     "name": "Brace/Vitality Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4871,7 +4871,7 @@
       }
     ]
   },
-  "phoenix+vitalityjewel4": {
+  "phoenix/vitalityjewel4": {
     "name": "Phoenix/Vitality Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4888,7 +4888,7 @@
       }
     ]
   },
-  "earplug+vitalityjewel4": {
+  "earplug/vitalityjewel4": {
     "name": "Earplug/Vitality Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4905,7 +4905,7 @@
       }
     ]
   },
-  "critical+vitalityjewel4": {
+  "critical/vitalityjewel4": {
     "name": "Critical/Vitality Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4922,7 +4922,7 @@
       }
     ]
   },
-  "tenderizer+vitalityjewel4": {
+  "tenderizer/vitalityjewel4": {
     "name": "Tenderizer/Vitality Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4939,7 +4939,7 @@
       }
     ]
   },
-  "handicraft+vitalityjewel4": {
+  "handicraft/vitalityjewel4": {
     "name": "Handicraft/Vitality Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4956,7 +4956,7 @@
       }
     ]
   },
-  "release+vitalityjewel4": {
+  "release/vitalityjewel4": {
     "name": "Release/Vitality Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -4973,7 +4973,7 @@
       }
     ]
   },
-  "footing+maintenancejewel4": {
+  "footing/maintenancejewel4": {
     "name": "Footing/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -4990,7 +4990,7 @@
       }
     ]
   },
-  "charger+maintenancejewel4": {
+  "charger/maintenancejewel4": {
     "name": "Charger/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5007,7 +5007,7 @@
       }
     ]
   },
-  "enhancer+maintenancejewel4": {
+  "enhancer/maintenancejewel4": {
     "name": "Enhancer/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5024,7 +5024,7 @@
       }
     ]
   },
-  "destroyer+maintenancejewel4": {
+  "destroyer/maintenancejewel4": {
     "name": "Destroyer/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5041,7 +5041,7 @@
       }
     ]
   },
-  "ko+maintenancejewel4": {
+  "ko/maintenancejewel4": {
     "name": "KO/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5058,7 +5058,7 @@
       }
     ]
   },
-  "potential+maintenancejewel4": {
+  "potential/maintenancejewel4": {
     "name": "Potential/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5075,7 +5075,7 @@
       }
     ]
   },
-  "windresist+maintenancejewel4": {
+  "windresist/maintenancejewel4": {
     "name": "Wind Resist/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5092,7 +5092,7 @@
       }
     ]
   },
-  "draw+maintenancejewel4": {
+  "draw/maintenancejewel4": {
     "name": "Draw/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5109,7 +5109,7 @@
       }
     ]
   },
-  "throttle+maintenancejewel4": {
+  "throttle/maintenancejewel4": {
     "name": "Throttle/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5126,7 +5126,7 @@
       }
     ]
   },
-  "challenger+maintenancejewel4": {
+  "challenger/maintenancejewel4": {
     "name": "Challenger/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5143,7 +5143,7 @@
       }
     ]
   },
-  "flawless+maintenancejewel4": {
+  "flawless/maintenancejewel4": {
     "name": "Flawless/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5160,7 +5160,7 @@
       }
     ]
   },
-  "furor+maintenancejewel4": {
+  "furor/maintenancejewel4": {
     "name": "Furor/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5177,7 +5177,7 @@
       }
     ]
   },
-  "mighty+maintenancejewel4": {
+  "mighty/maintenancejewel4": {
     "name": "Mighty/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5194,7 +5194,7 @@
       }
     ]
   },
-  "brace+maintenancejewel4": {
+  "brace/maintenancejewel4": {
     "name": "Brace/Maintenance Jewel 4",
     "rarity": 10,
     "slot": 4,
@@ -5211,7 +5211,7 @@
       }
     ]
   },
-  "phoenix+maintenancejewel4": {
+  "phoenix/maintenancejewel4": {
     "name": "Phoenix/Maintenance Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5228,7 +5228,7 @@
       }
     ]
   },
-  "earplug+maintenancejewel4": {
+  "earplug/maintenancejewel4": {
     "name": "Earplug/Maintenance Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5245,7 +5245,7 @@
       }
     ]
   },
-  "critical+maintenancejewel4": {
+  "critical/maintenancejewel4": {
     "name": "Critical/Maintenance Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5262,7 +5262,7 @@
       }
     ]
   },
-  "tenderizer+maintenancejewel4": {
+  "tenderizer/maintenancejewel4": {
     "name": "Tenderizer/Maintenance Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5279,7 +5279,7 @@
       }
     ]
   },
-  "handicraft+maintenancejewel4": {
+  "handicraft/maintenancejewel4": {
     "name": "Handicraft/Maintenance Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5296,7 +5296,7 @@
       }
     ]
   },
-  "release+maintenancejewel4": {
+  "release/maintenancejewel4": {
     "name": "Release/Maintenance Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5313,7 +5313,7 @@
       }
     ]
   },
-  "footing+physiquejewel4": {
+  "footing/physiquejewel4": {
     "name": "Footing/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5330,7 +5330,7 @@
       }
     ]
   },
-  "charger+physiquejewel4": {
+  "charger/physiquejewel4": {
     "name": "Charger/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5347,7 +5347,7 @@
       }
     ]
   },
-  "enhancer+physiquejewel4": {
+  "enhancer/physiquejewel4": {
     "name": "Enhancer/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5364,7 +5364,7 @@
       }
     ]
   },
-  "destroyer+physiquejewel4": {
+  "destroyer/physiquejewel4": {
     "name": "Destroyer/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5381,7 +5381,7 @@
       }
     ]
   },
-  "ko+physiquejewel4": {
+  "ko/physiquejewel4": {
     "name": "KO/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5398,7 +5398,7 @@
       }
     ]
   },
-  "potential+physiquejewel4": {
+  "potential/physiquejewel4": {
     "name": "Potential/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5415,7 +5415,7 @@
       }
     ]
   },
-  "windresist+physiquejewel4": {
+  "windresist/physiquejewel4": {
     "name": "Wind Resist/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5432,7 +5432,7 @@
       }
     ]
   },
-  "draw+physiquejewel4": {
+  "draw/physiquejewel4": {
     "name": "Draw/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5449,7 +5449,7 @@
       }
     ]
   },
-  "throttle+physiquejewel4": {
+  "throttle/physiquejewel4": {
     "name": "Throttle/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5466,7 +5466,7 @@
       }
     ]
   },
-  "challenger+physiquejewel4": {
+  "challenger/physiquejewel4": {
     "name": "Challenger/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5483,7 +5483,7 @@
       }
     ]
   },
-  "flawless+physiquejewel4": {
+  "flawless/physiquejewel4": {
     "name": "Flawless/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5500,7 +5500,7 @@
       }
     ]
   },
-  "furor+physiquejewel4": {
+  "furor/physiquejewel4": {
     "name": "Furor/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5517,7 +5517,7 @@
       }
     ]
   },
-  "mighty+physiquejewel4": {
+  "mighty/physiquejewel4": {
     "name": "Mighty/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5534,7 +5534,7 @@
       }
     ]
   },
-  "brace+physiquejewel4": {
+  "brace/physiquejewel4": {
     "name": "Brace/Physique Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5551,7 +5551,7 @@
       }
     ]
   },
-  "phoenix+physiquejewel4": {
+  "phoenix/physiquejewel4": {
     "name": "Phoenix/Physique Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5568,7 +5568,7 @@
       }
     ]
   },
-  "earplug+physiquejewel4": {
+  "earplug/physiquejewel4": {
     "name": "Earplug/Physique Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5585,7 +5585,7 @@
       }
     ]
   },
-  "critical+physiquejewel4": {
+  "critical/physiquejewel4": {
     "name": "Critical/Physique Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5602,7 +5602,7 @@
       }
     ]
   },
-  "tenderizer+physiquejewel4": {
+  "tenderizer/physiquejewel4": {
     "name": "Tenderizer/Physique Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5619,7 +5619,7 @@
       }
     ]
   },
-  "handicraft+physiquejewel4": {
+  "handicraft/physiquejewel4": {
     "name": "Handicraft/Physique Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5636,7 +5636,7 @@
       }
     ]
   },
-  "release+physiquejewel4": {
+  "release/physiquejewel4": {
     "name": "Release/Physique Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5653,7 +5653,7 @@
       }
     ]
   },
-  "footing+evasionjewel4": {
+  "footing/evasionjewel4": {
     "name": "Footing/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5670,7 +5670,7 @@
       }
     ]
   },
-  "charger+evasionjewel4": {
+  "charger/evasionjewel4": {
     "name": "Charger/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5687,7 +5687,7 @@
       }
     ]
   },
-  "enhancer+evasionjewel4": {
+  "enhancer/evasionjewel4": {
     "name": "Enhancer/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5704,7 +5704,7 @@
       }
     ]
   },
-  "destroyer+evasionjewel4": {
+  "destroyer/evasionjewel4": {
     "name": "Destroyer/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5721,7 +5721,7 @@
       }
     ]
   },
-  "ko+evasionjewel4": {
+  "ko/evasionjewel4": {
     "name": "KO/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5738,7 +5738,7 @@
       }
     ]
   },
-  "potential+evasionjewel4": {
+  "potential/evasionjewel4": {
     "name": "Potential/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5755,7 +5755,7 @@
       }
     ]
   },
-  "windresist+evasionjewel4": {
+  "windresist/evasionjewel4": {
     "name": "Wind Resist/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5772,7 +5772,7 @@
       }
     ]
   },
-  "draw+evasionjewel4": {
+  "draw/evasionjewel4": {
     "name": "Draw/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5789,7 +5789,7 @@
       }
     ]
   },
-  "throttle+evasionjewel4": {
+  "throttle/evasionjewel4": {
     "name": "Throttle/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5806,7 +5806,7 @@
       }
     ]
   },
-  "challenger+evasionjewel4": {
+  "challenger/evasionjewel4": {
     "name": "Challenger/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5823,7 +5823,7 @@
       }
     ]
   },
-  "flawless+evasionjewel4": {
+  "flawless/evasionjewel4": {
     "name": "Flawless/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5840,7 +5840,7 @@
       }
     ]
   },
-  "furor+evasionjewel4": {
+  "furor/evasionjewel4": {
     "name": "Furor/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5857,7 +5857,7 @@
       }
     ]
   },
-  "mighty+evasionjewel4": {
+  "mighty/evasionjewel4": {
     "name": "Mighty/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5874,7 +5874,7 @@
       }
     ]
   },
-  "brace+evasionjewel4": {
+  "brace/evasionjewel4": {
     "name": "Brace/Evasion Jewel 4",
     "rarity": 11,
     "slot": 4,
@@ -5891,7 +5891,7 @@
       }
     ]
   },
-  "phoenix+evasionjewel4": {
+  "phoenix/evasionjewel4": {
     "name": "Phoenix/Evasion Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5908,7 +5908,7 @@
       }
     ]
   },
-  "earplug+evasionjewel4": {
+  "earplug/evasionjewel4": {
     "name": "Earplug/Evasion Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5925,7 +5925,7 @@
       }
     ]
   },
-  "critical+evasionjewel4": {
+  "critical/evasionjewel4": {
     "name": "Critical/Evasion Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5942,7 +5942,7 @@
       }
     ]
   },
-  "tenderizer+evasionjewel4": {
+  "tenderizer/evasionjewel4": {
     "name": "Tenderizer/Evasion Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5959,7 +5959,7 @@
       }
     ]
   },
-  "handicraft+evasionjewel4": {
+  "handicraft/evasionjewel4": {
     "name": "Handicraft/Evasion Jewel 4",
     "rarity": 12,
     "slot": 4,
@@ -5976,7 +5976,7 @@
       }
     ]
   },
-  "release+evasionjewel4": {
+  "release/evasionjewel4": {
     "name": "Release/Evasion Jewel 4",
     "rarity": 12,
     "slot": 4,

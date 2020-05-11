@@ -68906,5 +68906,528 @@
       }
     ],
     "crafting": "-"
+  },
+  "kulvetaroth'sfuryalpha+": {
+    "name": "Kulve Taroth's Fury Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": "-",
+    "skills": [
+      {
+        "name": "Free Elem/Ammo Up",
+        "level": 3,
+        "description": "Draws out 100% of hidden element and expands clip size for some ammo."
+      },
+      {
+        "name": "Free Meal",
+        "level": 1,
+        "description": "Activates 25% of the time."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'sirealpha+": {
+    "name": "Kulve Taroth's Ire Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Free Meal",
+        "level": 1,
+        "description": "Activates 25% of the time."
+      },
+      {
+        "name": "Speed Eating",
+        "level": 3,
+        "description": "Greatly increases item use speed."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'sragealpha+": {
+    "name": "Kulve Taroth's Rage Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "description": "Increases damage dealt by critical hits by 30%."
+      },
+      {
+        "name": "Wide-Range",
+        "level": 3,
+        "description": "Items affect nearby allies in a wider radius with 66% of their efficacy."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'smalicealpha+": {
+    "name": "Kulve Taroth's MAlice Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 2,
+        "description": "While active, grants attack +10."
+      },
+      {
+        "name": "Free Meal",
+        "level": 1,
+        "description": "Activates 25% of the time."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'swrathalpha+": {
+    "name": "Kulve Taroth's Wrath Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 2,
+        "description": "Increases damage dealt by critical hits by 35%."
+      },
+      {
+        "name": "Peak Performance",
+        "level": 1,
+        "description": "While active, grants attack +5."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'sfurybeta+": {
+    "name": "Kulve Taroth's Fury Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Free Meal",
+        "level": 1,
+        "description": "Activates 25% of the time."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'sirebeta+": {
+    "name": "Kulve Taroth's Ire Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Speed Eating",
+        "level": 3,
+        "description": "Greatly increases item use speed."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'sragebeta+": {
+    "name": "Kulve Taroth's Rage Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 1,
+        "description": "Increases damage dealt by critical hits by 30%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'smalicebeta+": {
+    "name": "Kulve Taroth's Malice Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 2,
+        "description": "While active, grants attack +10."
+      }
+    ],
+    "crafting": "-"
+  },
+  "kulvetaroth'swrathbeta+": {
+    "name": "Kulve Taroth's Wrath Beta +",
+    "rank": "master",
+    "rarity": 121,
+    "type": "legs",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -2,
+      "ice": -2,
+      "thunder": 3,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Boost",
+        "level": 2,
+        "description": "Increases damage dealt by critical hits by 35%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "tentaclecowlgamma+": {
+    "name": "Tentacle Cowl Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Stamina Surge",
+        "level": 3,
+        "description": "Stamina recovery speed +30%"
+      },
+      {
+        "name": "Tool Specialist",
+        "level": 1,
+        "description": "Shortens time until reuse by 10%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "tentaclecloakgamma+": {
+    "name": "Tentacle Cloak Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Water Attack",
+        "level": 2,
+        "description": "Water attack +60"
+      },
+      {
+        "name": "Evade Window",
+        "level": 4,
+        "description": "Greatly increases invulnerability window."
+      }
+    ],
+    "crafting": "-"
+  },
+  "tentacleglovesgamma+": {
+    "name": "Tentacle Gloves Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": -2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Blight Resistance",
+        "level": 1,
+        "description": "Reduces the duration of all elemental blights by 50%."
+      },
+      {
+        "name": "Marathon Runner",
+        "level": 3,
+        "description": "Reduces continuous stamina depletion by 50%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "tentaclecoilgamma+": {
+    "name": "Tentacle Coil Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 176,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 4,
+      "ice": 0,
+      "thunder": 3,
+      "dragon": 4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Recovery Speed",
+        "level": 2,
+        "description": "Triples the speed at which you heal recoverable damage."
+      },
+      {
+        "name": "Evade Extender",
+        "level": 3,
+        "description": "Greatly extends evasion distance."
+      }
+    ],
+    "crafting": "-"
   }
 }

@@ -700,9 +700,7 @@ class Build {
         };
 
         skills.push(curObject);
-        object[
-          key.name.toLowerCase().replace(/ /g, '').split('/').join('+')
-        ] = {
+        object[key.name.toLowerCase().replace(/ /g, '')] = {
           name: key.name,
           rarity: key.rarity,
           slot: key.slot,
