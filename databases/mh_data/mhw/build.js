@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const utils = require('../../../util/mapUtils');
+const dataUtils = require('../../../tools/utils/dataUtils');
 const itemsURL = `https://mhw-db.com/items`;
 const armorsURL = `https://mhw-db.com/armor/sets`;
 const decorationsURL = `https://mhw-db.com/decorations`;
@@ -659,7 +659,7 @@ class Build {
       };
     }
 
-    utils.writeFile(writeTo, object);
+    dataUtils.writeFile(writeTo, object);
   }
 
   async items(writeTo) {
@@ -681,7 +681,7 @@ class Build {
       items.set(i, object[i]);
     }
 
-    utils.writeFile(writeTo, object);
+    dataUtils.writeFile(writeTo, object);
   }
 
   async decorations(writeTo) {
@@ -709,7 +709,7 @@ class Build {
       }
     }
 
-    utils.writeFile(writeTo, object);
+    dataUtils.writeFile(writeTo, object);
   }
 
   async skills(writeTo) {
@@ -735,7 +735,7 @@ class Build {
       }
     }
 
-    utils.writeFile(writeTo, object);
+    dataUtils.writeFile(writeTo, object);
   }
 
   async armors(writeTo) {
@@ -845,7 +845,7 @@ class Build {
       };
     }
 
-    utils.writeFile(writeTo, object);
+    dataUtils.writeFile(writeTo, object);
   }
 
   async armorPieces(writeTo) {
@@ -979,7 +979,7 @@ class Build {
       };
     }
 
-    utils.writeFile(writeTo, object);
+    dataUtils.writeFile(writeTo, object);
   }
 }
 

@@ -1,10 +1,10 @@
-const cmd = require('../../../util/commandUtils');
+const cmd = require('../../../tools/utils/commandUtils');
 const child_process = require('child_process').spawn;
-const utils = require('../../../util/mapUtils');
+const dataUtils = require('../../../tools/utils/dataUtils');
 const build = require('./build');
 
 cmd.command(['--convert'], function () {
-  utils.bulkConvertCSVs([
+  dataUtils.bulkConvertCSVs([
     {
       input: './databases/mh_data/mhw/source/data/csv/weapons',
       output: './databases/mh_data/mhw/source/data/json/weapons'

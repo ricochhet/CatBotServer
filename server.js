@@ -1,19 +1,15 @@
-const commandUtils = require('./util/commandUtils');
-const stringUtils = require('./util/stringUtils');
-const routeUtils = require('./util/routeUtils');
-const logger = require('./util/loggingUtils');
+const commandUtils = require('./tools/utils/commandUtils');
+const stringUtils = require('./tools/utils/stringUtils');
+const routeUtils = require('./tools/utils/routeUtils');
+const logger = require('./tools/utils/loggingUtils');
 
-const mapUtils = require('./util/mapUtils');
+const dataUtils = require('./tools/utils/dataUtils');
 const config = require('./config.json');
 const pjson = require('./package.json');
 
-const database = require('./api/database/router');
-database.setup(routeUtils, config);
-
-const queries = require('./queries');
-
 const mhwRouter = require('./api/monhun/mhw');
 const mhguRouter = require('./api/monhun/mhgu');
+const queries = require('./tools/database/queries');
 const catfactRouter = require('./api/catfacts/catfact');
 
 logger.config({
@@ -22,10 +18,6 @@ logger.config({
 });
 
 logger.log(`Running on v${pjson.version}`);
-
-mhwRouter.setup(mapUtils, routeUtils, config);
-mhguRouter.setup(mapUtils, routeUtils, config);
-catfactRouter.setup(mapUtils, routeUtils, config);
 
 routeUtils.start(
   config['server']['port'],
@@ -46,7 +38,7 @@ commandUtils.cmd('--newtoken', function () {
   let json = config;
   json.api.token = key;
 
-  mapUtils.writeFile('./config.json', json);
+  dataUtils.writeFile('./config.json', json);
   logger.log(`Token generated: ${key}`);
 });
 
@@ -54,20 +46,12 @@ routeUtils.get('/', '');
 
 if (config['api']['api_database']) {
   logger.log('Running database queries.');
-  queries.initialize();
+  queries.init();
 }
 
-mhwRouter.armors();
-mhwRouter.decorations();
-mhwRouter.items();
-mhwRouter.monsters();
-mhwRouter.skills();
-mhwRouter.weapons();
-
-mhguRouter.monsters();
-mhguRouter.weapons();
-
-catfactRouter.catfacts();
+mhwRouter.init();
+mhguRouter.init();
+catfactRouter.init();
 
 routeUtils.errors({
   type: 'json'

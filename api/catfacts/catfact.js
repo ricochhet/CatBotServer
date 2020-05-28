@@ -1,22 +1,31 @@
-class Router {
-  setup(mapUtils, routeUtils, config) {
-    this.mapUtils = mapUtils;
-    this.routeUtils = routeUtils;
-    this.config = config;
+const dataUtils = require('../../tools/utils/dataUtils');
+const routeUtils = require('../../tools/utils/routeUtils');
+const config = require('../../config.json');
 
-    this.catfact = mapUtils.buildMap('./databases/catfact_data/catfacts.json');
+class CatFactRouter {
+  constructor() {
+    this.catfact = dataUtils.buildMap('./databases/catfact_data/catfacts.json');
   }
 
-  catfacts() {
+  init() {
     const self = this;
-    this.routeUtils.get('/api/catfacts', '', function (render, req, res) {
-      if (req.query.key == self.config['api']['token']) {
-        res.json(self.catfact.raw);
-      } else {
-        res.json({ error: self.routeUtils.statusCode('403') });
+
+    let routes = {
+      catfacts: function () {
+        routeUtils.get('/api/catfacts', '', function (render, req, res) {
+          if (req.query.key == config['api']['token']) {
+            res.json(self.catfact.raw);
+          } else {
+            res.json({ error: routeUtils.statusCode('403') });
+          }
+        });
       }
-    });
+    };
+
+    for (const i in routes) {
+      routes[i]();
+    }
   }
 }
 
-module.exports = new Router();
+module.exports = new CatFactRouter();

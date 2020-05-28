@@ -1,6 +1,29 @@
 'use strict';
 
 class StringUtils {
+  hexEncode(str = "") {
+		let res = "";
+		let leng = str.split("");
+		for (const i in leng) {
+			let h = str.charCodeAt(i).toString(16);
+			res += ("000" + h).slice(-4);
+		}
+
+		return res;
+	}
+
+	hexDecode(str = "") {
+		let res = "";
+		let leng = str.split("");
+		let h = str.match(/.{1,4}/g) || [];
+
+		for (const i in leng) {
+			res += String.fromCharCode(parseInt(h[i], 16));
+		}
+
+		return res;
+	}
+
   trimPropertyName(value) {
     return value.replace(/\s/g, '');
   }

@@ -5,13 +5,17 @@ const bodyParser = require('body-parser');
 const router = express.Router();
 const session = require('express-session');
 const cors = require('cors');
-const statusCodes = require('./managers/statusCodes');
 
 class RouteUtils {
   constructor() {
     this.statusCodeRenders = new Map([
       [404, 'errors/404.ejs'],
       [403, 'errors/403.ejs']
+    ]);
+
+    this.codes = new Map([
+      ['404', '404 Not found'],
+      ['403', '403 Unauthorized']
     ]);
   }
 
@@ -40,7 +44,17 @@ class RouteUtils {
 
   statusCode(str = '') {
     const code = str.toString();
-    return statusCodes.get_code(code);
+    return this.get_code(code);
+  }
+
+  get_code(str = '') {
+    const code = str.toString();
+
+    if (this.codes.has(code)) {
+      return this.codes.get(code);
+    } else {
+      throw `Code not found ${code}`;
+    }
   }
 
   start(port, assets, views) {

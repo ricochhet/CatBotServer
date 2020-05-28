@@ -8,10 +8,6 @@ class MapUtils {
     };
   }
 
-  setup(db) {
-    this.db = new sqlite.Database(db);
-  }
-
   buildMap(
     file,
     opts = { extended: false, extraProp: false, raw: false },
