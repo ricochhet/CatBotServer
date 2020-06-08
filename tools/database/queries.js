@@ -65,10 +65,27 @@ class DatabaseQueries {
         databaseClient.get(pathname, filename);
 
         databaseClient.post(pathname, function (queries) {
-          console.log(queries);
           let object = {
             channels: dataUtils.readFile(filename).channels
           };
+
+          object = dataUtils.latestQuery(queries).message;
+          dataUtils.writeFile(filename, object);
+        });
+      },
+      server_prefixes: function () {
+        const pathname = `/api/database/${config['api']['client_id']}/server/serverPrefixes`;
+        const filename = `./databases/api_data/${config['api']['client_id']}/server/serverPrefixes.json`;
+
+        databaseClient.get(pathname, filename);
+
+        databaseClient.post(pathname, function (queries) {
+          let object = {};
+          try {
+            object = dataUtils.readFile(filename);
+          } catch (e) {
+            object = {};
+          }
 
           object = dataUtils.latestQuery(queries).message;
           dataUtils.writeFile(filename, object);
