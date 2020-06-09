@@ -8,16 +8,14 @@ API & Database for CatBot
 
 ## Command Line Arguments
 - Append each argument to the end of `node server`
-- `--nocli` - Clientless mode
-- `--db` - Use database
+- `--db` - Force database independant of config
 - `--config` - Log the config JSON
 - `--newtoken` - Generate and save a new token to the config file
 
 ## Config Options
-`api.client` - Controls whether the frontend (client) is used (true / false)
-`api.client_id` - Database API client id, used for identification of the app (string / int)
-`api.token` - Secure token that gets access to the API (string)
-`api.api_database` - Controls whether to use the database api (true / false)
+- `api.client_id` - Database API client id, used for identification of the app (string / int)
+- `api.token` - Secure token that gets access to the API (string)
+- `api.api_database` - Controls whether to use the database api (true / false)
 
 ## Database Updating (mh_data)
 - Update `data/csv/weapons` with data found here: https://github.com/gatheringhallstudios/MHWorldData (when needed)
@@ -28,17 +26,18 @@ API & Database for CatBot
 - Final output can be found under `databases/mh_data/mhw/build/`
 
 ## Database Updating (api_data)
-Requests: POST, DELETE, GET
-- Setup a "database" within the `queries.js` file
+Requests: POST, GET
+- Setup a table within the `queries.js` file
 
 ```javascript
-database.post_db(url, function(queries){});
-database.delete_db(url, function(queries){});
-database.get_db(url, database_path);
+database.post(url, function(queries){});
+database.get(url, database_path);
 ```
 
 **Database URLs must be unique**
 - Usage examples & libraries can be found under `libraries/db-api.js` & `libraries/index.js`
+
+All routes shown **must** end with the query `?key=secure_key` w/ `secure_key` being your secure API key in config
 
 ### API Routes (mh_data)
 - **Monster Hunter: World**
@@ -52,6 +51,9 @@ database.get_db(url, database_path);
 - **Monster Hunter: Generations Ultimate**
   - `base_url/api/mhgu/monsters`
   - `base_url/api/mhgu/weapons`
+
+### API Routes (catfact_data)
+- `base_url/api/catfacts`
 
 ### API Routes (api_data)
 - `base_url/api/database/:client_id/database_name`
