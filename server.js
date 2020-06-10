@@ -33,15 +33,6 @@ commandUtils.cmd('--config', function () {
   logger.log(stringUtils.jsonStringify(config));
 });
 
-commandUtils.cmd('--newtoken', function () {
-  const key = stringUtils.generateUUID();
-  let json = config;
-  json.api.token = key;
-
-  dataUtils.writeFile('./config.json', json);
-  logger.log(`Token generated: ${key}`);
-});
-
 routeUtils.get('/', '');
 
 if (config['api']['api_database']) {

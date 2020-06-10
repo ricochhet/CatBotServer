@@ -13,11 +13,7 @@ class CatFactRouter {
     let routes = {
       catfacts: function () {
         routeUtils.get('/api/catfacts', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            res.json(self.catfact.raw);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
-          }
+          res.json(self.catfact.raw);
         });
       }
     };

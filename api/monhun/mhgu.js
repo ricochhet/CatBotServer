@@ -18,20 +18,12 @@ class MHGURouter {
     let routes = {
       monsters: function () {
         routeUtils.get('/api/mhgu/monsters', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            res.json(self.monster_map.raw);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
-          }
+          res.json(self.monster_map.raw);
         });
       },
       weapons: function () {
         routeUtils.get('/api/mhgu/weapons', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            res.json(self.weapon_map.raw);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
-          }
+          res.json(self.weapon_map.raw);
         });
       }
     };

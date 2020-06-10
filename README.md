@@ -10,11 +10,9 @@ API & Database for CatBot
 - Append each argument to the end of `node server`
 - `--db` - Force database independant of config
 - `--config` - Log the config JSON
-- `--newtoken` - Generate and save a new token to the config file
 
 ## Config Options
 - `api.client_id` - Database API client id, used for identification of the app (string / int)
-- `api.token` - Secure token that gets access to the API (string)
 - `api.api_database` - Controls whether to use the database api (true / false)
 
 ## Database Updating (mh_data)
@@ -36,8 +34,6 @@ database.get(url, database_path);
 
 **Database URLs must be unique**
 - Usage examples & libraries can be found under `libraries/db-api.js` & `libraries/index.js`
-
-All routes shown **must** end with the query `?key=secure_key` w/ `secure_key` being your secure API key in config
 
 ### API Routes (mh_data)
 - **Monster Hunter: World**

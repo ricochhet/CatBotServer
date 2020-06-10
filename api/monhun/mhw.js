@@ -44,101 +44,72 @@ class MHWRouter {
     let routes = {
       armors: function () {
         routeUtils.get('/api/mhw/armors', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            res.json(self.armor_map.raw);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
-          }
+          res.json(self.armor_map.raw);
         });
       },
       decorations: function () {
         routeUtils.get('/api/mhw/decorations', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            res.json(self.decoration_map.raw);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
-          }
+          res.json(self.decoration_map.raw);
         });
       },
       items: function () {
         routeUtils.get('/api/mhw/items', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            res.json(self.item_map.raw);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
-          }
+          res.json(self.item_map.raw);
         });
       },
       monsters: function () {
         routeUtils.get('/api/mhw/monsters', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            let array = [];
-            for (const i in self.monster_map.raw) {
-              if (
-                !self.monster_hitzone_map.map.has(
+          let array = [];
+          for (const i in self.monster_map.raw) {
+            if (
+              !self.monster_hitzone_map.map.has(self.monster_map.raw[i]['name'])
+            )
+              throw console.log('Data could not be found for this monster!');
+
+            if (
+              !self.monster_enrage_map.map.has(self.monster_map.raw[i]['name'])
+            )
+              throw console.log('Data could not be found for this monster!');
+
+            let object = {
+              name: self.monster_map.raw[i]['name']
+                .toLowerCase()
+                .replace(/ /g, ''),
+              details: {
+                aliases: self.monster_map.raw[i]['details']['aliases'],
+                title: self.monster_map.raw[i]['details']['title'],
+                url: self.monster_map.raw[i]['details']['url'],
+                description: self.monster_map.raw[i]['details']['description'],
+                thumbnail: self.monster_map.raw[i]['details']['thumbnail'],
+                elements: self.monster_map.raw[i]['details']['elements'],
+                ailments: self.monster_map.raw[i]['details']['ailments'],
+                blights: self.monster_map.raw[i]['details']['blights'],
+                locations: self.monster_map.raw[i]['details']['locations'],
+                info: self.monster_map.raw[i]['details']['info'],
+                hzv: self.monster_map.raw[i]['details']['hzv'],
+                hitzones: self.monster_hitzone_map.map.get(
+                  self.monster_map.raw[i]['name']
+                ),
+                enrage: self.monster_enrage_map.map.get(
                   self.monster_map.raw[i]['name']
                 )
-              )
-                throw console.log('Data could not be found for this monster!');
+              }
+            };
 
-              if (
-                !self.monster_enrage_map.map.has(
-                  self.monster_map.raw[i]['name']
-                )
-              )
-                throw console.log('Data could not be found for this monster!');
-
-              let object = {
-                name: self.monster_map.raw[i]['name']
-                  .toLowerCase()
-                  .replace(/ /g, ''),
-                details: {
-                  aliases: self.monster_map.raw[i]['details']['aliases'],
-                  title: self.monster_map.raw[i]['details']['title'],
-                  url: self.monster_map.raw[i]['details']['url'],
-                  description:
-                    self.monster_map.raw[i]['details']['description'],
-                  thumbnail: self.monster_map.raw[i]['details']['thumbnail'],
-                  elements: self.monster_map.raw[i]['details']['elements'],
-                  ailments: self.monster_map.raw[i]['details']['ailments'],
-                  blights: self.monster_map.raw[i]['details']['blights'],
-                  locations: self.monster_map.raw[i]['details']['locations'],
-                  info: self.monster_map.raw[i]['details']['info'],
-                  hzv: self.monster_map.raw[i]['details']['hzv'],
-                  hitzones: self.monster_hitzone_map.map.get(
-                    self.monster_map.raw[i]['name']
-                  ),
-                  enrage: self.monster_enrage_map.map.get(
-                    self.monster_map.raw[i]['name']
-                  )
-                }
-              };
-
-              array.push(object);
-            }
-
-            res.json(array);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
+            array.push(object);
           }
+
+          res.json(array);
         });
       },
       skills: function () {
         routeUtils.get('/api/mhw/skills', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            res.json(self.skill_map.raw);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
-          }
+          res.json(self.skill_map.raw);
         });
       },
       weapons: function () {
         routeUtils.get('/api/mhw/weapons', '', function (render, req, res) {
-          if (req.query.key == config['api']['token']) {
-            res.json(self.weapon_map.raw);
-          } else {
-            res.json({ error: routeUtils.statusCode('403') });
-          }
+          res.json(self.weapon_map.raw);
         });
       }
     };
