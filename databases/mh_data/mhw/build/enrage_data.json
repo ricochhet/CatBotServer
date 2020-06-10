@@ -181,10 +181,10 @@
     },
     "furiousrajang": {
         "tender": 0,
-        "dmgToEnrage": "-",
-        "enrageDuration": "-",
-        "enrageSpeed": "-",
-        "monstrDmg": "-",
+        "dmgToEnrage": 350,
+        "enrageDuration": 110,
+        "enrageSpeed": "109%",
+        "monstrDmg": "120%",
         "playerDmg": "100%",
         "tenderizeFormula": "int(3/4x)+25"
     },
@@ -253,10 +253,10 @@
     },
     "kulvetaroth": {
         "tender": 0,
-        "dmgToEnrage": 1500,
+        "dmgToEnrage": 600,
         "enrageDuration": 150,
-        "enrageSpeed": "115%",
-        "monstrDmg": "115%",
+        "enrageSpeed": "110%",
+        "monstrDmg": "120%",
         "playerDmg": "120%",
         "tenderizeFormula": "int(3/4x)+25"
     },
@@ -388,10 +388,10 @@
     },
     "ragingbrachydios": {
         "tender": 0,
-        "dmgToEnrage": "-",
-        "enrageDuration": "-",
-        "enrageSpeed": "-",
-        "monstrDmg": "-",
+        "dmgToEnrage": 500,
+        "enrageDuration": 150,
+        "enrageSpeed": "100%",
+        "monstrDmg": "110%",
         "playerDmg": "105%",
         "tenderizeFormula": "int(3/4x)+25"
     },
