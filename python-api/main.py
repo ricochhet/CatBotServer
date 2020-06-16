@@ -6,6 +6,8 @@ from pathlib import Path
 
 from fastapi import FastAPI, HTTPException, Body
 
+from .routers import mhw, mhgu
+
 DB_PATH = Path(f"{__file__}/../../databases/").resolve().absolute()
 
 app = FastAPI()
@@ -53,7 +55,8 @@ def update_bot_data(client_id: str, file_path: str, body=Body(...)):
         return {"message": "Update was successful"}
 
 
-# TODO - GET(s) for mhw and mhgu data
+app.include_router(mhw.router, prefix="/api/mhw")
+app.include_router(mhgu.router, prefix="/api/mhgu")
 
 
 if __name__ == '__main__':
