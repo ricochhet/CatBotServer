@@ -1,4 +1,5 @@
 import json
+import logging
 from pathlib import Path
 
 from fastapi import APIRouter
@@ -7,6 +8,7 @@ MHW_DB_PATH = Path(f"{__file__}/../../../databases/mh_data/mhw/build/").resolve(
 
 router = APIRouter()
 
+logger = logging.getLogger("catbot-api")
 
 def json_from_file(path):
     final = MHW_DB_PATH.joinpath(path)
@@ -30,12 +32,28 @@ async def get_items():
     return json_from_file("item_info.json")
 
 
-# TODO - Implement monsters endpoint
-# @router.get("/monsters")
-# async def get_monsters():
-#     raw = json_from_file("monster_info.json")
-#     # think some manipulations are necessary, given how it looks
-#     return raw
+@router.get("/monsters")
+async def get_monsters():
+    # get monster data from different files
+    monsters = json_from_file("monster_info.json")
+    hitzones = json_from_file("hitzone_data.json")
+    enrage = json_from_file("enrage_data.json")
+
+    # append hitzone and enrage data to the monster details
+    for monster in monsters:
+        name = monster["name"]
+
+        hzv = hitzones.get(name)
+        enrage_values = enrage.get(name)
+
+        if not hzv or not enrage_values:
+            logger.error(f"Missing data for the monster {name}")
+            continue
+        else:
+            monster["details"]["hitzones"] = hitzones.get(name)
+            monster["details"]["enrage"] = enrage.get(name)
+
+    return monsters
 
 
 @router.get("/skills")

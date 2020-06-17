@@ -1,14 +1,14 @@
 ## Python API
 
-This basically replaces the ``node server`` command, when finished.
+This basically replaces the ``node server`` command.
 
-All it really does is serve the json files via a REST API (currently works for catfacts and bot server ones, you can run with bot to check).
+All it really does is serve the json files via a REST API, for CatBot (or any other client) to query/update.
 
 The other tools to update the database are still needed at this point. 
 
 Eventually they could be triggered from this code (periodically, so database stays up-to-date), or even *completely ported*. 
 
-**Currently missing the mhw data files, before being functional.** 
+**Functional - You can run it with the bot** 
 
 ## Usage
 
