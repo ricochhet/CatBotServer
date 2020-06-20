@@ -1,43 +1,36 @@
-import json
 import logging
-from pathlib import Path
 
 from fastapi import APIRouter
 
-MHW_DB_PATH = Path(f"{__file__}/../../../databases/mh_data/mhw/build/").resolve().absolute()
+from ..util import json_from_file
 
-router = APIRouter()
-
+MHW_DB_PREFIX = "mh_data/mhw/build"
 logger = logging.getLogger("catbot-api")
 
-def json_from_file(path):
-    final = MHW_DB_PATH.joinpath(path)
-    with final.open(mode="r", encoding="utf-8") as file:
-        data = json.loads(file.read())
-        return data
+router = APIRouter()
 
 
 @router.get("/armors")
 async def get_armor():
-    return json_from_file("armor_info.json")
+    return json_from_file(f"{MHW_DB_PREFIX}/armor_info.json")
 
 
 @router.get("/decorations")
 async def get_decorations():
-    return json_from_file("decoration_info.json")
+    return json_from_file(f"{MHW_DB_PREFIX}/decoration_info.json")
 
 
 @router.get("/items")
 async def get_items():
-    return json_from_file("item_info.json")
+    return json_from_file(f"{MHW_DB_PREFIX}/item_info.json")
 
 
 @router.get("/monsters")
 async def get_monsters():
     # get monster data from different files
-    monsters = json_from_file("monster_info.json")
-    hitzones = json_from_file("hitzone_data.json")
-    enrage = json_from_file("enrage_data.json")
+    monsters = json_from_file(f"{MHW_DB_PREFIX}/monster_info.json")
+    hitzones = json_from_file(f"{MHW_DB_PREFIX}/hitzone_data.json")
+    enrage = json_from_file(f"{MHW_DB_PREFIX}/enrage_data.json")
 
     # append hitzone and enrage data to the monster details
     for monster in monsters:
@@ -58,9 +51,9 @@ async def get_monsters():
 
 @router.get("/skills")
 async def get_skills():
-    return json_from_file("skill_info.json")
+    return json_from_file(f"{MHW_DB_PREFIX}/skill_info.json")
 
 
 @router.get("/weapons")
 async def get_weapons():
-    return json_from_file("weapon_info.json")
+    return json_from_file(f"{MHW_DB_PREFIX}/weapon_info.json")
