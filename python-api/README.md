@@ -21,13 +21,25 @@ cd python-api/
 pip intall -r requirements.txt
 
 # Run server (add --reload during dev to see live changes)
-uvicorn main:app --port 8080 --no-use-colors 
+uvicorn api.main:app --port 8080 --no-use-colors 
 
 # You could also run this from root folder
-# uvicorn python-api.main:app --port 8080 
+# uvicorn python-api.api.main:app --port 8080 
 ````
 Go to http://localhost:8080/ 
 
+
+## Docker setup
+
+````
+# build image, from root directory (CatBotServer) 
+docker build . -t catbot-api python-api\Dockerfile
+
+# run it (bind host port 8080 to container's, remove on exit) 
+docker run -it --rm -p 8080:8080 catbot-api
+````
+
+See [docker run reference](https://docs.docker.com/engine/reference/run/) for all options.
 
 ### References
 
