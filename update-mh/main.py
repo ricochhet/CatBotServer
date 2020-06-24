@@ -7,7 +7,7 @@ class Generate:
     self.generateHitzoneData()
 
   def generateEnrageData(self):
-    with open('databases/mh_data/mhw/source/tables/enrage.tsv', 'r', encoding="utf8") as f:
+    with open('update-mh/source/tables/enrage.tsv', 'r', encoding="utf8") as f:
       openFile = f.read()
 
     openFile = openFile.split('\n')
@@ -67,11 +67,11 @@ class Generate:
           'tenderizeFormula': obj['tenderizeFormula'],
       }
 
-    with open('databases/mh_data/mhw/build/enrage_data.json', 'w', encoding="utf8") as outfile:
+    with open('databases/mh_data/mhw/enrage_data.json', 'w', encoding="utf8") as outfile:
         json.dump(monstersUnnamed, outfile, ensure_ascii=False, indent=4)
 
   def generateHitzoneData(self):
-    with open('databases/mh_data/mhw/source/tables/hitzones.tsv', 'r', encoding="utf8") as f:
+    with open('update-mh/source/tables/hitzones.tsv', 'r', encoding="utf8") as f:
       openFile = f.read()
 
     openFile = openFile.split('\n')
@@ -151,7 +151,7 @@ class Generate:
 
     print(monsters['behemoth']['forearms'])
 
-    with open('databases/mh_data/mhw/build/hitzone_data.json', 'w', encoding="utf8") as outfile:
+    with open('databases/mh_data/mhw/hitzone_data.json', 'w', encoding="utf8") as outfile:
         json.dump(monstersUnnamed, outfile, ensure_ascii=False, indent=4)
 
 

@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-DB_PATH = Path(f"{__file__}/../../databases/").resolve().absolute()
+DB_PATH = Path(f"{__file__}/../../../databases/").resolve().absolute()
 
 
 def json_from_file(path):

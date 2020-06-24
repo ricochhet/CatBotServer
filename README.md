@@ -1,71 +1,72 @@
 # CatBotServer
+
 API & Database for CatBot
 
-# Development / Usage
-- Run `npm i --save`
-- Configure `config.json` if needed
-- Run `node server` or `npm run start`
+The REST api (see ``python-api/``) basically allows querying or updating data in the ``databases/`` folder (JSON files).
 
-## Command Line Arguments
-- Append each argument to the end of `node server`
-- `--db` - Force database independant of config
-- `--config` - Log the config JSON
+## API Usage / Development
 
-## Config Options
-- `api.client_id` - Database API client id, used for identification of the app (string / int)
-- `api.api_database` - Controls whether to use the database api (true / false)
+*Note: It's not required but you might wanna use a [virtual environment](https://docs.python.org/3/tutorial/venv.html) on your local machine.*
 
-## Database Updating (mh_data)
-- Update `data/csv/weapons` with data found here: https://github.com/gatheringhallstudios/MHWorldData (when needed)
-- Update `tables/` with data found here: https://docs.google.com/spreadsheets/d/1ttUaWtw2aaBFpz3NUp6izr-FgtQHSYJA_CjJA-xuets/edit#gid=837252457&fvid=113058775 (when needed)
+````
+cd python-api/
 
-- Run `node databases/mh_data/mhw/main.js --convert` (converts all .CSV files to raw JSON)
-- Run `node databases/mh_data/mhw/main.js --build` (converts JSON into a more usable format)
-- Final output can be found under `databases/mh_data/mhw/build/`
+# Install dependencies
+pip intall -r requirements.txt
 
-## Database Updating (api_data)
-Requests: POST, GET
-- Setup a table within the `queries.js` file
+# Run server (add --reload during dev to see live changes)
+uvicorn api.main:app --port 8080 --no-use-colors 
 
-```javascript
-database.post(url, function(queries){});
-database.get(url, database_path);
-```
+# You could also run this from root folder
+# uvicorn python-api.api.main:app --port 8080
 
-**Database URLs must be unique**
-- Usage examples & libraries can be found under `libraries/db-api.js` & `libraries/index.js`
+# See all options
+uvicorn --help
+````
 
-### API Routes (mh_data)
-- **Monster Hunter: World**
-  - `base_url/api/mhw/armors`
-  - `base_url/api/mhw/decorations`
-  - `base_url/api/mhw/items`
-  - `base_url/api/mhw/monsters`
-  - `base_url/api/mhw/skills`
-  - `base_url/api/mhw/weapons`
+Go to http://localhost:8080/
 
-- **Monster Hunter: Generations Ultimate**
-  - `base_url/api/mhgu/monsters`
-  - `base_url/api/mhgu/weapons`
+### References
 
-### API Routes (catfact_data)
-- `base_url/api/catfacts`
+- [FastAPI](https://fastapi.tiangolo.com/)
+  
+- [Uvicorn](https://www.uvicorn.org/)
+  
+- [Pydantic](https://pydantic-docs.helpmanual.io/)
 
-### API Routes (api_data)
-- `base_url/api/database/:client_id/database_name`
-- or `base_url/api/database/:client_id/database_category/database_name`
+### Docker setup
 
-- Location of databases should mimic API endpoints e.g.
-  - API: `/:client_id/category/name`
-  - Path: `/client_id/category/name.json`
-- This is done to keep consistency and organization in the structure. 
+````
+# build image, from root directory (CatBotServer) 
+docker build . -t catbot-api python-api\Dockerfile
 
-# User Data
+# run it (bind host port 8080 to container's, remove on exit) 
+docker run -it --rm -p 8080:8080 catbot-api
+````
+
+See [docker run reference](https://docs.docker.com/engine/reference/run/) for all options.
+
+## Database Updating (``update-mh/``)
+
+- Update `source/data/csv/weapons` with data found here: https://github.com/gatheringhallstudios/MHWorldData (when needed)
+
+- Update `source/tables/` with data found [here](https://docs.google.com/spreadsheets/d/1ttUaWtw2aaBFpz3NUp6izr-FgtQHSYJA_CjJA-xuets/edit#gid=837252457&fvid=113058775) (when needed)
+
+- Run `node update-mh/main.js --convert` (converts all .CSV files to raw JSON)
+
+- Run `node update-mh/main.js --build` (converts JSON into a more usable format)
+
+- Final output can be found under `databases/mh_data/mhw/`
+
+## User Data
+
 All user data in the databases is used on an opt-in, opt-out basis by the users own choice.
 All user data collected may not be redistributed without explicit permission.
 
-# Contributions
+## Contributions
+
 Please do not contribute to this project without explicit permission from the project owner.
 
-# Licensing
+## Licensing
+
 NONE (No Permission)

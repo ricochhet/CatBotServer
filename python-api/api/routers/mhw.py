@@ -4,7 +4,7 @@ from fastapi import APIRouter
 
 from ..util import json_from_file
 
-MHW_DB_PREFIX = "mh_data/mhw/build"
+MHW_DB_PREFIX = "mh_data/mhw"
 logger = logging.getLogger("catbot-api")
 
 router = APIRouter()

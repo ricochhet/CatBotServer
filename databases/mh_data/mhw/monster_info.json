@@ -9,7 +9,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-anjanath_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐",
-        "blights": "Fireblight", 
+        "blights": "Fireblight",
         "locations": "Ancient Forest\nWildspire Waste",
         "info": "Anjanath spits fiery blasts from its mouth utilizing a unique organ in its throat. Focusing attacks on its throat will make battling it much easier.",
         "hzv": {
@@ -34,7 +34,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/MHW-Barroth_Icon.png",
         "elements": "Fire ⭐⭐⭐(:x:)\nWater :x:(⭐⭐⭐)\nThunder :x:\nIce ⭐⭐\nDragon ⭐\n() when covered in mud.",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐⭐\nStun ⭐",
-        "blights": "Waterblight", 
+        "blights": "Waterblight",
         "locations": "Wildspire Waste",
         "info": "While it uses hardened mud as armor, Barroth can also fling it off its body as an attack. Use water element weapons or your slinger to gradually knock off its mud.",
         "hzv": {
@@ -59,7 +59,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-bazelgeuse_icon.png",
         "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐⭐\nIce ⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐",
-        "blights": "Fireblight", 
+        "blights": "Fireblight",
         "locations": "Ancient Forest\nCoral Highlands\nRotten Vale\nWildspire Waste\nElders Recess",
         "info": "The scales that Bazelgeuse scatters explode with tremendous force, making them extremely deadly. Focus on its leslash to knock it down, and then knock out its scale-generating organs.",
         "hzv": {
@@ -84,7 +84,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-behemoth_icon.png",
         "elements": "Fire ⭐\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Bleeding\nFireblight\nThunderblight", 
+        "blights": "Bleeding\nFireblight\nThunderblight",
         "locations": "Elders Recess",
         "info": "If you manage to gain enmity, this gives your teammates a massive opening, just remember to stay alive.",
         "hzv": {
@@ -98,7 +98,7 @@
             "dragon": "85"
         }
     }
-    },    
+    },
     {
     "name": "deviljho",
     "details": {
@@ -109,7 +109,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-deviljho_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Dragonblight\nDefense Down\nFireblight (lava)\nWaterblight (water)\nEffluvia (Rotten Vale)", 
+        "blights": "Dragonblight\nDefense Down\nFireblight (lava)\nWaterblight (water)\nEffluvia (Rotten Vale)",
         "locations": "Ancient Forest\nCoral Highlands\nRotten Vale\nWildspire Waste\nElders Recess",
         "info": "When enraged, Deviljho's swollen muscles glow a hellish red. It will start spewing a sweeping dragon element attack, so watch your distance. Deviljho stays on the attack even when wounded, but don't give up; keep fighting and you'll come out on top.",
         "hzv": {
@@ -123,7 +123,7 @@
             "dragon": "25"
         }
     }
-    },    
+    },
     {
     "name": "diablos",
     "details": {
@@ -134,7 +134,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-diablos_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Stun", 
+        "blights": "Stun",
         "locations": "Wildspire Waste",
         "info": "Diablos can be forcibly brought to the surface by using loud sounds. And its charging attack, while devastatingly powerful, can be baited into colliding with a wildspire, momentarily getting the Diablos stuck.",
         "hzv": {
@@ -148,7 +148,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "blackdiablos",
     "details": {
@@ -159,7 +159,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-black_diablos_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon :x:",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Stun", 
+        "blights": "Stun",
         "locations": "Wildspire Waste (High Rank)",
         "info": "Diablos are much more aggressive against intruders when in heat, and are known to attack enemies in retreat. Do not let your guard down even if you think you've established a safe distance from these monsters.",
         "hzv": {
@@ -173,7 +173,7 @@
             "dragon": "0"
         }
     }
-    },    
+    },
     {
     "name": "dodogama",
     "details": {
@@ -184,7 +184,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-dodogama_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Blastblight", 
+        "blights": "Blastblight",
         "locations": "Elders Recess",
         "info": "Dodogama collects explosive minerals in its mouth, but doing so weakens its massive jaw. Causing the minerals to detonate while they're still in Dodogama's mouth will create a great opening for an attack.",
         "hzv": {
@@ -198,7 +198,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "greatgirros",
     "details": {
@@ -209,7 +209,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-great_girros_icon2.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder :x:\nIce ⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Paralysis", 
+        "blights": "Paralysis",
         "locations": "Rotten Vale",
         "info": "Taking down lesser Girros will make the rest of the pack scatter, and should be a top priority. Breaking the fanslash of a Great Girros will make its paralyzing agent much weaker.",
         "hzv": {
@@ -223,7 +223,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "greatjagras",
     "details": {
@@ -234,7 +234,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-great_jagras_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐⭐",
-        "blights": "n/a", 
+        "blights": "n/a",
         "locations": "Ancient Forest",
         "info": "Even after a giant meal, a Great Jagras can use its expanded stomach to attack unsuspecting hunters. Aim for its belly to force it to vomit out its prey and significantly weaken it.",
         "hzv": {
@@ -248,7 +248,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "jyuratodus",
     "details": {
@@ -259,7 +259,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-jyuratodus_icon2.png",
         "elements": "Fire ⭐(:x:)\nWater :x:(⭐⭐⭐)\nThunder ⭐⭐⭐(:x:)\nIce ⭐\nDragon ⭐\n() when covered in mud.",
         "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐⭐",
-        "blights": "Waterblight", 
+        "blights": "Waterblight",
         "locations": "Wildspire Waste",
         "info": "It's nearly impossible to fight a Jyuratodus in its swampy home. Coerce it to land, and then use water element weapons or your slinger to slowly chip away its hardened mud armor.",
         "hzv": {
@@ -273,7 +273,7 @@
             "dragon": "5"
         }
     }
-    },    
+    },
     {
     "name": "kirin",
     "details": {
@@ -284,7 +284,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-kirin_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater ⭐⭐\nThunder :x:\nIce ⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis :x:\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Thunderblight", 
+        "blights": "Thunderblight",
         "locations": "Coral Highlands",
         "info": "The lightning a Kirin cloaks itself with has been confirmed to toughen its skin. The key to hunting a Kirin lies in staggering it, using Elderseal weapons, and protecting yourself from and avoiding its lightning attacks.",
         "hzv": {
@@ -298,7 +298,7 @@
             "dragon": "5"
         }
     }
-    },    
+    },
     {
     "name": "kulu-ya-ku",
     "details": {
@@ -309,7 +309,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-kulu-ya-ku_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "n/a", 
+        "blights": "n/a",
         "locations": "Ancient Forest\nWildspire Waste",
         "info": "Kulu-Ya-Ku can use small boulders to shield itself or smash against its enemies. Force it to drop whatever it's holding by using your slinger. You can also frighten it by luring one of its natural enemies.",
         "hzv": {
@@ -323,7 +323,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "kulvetaroth",
     "details": {
@@ -334,7 +334,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-kulve_taroth_icon.png",
         "elements": "Fire :x:(⭐)\nWater ⭐⭐\nThunder :x:(⭐⭐⭐)\nIce ⭐⭐⭐(:x:)\nDragon ⭐⭐(⭐)\n() when covered in gold.",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐\nStun ⭐",
-        "blights": "Fireblight", 
+        "blights": "Fireblight",
         "locations": "Caverns of El Dorado",
         "info": "An exhaustive investigation is required in order to break Kulve Taroth's giant gold plated horns. Pursue the monster to learn more about it. Gather tracks and recruit hunters to help you further your investigation.",
         "hzv": {
@@ -348,7 +348,7 @@
             "dragon": "35"
         }
     }
-    },    
+    },
     {
     "name": "kushaladaora",
     "details": {
@@ -359,7 +359,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-kushala_daora_icon.png",
         "elements": "Fire ⭐\nWater :x:\nThunder ⭐⭐⭐\nIce :x:\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
-        "blights": "Stun", 
+        "blights": "Stun",
         "locations": "Ancient Forest\nElders Recess",
         "info": "When confronted by enemies, Kushala's wind shield continuously grows in intensity, eventually deflecting bow and bowgun attacks. Its wind shield can be weakened by staggering it, particularly with weapons with Elderseal capabilities.",
         "hzv": {
@@ -373,7 +373,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "lavasioth",
     "details": {
@@ -384,7 +384,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-lavasioth_icon.png",
         "elements": "Fire :x:(⭐)\nWater ⭐⭐⭐(⭐⭐)\nThunder ⭐⭐(:x:)\nIce ⭐⭐(:x:)\nDragon ⭐\n() when hardened.",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Fireblight", 
+        "blights": "Fireblight",
         "locations": "Elders Recess",
         "info": "The hardened magma on Lavasioth's body becomes softer as it swims through the lava. Attack its armor immediately after it surfaces to increase your chances of destroying it before it rehardens.",
         "hzv": {
@@ -398,7 +398,7 @@
             "dragon": "5"
         }
     }
-    },    
+    },
     {
     "name": "legiana",
     "details": {
@@ -409,7 +409,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-legiana_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐\nThunder ⭐⭐⭐\nIce :x:\nDragon ⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Iceblight", 
+        "blights": "Iceblight",
         "locations": "Coral Highlands",
         "info": "The membrane that covers its entire body enables Legiana to move with incredible speed. Damaging this membrane should help with slowing it down. Poison attacks have also been known to be effective.",
         "hzv": {
@@ -423,7 +423,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "lunastra",
     "details": {
@@ -434,7 +434,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-lunastra_icon2.png",
         "elements": "Fire :x:\nWater ⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Fireblight", 
+        "blights": "Fireblight",
         "locations": "Elders Recess",
         "info": "Lunastra's high body temperature and dust saps away health unless you use a Cool Drink. Its dust and blue flame explode when it comes into contact with fire, so use a bomb or Crystalburst.",
         "hzv": {
@@ -448,7 +448,7 @@
             "dragon": "25"
         }
     }
-    },    
+    },
     {
     "name": "nergigante",
     "details": {
@@ -459,7 +459,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-nergigante_icon.png",
         "elements": "Fire ⭐\nWater ⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "n/a", 
+        "blights": "n/a",
         "locations": "Elders Recess",
         "info": "Nergigante can recover from wounds almost instantaneously. Regenerated body parts grow harder over time, so attacking them while they're still fresh is the ideal strategy.",
         "hzv": {
@@ -473,7 +473,7 @@
             "dragon": "20"
         }
     }
-    },    
+    },
     {
     "name": "odogaron",
     "details": {
@@ -484,7 +484,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-odogaron_icon.png",
         "elements": "Fire ⭐\nWater ⭐\nThunder ⭐⭐\nIce ⭐⭐⭐\nDragon :x:",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Bleeding", 
+        "blights": "Bleeding",
         "locations": "Coral Highlands\nRotten Vale",
         "info": "Odogaron's nasty claws cause heavy bleeding and should be avoided at all costs. Use meat to lure it into traps, stagger it, or coerce it into bouts of rage to tire it out and make it easier to deal with.",
         "hzv": {
@@ -498,7 +498,7 @@
             "dragon": "0"
         }
     }
-    },    
+    },
     {
     "name": "paolumu",
     "details": {
@@ -509,7 +509,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-paolumu_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐⭐",
-        "blights": "Wind Pressure", 
+        "blights": "Wind Pressure",
         "locations": "Coral Highlands",
         "info": "Paolumu can't move around as freely when its air sacs are deflated. Aim for its inflated body parts, or purposefully draw out its attacks that use up stored air, to gain the upper hand.",
         "hzv": {
@@ -523,7 +523,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "pukei-pukei",
     "details": {
@@ -534,7 +534,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-pukei-pukei_icon.png",
         "elements": "Fire ⭐⭐\nWater :x:\nThunder ⭐⭐⭐\nIce ⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐\nSleep ⭐⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Poison", 
+        "blights": "Poison",
         "locations": "Ancient Forest",
         "info": "Observational reports state that Pukei-Pukei will bully weaker monsters but cower before bigger, stronger monsters. It's prone to retreating at the first sign of danger, so use that to your advantage.",
         "hzv": {
@@ -548,7 +548,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "radobaan",
     "details": {
@@ -559,7 +559,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-radobaan_icon.png",
         "elements": "Fire ⭐\nWater ⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
-        "blights": "Sleep", 
+        "blights": "Sleep",
         "locations": "Rotten Vale",
         "info": "Attack it as it rolls around to throw it off balance and knock it down. Chunks of bone can be mined from its body once it's down. Shattering its bone armor is the key to winning a fight against this beast.",
         "hzv": {
@@ -573,7 +573,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "rathalos",
     "details": {
@@ -584,7 +584,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-rathalos_icon.png",
         "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nPoison\nStun", 
+        "blights": "Fireblight\nPoison\nStun",
         "locations": "Ancient Forest",
         "info": "Rathalos prefer to stay airborne to unleash their myriad attacks, but a well-placed flash bomb or a shot from your slinger can send them crashing to the earth. Wounding their winslash gives them a moment of vulnerability whenever they try to take flight.",
         "hzv": {
@@ -598,7 +598,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "azurerathalos",
     "details": {
@@ -609,7 +609,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-azure_rathalos_icon.png",
         "elements": "Fire :x:\nWater ⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nPoison\nStun", 
+        "blights": "Fireblight\nPoison\nStun",
         "locations": "Ancient Forest\nElders Recess",
         "info": "Counter its airborne onslaught by observing its flight patterns and finding the right moment to knock it out of the sky. Once grounded, it loses its ability to perform consecutive attacks, making the fight much easier.",
         "hzv": {
@@ -623,7 +623,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "rathian",
     "details": {
@@ -634,7 +634,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-rathian_icon.png",
         "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐⭐",
-        "blights": "Fireblight\nPoison", 
+        "blights": "Fireblight\nPoison",
         "locations": "Ancient Forest\nWildspire Waste",
         "info": "Come prepared with fire-resistant armor, and neuter its poison attacks by severing its tail.",
         "hzv": {
@@ -648,7 +648,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "pinkrathian",
     "details": {
@@ -659,7 +659,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-pink_rathian_icon2.png",
         "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐⭐",
-        "blights": "Poison", 
+        "blights": "Poison",
         "locations": "Wildspire Waste\nCoral Highlands",
         "info": "Pink Rathians develop hard shells on different body parts compared to standard Rathians, particularly on their tails. If you're looking to sever its tail, aim for the relatively soft tip of the tail.",
         "hzv": {
@@ -673,7 +673,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "teostra",
     "details": {
@@ -684,7 +684,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-teostra_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nBlastblight", 
+        "blights": "Fireblight\nBlastblight",
         "locations": "Wildspire Waste\nElders Recess",
         "info": "The dust Teostra scatters will spread over a wide area until it finally explodes. Keep an eye on that, as well as the flames it occasionally shields itself in, and aim to stagger it with weapons possessing Elderseal capabilities.",
         "hzv": {
@@ -698,7 +698,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "tobi-kadachi",
     "details": {
@@ -709,7 +709,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-tobi-kadachi_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder :x:\nIce ⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Thunderblight", 
+        "blights": "Thunderblight",
         "locations": "Ancient Forest",
         "info": "Use the target camera to avoid getting ambushed from behind as it moves from tree to tree. The key to defeating this monster is to immobilize it and prevent it from reaching a charged state.",
         "hzv": {
@@ -723,7 +723,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "tzitzi-ya-ku",
     "details": {
@@ -734,7 +734,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-tzitzi-ya-ku_icon2.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Stun", 
+        "blights": "Stun",
         "locations": "Coral Highlands",
         "info": "Tzitzi-Ya-Ku's organs begin to radiate before it releases its blinding pulse, giving you enough time to escape and flank it. Damaging this organ will dramatically decrease the flash's effective shot.",
         "hzv": {
@@ -748,7 +748,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "uragaan",
     "details": {
@@ -759,7 +759,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-uragaan_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐⭐",
-        "blights": "Sleep\nFireblight", 
+        "blights": "Sleep\nFireblight",
         "locations": "Elders Recess",
         "info": "A crushing slam from the Uragaan's jaw can send shockwaves across the ground, detonating any explosive rocks in the area. In addition, when an Uragaan is toppled, its body can be mined for ore.",
         "hzv": {
@@ -773,7 +773,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "vaalhazak",
     "details": {
@@ -784,7 +784,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-vaal_hazak_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Effluvia", 
+        "blights": "Effluvia",
         "locations": "Rotten Vale",
         "info": "Once you've become tainted, inhaling the vapor of the vale causes your own health to drain. Head for areas where the vapor is thin, and if you do get tainted, use nulberries to remove it. Using the miasma skill nullifies it entirely.",
         "hzv": {
@@ -798,7 +798,7 @@
             "dragon": "25"
         }
     }
-    },    
+    },
     {
     "name": "xeno'jiiva",
     "details": {
@@ -809,7 +809,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-xeno'jiiva_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep :x:\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Fireblight\nDragonblight", 
+        "blights": "Fireblight\nDragonblight",
         "locations": "Confluence of Fates",
         "info": "Perhaps as a result of its inability to fully control its own incalculable power, Xeno'jiiva is prone to go into a rampage when its energy-filled limbs take enough damage. Endure its rampage and you may be rewarded with a good opening for attacks.",
         "hzv": {
@@ -823,7 +823,7 @@
             "dragon": "20"
         }
     }
-    },    
+    },
     {
     "name": "zorahmagdaros",
     "details": {
@@ -834,7 +834,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-zorah_magdaros_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison :x:\nSleep :x:\nParalysis :x:\nBlast :x:\nStun :x:",
-        "blights": "Fireblight", 
+        "blights": "Fireblight",
         "locations": "n/a",
         "info": "Normal attacks can't make a dent in its mountain-like shell. Utilize larger weapons such as cannons and ballistae, or directly attack the \"magmacore\" heat organs that are exposed in parts of its outer shell.",
         "hzv": {
@@ -848,7 +848,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "ancientleshen",
     "details": {
@@ -859,7 +859,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/ancient_leshen_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep :x:\nParalysis ⭐\nBlast ⭐\nStun ⭐",
-        "blights": "Bleeding", 
+        "blights": "Bleeding",
         "locations": "Ancient Forest",
         "info": "If you get trapped by one of Ancient Leshens attacks, a teammate can use a flashpod to get you out.",
         "hzv": {
@@ -873,7 +873,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "leshen",
     "details": {
@@ -884,7 +884,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-leshen_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep :x:\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Bleeding", 
+        "blights": "Bleeding",
         "locations": "Ancient Forest",
         "info": "The easier counterpart to the Ancient Leshen, this variant proves much easier.",
         "hzv": {
@@ -898,7 +898,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "banbaro",
     "details": {
@@ -909,7 +909,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-banbaro_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐\nIce :x:\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐⭐",
-        "blights": "Iceblight (Hoarfrost)\nWaterblight (Highlands)\nFireblight (Recess)", 
+        "blights": "Iceblight (Hoarfrost)\nWaterblight (Highlands)\nFireblight (Recess)",
         "locations": "Hoarfrost Reach",
         "info": "Blows to the Banbaro's leslash are an effective counter to its deadly charge. Firing scatternuts or crystalburst mid-charge can halt the beast.",
         "hzv": {
@@ -923,7 +923,7 @@
             "dragon": "25"
         }
     }
-    },    
+    },
     {
     "name": "beotodus",
     "details": {
@@ -934,7 +934,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-beotodus_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater ⭐\nThunder ⭐⭐\nIce :x:\nDragon :x:",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
-        "blights": "Iceblight", 
+        "blights": "Iceblight",
         "locations": "Hoarfrost Reach",
         "info": "Stripping the snow packed on its body will force the monster out into the open. Firing screamer pods can provide an opening to attack: focus on its leg fins to weaken it.",
         "hzv": {
@@ -948,7 +948,7 @@
             "dragon": "0"
         }
     }
-    },    
+    },
     {
     "name": "nargacuga",
     "details": {
@@ -959,7 +959,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-nargacuga_icon.png",
         "elements": "Fire ⭐⭐\nWater :x:\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Bleeding", 
+        "blights": "Bleeding",
         "locations": "Coral Highlands\nAncient Forest",
         "info": "Nargacuga's speed dulls when exhausted, so luring it into turf wars with other monsters is effective. Take care when setting traps, as it will destroy pitfalls when not enraged.",
         "hzv": {
@@ -973,7 +973,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "velkhana",
     "details": {
@@ -984,7 +984,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-velkhana_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater ⭐\nThunder ⭐⭐\nIce :x:\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐⭐\nStun ⭐",
-        "blights": "Iceblight", 
+        "blights": "Iceblight",
         "locations": "Elders Recess\nHoarfrost Reach",
         "info": "Shattering the ice that encases its body neutralizes its freezing breath. The ice walls it forms can be broken to provide platforms for mounting. Torch pods are useful for this.",
         "hzv": {
@@ -998,7 +998,7 @@
             "dragon": "20"
         }
     }
-    },    
+    },
     {
     "name": "tigrex",
     "details": {
@@ -1009,7 +1009,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-tigrex_icon.png",
         "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Iceblight (icy)\nWaterblight (water)", 
+        "blights": "Iceblight (icy)\nWaterblight (water)",
         "locations": "Rotten Vale\nHoarfrost Reach\nWildspire Waste\nAncient Forest\nElders Recess",
         "info": "Ledges and obstacles won't stop Tigrex's charge, so you'll need to steer clear. After enough repetitions the monster will tire and slow down, opening up to counterattacks.",
         "hzv": {
@@ -1023,7 +1023,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "shriekinglegiana",
     "details": {
@@ -1034,7 +1034,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-shrieking_legiana_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater ⭐\nThunder ⭐⭐\nIce :x:\nDragon ⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Iceblight", 
+        "blights": "Iceblight",
         "locations": "Hoarfrost Reach",
         "info": "Sufficient damage can knock it out of the sky, and it is especially vulnerable while dive-bombing, making barrel bombs effective. Like other Legiana, poison also works well.",
         "hzv": {
@@ -1048,7 +1048,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "barioth",
     "details": {
@@ -1059,7 +1059,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-barioth_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce :x:\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Iceblight", 
+        "blights": "Iceblight",
         "locations": "Hoarfrost Reach",
         "info": "Break its tail, or especially its foreleslash to mitigate both its offense and its mobility. The monster's hide is extremely tough, but fire elemental attacks should prove effective.",
         "hzv": {
@@ -1073,7 +1073,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "glavenus",
     "details": {
@@ -1084,7 +1084,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-glavenus_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Fireblight", 
+        "blights": "Fireblight",
         "locations": "Ancient Forest\nWildspire Waste\nElders Recess",
         "info": "Once red hot, its tail will begin to rust and the monster will sharpen it anew with its fanslash, storing the slag to expel as fiery breath. Strike its throat when it glows red.",
         "hzv": {
@@ -1098,7 +1098,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "brachydios",
     "details": {
@@ -1109,7 +1109,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-brachydios_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Blastcourge", 
+        "blights": "Blastcourge",
         "locations": "Elders Recess",
         "info": "Its scalp secretes a thick slime capable of tripping hunters who step in it. Water will dilute it however, making water and ice attacks to its head and arms effective.",
         "hzv": {
@@ -1123,7 +1123,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "fulguranjanath",
     "details": {
@@ -1134,7 +1134,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-fulgur_anjanath_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐(⭐⭐⭐)\nThunder :x:\nIce ⭐⭐⭐(⭐⭐)\nDragon ⭐\n() when charged.",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Thunderblight", 
+        "blights": "Thunderblight",
         "locations": "All Locations",
         "info": "Once it enters an electrified state, its hide hardens, and its attacks deal elemental damage. Focus blows on its head to dissipate the charge.",
         "hzv": {
@@ -1148,7 +1148,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "ebonyodogaron",
     "details": {
@@ -1159,7 +1159,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-ebony_odogaron_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep :x:\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Dragonblight\nBleeding", 
+        "blights": "Dragonblight\nBleeding",
         "locations": "All Locations",
         "info": "When frenzied, it uses dragon elemental attacks, but hunters can hit its head with their own elemental attacks to calm it.",
         "hzv": {
@@ -1173,7 +1173,7 @@
             "dragon": "5"
         }
     }
-    },    
+    },
     {
     "name": "acidicglavenus",
     "details": {
@@ -1184,7 +1184,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-acidic_glavenus_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐(⭐)\n() when crystalized.",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Defense Down", 
+        "blights": "Defense Down",
         "locations": "Rotten Vale",
         "info": "The acid on its tail will lower a hunter's defenses on contact, and spreads with time, increasing the shot of its spray. The ailments it inflicts can be removed with defense buff items",
         "hzv": {
@@ -1198,7 +1198,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "ruinernergigante",
     "details": {
@@ -1209,7 +1209,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-ruiner_nergigante_icon.png",
         "elements": "Fire ⭐\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐",
-        "blights": "Bleeding", 
+        "blights": "Bleeding",
         "locations": "Guiding Lands (LV5 & Above)",
         "info": "Like its cousins, it attacks with white and black spikes, but also possesses metallic spikes that do not regrow. Break them to greatly reduce the monster's lethality.",
         "hzv": {
@@ -1223,7 +1223,7 @@
             "dragon": "20"
         }
     }
-    },    
+    },
     {
     "name": "vipertobi-kadachi",
     "details": {
@@ -1234,7 +1234,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-viper_tobi-kadachi_icon.png",
         "elements": "Fire ⭐\nWater :x:\nThunder ⭐⭐⭐\nIce ⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Poison\nNoxious Poison\nParalysis", 
+        "blights": "Poison\nNoxious Poison\nParalysis",
         "locations": "Hoarfrost Reach",
         "info": "Its agility is its greatest weapon, but also makes it prone to exhaustion. When tired, it grows drastically less mobile. Focus attacks on its soft parts to exhaust it quickly.",
         "hzv": {
@@ -1248,7 +1248,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "coralpukei-pukei",
     "details": {
@@ -1259,7 +1259,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-coral_pukei-pukei_icon.png",
         "elements": "Fire ⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Waterblight", 
+        "blights": "Waterblight",
         "locations": "Coral Highlands",
         "info": "After feeding, the water attacks from both ends are enhanced: focus on those two areas to weaken the creature again.",
         "hzv": {
@@ -1273,7 +1273,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "nightshadepaolumu",
     "details": {
@@ -1284,7 +1284,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-nightshade_paolumu_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐\nDragon :x:",
         "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Sleep", 
+        "blights": "Sleep",
         "locations": "Wildspire Waste\nAncient Forest",
         "info": "It uses tail swipes and other blows to bat its soporific breath into a target's path. Stubbornly airborne, using flash pods can drop it to the ground.",
         "hzv": {
@@ -1298,7 +1298,7 @@
             "dragon": "0"
         }
     }
-    },    
+    },
     {
     "name": "namielle",
     "details": {
@@ -1309,7 +1309,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-namielle_icon.png",
         "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder :x:\nIce ⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
-        "blights": "Waterblight\nThunderblight", 
+        "blights": "Waterblight\nThunderblight",
         "locations": "Coral Highlands",
         "info": "Emitting water causes its coating to decrease, and it becomes vulnerable when dry. Use brightmoss and other slinger fire to remove any nearby sources of water.",
         "hzv": {
@@ -1323,7 +1323,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "yiangaruga",
     "details": {
@@ -1334,7 +1334,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-yian_garuga_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder :x:\nIce ⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nPoison", 
+        "blights": "Fireblight\nPoison",
         "locations": "Guiding Lands (Forest)",
         "info": "It moves violently with its entire body, enough to break pitfall traps when enraged. Slow it by breaking body parts or baiting out its stamina-intensive beak attacks.",
         "hzv": {
@@ -1348,7 +1348,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "sharaishvalda",
     "details": {
@@ -1359,7 +1359,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-shara_ishvalda_icon.png",
         "elements": "Fire ⭐\nWater ⭐⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep :x:\nParalysis ⭐\nBlast ⭐⭐⭐(⭐⭐)\nStun ⭐\n() when released.",
-        "blights": "Stun", 
+        "blights": "Stun",
         "locations": "Origin Isle",
         "info": "Hunters must begin by stripping its sturdy rock armor: bombs and falling rocks are two proven methods. Skills to counter tremors are a boon against its wingtip attacks.",
         "hzv": {
@@ -1373,7 +1373,7 @@
             "dragon": "5"
         }
     }
-    },    
+    },
     {
     "name": "savagedeviljho",
     "details": {
@@ -1384,7 +1384,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-savage_deviljho_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Defense Down\nDragonblight\nFireblight (lava)\nIceblight (icy)\nWaterblight (water)", 
+        "blights": "Defense Down\nDragonblight\nFireblight (lava)\nIceblight (icy)\nWaterblight (water)",
         "locations": "All Locations",
         "info": "The monster grows in strength as it fights and feeds, so preventing it from eating is paramount. Blows to the head are effective. It will ignore hunters around larger prey.",
         "hzv": {
@@ -1398,7 +1398,7 @@
             "dragon": "30"
         }
     }
-    },    
+    },
     {
     "name": "blackveilvaalhazak",
     "details": {
@@ -1409,7 +1409,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-blackveil_vaal_hazak_icon.png",
         "elements": "Fire ⭐⭐\nWater :x:\nThunder ⭐\nIce ⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Effluvia", 
+        "blights": "Effluvia",
         "locations": "Ancient Forest\nRotten Vale",
         "info": "Damaging areas densely covered by spores appears to dull their activity as a whole. They also shield the monster from light: break the head to make flash pods work.",
         "hzv": {
@@ -1423,7 +1423,7 @@
             "dragon": "25"
         }
     }
-    },    
+    },
     {
     "name": "seethingbazelgeuse",
     "details": {
@@ -1434,7 +1434,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-seething_bazelgeuse_icon.png",
         "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐\nIce ⭐⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Fireblight", 
+        "blights": "Fireblight",
         "locations": "Elders Recess",
         "info": "Focus attacks on the enhanced scales to weaken the monster. Reports indicate that puddle pods, crystalburst, and scatternuts are all effective in this regard.",
         "hzv": {
@@ -1448,7 +1448,7 @@
             "dragon": "5"
         }
     }
-    },    
+    },
     {
     "name": "scarredyiangaruga",
     "details": {
@@ -1459,7 +1459,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-scarred_yian_garuga_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder :x:\nIce ⭐\nDragon ⭐⭐",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nPoison\nStun", 
+        "blights": "Fireblight\nPoison\nStun",
         "locations": "Guiding Lands (Forest LV6 & Above)",
         "info": "Like the normal species, its head is easily breakable, and it's quick to run out of stamina. It behaves differently when flying short distances though, so be careful.",
         "hzv": {
@@ -1473,7 +1473,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "goldrathian",
     "details": {
@@ -1484,7 +1484,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-gold_rathian_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon :x:",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nPoison", 
+        "blights": "Fireblight\nPoison",
         "locations": "Guiding Lands (Wildspire LV6 & Above)",
         "info": "The hellfire can be dispelled by dealing a set amount of damage to its head, which is extremely tough until broken. Try to destroy it as quickly as possible.",
         "hzv": {
@@ -1498,7 +1498,7 @@
             "dragon": "0"
         }
     }
-    },    
+    },
     {
     "name": "silverrathalos",
     "details": {
@@ -1509,7 +1509,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-silver_rathalos_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐\nDragon :x:",
         "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nStun\nPoison", 
+        "blights": "Fireblight\nStun\nPoison",
         "locations": "Guiding Lands (Coral LV6 & Above)",
         "info": "The hellfire can be dispelled by dealing a set amount of damage to its head. It lives in tandem with a Gold Rathian, and their breath becomes deadlier still when combined.",
         "hzv": {
@@ -1523,7 +1523,7 @@
             "dragon": "0"
         }
     }
-    },    
+    },
     {
     "name": "brutetigrex",
     "details": {
@@ -1534,7 +1534,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-brute_tigrex_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nWaterblight", 
+        "blights": "Fireblight\nWaterblight",
         "locations": "Guiding Lands (Rotten LV6 & Above)",
         "info": "As with its standard cousins, it will tire after repeated charges, so attempt to bait them out. Breaking its head is an effective way to weaken the monster's roar.",
         "hzv": {
@@ -1548,7 +1548,7 @@
             "dragon": "15"
         }
     }
-    },    
+    },
     {
     "name": "zinogre",
     "details": {
@@ -1559,7 +1559,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-zinogre_icon.png",
         "elements": "Fire ⭐\nWater ⭐⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Thunderblight", 
+        "blights": "Thunderblight",
         "locations": "Guiding Lands\nAncient Forest\nCoral Highlands",
         "info": "When supercharged, parts of the monster become soft, but shock traps no longer work. You can also knock it out of supercharged mode by making it flinch several times. Once it's down, you can use the capture net to collect materials.",
         "hzv": {
@@ -1573,7 +1573,7 @@
             "dragon": "10"
         }
     }
-    },    
+    },
     {
     "name": "rajang",
     "details": {
@@ -1584,7 +1584,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-rajang_icon.png",
         "elements": "Fire :x:\nWater ⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon :x:",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Thunderblight", 
+        "blights": "Thunderblight",
         "locations": "Guiding Lands (Volcanic)",
         "info": "Extremely territorial and aggressive. When enraged, it can destroy shock traps. Attack its tail to stop its rampage.",
         "hzv": {
@@ -1609,7 +1609,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/stygian_zinogre_icon-mhw-wiki-guide.png",
         "elements": "Fire :x:(⭐)\nWater :x:(⭐)\nThunder ⭐(⭐⭐⭐)\nIce :x:(⭐)\nDragon :x:\n() when emitting light",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
-        "blights": "Dragonblight", 
+        "blights": "Dragonblight",
         "locations": "Guiding Lands (Tundra)",
         "info": "When supercharged, parts of the monster become soft, but shock traps no longer work. You can also knock it out of supercharged mode by making it flinch several times. Once it's down, you can use the capture net to collect materials.",
         "hzv": {
@@ -1634,7 +1634,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-safi'jiiva_icon.png",
         "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐\n() Elderseal Efficacy",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
-        "blights": "Fireblight\nDragonblight", 
+        "blights": "Fireblight\nDragonblight",
         "locations": "Secluded Valley",
         "info": "If you manage to gain enmity, this gives your teammates a massive opening, just remember to stay alive.",
         "hzv": {
@@ -1659,7 +1659,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-rajang_icon.png",
         "elements": "Fire :x:\nWater ⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon :x:",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
-        "blights": "Thunderblight", 
+        "blights": "Thunderblight",
         "locations": "Hoarfrost Reach\nGuiding Lands",
         "info": "Unlike its counterpart, Furious Rajang has no tail, meaning it cannot be brought out of its enraged state.",
         "hzv": {
@@ -1684,7 +1684,7 @@
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-brachydios_icon.png",
         "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐",
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
-        "blights": "Blastcourge", 
+        "blights": "Blastcourge",
         "locations": "Guiding Lands",
         "info": "On par with the level of an Elder Dragon, Raging Brachydios will lock down the final area, your only escape is carting.",
         "hzv": {

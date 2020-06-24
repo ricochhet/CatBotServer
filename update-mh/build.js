@@ -1,5 +1,6 @@
 const fetch = require('node-fetch');
-const dataUtils = require('../../../tools/utils/dataUtils');
+const dataUtils = require('./utils/dataUtils');
+
 const itemsURL = `https://mhw-db.com/items`;
 const armorsURL = `https://mhw-db.com/armor/sets`;
 const decorationsURL = `https://mhw-db.com/decorations`;
@@ -13,28 +14,35 @@ class Build {
     return response.json();
   }
 
-  async weapons(writeTo, dir) {
-    const weapon_base = require(`${dir}/weapons/weapon_base.json`);
-    const weapon_ammo = require(`${dir}/weapons/weapon_ammo.json`);
-    const weapon_bow_ext = require(`${dir}/weapons/weapon_bow_ext.json`);
-    const weapon_craft = require(`${dir}/weapons/weapon_craft.json`);
-    const weapon_sharpness = require(`${dir}/weapons/weapon_sharpness.json`);
+  async weapons(writeTo, sourceDir) {
+
+    const weapon_base = require(`${sourceDir}/weapons/weapon_base.json`);
+    const weapon_ammo = require(`${sourceDir}/weapons/weapon_ammo.json`);
+    const weapon_bow_ext = require(`${sourceDir}/weapons/weapon_bow_ext.json`);
+    const weapon_craft = require(`${sourceDir}/weapons/weapon_craft.json`);
+    const weapon_sharpness = require(`${sourceDir}/weapons/weapon_sharpness.json`);
+
     let weapon_base_map = new Map();
+
     for (const i of Object.keys(weapon_base)) {
       weapon_base_map.set(weapon_base[i].name_en, weapon_base[i]);
     }
+
     let weapon_ammo_map = new Map();
     for (const i of Object.keys(weapon_ammo)) {
       weapon_ammo_map.set(weapon_ammo[i].key, weapon_ammo[i]);
     }
+
     let weapon_bow_ext_map = new Map();
     for (const i of Object.keys(weapon_bow_ext)) {
       weapon_bow_ext_map.set(weapon_bow_ext[i].base_name_en, weapon_bow_ext[i]);
     }
+
     let weapon_craft_map = new Map();
     for (const i of Object.keys(weapon_craft)) {
       weapon_craft_map.set(weapon_craft[i].base_name_en, weapon_craft[i]);
     }
+
     let weapon_sharpness_map = new Map();
     for (const i of Object.keys(weapon_sharpness)) {
       weapon_sharpness_map.set(
@@ -42,6 +50,7 @@ class Build {
         weapon_sharpness[i]
       );
     }
+
     let subObject = {};
     for (const [k, v] of weapon_base_map) {
       const base = weapon_base_map.get(k);
