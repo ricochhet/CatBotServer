@@ -2,7 +2,6 @@
   "name": "catbotserver",
   "version": "2.0.0",
   "description": "API &amp; Database for CatBot",
-  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -18,10 +17,6 @@
   },
   "homepage": "https://github.com/ricochhet/CatBotServer#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "ejs": "^3.0.2",
-    "express": "^4.17.1",
-    "express-session": "^1.17.0",
     "node-fetch": "^2.6.0"
   }
 }
