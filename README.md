@@ -38,7 +38,7 @@ Go to http://localhost:8080/
 
 ````
 # build image, from root directory (CatBotServer) 
-docker build . -t catbot-api python-api\Dockerfile
+docker build . -t catbot-api -f python-api\Dockerfile
 
 # run it (bind host port 8080 to container's, remove on exit) 
 docker run -it --rm -p 8080:8080 catbot-api

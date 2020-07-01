@@ -1,7 +1,13 @@
+import os
 import json
 from pathlib import Path
 
-DB_PATH = Path(f"{__file__}/../../../databases/").resolve().absolute()
+DB_PATH = os.getenv("CATBOT_DB_PATH")
+
+if DB_PATH is None:
+    DB_PATH = Path(f"{__file__}/../../../databases/").resolve().absolute()
+else:
+    DB_PATH = Path(DB_PATH).resolve().absolute()
 
 
 def json_from_file(path):

@@ -2,6 +2,8 @@ FROM python:3
 
 COPY /databases /app/databases
 
+ENV CATBOT_DB_PATH /app/databases/
+
 COPY python-api/requirements.txt /app/
 
 WORKDIR /app
