@@ -34,15 +34,34 @@ Go to http://localhost:8080/
   
 - [Pydantic](https://pydantic-docs.helpmanual.io/)
 
-### Docker setup
+### Docker setup - Deployment
+
+Run this from the root directory, when deploying
+````
+# build image first (if code changes) 
+docker build . --tag catbot-api --file python-api\Dockerfile
+
+# run it (use ${pwd} on windows/powershell)   
+docker run --rm -d -p 8080:8080 -v $(pwd)/databases:/app/databases --name api catbot-api
+
+# check status
+docker ps
+
+# check logs 
+docker logs api
+
+# stop the api
+docker stop api
 
 ````
-# build image, from root directory (CatBotServer) 
-docker build . -t catbot-api -f python-api\Dockerfile
 
-# run it (bind host port 8080 to container's, remove on exit) 
-docker run -it --rm -p 8080:8080 catbot-api
-````
+Some notes about the run command
+* `--rm` means remove the container on exit, otherwise you need to run `docker rm <container>` after stopping it, for cleanup. 
+* ``-d`` for `--detach`, to start the container in background
+* `-p 8080:8080` binds the host port 8080 to the container port 8080
+* `-v $(pwd)/databases:/app/databases` binds `<current dir>/databases` on the host to `/app/databases` on the container. This is needed to *persist db changes between different container runs*.
+* `--name api` gives the `api` custom name to the running container (that we can use for other commands like `docker logs`, `docker stop`, etc.)
+* the last argument ``catbot-api`` is the name of the image to build this container from (created with `docker build`).    
 
 See [docker run reference](https://docs.docker.com/engine/reference/run/) for all options.
 
