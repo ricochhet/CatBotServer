@@ -62,7 +62,6 @@ async def update_lfg_subs(client_id: str, payload: LfgSubs):
     return update_db_data(client_id, "lfg/subs.json", payload.dict())
 
 
-# TODO - Untested (catbot is not using it yet)
 @app.post("/api/db/{client_id}/server/prefixes")
 async def update_prefixes(client_id: str, payload: Dict[str, str]):
     logger.info(f"Updating prefixes - {payload}")
