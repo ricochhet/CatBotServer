@@ -1960,6 +1960,316 @@
   "blast": "TRUE"
  },
  {
+  "base_name_en": "Gold Water Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Gold Thunder Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Gold Blast Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Thief Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Spew Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Spark Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Rage Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Queen Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Stream Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Decay Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "King Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Horn Gold Piercer (MR)",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Thief\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Spew\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Spark\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Rage\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Queen\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Stream\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Decay\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"King\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Horn\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Water\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Thunder\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Blast\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "\"Taroth Arrow \"\"Fire\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Spark\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Stream\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"King\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Decay\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "FALSE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Water\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "FALSE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "\"Kjárr Bow \"\"Blast\"\" (MR)\"",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "FALSE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
   "base_name_en": "Safi's Hellbow",
   "weapon_type": "bow",
   "close": "TRUE",

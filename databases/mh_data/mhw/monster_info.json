@@ -1660,7 +1660,7 @@
         "elements": "Fire :x:\nWater ⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon :x:",
         "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
         "blights": "Thunderblight",
-        "locations": "Hoarfrost Reach\nGuiding Lands",
+        "locations": "Hoarfrost Reach",
         "info": "Unlike its counterpart, Furious Rajang has no tail, meaning it cannot be brought out of its enraged state.",
         "hzv": {
             "slash": "60",
@@ -1696,6 +1696,31 @@
             "thunder": "10",
             "ice": "25",
             "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "alatreon",
+    "details": {
+        "aliases": [],
+        "title": "Alatreon",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Alatreon",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/alatreon_icon.png",
+        "elements": "Fire :x:(⭐⭐⭐)[⭐]\nWater ⭐⭐(⭐)[⭐]\nThunder ⭐(⭐⭐)[⭐]\nIce ⭐⭐⭐(:x:)[⭐]\nDragon ⭐[⭐⭐]\n() Ice Active\n[] Dragon Active",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐\nStun ⭐",
+        "blights": "Waterblight\nThunderblight\nIceblight\nFireblight\nDragonblight\nStun",
+        "locations": "Secluded Valley",
+        "info": "Known as a symbol of destruction, people fear even uttering it’s name. It’s rumoured to control all of the elements, but most, if not all, records of its existence have been burned.",
+        "hzv": {
+            "slash": "85",
+            "blunt": "85",
+            "shot": "45",
+            "fire": "22",
+            "water": "16",
+            "thunder": "16",
+            "ice": "22",
+            "dragon": "20"
         }
     }
   }

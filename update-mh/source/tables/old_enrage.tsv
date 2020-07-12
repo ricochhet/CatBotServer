@@ -19,7 +19,7 @@ Diablos	0	500	90	105%	120%	110%	int(3/4x)+25
 Dodogama	0	550	90	103%	120%	110%	int(3/4x)+25
 Ebony Odogaron	0	300	200	105%	110%	100%	int(3/4x)+25
 Fulgur Anjanath	0	370	130	110%	110%	100%	int(3/4x)+25
-Furious Rajang	0					100%	int(3/4x)+25
+Furious Rajang	0	350	110	109%	120%	100%	int(3/4x)+25
 Glavenus	0	400	120	110%	110%	100%	int(3/4x)+25
 Gold Rathian	5	330	150	110%	110%	120%	int(3/4x)+30
 Great Girros	0	480	60	110%	110%	110%	int(3/4x)+25
@@ -27,7 +27,7 @@ Great Jagras	0	440	60	110%	110%	110%	int(3/4x)+25
 Jyuratodus	0	450	60	105%	110%	90%	int(3/4x)+25
 Kirin	5	200	150	105%	110%	110%	int(3/4x)+30
 Kulu-Ya-Ku	0	500	100	110%	120%	100%	int(3/4x)+25
-Kulve Taroth	0	1500	150	115%	115%	120%	int(3/4x)+25
+Kulve Taroth	0	600	150	110%	120%	120%	int(3/4x)+25
 Kushala Daora	0	550	80	104%	105%	110%	int(3/4x)+25
 Lavasioth	5	450	120	105%	110%	90%	int(3/4x)+30
 Legiana	0	600	100	110%	110%	110%	int(3/4x)+25
@@ -42,7 +42,7 @@ Paolumu	0	450	150	120%	105%	100%	int(3/4x)+25
 Pink Rathian	0	600	100	110%	110%	110%	int(3/4x)+25
 Pukei-Pukei	0	560	80	105%	115%	110%	int(3/4x)+25
 Radobaan	0	370	100	105%	110%	100%	int(3/4x)+25
-Raging Brachydios	0					105%	int(3/4x)+25
+Raging Brachydios	0	500	150	100%	110%	105%	int(3/4x)+25
 Rajang	0	350	80	110%	120%	100%	int(3/4x)+25
 Rathalos	0	650	100	110%	110%	110%	int(3/4x)+25
 Rathian	0	600	80	105%	115%	110%	int(3/4x)+25

@@ -8,6 +8,15 @@
         "playerDmg": "100%",
         "tenderizeFormula": "int(3/4x)+25"
     },
+    "alatreon": {
+        "tender": 0,
+        "dmgToEnrage": 500,
+        "enrageDuration": 150,
+        "enrageSpeed": "105%",
+        "monstrDmg": "120%",
+        "playerDmg": "120%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
     "ancientleshen": {
         "tender": 0,
         "dmgToEnrage": 0,
