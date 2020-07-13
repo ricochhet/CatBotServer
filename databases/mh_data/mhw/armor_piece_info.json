@@ -69243,7 +69243,7 @@
   "kulvetaroth'swrathbeta+": {
     "name": "Kulve Taroth's Wrath Beta +",
     "rank": "master",
-    "rarity": 121,
+    "rarity": 12,
     "type": "legs",
     "defenses": {
       "base": 176,
@@ -69406,7 +69406,7 @@
       "water": 4,
       "ice": 0,
       "thunder": 3,
-      "dragon": 4
+      "dragon": -2
     },
     "slots": [
       {

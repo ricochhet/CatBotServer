@@ -187,12 +187,12 @@ Fulgur Anjanath	❷	Legs	Broken	45	45	50	5	15	0	15	0	–
 Fulgur Anjanath	❸	Tail		60	60	75	10	15	0	20	5	–	100				350	
 Fulgur Anjanath	❸	Tail	Charged	55	55	70	10	20	0	15	5	–						
 Fulgur Anjanath	❸	Tail	Broken	60	60	75	10	15	0	15	5	–						
-Furious Rajang	❶	Head		55	57	45	0	5	0	20	0	100						
+Furious Rajang	❶	Head		55	57	45	0	5	0	20	0	100	600	1	10	600	1200	x2 Break
 Furious Rajang	❶	Head	Rampage	60	62	50	0	5	0	20	0	100						
-Furious Rajang	❸	Forelegs		38	38	30	0	5	0	10	0	–						L,R
+Furious Rajang	❸	Forelegs		38	38	30	0	5	0	10	0	–	250	1	10	250		L,R
 Furious Rajang	❸	Forelegs	Rampage	5	5	5	0	5	0	10	0	–						
-Furious Rajang	❷	Hindlegs		21	21	15	0	5	0	10	0	–						
-Furious Rajang	❸	Body		30	35	20	0	5	0	10	0	–						
+Furious Rajang	❷	Hindlegs		21	21	15	0	5	0	10	0	–	240					
+Furious Rajang	❸	Body		30	35	20	0	5	0	10	0	–	350					
 Glavenus	❶	Head		50	55	30	0	25	10	15	15	100	350	^	3	700		x2 Break
 Glavenus	❶	Neck		37	37	25	0	20	10	13	10	–						
 Glavenus	❶	Throat		65	65	45	0	30	10	15	10	–						
@@ -250,23 +250,23 @@ Kulu-Ya-Ku	❶	Forearms		52	56	45	15	20	15	15	15	–	160			160
 Kulu-Ya-Ku	❷	Body		45	45	40	15	20	15	15	15	–	200	3	10			
 Kulu-Ya-Ku	❶	Tail		55	50	35	15	20	15	15	15	–	160					
 Kulu-Ya-Ku	❸	Rock		5	5	5	5	20	5	5	5	–	15					
-Kulve Taroth	❶	Head		25	30	10	5	10	25	0	5	100	6120			6120		
-Kulve Taroth	❸	Chest		50	45	45	0	20	0	40	25	–				2187		L,R
-Kulve Taroth	❷	Exp. Foreleg		50	40	30	0	20	0	40	25	–						
-Kulve Taroth	❷	Forelegs		25	30	10	5	10	25	0	5	–				3240		L,R
-Kulve Taroth	❷	Hindlegs		40	35	15	0	10	0	30	15	–						
-Kulve Taroth	❸	Body		25	30	10	5	10	25	0	5	–	8550					
-Kulve Taroth	❸	Tail		25	30	10	5	10	25	0	5	–				3240		2L,2R
-Kulve Taroth	❶	Head	Molten	60	75	30	25	30	50	0	25	100						
-Kulve Taroth	❷	Forelegs	Molten	60	75	30	25	30	50	0	25	–				3240		L,R
-Kulve Taroth	❸	Body	Molten	60	75	30	25	30	50	0	25	–	8550					
-Kulve Taroth	❸	Tail	Molten	60	75	30	25	30	50	0	25	–				3240		2L,2R
-Kulve Taroth	❶	Head	Released	80	85	25	0	30	0	50	35	100	6120			25200		
-Kulve Taroth	❸	Chest	Released	50	45	45	0	20	0	40	25	–	8550					
-Kulve Taroth	❷	Forelegs	Released	50	40	30	0	20	0	40	25	–	6570	2				
-Kulve Taroth	❷	Hindlegs	Released	40	35	15	0	10	0	30	15	–	6570	4				
-Kulve Taroth	❸	Body	Released	35	35	20	0	10	0	30	15	–	8550					
-Kulve Taroth	❸	Tail	Released	40	45	20	0	10	0	30	15	–				5700		
+Kulve Taroth	❶	Head		20	25	10	0	5	10	0	0	100	540			540		
+Kulve Taroth	❸	Chest		65	65	45	0	5	0	10	5	–				100		L,R
+Kulve Taroth	❷	Exp. Foreleg		70	65	25	0	10	0	20	15	–						
+Kulve Taroth	❷	Forelegs		20	25	10	0	5	10	0	0	–				120		L,R
+Kulve Taroth	❷	Hindlegs		50	50	15	0	5	0	15	10	–						
+Kulve Taroth	❸	Body		20	25	10	0	5	10	0	0	–	720					
+Kulve Taroth	❸	Tail		20	25	10	0	5	10	0	0	–				120		2L,2R
+Kulve Taroth	❶	Head	Molten	80	85	30	10	15	20	0	10	100						
+Kulve Taroth	❷	Forelegs	Molten	80	85	30	10	15	20	0	10	–				120		L,R
+Kulve Taroth	❸	Body	Molten	80	85	30	10	15	20	0	10	–	720					
+Kulve Taroth	❸	Tail	Molten	80	85	30	10	15	20	0	10	–				120		2L,2R
+Kulve Taroth	❶	Head	Released	90	95	20	0	10	0	20	15	100	540			540		
+Kulve Taroth	❸	Chest	Released	65	65	45	0	5	0	10	5	–	720					
+Kulve Taroth	❷	Forelegs	Released	70	65	25	0	10	0	20	15	–	400	2				
+Kulve Taroth	❷	Hindlegs	Released	50	50	15	0	5	0	15	10	–	400	4				
+Kulve Taroth	❸	Body	Released	35	35	20	0	5	0	10	5	–	720					
+Kulve Taroth	❸	Tail	Released	50	40	20	0	5	0	15	10	–				540		
 Kushala Daora	❶	Head		55	50	45	10	5	20	0	10	100	300	1	8	1500		≤15% HP
 Kushala Daora	❶	Neck		36	35	25	10	5	15	0	5	–						
 Kushala Daora	❸	Body		35	50	25	10	5	15	0	10	–	100					
@@ -395,16 +395,16 @@ Radobaan	❸	Back Bone		20	25	15	0	0	0	0	0	–	40			80
 Radobaan	❷	Hindlegs		55	45	40	10	10	10	10	15	–	150	2	3			L,R
 Radobaan	❷	Leg Bone		20	25	15	0	0	0	0	0	–	20			40		L,R
 Radobaan	❸	Tail		45	30	30	15	15	15	15	15	–	175				350	
-Raging Brachydios	❶	Horn		60	65	45	0	10	10	25	5	100						
+Raging Brachydios	❶	Horn		60	65	45	0	10	10	25	5	100	250	B	6	500		
 Raging Brachydios	❶	Horn	Red Slime	75	75	10	0	20	0	5	0	100						
-Raging Brachydios	❸	Head		60	65	50	0	5	10	15	5	100						
+Raging Brachydios	❸	Head		60	65	50	0	5	10	15	5	100	350					
 Raging Brachydios	❸	Neck		32	32	30	0	5	5	10	5	–						
-Raging Brachydios	❸	Body		32	32	30	0	10	5	15	0	–						
-Raging Brachydios	❶	Forearms		55	50	45	0	10	5	25	0	–						L,R
+Raging Brachydios	❸	Body		32	32	30	0	10	5	15	0	–	350					
+Raging Brachydios	❶	Forearms		55	50	45	0	10	5	25	0	–	300	B	6	600		L,R
 Raging Brachydios	❶	Forearms	Red Slime	75	75	10	0	20	0	5	0	–						
-Raging Brachydios	❷	Hind Legs		32	32	30	0	5	5	10	0	–						L,R
-Raging Brachydios	❸	Tail		50	45	55	0	10	10	15	5	–						
-Raging Brachydios	❶	Tail Tip		18	30	10	0	10	5	25	10	–						
+Raging Brachydios	❷	Hind Legs		32	32	30	0	5	5	10	0	–	100	2	6			L,R
+Raging Brachydios	❸	Tail		50	45	55	0	10	10	15	5	–	200					
+Raging Brachydios	❶	Tail Tip		18	30	10	0	10	5	25	10	–					600	
 Raging Brachydios	❶	Tail Tip	Red Slime	75	75	10	0	20	0	5	0	–						
 Rajang	❶	Head		60	62	45	0	5	0	30	0	100	400	1	10	400	600	x2 Break
 Rajang	❶	Forelegs		43	43	35	0	5	0	15	0	–	250	1	10	250		
