@@ -1630,6 +1630,26 @@
   "blast": "TRUE"
  },
  {
+  "base_name_en": "Alatreon Bow",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
+  "base_name_en": "Alatreon Commandment",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "TRUE",
+  "blast": "TRUE"
+ },
+ {
   "base_name_en": "Guild Palace Arc",
   "weapon_type": "bow",
   "close": "TRUE",

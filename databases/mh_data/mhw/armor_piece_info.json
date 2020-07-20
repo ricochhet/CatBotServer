@@ -69429,5 +69429,946 @@
       }
     ],
     "crafting": "-"
+  },
+  "escadorawisdomalpha+": {
+    "name": "Escadora Wisdom Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "description": "Affinity +10%"
+      },
+      {
+        "name": "Resentment",
+        "level": 3,
+        "description": "While active, grants attack +15."
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadorasoulalpha+": {
+    "name": "Escadora Soul Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Health Boost",
+        "level": 3,
+        "description": "Health +50"
+      },
+      {
+        "name": "Resentment",
+        "level": 2,
+        "description": "While active, grants attack +10."
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadoraarmguardsalpha+": {
+    "name": "Escadora Armguards Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 3,
+        "description": "Attack +9"
+      },
+      {
+        "name": "Power Prolonger",
+        "level": 3,
+        "description": "Bonus duration +30%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadoramightalpha+": {
+    "name": "Escadora Might Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 4,
+        "description": "Attack +12 Affinity +5%"
+      },
+      {
+        "name": "Dragon Resistance",
+        "level": 3,
+        "description": "Dragon resistance +20 Defense +10"
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadorasheathalpha+": {
+    "name": "Escadora Sheath Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Defense Boost",
+        "level": 3,
+        "description": "Defense +5% Bonus: +10"
+      },
+      {
+        "name": "Dragon Attack",
+        "level": 4,
+        "description": "Dragon attack +5% Bonus: +100"
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadorawisdombeta+": {
+    "name": "Escadora Wisdom Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 1,
+        "description": "Affinity +5%"
+      },
+      {
+        "name": "Resentment",
+        "level": 3,
+        "description": "While active, grants attack +15."
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadorasoulbeta+": {
+    "name": "Escadora Soul Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Health Boost",
+        "level": 3,
+        "description": "Health +50"
+      },
+      {
+        "name": "Resentment",
+        "level": 1,
+        "description": "While active, grants attack +5."
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadoraarmguardsbeta+": {
+    "name": "Escadora Armguards Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 3,
+        "description": "Attack +9"
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadoramightbeta+": {
+    "name": "Escadora Might Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 3,
+        "description": "Attack +9"
+      },
+      {
+        "name": "Dragon Resistance",
+        "level": 3,
+        "description": "Dragon resistance +20 Defense +10"
+      }
+    ],
+    "crafting": "-"
+  },
+  "escadorasheathbeta+": {
+    "name": "Escadora Sheath Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 160,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "ice": 3,
+      "thunder": 0,
+      "dragon": 2
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Defense Boost",
+        "level": 3,
+        "description": "Defense +5% Bonus: +10"
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfanghelmalpha+": {
+    "name": "Frostfang Helm Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "head",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "description": "Affinity +10%"
+      },
+      {
+        "name": "Quick Sheath",
+        "level": 1,
+        "description": "Slightly increases sheathing speed."
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfangmailalpha+": {
+    "name": "Frostfang Mail Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "chest",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 3,
+        "description": "Attack +9"
+      },
+      {
+        "name": "Critical Draw",
+        "level": 1,
+        "description": "Draw attack affinity +30%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfangvambracesalpha+": {
+    "name": "Frostfang Vambraces Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "gloves",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "description": "Affinity +10%"
+      },
+      {
+        "name": "Slugger",
+        "level": 2,
+        "description": "Stun power +30%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfangcoilalpha+": {
+    "name": "Frostfang Coil Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "waist",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 3
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Draw",
+        "level": 1,
+        "description": "Draw attack affinity +30%"
+      },
+      {
+        "name": "Quick Sheath",
+        "level": 1,
+        "description": "Slightly increases sheathing speed."
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfanggreavesalpha+": {
+    "name": "Frostfang Greaves Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "legs",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "description": "Attack +3"
+      },
+      {
+        "name": "Slugger",
+        "level": 3,
+        "description": "Stun power +40%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfanghelmbeta+": {
+    "name": "Frostfang Helm Beta +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "head",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "description": "Affinity +10%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfangmailbeta+": {
+    "name": "Frostfang Mail Beta +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "chest",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 3,
+        "description": "Attack +9"
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfangvambracesbeta+": {
+    "name": "Frostfang Vambraces Beta +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "gloves",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "description": "Affinity +10%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfangcoilbeta+": {
+    "name": "Frostfang Coil Beta +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "waist",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 3
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Quick Sheath",
+        "level": 1,
+        "description": "Slightly increases sheathing speed."
+      }
+    ],
+    "crafting": "-"
+  },
+  "frostfanggreavesbeta+": {
+    "name": "Frostfang Greaves Beta +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "legs",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 3,
+      "thunder": -2,
+      "dragon": 0
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Attack Boost",
+        "level": 1,
+        "description": "Attack +3"
+      }
+    ],
+    "crafting": "-"
+  },
+  "passionateheaddressalpha+": {
+    "name": "Passionate Headdress Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "head",
+    "defenses": {
+      "base": 156,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 4,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Marathon Runner",
+        "level": 3,
+        "description": "Reduces continuous stamina depletion by 50%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "passionatebodyalpha+": {
+    "name": "Passionate Body Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "chest",
+    "defenses": {
+      "base": 156,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 4,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Master Gatherer",
+        "level": 1,
+        "description": "Speeds up gathering and prevents knockbacks while gathering."
+      },
+      {
+        "name": "Carving Pro",
+        "level": 1,
+        "description": "Prevents knockback while carving."
+      }
+    ],
+    "crafting": "-"
+  },
+  "passionatearmsalpha+": {
+    "name": "Passionate Arms Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "gloves",
+    "defenses": {
+      "base": 156,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 4,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Survival Expert",
+        "level": 3,
+        "description": "Interactables restore an additional 100 health."
+      }
+    ],
+    "crafting": "-"
+  },
+  "passionatebeltalpha+": {
+    "name": "Passionate Belt Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "waist",
+    "defenses": {
+      "base": 156,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 4,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Botanist",
+        "level": 4,
+        "description": "One extra consumable herb, fruit, nut, seed, insect or mushroom item per gather."
+      }
+    ],
+    "crafting": "-"
+  },
+  "passionateleggingsalpha+": {
+    "name": "Passionate Leggings Alpha +",
+    "rank": "master",
+    "rarity": 10,
+    "type": "legs",
+    "defenses": {
+      "base": 156,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 4,
+      "ice": 1,
+      "thunder": 1,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Geologist",
+        "level": 3,
+        "description": "Allows you to gather one extra time from bonepiles, gathering points, and mining outcrops."
+      }
+    ],
+    "crafting": "-"
   }
 }

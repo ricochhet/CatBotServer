@@ -2678,5 +2678,45 @@
         "description": "Greatly increases odds of getting special Full Bloom rewards."
       }
     ]
+  },
+  "sizzlinggift": {
+    "name": "Sizzling Gift",
+    "description": "Increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  "sizzlinggratitude": {
+    "name": "Sizzling Gratitude",
+    "description": "Greatly increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Greatly increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)"
+      }
+    ]
+  },
+  "elementconversion": {
+    "name": "Element Conversion",
+    "description": "Equipped weapon's elemental power increases as your armor's elemental resistance increases.",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Equipped weapon's elemental power increases as your armor's elemental resistance increases."
+      }
+    ]
+  },
+  "allelementalresistance": {
+    "name": "All Elemental Resistance",
+    "description": "Increases all elemental resistances +20%.",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Increases all elemental resistances +20%."
+      }
+    ]
   }
 }

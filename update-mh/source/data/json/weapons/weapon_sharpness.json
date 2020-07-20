@@ -2172,6 +2172,30 @@
   "purple": 20
  },
  {
+  "base_name_en": "Alatreon Great Sword",
+  "weapon_type": "great-sword",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Revolution",
+  "weapon_type": "great-sword",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
+ },
+ {
   "base_name_en": "Guild Palace Blade",
   "weapon_type": "great-sword",
   "maxed": "FALSE",
@@ -6540,6 +6564,30 @@
   "purple": 30
  },
  {
+  "base_name_en": "Alatreon Sword",
+  "weapon_type": "sword-and-shield",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Star",
+  "weapon_type": "sword-and-shield",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
+ },
+ {
   "base_name_en": "Guild Palace Sword",
   "weapon_type": "sword-and-shield",
   "maxed": "FALSE",
@@ -8724,6 +8772,30 @@
   "purple": 30
  },
  {
+  "base_name_en": "Alatreon Dual Blades",
+  "weapon_type": "dual-blades",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Madness",
+  "weapon_type": "dual-blades",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
+ },
+ {
   "base_name_en": "Whetfish Sabers",
   "weapon_type": "dual-blades",
   "maxed": "TRUE",
@@ -10858,6 +10930,30 @@
   "blue": 30,
   "white": 50,
   "purple": 20
+ },
+ {
+  "base_name_en": "Alatreon Hammer",
+  "weapon_type": "hammer",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Metamorph",
+  "weapon_type": "hammer",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
  },
  {
   "base_name_en": "Bristly Pincushion",
@@ -13032,6 +13128,30 @@
   "purple": 20
  },
  {
+  "base_name_en": "Alatreon Harmony",
+  "weapon_type": "hunting-horn",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Revival",
+  "weapon_type": "hunting-horn",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
+ },
+ {
   "base_name_en": "Guild Palace Bard",
   "weapon_type": "hunting-horn",
   "maxed": "FALSE",
@@ -15180,6 +15300,30 @@
   "purple": 30
  },
  {
+  "base_name_en": "Alatreon Lance",
+  "weapon_type": "lance",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Gleam",
+  "weapon_type": "lance",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
+ },
+ {
   "base_name_en": "Guild Palace Tower",
   "weapon_type": "lance",
   "maxed": "FALSE",
@@ -17194,6 +17338,30 @@
   "blue": 50,
   "white": 60,
   "purple": 30
+ },
+ {
+  "base_name_en": "Alatreon Gunlance",
+  "weapon_type": "gunlance",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Melt",
+  "weapon_type": "gunlance",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
  },
  {
   "base_name_en": "Gajalaka Firestabber",
@@ -19308,6 +19476,30 @@
   "purple": 20
  },
  {
+  "base_name_en": "Dark Switch Axe",
+  "weapon_type": "switch-axe",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Black Harvest",
+  "weapon_type": "switch-axe",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
+ },
+ {
   "base_name_en": "Guild Palace Cleaver",
   "weapon_type": "switch-axe",
   "maxed": "FALSE",
@@ -21238,6 +21430,30 @@
   "blue": 50,
   "white": 60,
   "purple": 30
+ },
+ {
+  "base_name_en": "Alatreon Edge",
+  "weapon_type": "charge-blade",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Morphblade",
+  "weapon_type": "charge-blade",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
  },
  {
   "base_name_en": "Guild Palace Disc",
@@ -23338,6 +23554,30 @@
   "blue": 50,
   "white": 60,
   "purple": 30
+ },
+ {
+  "base_name_en": "Alatreon Dragonspire",
+  "weapon_type": "insect-glaive",
+  "maxed": "FALSE",
+  "red": 120,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 100
+ },
+ {
+  "base_name_en": "Alatreon Embrace",
+  "weapon_type": "insect-glaive",
+  "maxed": "FALSE",
+  "red": 80,
+  "orange": 20,
+  "yellow": 20,
+  "green": 70,
+  "blue": 40,
+  "white": 30,
+  "purple": 140
  },
  {
   "base_name_en": "Guild Palace Rod",

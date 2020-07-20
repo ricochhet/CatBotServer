@@ -9887,6 +9887,123 @@
     ],
     "upgrade": "-"
   },
+  "alatreongreatsword": {
+    "name": "Alatreon Great Sword",
+    "type": "great-sword",
+    "rarity": 11,
+    "displayAttack": 1200,
+    "rawAttack": 250,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 600
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreonrevolution": {
+    "name": "Alatreon Revolution",
+    "type": "great-sword",
+    "rarity": 12,
+    "displayAttack": 1344,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 810
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalaceblade": {
     "name": "Guild Palace Blade",
     "type": "great-sword",
@@ -29631,6 +29748,123 @@
     ],
     "upgrade": "-"
   },
+  "alatreonsword": {
+    "name": "Alatreon Sword",
+    "type": "sword-and-shield",
+    "rarity": 11,
+    "displayAttack": 350,
+    "rawAttack": 250.00000000000003,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 450
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreonstar": {
+    "name": "Alatreon Star",
+    "type": "sword-and-shield",
+    "rarity": 12,
+    "displayAttack": 392,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 570
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacesword": {
     "name": "Guild Palace Sword",
     "type": "sword-and-shield",
@@ -39513,6 +39747,123 @@
     ],
     "upgrade": "-"
   },
+  "alatreondualblades": {
+    "name": "Alatreon Dual Blades",
+    "type": "dual-blades",
+    "rarity": 11,
+    "displayAttack": 350,
+    "rawAttack": 250.00000000000003,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 330
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreonmadness": {
+    "name": "Alatreon Madness",
+    "type": "dual-blades",
+    "rarity": 12,
+    "displayAttack": 392,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 480
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "whetfishsabers": {
     "name": "Whetfish Sabers",
     "type": "dual-blades",
@@ -49183,6 +49534,123 @@
       }
     ],
     "upgrade": "-"
+  },
+  "alatreonhammer": {
+    "name": "Alatreon Hammer",
+    "type": "hammer",
+    "rarity": 11,
+    "displayAttack": 1300,
+    "rawAttack": 250,
+    "damageType": "blunt",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 630
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreonmetamorph": {
+    "name": "Alatreon Metamorph",
+    "type": "hammer",
+    "rarity": 12,
+    "displayAttack": 1456,
+    "rawAttack": 280,
+    "damageType": "blunt",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 720
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
   },
   "bristlypincushion": {
     "name": "Bristly Pincushion",
@@ -58995,6 +59463,123 @@
     ],
     "upgrade": "-"
   },
+  "alatreonharmony": {
+    "name": "Alatreon Harmony",
+    "type": "hunting-horn",
+    "rarity": 11,
+    "displayAttack": 1050,
+    "rawAttack": 250,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 630
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreonrevival": {
+    "name": "Alatreon Revival",
+    "type": "hunting-horn",
+    "rarity": 12,
+    "displayAttack": 1176,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 780
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacebard": {
     "name": "Guild Palace Bard",
     "type": "hunting-horn",
@@ -68718,6 +69303,123 @@
     ],
     "upgrade": "-"
   },
+  "alatreonlance": {
+    "name": "Alatreon Lance",
+    "type": "lance",
+    "rarity": 11,
+    "displayAttack": 575,
+    "rawAttack": 250.00000000000003,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 510
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreongleam": {
+    "name": "Alatreon Gleam",
+    "type": "lance",
+    "rarity": 12,
+    "displayAttack": 644,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 660
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacetower": {
     "name": "Guild Palace Tower",
     "type": "lance",
@@ -78318,6 +79020,129 @@
     ],
     "upgrade": "-"
   },
+  "alatreongunlance": {
+    "name": "Alatreon Gunlance",
+    "type": "gunlance",
+    "rarity": 11,
+    "displayAttack": 575,
+    "rawAttack": 250.00000000000003,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": {
+      "type": "wide",
+      "level": 7
+    },
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 540
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreonmelt": {
+    "name": "Alatreon Melt",
+    "type": "gunlance",
+    "rarity": 12,
+    "displayAttack": 644,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": {
+      "type": "wide",
+      "level": 7
+    },
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 660
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "gajalakafirestabber": {
     "name": "Gajalaka Firestabber",
     "type": "gunlance",
@@ -87898,6 +88723,123 @@
     ],
     "upgrade": "-"
   },
+  "darkswitchaxe": {
+    "name": "Dark Switch Axe",
+    "type": "switch-axe",
+    "rarity": 11,
+    "displayAttack": 875,
+    "rawAttack": 250,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 510
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "blackharvest": {
+    "name": "Black Harvest",
+    "type": "switch-axe",
+    "rarity": 12,
+    "displayAttack": 980,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 660
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacecleaver": {
     "name": "Guild Palace Cleaver",
     "type": "switch-axe",
@@ -96706,6 +97648,123 @@
       }
     ],
     "upgrade": "-"
+  },
+  "alatreonedge": {
+    "name": "Alatreon Edge",
+    "type": "charge-blade",
+    "rarity": 11,
+    "displayAttack": 900,
+    "rawAttack": 250,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 390
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreonmorphblade": {
+    "name": "Alatreon Morphblade",
+    "type": "charge-blade",
+    "rarity": 12,
+    "displayAttack": 1008,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 510
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
   },
   "guildpalacedisc": {
     "name": "Guild Palace Disc",
@@ -106255,6 +107314,123 @@
       }
     ],
     "upgrade": "-"
+  },
+  "alatreondragonspire": {
+    "name": "Alatreon Dragonspire",
+    "type": "insect-glaive",
+    "rarity": 11,
+    "displayAttack": 775,
+    "rawAttack": 250,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 420
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreonembrace": {
+    "name": "Alatreon Embrace",
+    "type": "insect-glaive",
+    "rarity": 12,
+    "displayAttack": 868,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 80,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 540
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
   },
   "guildpalacerod": {
     "name": "Guild Palace Rod",
@@ -124748,6 +125924,231 @@
     ],
     "upgrade": "-"
   },
+  "alatreonrazer": {
+    "name": "Alatreon Razer",
+    "type": "light-bowgun",
+    "rarity": 11,
+    "displayAttack": 325,
+    "rawAttack": 250,
+    "damageType": "projectile",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernblast",
+    "deviation": "low",
+    "ammos": [
+      {
+        "type": "normal",
+        "lv1": 6,
+        "lv2": 4,
+        "lv3": 3
+      },
+      {
+        "type": "pierce",
+        "lv1": 5,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "spread",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "flaming",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "water",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "freeze",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "thunder",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "dragon",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "demon",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "armor",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreondominator": {
+    "name": "Alatreon Dominator",
+    "type": "light-bowgun",
+    "rarity": 12,
+    "displayAttack": 338,
+    "rawAttack": 260,
+    "damageType": "projectile",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernblast",
+    "deviation": "low",
+    "ammos": [
+      {
+        "type": "normal",
+        "lv1": 6,
+        "lv2": 4,
+        "lv3": 3
+      },
+      {
+        "type": "pierce",
+        "lv1": 5,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "spread",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "flaming",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "water",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "freeze",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "thunder",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "dragon",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "demon",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "armor",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacebowgun": {
     "name": "Guild Palace Bowgun",
     "type": "light-bowgun",
@@ -143104,6 +144505,231 @@
     ],
     "upgrade": "-"
   },
+  "chaoswing": {
+    "name": "Chaos Wing",
+    "type": "heavy-bowgun",
+    "rarity": 11,
+    "displayAttack": 435,
+    "rawAttack": 290,
+    "damageType": "projectile",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernheart",
+    "deviation": "low",
+    "ammos": [
+      {
+        "type": "normal",
+        "lv1": 9,
+        "lv2": 6,
+        "lv3": 5
+      },
+      {
+        "type": "pierce",
+        "lv1": 0,
+        "lv2": 5,
+        "lv3": 0
+      },
+      {
+        "type": "spread",
+        "lv1": 6,
+        "lv2": 4,
+        "lv3": 0
+      },
+      {
+        "type": "flaming",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "water",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "freeze",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "thunder",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "dragon",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "demon",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "armor",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "albadash": {
+    "name": "Albadash",
+    "type": "heavy-bowgun",
+    "rarity": 12,
+    "displayAttack": 480,
+    "rawAttack": 320,
+    "damageType": "projectile",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernheart",
+    "deviation": "low",
+    "ammos": [
+      {
+        "type": "normal",
+        "lv1": 9,
+        "lv2": 6,
+        "lv3": 5
+      },
+      {
+        "type": "pierce",
+        "lv1": 0,
+        "lv2": 5,
+        "lv3": 0
+      },
+      {
+        "type": "spread",
+        "lv1": 6,
+        "lv2": 4,
+        "lv3": 0
+      },
+      {
+        "type": "flaming",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "water",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "freeze",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "thunder",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "dragon",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "demon",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "armor",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacerifle": {
     "name": "Guild Palace Rifle",
     "type": "heavy-bowgun",
@@ -151575,6 +153201,119 @@
       }
     ],
     "upgrade": "-"
+  },
+  "alatreonbow": {
+    "name": "Alatreon Bow",
+    "type": "bow",
+    "rarity": 11,
+    "displayAttack": 300,
+    "rawAttack": 250,
+    "damageType": "projectile",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 450
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": [
+      "Close Range",
+      "Power",
+      "Paralysis",
+      "Sleep",
+      "Blast"
+    ],
+    "crafting": [
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "alatreoncommandment": {
+    "name": "Alatreon Commandment",
+    "type": "bow",
+    "rarity": 12,
+    "displayAttack": 336,
+    "rawAttack": 280,
+    "damageType": "projectile",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 600
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": [
+      "Close Range",
+      "Power",
+      "Paralysis",
+      "Sleep",
+      "Blast"
+    ],
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
   },
   "guildpalacearc": {
     "name": "Guild Palace Arc",

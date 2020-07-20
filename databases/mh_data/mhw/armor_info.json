@@ -35611,5 +35611,698 @@
         "rank": 2
       }
     ]
+  },
+  "alatreonalpha+": {
+    "name": "Alatreon Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Alatreon Divinity",
+        "description": "Equipped weapon's elemental power increases as your armor's elemental resistance increases.",
+        "pieces": 2
+      },
+      {
+        "name": "Alatreon Divinity",
+        "description": "Increases all elemental resistances +20%.",
+        "pieces": 3
+      }
+    ],
+    "defenses": {
+      "base": 800,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 15,
+      "water": 0,
+      "thunder": 0,
+      "ice": 15,
+      "dragon": 10
+    },
+    "pieces": [
+      {
+        "name": "Escadora Wisdom Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Escadora Soul Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Escadora Armguards Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Escadora Might Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Escadora Sheath Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Escadora Wisdom Alpha +",
+        "name": "Critical Eye",
+        "rank": 2
+      },
+      {
+        "piece": "Escadora Wisdom Alpha +",
+        "name": "Resentment",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Soul Alpha +",
+        "name": "Health Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Soul Alpha +",
+        "name": "Resentment",
+        "rank": 2
+      },
+      {
+        "piece": "Escadora Armguards Alpha +",
+        "name": "Attack Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Armguards Alpha +",
+        "name": "Power Prolonger",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Might Alpha +",
+        "name": "Attack Boost",
+        "rank": 4
+      },
+      {
+        "piece": "Escadora Might Alpha +",
+        "name": "Dragon Resistance",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Sheath Alpha +",
+        "name": "Defense Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Sheath Alpha +",
+        "name": "Dragon Attack",
+        "rank": 4
+      }
+    ],
+    "slots": [
+      {
+        "name": "Escadora Wisdom Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Escadora Wisdom Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Soul Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Escadora Soul Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Soul Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Armguards Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Escadora Armguards Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Might Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Escadora Might Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Sheath Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Escadora Sheath Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Escadora Sheath Alpha +",
+        "rank": 2
+      }
+    ]
+  },
+  "alatreonbeta+": {
+    "name": "Alatreon Beta +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Alatreon Divinity",
+        "description": "Equipped weapon's elemental power increases as your armor's elemental resistance increases.",
+        "pieces": 2
+      },
+      {
+        "name": "Alatreon Divinity",
+        "description": "Increases all elemental resistances +20%.",
+        "pieces": 3
+      }
+    ],
+    "defenses": {
+      "base": 800,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 15,
+      "water": 0,
+      "thunder": 0,
+      "ice": 15,
+      "dragon": 10
+    },
+    "pieces": [
+      {
+        "name": "Escadora Wisdom Beta +",
+        "type": "head"
+      },
+      {
+        "name": "Escadora Soul Beta +",
+        "type": "chest"
+      },
+      {
+        "name": "Escadora Armguards Beta +",
+        "type": "gloves"
+      },
+      {
+        "name": "Escadora Might Beta +",
+        "type": "waist"
+      },
+      {
+        "name": "Escadora Sheath Beta +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Escadora Wisdom Beta +",
+        "name": "Critical Eye",
+        "rank": 1
+      },
+      {
+        "piece": "Escadora Wisdom Beta +",
+        "name": "Resentment",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Soul Beta +",
+        "name": "Health Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Soul Beta +",
+        "name": "Resentment",
+        "rank": 1
+      },
+      {
+        "piece": "Escadora Armguards Beta +",
+        "name": "Attack Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Might Beta +",
+        "name": "Attack Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Might Beta +",
+        "name": "Dragon Resistance",
+        "rank": 3
+      },
+      {
+        "piece": "Escadora Sheath Beta +",
+        "name": "Defense Boost",
+        "rank": 3
+      }
+    ],
+    "slots": [
+      {
+        "name": "Escadora Wisdom Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Escadora Wisdom Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Soul Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Escadora Soul Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Soul Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Armguards Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Escadora Armguards Beta +",
+        "rank": 3
+      },
+      {
+        "name": "Escadora Might Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Escadora Might Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Escadora Sheath Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Escadora Sheath Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Escadora Sheath Beta +",
+        "rank": 2
+      }
+    ]
+  },
+  "frostfangbariothalpha+": {
+    "name": "Frostfang Barioth Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Frostfang Absolute Art",
+        "description": "Adds a stun effect to draw attacks and slightly increases attack power.",
+        "pieces": 1
+      },
+      {
+        "name": "Frostfang Absolute Art",
+        "description": "Raises the maximum level of the Slugger skill to 5.",
+        "pieces": 3
+      }
+    ],
+    "defenses": {
+      "base": 810,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -15,
+      "water": 10,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
+    },
+    "pieces": [
+      {
+        "name": "Frostfang Helm Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Frostfang Mail Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Frostfang Vambraces Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Frostfang Coil Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Frostfang Greaves Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Frostfang Helm Alpha +",
+        "name": "Critical Eye",
+        "rank": 2
+      },
+      {
+        "piece": "Frostfang Helm Alpha +",
+        "name": "Quick Sheath",
+        "rank": 1
+      },
+      {
+        "piece": "Frostfang Mail Alpha +",
+        "name": "Attack Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Frostfang Mail Alpha +",
+        "name": "Critical Draw",
+        "rank": 1
+      },
+      {
+        "piece": "Frostfang Vambraces Alpha +",
+        "name": "Critical Eye",
+        "rank": 2
+      },
+      {
+        "piece": "Frostfang Vambraces Alpha +",
+        "name": "Slugger",
+        "rank": 2
+      },
+      {
+        "piece": "Frostfang Coil Alpha +",
+        "name": "Critical Draw",
+        "rank": 1
+      },
+      {
+        "piece": "Frostfang Coil Alpha +",
+        "name": "Quick Sheath",
+        "rank": 1
+      },
+      {
+        "piece": "Frostfang Greaves Alpha +",
+        "name": "Attack Boost",
+        "rank": 1
+      },
+      {
+        "piece": "Frostfang Greaves Alpha +",
+        "name": "Slugger",
+        "rank": 3
+      }
+    ],
+    "slots": [
+      {
+        "name": "Frostfang Helm Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Frostfang Helm Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Frostfang Helm Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Frostfang Mail Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Frostfang Mail Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Frostfang Vambraces Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Frostfang Vambraces Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Frostfang Coil Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Frostfang Coil Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Frostfang Coil Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Frostfang Greaves Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Frostfang Greaves Alpha +",
+        "rank": 1
+      }
+    ]
+  },
+  "frostfangbariothbeta+": {
+    "name": "Frostfang Barioth Beta +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Frostfang Absolute Art",
+        "description": "Adds a stun effect to draw attacks and slightly increases attack power.",
+        "pieces": 1
+      },
+      {
+        "name": "Frostfang Absolute Art",
+        "description": "Raises the maximum level of the Slugger skill to 5.",
+        "pieces": 3
+      }
+    ],
+    "defenses": {
+      "base": 810,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -15,
+      "water": 10,
+      "thunder": -10,
+      "ice": 15,
+      "dragon": 0
+    },
+    "pieces": [
+      {
+        "name": "Frostfang Helm Beta +",
+        "type": "head"
+      },
+      {
+        "name": "Frostfang Mail Beta +",
+        "type": "chest"
+      },
+      {
+        "name": "Frostfang Vambraces Beta +",
+        "type": "gloves"
+      },
+      {
+        "name": "Frostfang Coil Beta +",
+        "type": "waist"
+      },
+      {
+        "name": "Frostfang Greaves Beta +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Frostfang Helm Beta +",
+        "name": "Critical Eye",
+        "rank": 2
+      },
+      {
+        "piece": "Frostfang Mail Beta +",
+        "name": "Attack Boost",
+        "rank": 3
+      },
+      {
+        "piece": "Frostfang Vambraces Beta +",
+        "name": "Critical Eye",
+        "rank": 2
+      },
+      {
+        "piece": "Frostfang Coil Beta +",
+        "name": "Quick Sheath",
+        "rank": 1
+      },
+      {
+        "piece": "Frostfang Greaves Beta +",
+        "name": "Attack Boost",
+        "rank": 1
+      }
+    ],
+    "slots": [
+      {
+        "name": "Frostfang Helm Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Frostfang Helm Beta +",
+        "rank": 2
+      },
+      {
+        "name": "Frostfang Helm Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Frostfang Mail Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Frostfang Mail Beta +",
+        "rank": 2
+      },
+      {
+        "name": "Frostfang Vambraces Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Frostfang Vambraces Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Frostfang Coil Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Frostfang Coil Beta +",
+        "rank": 3
+      },
+      {
+        "name": "Frostfang Coil Beta +",
+        "rank": 1
+      },
+      {
+        "name": "Frostfang Greaves Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Frostfang Greaves Beta +",
+        "rank": 4
+      }
+    ]
+  },
+  "passionalpha+": {
+    "name": "Passion Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Sizzling Blessing",
+        "description": "Increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)",
+        "pieces": 3
+      },
+      {
+        "name": "Sizzling Blessing",
+        "description": "Greatly increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)",
+        "pieces": 5
+      }
+    ],
+    "defenses": {
+      "base": 780,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 5,
+      "water": 20,
+      "thunder": 5,
+      "ice": 5,
+      "dragon": 5
+    },
+    "pieces": [
+      {
+        "name": "Passionate Headdress Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Passionate Body Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Passionate Arms Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Passionate Belt Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Passionate Leggings Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Passionate Headdress Alpha +",
+        "name": "Marathon Runner",
+        "rank": 3
+      },
+      {
+        "piece": "Passionate Body Alpha +",
+        "name": "Master Gatherer",
+        "rank": 1
+      },
+      {
+        "piece": "Passionate Body Alpha +",
+        "name": "Carving Pro",
+        "rank": 1
+      },
+      {
+        "piece": "Passionate Arms Alpha +",
+        "name": "Survival Expert",
+        "rank": 3
+      },
+      {
+        "piece": "Passionate Belt Alpha +",
+        "name": "Botanist",
+        "rank": 4
+      },
+      {
+        "piece": "Passionate Leggings Alpha +",
+        "name": "Geologist",
+        "rank": 3
+      }
+    ],
+    "slots": [
+      {
+        "name": "Passionate Headdress Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Passionate Body Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Passionate Body Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Passionate Arms Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Passionate Arms Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Passionate Belt Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Passionate Belt Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Passionate Leggings Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Passionate Leggings Alpha +",
+        "rank": 1
+      }
+    ]
   }
 }

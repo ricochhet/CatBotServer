@@ -2496,6 +2496,32 @@
   "item4_qty": 1
  },
  {
+  "base_name_en": "Alatreon Great Sword",
+  "weapon_type": "great-sword",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Revolution",
+  "weapon_type": "great-sword",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
+  "item4_qty": 1
+ },
+ {
   "base_name_en": "Guild Palace Blade",
   "weapon_type": "great-sword",
   "type": "Create",
@@ -7488,6 +7514,32 @@
   "item4_qty": 1
  },
  {
+  "base_name_en": "Alatreon Sword",
+  "weapon_type": "sword-and-shield",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Star",
+  "weapon_type": "sword-and-shield",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
+  "item4_qty": 1
+ },
+ {
   "base_name_en": "Guild Palace Sword",
   "weapon_type": "sword-and-shield",
   "type": "Create",
@@ -9997,6 +10049,32 @@
   "item4_qty": 1
  },
  {
+  "base_name_en": "Alatreon Dual Blades",
+  "weapon_type": "dual-blades",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Madness",
+  "weapon_type": "dual-blades",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
+  "item4_qty": 1
+ },
+ {
   "base_name_en": "Whetfish Sabers",
   "weapon_type": "dual-blades",
   "type": "Create",
@@ -12438,6 +12516,32 @@
   "item3_name": "Indestructible Ebonshell",
   "item3_qty": 4,
   "item4_name": "Immortal Reactor",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Hammer",
+  "weapon_type": "hammer",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Metamorph",
+  "weapon_type": "hammer",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
   "item4_qty": 1
  },
  {
@@ -14924,6 +15028,32 @@
   "item4_qty": 1
  },
  {
+  "base_name_en": "Alatreon Harmony",
+  "weapon_type": "hunting-horn",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Revival",
+  "weapon_type": "hunting-horn",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
+  "item4_qty": 1
+ },
+ {
   "base_name_en": "Guild Palace Bard",
   "weapon_type": "hunting-horn",
   "type": "Create",
@@ -17381,6 +17511,32 @@
   "item4_qty": 1
  },
  {
+  "base_name_en": "Alatreon Lance",
+  "weapon_type": "lance",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Gleam",
+  "weapon_type": "lance",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
+  "item4_qty": 1
+ },
+ {
   "base_name_en": "Guild Palace Tower",
   "weapon_type": "lance",
   "type": "Create",
@@ -19692,6 +19848,32 @@
   "item3_name": "Indestructible Ebonshell",
   "item3_qty": 4,
   "item4_name": "Immortal Reactor",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Gunlance",
+  "weapon_type": "gunlance",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Melt",
+  "weapon_type": "gunlance",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
   "item4_qty": 1
  },
  {
@@ -22113,6 +22295,32 @@
   "item4_qty": 1
  },
  {
+  "base_name_en": "Dark Switch Axe",
+  "weapon_type": "switch-axe",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Black Harvest",
+  "weapon_type": "switch-axe",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
+  "item4_qty": 1
+ },
+ {
   "base_name_en": "Guild Palace Cleaver",
   "weapon_type": "switch-axe",
   "type": "Create",
@@ -24346,6 +24554,32 @@
   "item3_name": "Indestructible Ebonshell",
   "item3_qty": 4,
   "item4_name": "Immortal Reactor",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Edge",
+  "weapon_type": "charge-blade",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Morphblade",
+  "weapon_type": "charge-blade",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
   "item4_qty": 1
  },
  {
@@ -26767,6 +27001,32 @@
   "item4_qty": 1
  },
  {
+  "base_name_en": "Alatreon Dragonspire",
+  "weapon_type": "insect-glaive",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Embrace",
+  "weapon_type": "insect-glaive",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
+  "item4_qty": 1
+ },
+ {
   "base_name_en": "Guild Palace Rod",
   "weapon_type": "insect-glaive",
   "type": "Create",
@@ -29133,6 +29393,32 @@
   "item4_qty": 1
  },
  {
+  "base_name_en": "Alatreon Razer",
+  "weapon_type": "light-bowgun",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Dominator",
+  "weapon_type": "light-bowgun",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
+  "item4_qty": 1
+ },
+ {
   "base_name_en": "Guild Palace Bowgun",
   "weapon_type": "light-bowgun",
   "type": "Create",
@@ -31327,6 +31613,32 @@
   "item3_name": "Indestructible Ebonshell",
   "item3_qty": 4,
   "item4_name": "Immortal Reactor",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Chaos Wing",
+  "weapon_type": "heavy-bowgun",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Albadash",
+  "weapon_type": "heavy-bowgun",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
   "item4_qty": 1
  },
  {
@@ -33576,6 +33888,32 @@
   "item3_name": "Indestructible Ebonshell",
   "item3_qty": 4,
   "item4_name": "Immortal Reactor",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Bow",
+  "weapon_type": "bow",
+  "type": "Create",
+  "item1_name": "Alatreon Mantle",
+  "item1_qty": 3,
+  "item2_name": "Skyswayer",
+  "item2_qty": 1,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 3,
+  "item4_name": "Large Elder Dragon Gem",
+  "item4_qty": 1
+ },
+ {
+  "base_name_en": "Alatreon Commandment",
+  "weapon_type": "bow",
+  "type": "Upgrade",
+  "item1_name": "Alatreon Direwing",
+  "item1_qty": 1,
+  "item2_name": "Skyswayer",
+  "item2_qty": 2,
+  "item3_name": "Alatreon Riptalon",
+  "item3_qty": 2,
+  "item4_name": "Azure Dragonsphire",
   "item4_qty": 1
  },
  {
