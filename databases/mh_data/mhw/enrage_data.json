@@ -179,6 +179,15 @@
         "playerDmg": "100%",
         "tenderizeFormula": "int(3/4x)+25"
     },
+    "frostfangbarioth": {
+        "tender": 0,
+        "dmgToEnrage": 600,
+        "enrageDuration": 120,
+        "enrageSpeed": "105%",
+        "monstrDmg": "105%",
+        "playerDmg": "105%",
+        "tenderizeFormula": "int(3/4x)+25"
+    },
     "fulguranjanath": {
         "tender": 0,
         "dmgToEnrage": 370,

@@ -19,6 +19,7 @@ Deviljho	0	500	135	105%	105%	100%	int(3/4x)+25
 Diablos	0	500	90	105%	120%	110%	int(3/4x)+25
 Dodogama	0	550	90	103%	120%	110%	int(3/4x)+25
 Ebony Odogaron	0	300	200	105%	110%	100%	int(3/4x)+25
+Frostfang Barioth	0	600	120	105%	105%	105%	int(3/4x)+25
 Fulgur Anjanath	0	370	130	110%	110%	100%	int(3/4x)+25
 Furious Rajang	0	350	110	109%	120%	100%	int(3/4x)+25
 Glavenus	0	400	120	110%	110%	100%	int(3/4x)+25
@@ -67,4 +68,4 @@ Viper Tobi-Kadachi	0	600	100	104%	120%	110%	int(3/4x)+25
 Xeno'jiiva	0	500	100	110%	105%	95%	int(3/4x)+25
 Yian Garuga	0	450	75	110%	120%	110%	int(3/4x)+25
 Zinogre	0	200	120	105%	110%	100%	int(3/4x)+25
-Zorah Magdaros	–	0	0	100%	100%	100%	-
+Zorah Magdaros	-	0	0	100%	100%	100%	–

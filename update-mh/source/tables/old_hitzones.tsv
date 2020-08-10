@@ -10,6 +10,34 @@ Acidic Glavenus	❶	Tail Base		37	32	25	20	10	15	10	10	–
 Acidic Glavenus	❶	Tail		37	32	25	25	10	15	10	10	–	280				320	
 Acidic Glavenus	❶	Tail	Hvy Crystal	18	24	15	35	5	20	5	5	–						
 Acidic Glavenus	❶	Tail	Sharpened	65	60	50	20	10	10	10	15	–						
+Alatreon	❶	Head		85	85	30	13	10	10	13	13	100	555					x2 Break
+Alatreon	❶	Neck		85	85	30	13	10	10	13	13	–						
+Alatreon	❸	Body		20	25	45	7	5	5	7	7	–	600					
+Alatreon	❷	Wings		35	35	25	17	13	13	17	17	–	375			750		
+Alatreon	❷	Arms		60	60	20	20	16	16	20	20	–	480					
+Alatreon	❸	Legs		40	40	25	17	13	13	17	17	–	400					
+Alatreon	❸	Tail		40	35	40	10	8	8	10	10	–	375				365	
+Alatreon	❶	Head	Fire	85	85	30	0	10	3	14	1	100						
+Alatreon	❶	Neck	Fire	85	85	30	0	10	3	14	1	–						
+Alatreon	❸	Body	Fire	20	25	45	0	5	1	7	0	–						
+Alatreon	❷	Wings	Fire	35	35	25	0	13	4	18	1	–						
+Alatreon	❷	Arms	Fire	60	60	20	0	16	5	22	2	–						
+Alatreon	❸	Legs	Fire	40	40	25	0	13	4	18	1	–						
+Alatreon	❸	Tail	Fire	40	35	40	0	8	2	11	1	–						
+Alatreon	❶	Head	Ice	85	85	30	14	3	10	0	1	100						
+Alatreon	❶	Neck	Ice	85	85	30	14	3	10	0	1	–						
+Alatreon	❸	Body	Ice	20	25	45	7	1	5	0	0	–						
+Alatreon	❷	Wings	Ice	35	35	25	18	4	13	0	1	–						
+Alatreon	❷	Arms	Ice	60	60	20	22	5	16	0	2	–						
+Alatreon	❸	Legs	Ice	40	40	25	18	4	13	0	1	–						
+Alatreon	❸	Tail	Ice	40	35	40	11	2	8	0	1	–						
+Alatreon	❶	Head	Dragon	85	85	30	6	5	5	6	9	100						
+Alatreon	❶	Neck	Dragon	85	85	30	6	5	5	6	9	–						
+Alatreon	❸	Body	Dragon	20	25	45	3	2	2	3	4	–						
+Alatreon	❷	Wings	Dragon	35	35	25	8	6	6	8	11	–						
+Alatreon	❷	Arms	Dragon	60	60	20	10	8	8	10	14	–						
+Alatreon	❸	Legs	Dragon	40	40	25	8	6	6	8	11	–						
+Alatreon	❸	Tail	Dragon	40	35	40	5	4	4	5	7	–						
 Ancient Leshen	❶	Head		65	65	50	25	0	15	10	15	100	15000	B	5	15000		L,R
 Ancient Leshen	❸	Body		45	45	25	20	0	10	5	10	–	9000	B	5	9000		
 Ancient Leshen	❷	Arms		45	45	30	20	0	10	5	10	–	7500					

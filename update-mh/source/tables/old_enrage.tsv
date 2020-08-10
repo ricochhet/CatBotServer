@@ -1,5 +1,6 @@
 .Large Monster	Tender	Dmg to  Enrage	Enrage  Duration	Enrage  Speed	Monstr Dmg	Player  Dmg	Tenderize Formula
 Acidic Glavenus	0	370	130	110%	100%	100%	int(3/4x)+25
+Alatreon	0	500	150	105%	120%	120%	int(3/4x)+25
 Ancient Leshen	0	0	0	100%	100%	100%	int(3/4x)+25
 Anjanath	0	370	150	110%	100%	100%	int(3/4x)+25
 Azure Rathalos	0	650	100	115%	105%	110%	int(3/4x)+25
@@ -66,4 +67,4 @@ Viper Tobi-Kadachi	0	600	100	104%	120%	110%	int(3/4x)+25
 Xeno'jiiva	0	500	100	110%	105%	95%	int(3/4x)+25
 Yian Garuga	0	450	75	110%	120%	110%	int(3/4x)+25
 Zinogre	0	200	120	105%	110%	100%	int(3/4x)+25
-Zorah Magdaros	–	0	0	100%	100%	100%	–
+Zorah Magdaros	–	0	0	100%	100%	100%	-

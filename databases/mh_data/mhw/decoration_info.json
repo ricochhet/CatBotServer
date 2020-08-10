@@ -5183,8 +5183,8 @@
     "slot": 4,
     "skills": [
       {
-        "name": "Flinch Free",
-        "description": "Prevents knockbacks.",
+        "name": "Maximum Might",
+        "description": "While active, increases affinity by 10%.",
         "level": 1
       },
       {

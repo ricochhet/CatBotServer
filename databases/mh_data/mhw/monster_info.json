@@ -1561,7 +1561,7 @@
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
         "blights": "Thunderblight",
         "locations": "Guiding Lands\nAncient Forest\nCoral Highlands",
-        "info": "When supercharged, parts of the monster become soft, but shock traps no longer work. You can also knock it out of supercharged mode by making it flinch several times. Once it's down, you can use the capture net to collect materials.",
+        "info": "When supercharged, parts of the monster become soft, but shock traps no longer work. You can knock it out of supercharged mode by making it flinch several times. Once it's down, you can use the capture net to collect materials.",
         "hzv": {
             "slash": "65",
             "blunt": "65",
@@ -1611,7 +1611,7 @@
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
         "blights": "Dragonblight",
         "locations": "Guiding Lands (Tundra)",
-        "info": "When supercharged, parts of the monster become soft, but shock traps no longer work. You can also knock it out of supercharged mode by making it flinch several times. Once it's down, you can use the capture net to collect materials.",
+        "info": "When supercharged, parts of the monster become soft, but shock traps no longer work. You can knock it out of supercharged mode by making it flinch several times. Once it's down, you can use the capture net to collect materials.",
         "hzv": {
             "slash": "55",
             "blunt": "55",
@@ -1632,7 +1632,7 @@
         "url": "https://monsterhunterworld.wiki.fextralife.com/Safi'jiiva",
         "description": "Elder Dragon",
         "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-safi'jiiva_icon.png",
-        "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐\n() Elderseal Efficacy",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐(⭐⭐⭐)\n() Elderseal Efficacy",
         "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
         "blights": "Fireblight\nDragonblight",
         "locations": "Secluded Valley",
@@ -1686,7 +1686,7 @@
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
         "blights": "Blastcourge",
         "locations": "Guiding Lands",
-        "info": "On par with the level of an Elder Dragon, Raging Brachydios will lock down the final area, your only escape is carting.",
+        "info": "A Brachydios variant that is much larger than the normal species. The slime on its body will activate over time and detonate.",
         "hzv": {
             "slash": "75",
             "blunt": "75",
@@ -1721,6 +1721,31 @@
             "thunder": "16",
             "ice": "22",
             "dragon": "20"
+        }
+    }
+    },
+    {
+    "name": "frostfangbarioth",
+    "details": {
+        "aliases": [],
+        "title": "Frostfang Barioth",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Frostfang+Barioth",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-frostfang_barioth_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce :x:\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Iceblight",
+        "locations": "Hoarfrost Reach",
+        "info": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. Be careful, as this attack can freeze you as well.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "55",
+            "fire": "35",
+            "water": "10",
+            "thunder": "25",
+            "ice": "0",
+            "dragon": "15"
         }
     }
   }
