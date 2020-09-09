@@ -1824,6 +1824,59 @@
       }
     ]
   },
+  "glacialdemon": {
+    "name": "Glacial Demon",
+    "type": "great-sword",
+    "rarity": 11,
+    "displayAttack": 1296,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 50,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 60
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 630
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
+      }
+    ]
+  },
   "jagrasbladei": {
     "name": "Jagras Blade I",
     "type": "great-sword",
@@ -11821,6 +11874,59 @@
       {
         "name": "Large Wyvern Gem",
         "quantity": 1
+      }
+    ]
+  },
+  "adulariaedge": {
+    "name": "Adularia Edge",
+    "type": "long-sword",
+    "rarity": 11,
+    "displayAttack": 891,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 40,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 70
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 540
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
       }
     ]
   },
@@ -21981,6 +22087,59 @@
       },
       {
         "name": "Large Elder Dragon Bone",
+        "quantity": 5
+      }
+    ]
+  },
+  "silverbosche": {
+    "name": "Silverbosche",
+    "type": "sword-and-shield",
+    "rarity": 11,
+    "displayAttack": 378,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 30,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 80
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 420
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
         "quantity": 5
       }
     ]
@@ -32182,6 +32341,59 @@
       }
     ]
   },
+  "bergelvetra": {
+    "name": "Bergel Vetra",
+    "type": "dual-blades",
+    "rarity": 11,
+    "displayAttack": 378,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 30,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 80
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 360
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
+      }
+    ]
+  },
   "rendingbeaksi": {
     "name": "Rending Beaks I",
     "type": "dual-blades",
@@ -42144,6 +42356,59 @@
       {
         "name": "Large Wyvern Gem",
         "quantity": 1
+      }
+    ]
+  },
+  "polarisbash": {
+    "name": "Polaris Bash",
+    "type": "hammer",
+    "rarity": 11,
+    "displayAttack": 1404,
+    "rawAttack": 270,
+    "damageType": "blunt",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 40,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 70
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 660
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
       }
     ]
   },
@@ -55934,6 +56199,59 @@
       }
     ]
   },
+  "bringuiro": {
+    "name": "Bringuiro",
+    "type": "hunting-horn",
+    "rarity": 11,
+    "displayAttack": 1134,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 30,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 80
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 540
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
+      }
+    ]
+  },
   "lumuhorni": {
     "name": "Lumu Horn I",
     "type": "hunting-horn",
@@ -61730,6 +62048,59 @@
       },
       {
         "name": "Large Elder Dragon Bone",
+        "quantity": 5
+      }
+    ]
+  },
+  "saberfang": {
+    "name": "Saber Fang",
+    "type": "lance",
+    "rarity": 11,
+    "displayAttack": 621,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 30,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 80
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 540
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
         "quantity": 5
       }
     ]
@@ -72815,6 +73186,62 @@
       }
     ]
   },
+  "whitenight": {
+    "name": "White Night",
+    "type": "gunlance",
+    "rarity": 11,
+    "displayAttack": 621,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 30,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 80
+      }
+    },
+    "elderseal": "-",
+    "shelling": {
+      "type": "normal",
+      "level": 7
+    },
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 480
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
+      }
+    ]
+  },
   "glacialgunlancei": {
     "name": "Glacial Gunlance I",
     "type": "gunlance",
@@ -82637,6 +83064,59 @@
       }
     ]
   },
+  "moonstonehoarfrost": {
+    "name": "Moonstone Hoarfrost",
+    "type": "switch-axe",
+    "rarity": 11,
+    "displayAttack": 945,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 40,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 70
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 480
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
+      }
+    ]
+  },
   "bazelraideri": {
     "name": "Bazel Raider I",
     "type": "switch-axe",
@@ -91582,6 +92062,59 @@
       },
       {
         "name": "Large Elder Dragon Bone",
+        "quantity": 5
+      }
+    ]
+  },
+  "ragingwolffang": {
+    "name": "Raging Wolf Fang",
+    "type": "charge-blade",
+    "rarity": 11,
+    "displayAttack": 972,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 30,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 80
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 480
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
         "quantity": 5
       }
     ]
@@ -100826,6 +101359,59 @@
       },
       {
         "name": "Large Elder Dragon Bone",
+        "quantity": 5
+      }
+    ]
+  },
+  "fenrirrose": {
+    "name": "Fenrir Rose",
+    "type": "insect-glaive",
+    "rarity": 11,
+    "displayAttack": 837,
+    "rawAttack": 270,
+    "damageType": "sever",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 10,
+        "orange": 30,
+        "yellow": 50,
+        "green": 50,
+        "blue": 60,
+        "white": 120,
+        "purple": 80
+      }
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 420
+      }
+    ],
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
         "quantity": 5
       }
     ]
@@ -115016,6 +115602,95 @@
       }
     ]
   },
+  "blizzardgust": {
+    "name": "Blizzard Gust",
+    "type": "light-bowgun",
+    "rarity": 11,
+    "displayAttack": 338,
+    "rawAttack": 260,
+    "damageType": "projectile",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernblast",
+    "deviation": "average",
+    "ammos": [
+      {
+        "type": "spread",
+        "lv1": 0,
+        "lv2": 0,
+        "lv3": 3
+      },
+      {
+        "type": "recover",
+        "lv1": 2,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "exhaust",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "freeze",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "slicing",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "demon",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "armor",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
+      }
+    ]
+  },
   "lagunablitzi": {
     "name": "Laguna Blitz I",
     "type": "light-bowgun",
@@ -128368,6 +129043,101 @@
       {
         "name": "Large Wyvern Gem",
         "quantity": 1
+      }
+    ]
+  },
+  "finalguerilla": {
+    "name": "Final Guerilla",
+    "type": "heavy-bowgun",
+    "rarity": 11,
+    "displayAttack": 420,
+    "rawAttack": 280,
+    "damageType": "projectile",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernsnipe",
+    "deviation": "low",
+    "ammos": [
+      {
+        "type": "cluster",
+        "lv1": 0,
+        "lv2": 0,
+        "lv3": 1
+      },
+      {
+        "type": "recover",
+        "lv1": 2,
+        "lv2": 2,
+        "lv3": 0
+      },
+      {
+        "type": "exhaust",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "freeze",
+        "lv1": 7,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "slicing",
+        "lv1": 4,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "wyvern",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "demon",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "armor",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": "-",
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
       }
     ]
   },
@@ -147992,6 +148762,56 @@
       {
         "name": "Large Wyvern Gem",
         "quantity": 1
+      }
+    ]
+  },
+  "edelescha": {
+    "name": "Edelescha",
+    "type": "bow",
+    "rarity": 11,
+    "displayAttack": 324,
+    "rawAttack": 270,
+    "damageType": "projectile",
+    "affinity": 15,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "ice",
+        "damage": 420
+      }
+    ],
+    "slots": "-",
+    "coatings": [
+      "Close Range",
+      "Power",
+      "Paralysis",
+      "Blast"
+    ],
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Frostfang Ticket",
+        "quantity": 2
+      },
+      {
+        "name": "Silverwhite Frostfang",
+        "quantity": 3
+      },
+      {
+        "name": "Bergcrusher Claw",
+        "quantity": 1
+      },
+      {
+        "name": "Gracium",
+        "quantity": 5
       }
     ]
   },

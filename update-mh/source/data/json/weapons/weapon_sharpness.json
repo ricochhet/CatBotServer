@@ -420,6 +420,18 @@
   "purple": 0
  },
  {
+  "base_name_en": "Glacial Demon",
+  "weapon_type": "great-sword",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 50,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 60
+ },
+ {
   "base_name_en": "Jagras Blade I",
   "weapon_type": "great-sword",
   "maxed": "FALSE",
@@ -2614,6 +2626,18 @@
   "blue": 40,
   "white": 80,
   "purple": 0
+ },
+ {
+  "base_name_en": "Adularia Edge",
+  "weapon_type": "long-sword",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 40,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 70
  },
  {
   "base_name_en": "First Dance I",
@@ -4858,6 +4882,18 @@
   "blue": 40,
   "white": 90,
   "purple": 0
+ },
+ {
+  "base_name_en": "Silverbosche",
+  "weapon_type": "sword-and-shield",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 30,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 80
  },
  {
   "base_name_en": "Glacial Grace I",
@@ -7116,6 +7152,18 @@
   "purple": 0
  },
  {
+  "base_name_en": "Bergel Vetra",
+  "weapon_type": "dual-blades",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 30,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 80
+ },
+ {
   "base_name_en": "Rending Beaks I",
   "weapon_type": "dual-blades",
   "maxed": "FALSE",
@@ -9310,6 +9358,18 @@
   "blue": 40,
   "white": 80,
   "purple": 0
+ },
+ {
+  "base_name_en": "Polaris Bash",
+  "weapon_type": "hammer",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 40,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 70
  },
  {
   "base_name_en": "Girros Hammer I",
@@ -12372,6 +12432,18 @@
   "purple": 0
  },
  {
+  "base_name_en": "Bringuiro",
+  "weapon_type": "hunting-horn",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 30,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 80
+ },
+ {
   "base_name_en": "Lumu Horn I",
   "weapon_type": "hunting-horn",
   "maxed": "FALSE",
@@ -13654,6 +13726,18 @@
   "blue": 40,
   "white": 90,
   "purple": 0
+ },
+ {
+  "base_name_en": "Saber Fang",
+  "weapon_type": "lance",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 30,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 80
  },
  {
   "base_name_en": "Gama Pilebunker I",
@@ -16044,6 +16128,18 @@
   "purple": 0
  },
  {
+  "base_name_en": "White Night",
+  "weapon_type": "gunlance",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 30,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 80
+ },
+ {
   "base_name_en": "Glacial Gunlance I",
   "weapon_type": "gunlance",
   "maxed": "FALSE",
@@ -18144,6 +18240,18 @@
   "purple": 0
  },
  {
+  "base_name_en": "Moonstone Hoarfrost",
+  "weapon_type": "switch-axe",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 40,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 70
+ },
+ {
   "base_name_en": "Bazel Raider I",
   "weapon_type": "switch-axe",
   "maxed": "FALSE",
@@ -20110,6 +20218,18 @@
   "blue": 40,
   "white": 90,
   "purple": 0
+ },
+ {
+  "base_name_en": "Raging Wolf Fang",
+  "weapon_type": "charge-blade",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 30,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 80
  },
  {
   "base_name_en": "Dear Lutemis",
@@ -22150,6 +22270,18 @@
   "blue": 40,
   "white": 90,
   "purple": 0
+ },
+ {
+  "base_name_en": "Fenrir Rose",
+  "weapon_type": "insect-glaive",
+  "maxed": "FALSE",
+  "red": 10,
+  "orange": 30,
+  "yellow": 50,
+  "green": 50,
+  "blue": 60,
+  "white": 120,
+  "purple": 80
  },
  {
   "base_name_en": "Blooming Glaive I",

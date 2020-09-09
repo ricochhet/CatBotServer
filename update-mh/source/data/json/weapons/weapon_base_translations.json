@@ -525,6 +525,21 @@
   "name_ar": "سيف بالاداير"
  },
  {
+  "name_en": "Glacial Demon",
+  "weapon_type": "great-sword",
+  "name_ja": "グラシュオグル",
+  "name_fr": "Démon de glace",
+  "name_it": "Demone glaciale",
+  "name_de": "Gletscherdämon",
+  "name_es": "Demonio glacial",
+  "name_pt": "Demônio Glacial",
+  "name_pl": "Lodowcowy demon",
+  "name_ru": "Ледяной демон",
+  "name_ko": "그라슈오거",
+  "name_zh": "狂擊巨兇",
+  "name_ar": "العفريت الجليدي"
+ },
+ {
   "name_en": "Jagras Blade I",
   "weapon_type": "great-sword",
   "name_ja": "ジャグラスブレイドⅠ",
@@ -3268,6 +3283,21 @@
   "name_ko": "빙아도【호박】Ⅱ",
   "name_zh": "冰牙刀【琥珀】Ⅱ",
   "name_ar": "سن الكهرمان II"
+ },
+ {
+  "name_en": "Adularia Edge",
+  "weapon_type": "long-sword",
+  "name_ja": "アデュラルエッジ",
+  "name_fr": "Lame Adularia",
+  "name_it": "Lama adularia",
+  "name_de": "Adularia-Schneide",
+  "name_es": "Filo Adularia",
+  "name_pt": "Gume de Adulária",
+  "name_pl": "Adularowe ostrze",
+  "name_ru": "Грань адулярии",
+  "name_ko": "아듀럴에지",
+  "name_zh": "亞鐸霜鋒",
+  "name_ar": "نصل الصخر الناري"
  },
  {
   "name_en": "First Dance I",
@@ -6073,6 +6103,21 @@
   "name_ko": "날도보시",
   "name_zh": "冰牙銳爪",
   "name_ar": "نارديبوشا"
+ },
+ {
+  "name_en": "Silverbosche",
+  "weapon_type": "sword-and-shield",
+  "name_ja": "シルバーボッシュ",
+  "name_fr": "Silverbosche",
+  "name_it": "Silverbosche",
+  "name_de": "Silberbosche",
+  "name_es": "Silverbosche",
+  "name_pt": "Silverbosche",
+  "name_pl": "Silverbosche",
+  "name_ru": "Серебряное острие",
+  "name_ko": "실버보슈",
+  "name_zh": "銀白雪波",
+  "name_ar": "السيف والدرع الفضي"
  },
  {
   "name_en": "Glacial Grace I",
@@ -8895,6 +8940,21 @@
   "name_ar": "بليزاريوث جبلي"
  },
  {
+  "name_en": "Bergel Vetra",
+  "weapon_type": "dual-blades",
+  "name_ja": "ベルゲルヴァトラ",
+  "name_fr": "Bergel Vetra",
+  "name_it": "Bergel Vetra",
+  "name_de": "Bergel Vetra",
+  "name_es": "Bergel Vetra",
+  "name_pt": "Bergel Vetra",
+  "name_pl": "Bergel Vetra",
+  "name_ru": "Бергель ветра",
+  "name_ko": "베르겔바토라",
+  "name_zh": "貝古特拉",
+  "name_ar": "سيف عملاق الشتاء الأبدي"
+ },
+ {
   "name_en": "Rending Beaks I",
   "weapon_type": "dual-blades",
   "name_ja": "ビークダガーⅠ",
@@ -11638,6 +11698,21 @@
   "name_ko": "아이시클배시Ⅱ",
   "name_zh": "冰尖強鎚Ⅱ",
   "name_ar": "ضربة الجليد II"
+ },
+ {
+  "name_en": "Polaris Bash",
+  "weapon_type": "hammer",
+  "name_ja": "ポラリスバッシュ",
+  "name_fr": "Frappe de Polaris",
+  "name_it": "Schianto polaris",
+  "name_de": "Polaris-Schlag",
+  "name_es": "Mazo Polaris",
+  "name_pt": "Golpe Polaris",
+  "name_pl": "Młot polarny",
+  "name_ru": "Полярный удар",
+  "name_ko": "폴라리스배시",
+  "name_zh": "北極星重擊",
+  "name_ar": "مطرقة نجم الشمال"
  },
  {
   "name_en": "Girros Hammer I",
@@ -15465,6 +15540,21 @@
   "name_ar": "قرن ثلجي II"
  },
  {
+  "name_en": "Bringuiro",
+  "weapon_type": "hunting-horn",
+  "name_ja": "グィラキエース",
+  "name_fr": "Bringuiro",
+  "name_it": "Bringuiro",
+  "name_de": "Bringuiro",
+  "name_es": "Bringuiro",
+  "name_pt": "Guirogelante",
+  "name_pl": "Bringuiro",
+  "name_ru": "Брингуиро",
+  "name_ko": "귀라키에이스",
+  "name_zh": "瑰麗雪霜",
+  "name_ar": "قرن الصقيع"
+ },
+ {
   "name_en": "Lumu Horn I",
   "weapon_type": "hunting-horn",
   "name_ja": "ウルムーホルンⅠ",
@@ -17068,6 +17158,21 @@
   "name_ko": "세이버투스",
   "name_zh": "冰牙刀鋒",
   "name_ar": "سيف الناب المنحني"
+ },
+ {
+  "name_en": "Saber Fang",
+  "weapon_type": "lance",
+  "name_ja": "セイバーロドス",
+  "name_fr": "Dent de sabre",
+  "name_it": "Zanna sciabola",
+  "name_de": "Säbelreißzahn",
+  "name_es": "Colmillo sable",
+  "name_pt": "Presa de Sabre",
+  "name_pl": "Szablokieł",
+  "name_ru": "Саблеклык",
+  "name_ko": "세이버로도스",
+  "name_zh": "騎兵羅德斯",
+  "name_ar": "ناب السيف"
  },
  {
   "name_en": "Gama Pilebunker I",
@@ -20055,6 +20160,21 @@
   "name_ar": "مسيرة الكهرمان"
  },
  {
+  "name_en": "White Night",
+  "weapon_type": "gunlance",
+  "name_ja": "ホワイトナイツ",
+  "name_fr": "Chevalier blanc",
+  "name_it": "Notte bianca",
+  "name_de": "Weiße Nacht",
+  "name_es": "Noche blanca",
+  "name_pt": "Noite Branca",
+  "name_pl": "Biała noc",
+  "name_ru": "Белый рыцарь",
+  "name_ko": "화이트나이트",
+  "name_zh": "白晝之夜",
+  "name_ar": "الليل الأبيض"
+ },
+ {
   "name_en": "Glacial Gunlance I",
   "weapon_type": "gunlance",
   "name_ja": "グレイスガンランスⅠ",
@@ -22680,6 +22800,21 @@
   "name_ar": "نطاق صقيع الكهرمان"
  },
  {
+  "name_en": "Moonstone Hoarfrost",
+  "weapon_type": "switch-axe",
+  "name_ja": "ゴアフロストオラリア",
+  "name_fr": "Pierre-de-lune",
+  "name_it": "Brina di luna",
+  "name_de": "Mondstein-Raureif",
+  "name_es": "Piedra luna escarchada",
+  "name_pt": "Geada de Pedra Lunar",
+  "name_pl": "Księżycowy szron",
+  "name_ru": "Иней лунного камня",
+  "name_ko": "고어프로스트올레리아",
+  "name_zh": "冰霜奧拉烈",
+  "name_ar": "صقيع حجر القمر"
+ },
+ {
   "name_en": "Bazel Raider I",
   "weapon_type": "switch-axe",
   "name_ja": "バゼルレイダーⅠ",
@@ -25138,6 +25273,21 @@
   "name_ko": "엘가볼프",
   "name_zh": "悍怒之狼",
   "name_ar": "ناب ذئب معمِّر"
+ },
+ {
+  "name_en": "Raging Wolf Fang",
+  "weapon_type": "charge-blade",
+  "name_ja": "レイジングヴォルフ",
+  "name_fr": "Croc de loup furieux",
+  "name_it": "Zanna lupo furioso",
+  "name_de": "Wütendwolf-Reißzahn",
+  "name_es": "Colmillo lobo furioso",
+  "name_pt": "Presa do Lobo Feroz",
+  "name_pl": "Kieł wściekłego wilka",
+  "name_ru": "Клык неистового волка",
+  "name_ko": "레이징볼프",
+  "name_zh": "憤怒之狼",
+  "name_ar": "ناب الذئب الثائر"
  },
  {
   "name_en": "Dear Lutemis",
@@ -27688,6 +27838,21 @@
   "name_ko": "펜릴스톰",
   "name_zh": "巨狼暴風雨",
   "name_ar": "عاصفة فينرير"
+ },
+ {
+  "name_en": "Fenrir Rose",
+  "weapon_type": "insect-glaive",
+  "name_ja": "フェンリルフローズ",
+  "name_fr": "Rose de Fenrir",
+  "name_it": "Rosa Fenrir",
+  "name_de": "Fenrir-Rose",
+  "name_es": "Rosa Fenrir",
+  "name_pt": "Rosa de Fenrir",
+  "name_pl": "Róża Fenrira",
+  "name_ru": "Роза Фенрира",
+  "name_ko": "펜릴프로즈",
+  "name_zh": "巨狼霜凍",
+  "name_ar": "زهرة فينرير"
  },
  {
   "name_en": "Blooming Glaive I",
@@ -30555,6 +30720,21 @@
   "name_ar": "وابل العاصفة"
  },
  {
+  "name_en": "Blizzard Gust",
+  "weapon_type": "light-bowgun",
+  "name_ja": "ブリザードガスト",
+  "name_fr": "Rafale de blizzard",
+  "name_it": "Colpo di bufera",
+  "name_de": "Blizzard-Böe",
+  "name_es": "Ráfaga de granizo",
+  "name_pt": "Rajada Gelada",
+  "name_pl": "Podmuch śnieżycy",
+  "name_ru": "Порыв вьюги",
+  "name_ko": "블리자드가스트",
+  "name_zh": "暴風突擊",
+  "name_ar": "قوة العاصفة"
+ },
+ {
   "name_en": "Laguna Blitz I",
   "weapon_type": "light-bowgun",
   "name_ja": "ラグーナブリッツⅠ",
@@ -32398,6 +32578,21 @@
   "name_ko": "아이시클어썰트Ⅱ",
   "name_zh": "冰尖突擊Ⅱ",
   "name_ar": "البطش الثلجي II"
+ },
+ {
+  "name_en": "Final Guerilla",
+  "weapon_type": "heavy-bowgun",
+  "name_ja": "ゲェレラスフィーネ",
+  "name_fr": "Guérilla finale",
+  "name_it": "Guerriglia finale",
+  "name_de": "Letzter Guerilla",
+  "name_es": "Guerrilla Final",
+  "name_pt": "Guerrilha Final",
+  "name_pl": "Ostateczne działo",
+  "name_ru": "Последняя герилья",
+  "name_ko": "게릴라스피네",
+  "name_zh": "蓋烈斯咆哮",
+  "name_ar": "المدفع النهائي"
  },
  {
   "name_en": "Nergal Roar",
@@ -35488,6 +35683,21 @@
   "name_ko": "아이시클블리자드Ⅱ",
   "name_zh": "冰尖暴風Ⅱ",
   "name_ar": "العاصفة الثلجية II"
+ },
+ {
+  "name_en": "Edelescha",
+  "weapon_type": "bow",
+  "name_ja": "エーデルエスタ",
+  "name_fr": "Edelescha",
+  "name_it": "Edelescha",
+  "name_de": "Edelescha",
+  "name_es": "Edelescha",
+  "name_pt": "Edelescha",
+  "name_pl": "Edelescha",
+  "name_ru": "Эдельэсха",
+  "name_ko": "에델에스타",
+  "name_zh": "高貴邪神",
+  "name_ar": "قوس الموت النبيل"
  },
  {
   "name_en": "Hidden Bow",

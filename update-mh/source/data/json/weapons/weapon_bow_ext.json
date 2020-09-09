@@ -620,6 +620,16 @@
   "blast": "FALSE"
  },
  {
+  "base_name_en": "Edelescha",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "FALSE",
+  "sleep": "FALSE",
+  "blast": "TRUE"
+ },
+ {
   "base_name_en": "Hidden Bow",
   "weapon_type": "bow",
   "close": "TRUE",
