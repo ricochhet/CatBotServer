@@ -27,26 +27,7 @@ async def get_items():
 
 @router.get("/monsters")
 async def get_monsters():
-    # get monster data from different files
-    monsters = json_from_file(f"{MHW_DB_PREFIX}/monster_info.json")
-    hitzones = json_from_file(f"{MHW_DB_PREFIX}/hitzone_data.json")
-    enrage = json_from_file(f"{MHW_DB_PREFIX}/enrage_data.json")
-
-    # append hitzone and enrage data to the monster details
-    for monster in monsters:
-        name = monster["name"]
-
-        hzv = hitzones.get(name)
-        enrage_values = enrage.get(name)
-
-        if not hzv or not enrage_values:
-            logger.error(f"Missing data for the monster {name}")
-            continue
-        else:
-            monster["details"]["hitzones"] = hitzones.get(name)
-            monster["details"]["enrage"] = enrage.get(name)
-
-    return monsters
+    return json_from_file(f"{MHW_DB_PREFIX}/monster_info.json")
 
 
 @router.get("/skills")
