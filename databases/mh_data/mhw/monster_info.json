@@ -1759,8 +1759,8 @@
       "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-fatalis_icon.png",
       "elements": "Fire ⭐⭐\nWater ⭐\nThunder ⭐\nIce ⭐\nDragon ⭐⭐⭐",
       "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐\nStun :x:",
-      "blights": "Iceblight",
-      "locations": "Hoarfrost Reach",
+      "blights": "Dragonblight\nFireblight",
+      "locations": "Castle Schrade",
       "info": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. Be careful, as this attack can freeze you as well.",
       "hzv": {
           "slash": "65",
