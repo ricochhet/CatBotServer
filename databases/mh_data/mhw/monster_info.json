@@ -1763,14 +1763,14 @@
       "locations": "Castle Schrade",
       "info": "A legendary black dragon known only as Fatalis. Rumored to have destroyed a kingdom in a single night, and has taken its castle for a roost.",
       "hzv": {
-          "slash": "65",
-          "blunt": "70",
-          "shot": "55",
-          "fire": "35",
-          "water": "10",
-          "thunder": "25",
-          "ice": "0",
-          "dragon": "15"
+          "slash": "75",
+          "blunt": "75",
+          "shot": "48",
+          "fire": "17",
+          "water": "5",
+          "thunder": "5",
+          "ice": "12",
+          "dragon": "25"
       }
     }
     },
