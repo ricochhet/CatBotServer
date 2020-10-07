@@ -5992,5 +5992,41 @@
         "level": 1
       }
     ]
+  },
+  "diversionjewel3": {
+    "name": "Diversion Jewel 3",
+    "rarity": 9,
+    "slot": 3,
+    "skills": [
+      {
+        "name": "Provoker",
+        "description": "Increases the attention drawn when attacking a monster.",
+        "level": 1
+      }
+    ]
+  },
+  "acrobatjewel3": {
+    "name": "Acrobat Jewel 3",
+    "rarity": 9,
+    "slot": 3,
+    "skills": [
+      {
+        "name": "Safe Landing",
+        "description": "Allows you to quickly recover from heavy attacks that blow you back when you have your weapon unsheathed.",
+        "level": 1
+      }
+    ]
+  },
+  "shaverjewel3": {
+    "name": "Shaver Jewel 3",
+    "rarity": 9,
+    "slot": 3,
+    "skills": [
+      {
+        "name": "Clutch Claw Boost",
+        "description": "Clutch claw weapon attacks wound monsters easier, and have a better chance of dropping slinger ammo.",
+        "level": 1
+      }
+    ]
   }
 }

@@ -70370,5 +70370,761 @@
       }
     ],
     "crafting": "-"
+  },
+  "dragonheadalpha+": {
+    "name": "Dragonhead Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 3
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Stun Resistance",
+        "level": 3,
+        "description": "Prevents stun."
+      },
+      {
+        "name": "Guard",
+        "level": 3,
+        "description": "Greatly decreases the impact of attacks and redcues stamina depletion by 15%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonhidealpha+": {
+    "name": "Dragonhide Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      },
+      {
+        "name": "Evade Window",
+        "level": 2,
+        "description": "Slightly increases invulnerability window."
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonclawsalpha+": {
+    "name": "Dragonclaws Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      },
+      {
+        "name": "Handicraft",
+        "level": 3,
+        "description": "Weapon sharpness +30"
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonbarbsalpha+": {
+    "name": "Dragonbarbs Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 3
+      },
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 3,
+        "description": "Affinity +15%"
+      },
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonfeetalpha+": {
+    "name": "Dragonfeet Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Handicraft",
+        "level": 2,
+        "description": "Weapon sharpness +20"
+      },
+      {
+        "name": "Evade Window",
+        "level": 1,
+        "description": "Very slightly increases invulnerability window."
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonheadbeta+": {
+    "name": "Dragonhead Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Stun Resistance",
+        "level": 3,
+        "description": "Prevents stun."
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonhidebeta+": {
+    "name": "Dragonhide Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      },
+      {
+        "name": "Evade Window",
+        "level": 1,
+        "description": "Very slightly increases invulnerability window."
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonclawsbeta+": {
+    "name": "Dragonclaws Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonbarbsbeta+": {
+    "name": "Dragonbarbs Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Critical Eye",
+        "level": 2,
+        "description": "Affinity +10%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "dragonfeetbeta+": {
+    "name": "Dragonfeet Beta +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 2,
+      "ice": 0,
+      "thunder": 2,
+      "dragon": -4
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Evade Window",
+        "level": 1,
+        "description": "Very slightly increases invulnerability window."
+      }
+    ],
+    "crafting": "-"
+  },
+  "demonlordhairalpha+": {
+    "name": "Demonlord Hair Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "head",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Guard",
+        "level": 3,
+        "description": "Greatly decreases the impact of attacks and redcues stamina depletion by 15%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "demonlordclownalpha+": {
+    "name": "Demonlord Clown Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "chest",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Blight Resistance",
+        "level": 3,
+        "description": "Nullifies all elemental blights."
+      }
+    ],
+    "crafting": "-"
+  },
+  "demonlordblackarmalpha+": {
+    "name": "Demonlord Blackarm Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "gloves",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Handicraft",
+        "level": 3,
+        "description": "Weapon sharpness +30"
+      }
+    ],
+    "crafting": "-"
+  },
+  "demonlordleatherbeltalpha+": {
+    "name": "Demonlord Leather Belt Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "waist",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Free Elem/Ammo Up",
+        "level": 3,
+        "description": "Draws out 100% of hidden element and expands clip size for some ammo."
+      }
+    ],
+    "crafting": "-"
+  },
+  "demonlordbootsalpha+": {
+    "name": "Demonlord Boots Alpha +",
+    "rank": "master",
+    "rarity": 11,
+    "type": "legs",
+    "defenses": {
+      "base": 162,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "ice": 1,
+      "thunder": 4,
+      "dragon": 1
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Offensive Guard",
+        "level": 3,
+        "description": "While active, increases attack power by 15%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "rimeguardhelmgamma+": {
+    "name": "Rimeguard Helm Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Resuscitate",
+        "level": 1,
+        "description": "While active, greatly improves evasion invulnerability time and reduces stamina depletion."
+      },
+      {
+        "name": "Coalescence",
+        "level": 3,
+        "description": "While active, grants attack +18, element attack power +90, and status buildup + 15%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "rimeguardmailgamma+": {
+    "name": "Rimeguard Mail Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Ice Attack",
+        "level": 3,
+        "description": "Ice attack +100"
+      },
+      {
+        "name": "Critical Draw",
+        "level": 3,
+        "description": "Draw attack affinity +100%"
+      }
+    ],
+    "crafting": "-"
+  },
+  "rimeguardvambracesgamma+": {
+    "name": "Rimeguard Vambraces Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 3
+      }
+    ],
+    "skills": [
+      {
+        "name": "Recovery Up",
+        "level": 3,
+        "description": "Recovery +30%"
+      },
+      {
+        "name": "Ice Attack",
+        "level": 3,
+        "description": "Ice attack +100"
+      }
+    ],
+    "crafting": "-"
+  },
+  "rimeguardcoilgamma+": {
+    "name": "Rimeguard Coil Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Focus",
+        "level": 3,
+        "description": "Increases gauge fill rate by 20% and reduces charge times by 15%."
+      },
+      {
+        "name": "Quick Sheath",
+        "level": 1,
+        "description": "Slightly increases sheathing speed."
+      }
+    ],
+    "crafting": "-"
+  },
+  "rimeguardgreavesgamma+": {
+    "name": "Rimeguard Greaves Gamma +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 180,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "ice": 4,
+      "thunder": -1,
+      "dragon": -1
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "skills": [
+      {
+        "name": "Peak Performance",
+        "level": 3,
+        "description": "While active, grants attack +20."
+      },
+      {
+        "name": "Quick Sheath",
+        "level": 2,
+        "description": "Moderately increases sheathing speed."
+      }
+    ],
+    "crafting": "-"
   }
 }

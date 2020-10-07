@@ -36304,5 +36304,564 @@
         "rank": 1
       }
     ]
+  },
+  "fatalisalpha+": {
+    "name": "Fatalis Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Fatalis Legend",
+        "description": "Removes the skill level cap for the skill secrets.",
+        "pieces": 2
+      },
+      {
+        "name": "Fatalis Legend",
+        "description": "Grants True Razor Sharp/Sharp Shot. Health/Stamina +100 at the start of a Quest or after fainting. (Effect doesn't stack.)",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 900,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -5,
+      "water": 10,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": -20
+    },
+    "pieces": [
+      {
+        "name": "Dragonhead Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Dragonhide Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Dragonclaws Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Dragonbarbs Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Dragonfeet Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Dragonhead Alpha +",
+        "name": "Stun Resistance",
+        "rank": 3
+      },
+      {
+        "piece": "Dragonhead Alpha +",
+        "name": "Guard",
+        "rank": 3
+      },
+      {
+        "piece": "Dragonhide Alpha +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Dragonhide Alpha +",
+        "name": "Evade Window",
+        "rank": 2
+      },
+      {
+        "piece": "Dragonclaws Alpha +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Dragonclaws Alpha +",
+        "name": "Handicraft",
+        "rank": 3
+      },
+      {
+        "piece": "Dragonbarbs Alpha +",
+        "name": "Critical Eye",
+        "rank": 3
+      },
+      {
+        "piece": "Dragonbarbs Alpha +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Dragonfeet Alpha +",
+        "name": "Handicraft",
+        "rank": 2
+      },
+      {
+        "piece": "Dragonfeet Alpha +",
+        "name": "Evade Window",
+        "rank": 1
+      }
+    ],
+    "slots": [
+      {
+        "name": "Dragonhead Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Dragonhead Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Dragonhead Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Dragonhide Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonhide Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonhide Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Dragonclaws Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonclaws Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Dragonbarbs Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonbarbs Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Dragonbarbs Alpha +",
+        "rank": 3
+      },
+      {
+        "name": "Dragonfeet Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonfeet Alpha +",
+        "rank": 4
+      }
+    ]
+  },
+  "fatalisbeta+": {
+    "name": "Fatalis Beta +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Fatalis Legend",
+        "description": "Removes the skill level cap for the skill secrets.",
+        "pieces": 2
+      },
+      {
+        "name": "Fatalis Legend",
+        "description": "Grants True Razor Sharp/Sharp Shot. Health/Stamina +100 at the start of a Quest or after fainting. (Effect doesn't stack.)",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 900,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -5,
+      "water": 10,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": -20
+    },
+    "pieces": [
+      {
+        "name": "Dragonhead Beta +",
+        "type": "head"
+      },
+      {
+        "name": "Dragonhide Beta +",
+        "type": "chest"
+      },
+      {
+        "name": "Dragonclaws Beta +",
+        "type": "gloves"
+      },
+      {
+        "name": "Dragonbarbs Beta +",
+        "type": "waist"
+      },
+      {
+        "name": "Dragonfeet Beta +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Dragonhead Beta +",
+        "name": "Stun Resistance",
+        "rank": 3
+      },
+      {
+        "piece": "Dragonhide Beta +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Dragonhide Beta +",
+        "name": "Evade Window",
+        "rank": 1
+      },
+      {
+        "piece": "Dragonclaws Beta +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Dragonbarbs Beta +",
+        "name": "Critical Eye",
+        "rank": 2
+      },
+      {
+        "piece": "Dragonfeet Beta +",
+        "name": "Evade Window",
+        "rank": 1
+      }
+    ],
+    "slots": [
+      {
+        "name": "Dragonhead Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonhead Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonhead Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonhide Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonhide Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonhide Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonclaws Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonclaws Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonclaws Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonbarbs Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonbarbs Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonbarbs Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonfeet Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonfeet Beta +",
+        "rank": 4
+      },
+      {
+        "name": "Dragonfeet Beta +",
+        "rank": 4
+      }
+    ]
+  },
+  "demonlordalpha+": {
+    "name": "Demonlord Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Fun Fright Blessing",
+        "description": "Increases odds of getting special Fun Fright rewards. (No effect when joining mid quest.)",
+        "pieces": 3
+      },
+      {
+        "name": "Fun Fright Blessing",
+        "description": "Greatly increases odds of getting special Fun Fright rewards. (No effect when joining mid quest.)",
+        "pieces": 5
+      }
+    ],
+    "defenses": {
+      "base": 810,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 5,
+      "water": 5,
+      "thunder": 20,
+      "ice": 5,
+      "dragon": 5
+    },
+    "pieces": [
+      {
+        "name": "Demonlord Hair Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Demonlord Clown Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Demonlord Blackarm Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Demonlord Leather Belt Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Demonlord Boots Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Demonlord Hair Alpha +",
+        "name": "Guard",
+        "rank": 3
+      },
+      {
+        "piece": "Demonlord Clown Alpha +",
+        "name": "Blight Resistance",
+        "rank": 3
+      },
+      {
+        "piece": "Demonlord Blackarm Alpha +",
+        "name": "Handicraft",
+        "rank": 3
+      },
+      {
+        "piece": "Demonlord Leather Belt Alpha +",
+        "name": "Free Elem/Ammo Up",
+        "rank": 3
+      },
+      {
+        "piece": "Demonlord Boots Alpha +",
+        "name": "Offensive Guard",
+        "rank": 3
+      }
+    ],
+    "slots": [
+      {
+        "name": "Demonlord Hair Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Demonlord Clown Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Demonlord Clown Alpha +",
+        "rank": 2
+      },
+      {
+        "name": "Demonlord Blackarm Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Demonlord Leather Belt Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Demonlord Leather Belt Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Demonlord Boots Alpha +",
+        "rank": 4
+      }
+    ]
+  },
+  "velkhanagamma+": {
+    "name": "Velkhana Gamma +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Velkhana Divinity",
+        "description": "Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+        "pieces": 2
+      },
+      {
+        "name": "Velkhana Divinity",
+        "description": "An aura of frost builds when your weapon is sheathed, raising attack. Wanes each melee hit or shot fired.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 900,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": -15,
+      "water": 10,
+      "thunder": -5,
+      "ice": 20,
+      "dragon": -5
+    },
+    "pieces": [
+      {
+        "name": "Rimeguard Helm Gamma +",
+        "type": "head"
+      },
+      {
+        "name": "Rimeguard Mail Gamma +",
+        "type": "chest"
+      },
+      {
+        "name": "Rimeguard Vambraces Gamma +",
+        "type": "gloves"
+      },
+      {
+        "name": "Rimeguard Coil Gamma +",
+        "type": "waist"
+      },
+      {
+        "name": "Rimeguard Greaves Gamma +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Rimeguard Helm Gamma +",
+        "name": "Resuscitate",
+        "rank": 1
+      },
+      {
+        "piece": "Rimeguard Helm Gamma +",
+        "name": "Coalescence",
+        "rank": 3
+      },
+      {
+        "piece": "Rimeguard Mail Gamma +",
+        "name": "Ice Attack",
+        "rank": 3
+      },
+      {
+        "piece": "Rimeguard Mail Gamma +",
+        "name": "Critical Draw",
+        "rank": 3
+      },
+      {
+        "piece": "Rimeguard Vambraces Gamma +",
+        "name": "Recovery Up",
+        "rank": 3
+      },
+      {
+        "piece": "Rimeguard Vambraces Gamma +",
+        "name": "Ice Attack",
+        "rank": 3
+      },
+      {
+        "piece": "Rimeguard Coil Gamma +",
+        "name": "Focus",
+        "rank": 3
+      },
+      {
+        "piece": "Rimeguard Coil Gamma +",
+        "name": "Quick Sheath",
+        "rank": 1
+      },
+      {
+        "piece": "Rimeguard Greaves Gamma +",
+        "name": "Peak Performance",
+        "rank": 3
+      },
+      {
+        "piece": "Rimeguard Greaves Gamma +",
+        "name": "Quick Sheath",
+        "rank": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "Rimeguard Helm Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Rimeguard Helm Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Rimeguard Helm Gamma +",
+        "rank": 1
+      },
+      {
+        "name": "Rimeguard Mail Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Rimeguard Mail Gamma +",
+        "rank": 2
+      },
+      {
+        "name": "Rimeguard Mail Gamma +",
+        "rank": 1
+      },
+      {
+        "name": "Rimeguard Vambraces Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Rimeguard Vambraces Gamma +",
+        "rank": 3
+      },
+      {
+        "name": "Rimeguard Coil Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Rimeguard Coil Gamma +",
+        "rank": 1
+      },
+      {
+        "name": "Rimeguard Greaves Gamma +",
+        "rank": 4
+      },
+      {
+        "name": "Rimeguard Greaves Gamma +",
+        "rank": 2
+      }
+    ]
   }
 }

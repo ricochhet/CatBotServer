@@ -69,8 +69,6 @@ See [docker run reference](https://docs.docker.com/engine/reference/run/) for al
 
 - Update `source/data/csv/weapons` with data found [here](https://github.com/gatheringhallstudios/MHWorldData) (when needed)
 
-- Update `source/tables/` with data found [here](https://docs.google.com/spreadsheets/d/1ttUaWtw2aaBFpz3NUp6izr-FgtQHSYJA_CjJA-xuets/edit#gid=837252457&fvid=113058775) (when needed)
-
 - Run `npm install` for dependencies
 
 - Run `node update-mh/main.js --convert` (converts all .CSV files to raw JSON)

@@ -2718,5 +2718,55 @@
         "description": "Increases all elemental resistances +20%."
       }
     ]
+  },
+  "clutchclawboost": {
+    "name": "Clutch Claw Boost",
+    "description": "Clutch claw weapon attacks wound monsters easier, and have a better chance of dropping slinger ammo.",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Clutch claw weapon attacks wound monsters easier, and have a better chance of dropping slinger ammo."
+      }
+    ]
+  },
+  "funfright'sgift": {
+    "name": "Fun Fright's Gift",
+    "description": "Increases odds of getting special Fun Fright rewards. (No effect when joining mid quest.)",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Increases odds of getting special Fun Fright rewards. (No effect when joining mid quest.)"
+      }
+    ]
+  },
+  "funfright'sgratitude": {
+    "name": "Fun Fright's Gratitude",
+    "description": "Greatly increases odds of getting special Fun Fright rewards. (No effect when joining mid quest.)",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Greatly increases odds of getting special Fun Fright rewards. (No effect when joining mid quest.)"
+      }
+    ]
+  },
+  "inheritance": {
+    "name": "Inheritance",
+    "description": "Removes the skill level cap for the skill secrets.",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Removes the skill level cap for the skill secrets."
+      }
+    ]
+  },
+  "transcendence": {
+    "name": "Transcendence",
+    "description": "Grants True Razor Sharp/Sharp Shot. Health/Stamina +100 at the start of a Quest or after fainting. (Effect doesn't stack.)",
+    "ranks": [
+      {
+        "level": 1,
+        "description": "Grants True Razor Sharp/Sharp Shot. Health/Stamina +100 at the start of a Quest or after fainting. (Effect doesn't stack.)"
+      }
+    ]
   }
 }
