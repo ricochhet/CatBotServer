@@ -11,7 +11,7 @@
         "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐",
         "blights": "Fireblight",
         "locations": "Ancient Forest\nWildspire Waste",
-        "info": "The Anjanath patrols the Ancient Forest, looking for its favorite meal, Aptonoth.This belligerent monster will attack anything without hesitation.",
+        "info": "The Anjanath patrols the Ancient Forest, looking for its favorite meal, Aptonoth. This belligerent monster will attack anything without hesitation.",
         "hzv": {
             "slash": "65",
             "blunt": "63",
