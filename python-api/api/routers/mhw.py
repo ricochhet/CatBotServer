@@ -29,6 +29,9 @@ async def get_items():
 async def get_monsters():
     return json_from_file(f"{MHW_DB_PREFIX}/monster_info.json")
 
+@router.get("/monsters/rewards")
+async def get_monsters_rewards():
+    return json_from_file(f"{MHW_DB_PREFIX}/monster_rewards.json")
 
 @router.get("/skills")
 async def get_skills():
@@ -38,3 +41,4 @@ async def get_skills():
 @router.get("/weapons")
 async def get_weapons():
     return json_from_file(f"{MHW_DB_PREFIX}/weapon_info.json")
+    
