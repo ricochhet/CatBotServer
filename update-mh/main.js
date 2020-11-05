@@ -14,10 +14,10 @@ cmd.command(['--convert'], function () {
 
 cmd.command(['--build'], function () {
   child_process('python', ['./update-mh/main.py']);
-  build.items('./databases/mh_data/mhw/item_info.json');
-  build.armors('./databases/mh_data/mhw/armor_info.json');
-  build.armorPieces('./databases/mh_data/mhw/armor_piece_info.json');
-  build.decorations('./databases/mh_data/mhw/decoration_info.json');
-  build.skills('./databases/mh_data/mhw/skill_info.json');
-  build.weapons('./databases/mh_data/mhw/weapon_info.json', './source/data/json');
+  build.items('./databases/Game/MHW/Items.json');
+  build.armors('./databases/Game/MHW/Armors.json');
+  build.armorPieces('./databases/Game/MHW/ArmorPieces.json');
+  build.decorations('./databases/Game/MHW/Decorations.json');
+  build.skills('./databases/Game/MHW/Skills.json');
+  build.weapons('./databases/Game/MHW/Weapons.json', './source/data/json');
 });
