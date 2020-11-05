@@ -3,6 +3,7 @@ from typing import Dict, List
 
 import uvicorn
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 
 from .routers import mhw, mhgu
 from .models import IgnoredChannels, LfgPost, LfgSubs
@@ -10,7 +11,20 @@ from .util import json_from_file, update_db_data
 
 logger = logging.getLogger("catbot-api")
 
+origins = [
+    "http://localhost:8080",
+]
+
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 app.include_router(mhw.router, prefix="/api/mhw")
 app.include_router(mhgu.router, prefix="/api/mhgu")
 
