@@ -23,7 +23,7 @@ def json_to_file(path, content):
         file.write(data)
 
 
-def update_db_data(client_id, path, content):
-    final_path = DB_PATH.joinpath(f"api_data/{client_id}/{path}")
+def update_db_data(path, content):
+    final_path = DB_PATH.joinpath(f"Discord/{path}")
     json_to_file(final_path, content)
     return {"message": "Update was successful"}
