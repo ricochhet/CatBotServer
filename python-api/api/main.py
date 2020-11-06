@@ -35,14 +35,15 @@ async def root():
 
 @app.get("/api/cats/facts")
 async def get_catfacts():
-    return json_from_file("Cats/CatFacts.json")
+    return json_from_file("cats/cat_facts.json")
 
 
 # One function to retrieve any bot data (no validation needed as long as path exists)
 @app.get("/api/db/{file_path:path}")
 async def get_bot_data(file_path: str):
     try:
-        return json_from_file(f"Discord/{file_path}.json")
+        print(f"discord/{file_path}.json")
+        return json_from_file(f"discord/{file_path}.json")
     except FileNotFoundError:
         raise HTTPException(
             status_code=404, detail="Invalid path - Resource doesn't exist")
@@ -50,22 +51,22 @@ async def get_bot_data(file_path: str):
 
 # Breaking the update operations into multiple endpoints to have individual validation
 # It is controlled by the declared 'type' of 'payload' (API returns 400 when it doesnt match)
-@app.post("/api/db/server/disabled")
+@app.post("/api/db/server/disabled_commands")
 async def update_disabled(payload: Dict[str, Dict[str, List[str]]]):
     logger.info(f"Updating disabled commands - {payload}")
-    return update_db_data("server/disabled.json", payload)
+    return update_db_data("server/disabled_commands.json", payload)
 
 
-@app.post("/api/db/server/ignored")
+@app.post("/api/db/server/ignored_channels")
 async def update_ignored(payload: IgnoredChannels):
     logger.info(f"Updating ignored channels - {payload}")
-    return update_db_data("server/ignored.json", payload.dict())
+    return update_db_data("server/ignored_channels.json", payload.dict())
 
 
-@app.post("/api/db/server/prefixes")
+@app.post("/api/db/server/server_prefixes")
 async def update_prefixes(payload: Dict[str, str]):
     logger.info(f"Updating server prefixes - {payload}")
-    return update_db_data("server/prefixes.json", payload)
+    return update_db_data("server/server_prefixes.json", payload)
 
 
 if __name__ == '__main__':
