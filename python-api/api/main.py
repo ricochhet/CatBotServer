@@ -50,16 +50,16 @@ async def get_bot_data(file_path: str):
 
 # Breaking the update operations into multiple endpoints to have individual validation
 # It is controlled by the declared 'type' of 'payload' (API returns 400 when it doesnt match)
-@app.post("/api/db/server/disabledcommands")
+@app.post("/api/db/server/disabled")
 async def update_disabled(payload: Dict[str, Dict[str, List[str]]]):
     logger.info(f"Updating disabled commands - {payload}")
-    return update_db_data("server/disabledCommands.json", payload)
+    return update_db_data("server/disabled.json", payload)
 
 
-@app.post("/api/db/server/ignoredchannels")
+@app.post("/api/db/server/ignored")
 async def update_ignored(payload: IgnoredChannels):
     logger.info(f"Updating ignored channels - {payload}")
-    return update_db_data("server/ignoredChannels.json", payload.dict())
+    return update_db_data("server/ignored.json", payload.dict())
 
 
 @app.post("/api/db/server/prefixes")
