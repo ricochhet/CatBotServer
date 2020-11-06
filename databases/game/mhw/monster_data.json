@@ -1,0 +1,1777 @@
+[
+    {
+    "name": "anjanath",
+    "details": {
+        "aliases": ["anja"],
+        "title": "Anjanath",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Anjanath",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-anjanath_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐",
+        "blights": "Fireblight",
+        "locations": "Ancient Forest\nWildspire Waste",
+        "info": "The Anjanath patrols the Ancient Forest, looking for its favorite meal, Aptonoth. This belligerent monster will attack anything without hesitation.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "63",
+            "shot": "75",
+            "fire": "0",
+            "water": "30",
+            "thunder": "15",
+            "ice": "20",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "barroth",
+    "details": {
+        "aliases": [""],
+        "title": "Barroth",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Barroth",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/MHW-Barroth_Icon.png",
+        "elements": "Fire ⭐⭐⭐(:x:)\nWater :x:(⭐⭐⭐)\nThunder :x:\nIce ⭐⭐\nDragon ⭐\n() when covered in mud.",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐⭐\nStun ⭐",
+        "blights": "Waterblight",
+        "locations": "Wildspire Waste",
+        "info": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "60",
+            "fire": "30",
+            "water": "45",
+            "thunder": "0",
+            "ice": "15",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "bazelgeuse",
+    "details": {
+        "aliases": ["bazel", "bagel"],
+        "title": "Bazelgeuse",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Bazelgeuse",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-bazelgeuse_icon.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐⭐\nIce ⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐",
+        "blights": "Fireblight",
+        "locations": "Ancient Forest\nCoral Highlands\nRotten Vale\nWildspire Waste\nElders Recess",
+        "info": "A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.",
+        "hzv": {
+            "slash": "80",
+            "blunt": "85",
+            "shot": "65",
+            "fire": "0",
+            "water": "15",
+            "thunder": "25",
+            "ice": "20",
+            "dragon": "20"
+        }
+    }
+    },
+    {
+    "name": "behemoth",
+    "details": {
+        "aliases": ["behe"],
+        "title": "Behemoth",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Behemoth",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-behemoth_icon.png",
+        "elements": "Fire ⭐\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Bleeding\nFireblight\nThunderblight",
+        "locations": "Elders Recess",
+        "info": "A powerful beast from another world. Its large horns and muscular frame defy nature. Unique strategies are required to battle it.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "55",
+            "shot": "50",
+            "fire": "25",
+            "water": "50",
+            "thunder": "35",
+            "ice": "40",
+            "dragon": "85"
+        }
+    }
+    },
+    {
+    "name": "deviljho",
+    "details": {
+        "aliases": ["jho"],
+        "title": "Deviljho",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Deviljho",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-deviljho_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Dragonblight\nDefense Down\nFireblight (lava)\nWaterblight (water)\nEffluvia (Rotten Vale)",
+        "locations": "Ancient Forest\nCoral Highlands\nRotten Vale\nWildspire Waste\nElders Recess",
+        "info": "Due to its enhanced metabolism, Deviljho must constantly seek out prey. It is extremely violent, and known to snatch up large monsters in its powerful maw and flail them around.",
+        "hzv": {
+            "slash": "75",
+            "blunt": "75",
+            "shot": "70",
+            "fire": "20",
+            "water": "20",
+            "thunder": "25",
+            "ice": "15",
+            "dragon": "25"
+        }
+    }
+    },
+    {
+    "name": "diablos",
+    "details": {
+        "aliases": ["blos"],
+        "title": "Diablos",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Diablos",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhw-diablos_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Stun",
+        "locations": "Wildspire Waste",
+        "info": "The apex monster of the Wildspire Waste. A menacing, territorial beast that lurks underground. Loud noises will cause it to lunge out of the sand in search of prey.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "60",
+            "fire": "0",
+            "water": "30",
+            "thunder": "10",
+            "ice": "35",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "blackdiablos",
+    "details": {
+        "aliases": ["blackblos"],
+        "title": "Black Diablos",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Black+Diablos",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-black_diablos_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon :x:",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Stun",
+        "locations": "Wildspire Waste (High Rank)",
+        "info": "These black-shelled Diablos are actually female Diablos in heat. The color signals their aggressiveness and heightened hostility to other creatures in their habitat.",
+        "hzv": {
+            "slash": "58",
+            "blunt": "63",
+            "shot": "60",
+            "fire": "0",
+            "water": "30",
+            "thunder": "10",
+            "ice": "35",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "dodogama",
+    "details": {
+        "title": "Dodogama",
+        "aliases": ["dodo"],
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Dodogama",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-dodogama_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Blastblight",
+        "locations": "Elders Recess",
+        "info": "A monster that devours rocks as its primary diet. The crystal it devous mix with its saliva to produce explosive minerals that it can spit at its enemies.",
+        "hzv": {
+            "slash": "80",
+            "blunt": "80",
+            "shot": "72",
+            "fire": "0",
+            "water": "20",
+            "thunder": "30",
+            "ice": "20",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "greatgirros",
+    "details": {
+        "aliases": ["ggirros", "girros"],
+        "title": "Great Girros",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Great+Girros",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-great_girros_icon2.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder :x:\nIce ⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Paralysis",
+        "locations": "Rotten Vale",
+        "info": "A monster that scavenges for meals dropped from the Coral Highlands. It acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "60",
+            "fire": "15",
+            "water": "30",
+            "thunder": "0",
+            "ice": "20",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "greatjagras",
+    "details": {
+        "aliases": ["gjagras"],
+        "title": "Great Jagras",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Great+Jagras",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-great_jagras_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐⭐",
+        "blights": "n/a",
+        "locations": "Ancient Forest",
+        "info": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It balloons to unbelievable proportions after swallowing prey.",
+        "hzv": {
+            "slash": "70",
+            "blunt": "75",
+            "shot": "65",
+            "fire": "30",
+            "water": "0",
+            "thunder": "20",
+            "ice": "15",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "jyuratodus",
+    "details": {
+        "aliases": ["jyura"],
+        "title": "Jyuratodus",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Jyuratodus",
+        "description": "Piscine Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-jyuratodus_icon2.png",
+        "elements": "Fire ⭐(:x:)\nWater :x:(⭐⭐⭐)\nThunder ⭐⭐⭐(:x:)\nIce ⭐\nDragon ⭐\n() when covered in mud.",
+        "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐⭐",
+        "blights": "Waterblight",
+        "locations": "Wildspire Waste",
+        "info": "A large piscine wyvern that inhabits the swamps of the Wildspirte Waste. It uses mud to capture prey, and it's known to battle Barroth over territory.",
+        "hzv": {
+            "slash": "58",
+            "blunt": "58",
+            "shot": "58",
+            "fire": "15",
+            "water": "25",
+            "thunder": "30",
+            "ice": "5",
+            "dragon": "5"
+        }
+    }
+    },
+    {
+    "name": "kirin",
+    "details": {
+        "aliases": [""],
+        "title": "Kirin",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Kirin",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-kirin_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater ⭐⭐\nThunder :x:\nIce ⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis :x:\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Thunderblight",
+        "locations": "Coral Highlands",
+        "info": "Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "55",
+            "shot": "45",
+            "fire": "25",
+            "water": "20",
+            "thunder": "0",
+            "ice": "20",
+            "dragon": "5"
+        }
+    }
+    },
+    {
+    "name": "kulu-ya-ku",
+    "details": {
+        "aliases": ["kulu"],
+        "title": "Kulu-Ya-Ku",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Kulu-Ya-Ku",
+        "description": "Bird Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-kulu-ya-ku_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "n/a",
+        "locations": "Ancient Forest\nWildspire Waste",
+        "info": "An odd bird wyvern that has developed limbs capable of carrying weapons. It's been spotted stealing eggs from nests found in the Ancient Forest and Wildspire Waste.",
+        "hzv": {
+            "slash": "68",
+            "blunt": "68",
+            "shot": "60",
+            "fire": "15",
+            "water": "20",
+            "thunder": "15",
+            "ice": "15",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "kulvetaroth",
+    "details": {
+        "aliases": ["kulve", "taroth", "kt", "atkt"],
+        "title": "Kulve Taroth",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Kulve+Taroth'",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-kulve_taroth_icon.png",
+        "elements": "Fire :x:(⭐)\nWater ⭐⭐\nThunder :x:(⭐⭐⭐)\nIce ⭐⭐⭐(:x:)\nDragon ⭐⭐(⭐)\n() when covered in gold.",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐\nStun ⭐",
+        "blights": "Fireblight",
+        "locations": "Caverns of El Dorado",
+        "info": "An elder dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation.",
+        "hzv": {
+            "slash": "80",
+            "blunt": "85",
+            "shot": "45",
+            "fire": "25",
+            "water": "30",
+            "thunder": "50",
+            "ice": "50",
+            "dragon": "35"
+        }
+    }
+    },
+    {
+    "name": "kushaladaora",
+    "details": {
+        "aliases": ["kush", "kushala", "daora"],
+        "title": "Kushala Daora",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Kushala+Daora",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-kushala_daora_icon.png",
+        "elements": "Fire ⭐\nWater :x:\nThunder ⭐⭐⭐\nIce :x:\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
+        "blights": "Stun",
+        "locations": "Ancient Forest\nElders Recess",
+        "info": "An elder dragon that shields itself with fierce winds, preventing anyone from apporaching it. Its skin consists of hard, metallic scales.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "50",
+            "shot": "55",
+            "fire": "10",
+            "water": "5",
+            "thunder": "20",
+            "ice": "0",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "lavasioth",
+    "details": {
+        "aliases": ["lavashit", "lavafish"],
+        "title": "Lavasioth",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Lavasioth",
+        "description": "Piscine Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-lavasioth_icon.png",
+        "elements": "Fire :x:(⭐)\nWater ⭐⭐⭐(⭐⭐)\nThunder ⭐⭐(:x:)\nIce ⭐⭐(:x:)\nDragon ⭐\n() when hardened.",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Fireblight",
+        "locations": "Elders Recess",
+        "info": "Lavasioths utilize molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "60",
+            "shot": "55",
+            "fire": "50",
+            "water": "45",
+            "thunder": "20",
+            "ice": "20",
+            "dragon": "5"
+        }
+    }
+    },
+    {
+    "name": "legiana",
+    "details": {
+        "aliases": [""],
+        "title": "Legiana",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Legiana",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-legiana_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐\nThunder ⭐⭐⭐\nIce :x:\nDragon ⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Iceblight",
+        "locations": "Coral Highlands",
+        "info": "The apex monster of the Coral Highlands, whose diet primarily consists of Raphinos. It emits a chilling wind from its body, which dulls its prey's ability to escape.",
+        "hzv": {
+            "slash": "59",
+            "blunt": "63",
+            "shot": "54",
+            "fire": "20",
+            "water": "15",
+            "thunder": "25",
+            "ice": "0",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "lunastra",
+    "details": {
+        "aliases": ["luna"],
+        "title": "Lunastra",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Lunastra",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-lunastra_icon2.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Fireblight",
+        "locations": "Elders Recess",
+        "info": "A rare female Elder Dragon that litters the air with hot blue dust. Reports of it traveling with her mate, Teostra, are still unconfirmed.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "60",
+            "shot": "50",
+            "fire": "0",
+            "water": "7",
+            "thunder": "7",
+            "ice": "30",
+            "dragon": "25"
+        }
+    }
+    },
+    {
+    "name": "nergigante",
+    "details": {
+        "aliases": ["nergi", "nerg", "hedgehog"],
+        "title": "Nergigante",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Nergigante",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-nergigante_icon.png",
+        "elements": "Fire ⭐\nWater ⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "n/a",
+        "locations": "Elders Recess",
+        "info": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well-documented.",
+        "hzv": {
+            "slash": "75",
+            "blunt": "90",
+            "shot": "70",
+            "fire": "15",
+            "water": "15",
+            "thunder": "20",
+            "ice": "15",
+            "dragon": "20"
+        }
+    }
+    },
+    {
+    "name": "odogaron",
+    "details": {
+        "aliases": ["odo", "garon"],
+        "title": "Odogaron",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Odogaron",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-odogaron_icon.png",
+        "elements": "Fire ⭐\nWater ⭐\nThunder ⭐⭐\nIce ⭐⭐⭐\nDragon :x:",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Bleeding",
+        "locations": "Coral Highlands\nRotten Vale",
+        "info": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "66",
+            "fire": "10",
+            "water": "15",
+            "thunder": "20",
+            "ice": "30",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "paolumu",
+    "details": {
+        "aliases": ["paol"],
+        "title": "Paolumu",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Paolumu",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-paolumu_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐⭐",
+        "blights": "Wind Pressure",
+        "locations": "Coral Highlands",
+        "info": "Paolumu feast on eggs found in the Coral Highlands. They are able to float through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "52",
+            "fire": "25",
+            "water": "0",
+            "thunder": "15",
+            "ice": "10",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "pukei-pukei",
+    "details": {
+        "aliases": ["pukei", "pukeipukei"],
+        "title": "Pukei-Pukei",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Pukei-Pukei",
+        "description": "Bird Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-pukei-pukei_icon.png",
+        "elements": "Fire ⭐⭐\nWater :x:\nThunder ⭐⭐⭐\nIce ⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐\nSleep ⭐⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Poison",
+        "locations": "Ancient Forest",
+        "info": "A bird wyvern known to posses poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
+        "hzv": {
+            "slash": "76",
+            "blunt": "72",
+            "shot": "68",
+            "fire": "15",
+            "water": "0",
+            "thunder": "30",
+            "ice": "20",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "radobaan",
+    "details": {
+        "aliases": ["rado"],
+        "title": "Radobaan",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Radobaan",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-radobaan_icon.png",
+        "elements": "Fire ⭐\nWater ⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
+        "blights": "Sleep",
+        "locations": "Rotten Vale",
+        "info": "A gigantic brute wyvern that eats the bones of carcasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "45",
+            "fire": "20",
+            "water": "20",
+            "thunder": "20",
+            "ice": "20",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "rathalos",
+    "details": {
+        "aliases": ["redrath"],
+        "title": "Rathalos",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Rathalos",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-rathalos_icon.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nPoison\nStun",
+        "locations": "Ancient Forest",
+        "info": "The apex monster of the Ancient Forest, also known as the \"King of the Skies.\" A terrible wyvern that descends upon invaders, attacking with poison claws and fiery breath.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "50",
+            "fire": "0",
+            "water": "15",
+            "thunder": "20",
+            "ice": "15",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "azurerathalos",
+    "details": {
+        "aliases": ["azurerath"],
+        "title": "Azure Rathalos",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Azure+Rathalos",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-azure_rathalos_icon.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nPoison\nStun",
+        "locations": "Ancient Forest\nElders Recess",
+        "info": "An azure-colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "55",
+            "fire": "0",
+            "water": "15",
+            "thunder": "15",
+            "ice": "20",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "rathian",
+    "details": {
+        "aliases": ["rath"],
+        "title": "Rathian",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Rathian",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-rathian_icon.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐⭐",
+        "blights": "Fireblight\nPoison",
+        "locations": "Ancient Forest\nWildspire Waste",
+        "info": "Wyverns known as the \"Queens of the Land.\" Terrestrial predators, they overpower prey with their venomous tails and powerful legs.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "45",
+            "fire": "0",
+            "water": "15",
+            "thunder": "20",
+            "ice": "15",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "pinkrathian",
+    "details": {
+        "aliases": ["prath", "prathian", "pink"],
+        "title": "Pink Rathian",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Pink+Rathian",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-pink_rathian_icon2.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐⭐",
+        "blights": "Poison",
+        "locations": "Wildspire Waste\nCoral Highlands",
+        "info": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails more deftly than normal Rathians, weakening prey with poison before moving in for the kill.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "55",
+            "fire": "0",
+            "water": "15",
+            "thunder": "20",
+            "ice": "15",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "teostra",
+    "details": {
+        "aliases": ["teo"],
+        "title": "Teostra",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Teostra",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-teostra_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nBlastblight",
+        "locations": "Wildspire Waste\nElders Recess",
+        "info": "Brutal elder dragons wreathed in flames that spit blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "60",
+            "shot": "50",
+            "fire": "0",
+            "water": "30",
+            "thunder": "10",
+            "ice": "25",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "tobi-kadachi",
+    "details": {
+        "aliases": ["tobikadachi"],
+        "title": "Tobi-Kadachi",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Tobi-Kadachi",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-tobi-kadachi_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder :x:\nIce ⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Thunderblight",
+        "locations": "Ancient Forest",
+        "info": "A fanged wyvern that flies among the trees of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fur.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "55",
+            "fire": "20",
+            "water": "30",
+            "thunder": "0",
+            "ice": "20",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "tzitzi-ya-ku",
+    "details": {
+        "aliases": ["tzitzi", "tzi"],
+        "title": "Tzitzi-Ya-Ku",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Tzitzi-Ya-Ku",
+        "description": "Bird Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-tzitzi-ya-ku_icon2.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Stun",
+        "locations": "Coral Highlands",
+        "info": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
+        "hzv": {
+            "slash": "68",
+            "blunt": "60",
+            "shot": "63",
+            "fire": "15",
+            "water": "15",
+            "thunder": "20",
+            "ice": "20",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "uragaan",
+    "details": {
+        "aliases": ["ura"],
+        "title": "Uragaan",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Uragaan",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-uragaan_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐⭐",
+        "blights": "Sleep\nFireblight",
+        "locations": "Elders Recess",
+        "info": "Large brute wyverns that feed on ore, using their mighty jaws to crush solid rock to powder. They've been to confront Lavasioths over territory disputes.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "45",
+            "fire": "0",
+            "water": "40",
+            "thunder": "15",
+            "ice": "20",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "vaalhazak",
+    "details": {
+        "aliases": ["vaal", "hazak"],
+        "title": "Vaal Hazak",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Vaal+Hazak",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-vaal_hazak_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Effluvia",
+        "locations": "Rotten Vale",
+        "info": "A grotesque elder dragon that inhabits the deepest part of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
+        "hzv": {
+            "slash": "70",
+            "blunt": "80",
+            "shot": "60",
+            "fire": "25",
+            "water": "5",
+            "thunder": "10",
+            "ice": "15",
+            "dragon": "25"
+        }
+    }
+    },
+    {
+    "name": "xeno'jiiva",
+    "details": {
+        "aliases": ["xeno", "xenojiiva"],
+        "title": "Xeno'Jiiva",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Xeno'jiiva",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-xeno'jiiva_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep :x:\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Fireblight\nDragonblight",
+        "locations": "Confluence of Fates",
+        "info": "Researching.",
+        "hzv": {
+            "slash": "100",
+            "blunt": "100",
+            "shot": "70",
+            "fire": "20",
+            "water": "30",
+            "thunder": "30",
+            "ice": "30",
+            "dragon": "20"
+        }
+    }
+    },
+    {
+    "name": "zorahmagdaros",
+    "details": {
+        "aliases": ["zorah", "magdaros"],
+        "title": "Zorah Magdaros",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Zorah+Magdaros",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-zorah_magdaros_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison :x:\nSleep :x:\nParalysis :x:\nBlast :x:\nStun :x:",
+        "blights": "Fireblight",
+        "locations": "n/a",
+        "info": "An elder dragon that rises from the earth like a volcano. Where its's headed, and why, the Research Commission has yet to figure out.",
+        "hzv": {
+            "slash": "95",
+            "blunt": "95",
+            "shot": "90",
+            "fire": "0",
+            "water": "30",
+            "thunder": "15",
+            "ice": "25",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "ancientleshen",
+    "details": {
+        "aliases": ["AL", "ancient"],
+        "title": "Ancient Leshen",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Ancient+Leshen",
+        "description": "Relict",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/ancient_leshen_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep :x:\nParalysis ⭐\nBlast ⭐\nStun ⭐",
+        "blights": "Bleeding",
+        "locations": "Ancient Forest",
+        "info": "An old leshen that arrived through a portal to assume control over Ancient Forest. Sometimes revered as an indigenous deity.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "50",
+            "fire": "25",
+            "water": "0",
+            "thunder": "15",
+            "ice": "10",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "leshen",
+    "details": {
+        "aliases": [""],
+        "title": "Leshen",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Leshen",
+        "description": "Relict",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhw-leshen_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep :x:\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Bleeding",
+        "locations": "Ancient Forest",
+        "info": "An old leshen that arrived through a portal to assume control over Ancient Forest. Sometimes revered as an indigenous deity.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "60",
+            "fire": "25",
+            "water": "0",
+            "thunder": "15",
+            "ice": "10",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "banbaro",
+    "details": {
+        "aliases": ["ban"],
+        "title": "Banbaro",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Banbaro",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-banbaro_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐\nIce :x:\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐⭐",
+        "blights": "Iceblight (Hoarfrost)\nWaterblight (Highlands)\nFireblight (Recess)",
+        "locations": "Hoarfrost Reach",
+        "info": "A monster marked by its furious charge and by the majestic twin horns that uproot trees and gouge at the earth as it runs.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "55",
+            "fire": "20",
+            "water": "0",
+            "thunder": "10",
+            "ice": "0",
+            "dragon": "25"
+        }
+    }
+    },
+    {
+    "name": "beotodus",
+    "details": {
+        "aliases": ["beo"],
+        "title": "Beotodus",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Beotodus",
+        "description": "Piscine Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-beotodus_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater ⭐\nThunder ⭐⭐\nIce :x:\nDragon :x:",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
+        "blights": "Iceblight",
+        "locations": "Hoarfrost Reach",
+        "info": "This piscine monster's wedge-shaped head allows it to freely swim through the tundra snow. Frequently seen flinging snow at prey.",
+        "hzv": {
+            "slash": "70",
+            "blunt": "65",
+            "shot": "50",
+            "fire": "30",
+            "water": "10",
+            "thunder": "15",
+            "ice": "0",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "nargacuga",
+    "details": {
+        "aliases": ["narga"],
+        "title": "Nargacuga",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Nargacuga",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-nargacuga_icon.png",
+        "elements": "Fire ⭐⭐\nWater :x:\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Bleeding",
+        "locations": "Coral Highlands\nAncient Forest",
+        "info": "Extremely agile, especially on the ground, this obsidian-furred flying wyvern moves with explosive bursts of speed.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "45",
+            "fire": "20",
+            "water": "0",
+            "thunder": "30",
+            "ice": "10",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "velkhana",
+    "details": {
+        "aliases": ["velk"],
+        "title": "Velkhana",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Velkhana",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-velkhana_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater ⭐\nThunder ⭐⭐\nIce :x:\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐⭐\nStun ⭐",
+        "blights": "Iceblight",
+        "locations": "Elders Recess\nHoarfrost Reach",
+        "info": "An elder dragon said to freeze all in its path. According to legend, it can control the cold, and use its freezing breath to conjure massive spires of ice out of nowhere.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "55",
+            "fire": "30",
+            "water": "10",
+            "thunder": "15",
+            "ice": "0",
+            "dragon": "20"
+        }
+    }
+    },
+    {
+    "name": "tigrex",
+    "details": {
+        "aliases": [""],
+        "title": "Tigrex",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Tigrex",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-tigrex_icon.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Iceblight (icy)\nWaterblight (water)",
+        "locations": "Rotten Vale\nHoarfrost Reach\nWildspire Waste\nAncient Forest\nElders Recess",
+        "info": "A flying wyvern straight out of prehistory, known for its deafening roar and powerful legs that drive its overwhelming charge.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "55",
+            "fire": "10",
+            "water": "15",
+            "thunder": "25",
+            "ice": "10",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "shriekinglegiana",
+    "details": {
+        "aliases": ["shrieking", "shriekinglegi", "shriek"],
+        "title": "Shrieking Legiana",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Shrieking+Legiana",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-shrieking_legiana_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater ⭐\nThunder ⭐⭐\nIce :x:\nDragon ⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Iceblight",
+        "locations": "Hoarfrost Reach",
+        "info": "A Legiana variant shrouded in white frost. It specializes in freezing prey with the powerful chill it emits, then swooping down to strike at them from overhead.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "50",
+            "fire": "25",
+            "water": "10",
+            "thunder": "15",
+            "ice": "0",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "barioth",
+    "details": {
+        "aliases": ["bari"],
+        "title": "Barioth",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Barioth",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-barioth_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce :x:\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Iceblight",
+        "locations": "Hoarfrost Reach",
+        "info": "The snow-white flying wyvern with huge tusks found in the frozen tundra. It uses its forelegs and tail to traverse ice with ease.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "55",
+            "fire": "35",
+            "water": "10",
+            "thunder": "25",
+            "ice": "0",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "glavenus",
+    "details": {
+        "aliases": ["glav"],
+        "title": "Glavenus",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Glavenus",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-glavenus_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Fireblight",
+        "locations": "Ancient Forest\nWildspire Waste\nElders Recess",
+        "info": "A brute wyvern that wields its heavy, blue tail like a blade. It grows hotter and more keen with each strike until it glows red.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "45",
+            "fire": "0",
+            "water": "30",
+            "thunder": "10",
+            "ice": "15",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "brachydios",
+    "details": {
+        "aliases": ["brachy", "brach"],
+        "title": "Brachydios",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Brachydios",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-brachydios_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Blastcourge",
+        "locations": "Elders Recess",
+        "info": "A Brachydios variant that is much larger than the normal species. The slime on its body will activate over time and detonate.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "60",
+            "shot": "50",
+            "fire": "0",
+            "water": "15",
+            "thunder": "10",
+            "ice": "30",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "fulguranjanath",
+    "details": {
+        "aliases": ["fulguranja", "fulgur"],
+        "title": "Fulgur Anjanath",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Fulgur+Anjanath",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-fulgur_anjanath_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐(⭐⭐⭐)\nThunder :x:\nIce ⭐⭐⭐(⭐⭐)\nDragon ⭐\n() when charged.",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Thunderblight",
+        "locations": "All Locations",
+        "info": "Feared as the \"Thunderjaw Wyvern,\" this Anjanath subspecies electrifies its jaws and dorsal membrane with every blow.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "60",
+            "shot": "75",
+            "fire": "15",
+            "water": "35",
+            "thunder": "0",
+            "ice": "30",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "ebonyodogaron",
+    "details": {
+        "aliases": ["ebony", "ebonyodo", "ebonygaron"],
+        "title": "Ebony Odogaron",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Ebony+Odogaron",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-ebony_odogaron_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep :x:\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Dragonblight\nBleeding",
+        "locations": "All Locations",
+        "info": "This Odogaron subspecies is forever on the prowl for its next meal, and is often seen carrying fresh kills in its mouth. Reports indicate it goes into a frenzy upon eating.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "75",
+            "shot": "55",
+            "fire": "25",
+            "water": "35",
+            "thunder": "25",
+            "ice": "25",
+            "dragon": "5"
+        }
+    }
+    },
+    {
+    "name": "acidicglavenus",
+    "details": {
+        "aliases": ["acid", "acidic", "acidicglav"],
+        "title": "Acidic Glavenus",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Acidic+Glavenus",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-acidic_glavenus_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐(⭐)\n() when crystalized.",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Defense Down",
+        "locations": "Rotten Vale",
+        "info": "A subspecies of Glavenus found in the Rotten Vale. A corrosive fluid has crystallized on its tail, spraying acid with each swing.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "60",
+            "shot": "50",
+            "fire": "35",
+            "water": "10",
+            "thunder": "20",
+            "ice": "10",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "ruinernergigante",
+    "details": {
+        "aliases": ["ruiner", "ruinernerg", "ruinernergi"],
+        "title": "Ruiner Nergigante",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Ruiner+Nergigante",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-ruiner_nergigante_icon.png",
+        "elements": "Fire ⭐\nWater ⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐",
+        "blights": "Bleeding",
+        "locations": "Guiding Lands (LV5 & Above)",
+        "info": "Countless battles have only hardened this Nergigante variant. In addition to healing, its spikes grow tougher as it loses health.",
+        "hzv": {
+            "slash": "75",
+            "blunt": "90",
+            "shot": "60",
+            "fire": "15",
+            "water": "15",
+            "thunder": "20",
+            "ice": "15",
+            "dragon": "20"
+        }
+    }
+    },
+    {
+    "name": "vipertobi-kadachi",
+    "details": {
+        "aliases": ["vipertobi", "viperkadachi", "vipertobikadachi", "viper"],
+        "title": "Viper Tobi-Kadachi",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Viper+Tobi-Kadachi",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-viper_tobi-kadachi_icon.png",
+        "elements": "Fire ⭐\nWater :x:\nThunder ⭐⭐⭐\nIce ⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Poison\nNoxious Poison\nParalysis",
+        "locations": "Hoarfrost Reach",
+        "info": "The tail of this subspecies secretes a toxin while its fangs paralyze prey. It can also glide without climbing trees.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "50",
+            "fire": "10",
+            "water": "0",
+            "thunder": "25",
+            "ice": "20",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "coralpukei-pukei",
+    "details": {
+        "aliases": ["coralpukei", "coral", "coralpukeipukei"],
+        "title": "Coral Pukei-Pukei",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Coral+Pukei-Pukei",
+        "description": "Bird Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-coral_pukei-pukei_icon.png",
+        "elements": "Fire ⭐\nWater :x:\nThunder ⭐⭐\nIce ⭐⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Waterblight",
+        "locations": "Coral Highlands",
+        "info": "A bird wyvern that stockpiles water inside its body, fortified by the plant life it consumes. When threatened, it can expel a powerful stream from its mouth or tail.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "45",
+            "fire": "10",
+            "water": "0",
+            "thunder": "15",
+            "ice": "30",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "nightshadepaolumu",
+    "details": {
+        "aliases": ["nightshade"],
+        "title": "Nightshade Paolumu",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Nightshade+Paolumu",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-nightshade_paolumu_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐⭐\nThunder ⭐\nIce ⭐\nDragon :x:",
+        "ailments": "Poison ⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Sleep",
+        "locations": "Wildspire Waste\nAncient Forest",
+        "info": "A Paolumu subspecies capable of putting prey to sleep. It produces a powerful sedative gas stored within its throat sac that it can expel and scatter to knock unwary foes out.",
+        "hzv": {
+            "slash": "70",
+            "blunt": "75",
+            "shot": "50",
+            "fire": "15",
+            "water": "30",
+            "thunder": "10",
+            "ice": "10",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "namielle",
+    "details": {
+        "aliases": ["nami"],
+        "title": "Namielle",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Namielle",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-namielle_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder :x:\nIce ⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
+        "blights": "Waterblight\nThunderblight",
+        "locations": "Coral Highlands",
+        "info": "An elder dragon coated in water and able to freely control lightning. A unique organ allows it to pump electricity into the pools of water it creates, causing massive bursts of steam.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "50",
+            "fire": "40",
+            "water": "5",
+            "thunder": "0",
+            "ice": "20",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "yiangaruga",
+    "details": {
+        "aliases": ["yian", "garuga"],
+        "title": "Yian Garuga",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Yian+Garuga",
+        "description": "Bird Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-yian_garuga_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder :x:\nIce ⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nPoison",
+        "locations": "Guiding Lands (Forest)",
+        "info": "A short-tempered bird wyvern marked by its hard, black scales and impressive mane. It strikes with its distinctive beak.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "45",
+            "fire": "0",
+            "water": "30",
+            "thunder": "0",
+            "ice": "10",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "sharaishvalda",
+    "details": {
+        "aliases": ["shara", "ishvalda"],
+        "title": "Shara Ishvalda",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Shara+Ishvalda",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-shara_ishvalda_icon.png",
+        "elements": "Fire ⭐\nWater ⭐⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep :x:\nParalysis ⭐\nBlast ⭐⭐⭐(⭐⭐)\nStun ⭐\n() when released.",
+        "blights": "Stun",
+        "locations": "Origin Isle",
+        "info": "A mysterious elder dragon able to manipulate the earth itself. Vibrations from its wingtips reshape the earth, denying hunters footing.",
+        "hzv": {
+            "slash": "70",
+            "blunt": "75",
+            "shot": "45",
+            "fire": "10",
+            "water": "20",
+            "thunder": "0",
+            "ice": "25",
+            "dragon": "5"
+        }
+    }
+    },
+    {
+    "name": "savagedeviljho",
+    "details": {
+        "aliases": ["savage", "savagejho", "savjho"],
+        "title": "Savage Deviljho",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Savage+Deviljho",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-savage_deviljho_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon ⭐⭐⭐",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐⭐⭐\nParalysis ⭐⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Defense Down\nDragonblight\nFireblight (lava)\nIceblight (icy)\nWaterblight (water)",
+        "locations": "All Locations",
+        "info": "A mutated Deviljho variant, driven mad by its overpowering hunger. It will attempt to feed on all it sees.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "60",
+            "shot": "45",
+            "fire": "25",
+            "water": "25",
+            "thunder": "30",
+            "ice": "15",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "blackveilvaalhazak",
+    "details": {
+        "aliases": ["blackveil", "blackveilvaal", "blackveilhazak"],
+        "title": "Blackveil Vaal Hazak",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Blackveil+Vaal+Hazak",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-blackveil_vaal_hazak_icon.png",
+        "elements": "Fire ⭐⭐\nWater :x:\nThunder ⭐\nIce ⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Effluvia",
+        "locations": "Ancient Forest\nRotten Vale",
+        "info": "A Vaal Hazak variant encrusted with spores that spew a torrent of toxic effluvium at any who draw close.",
+        "hzv": {
+            "slash": "75",
+            "blunt": "85",
+            "shot": "60",
+            "fire": "20",
+            "water": "10",
+            "thunder": "10",
+            "ice": "15",
+            "dragon": "25"
+        }
+    }
+    },
+    {
+    "name": "seethingbazelgeuse",
+    "details": {
+        "aliases": ["angrybagel", "angrybazel", "seethingbagel", "seethingbazel", "seething"],
+        "title": "Seething Bazelgeuse",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Seething+Bazelgeuse",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-seething_bazelgeuse_icon.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder ⭐⭐\nIce ⭐⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Fireblight",
+        "locations": "Elders Recess",
+        "info": "The scales of this Bazelgeuse variant burn hotter than normal, increasing in number and explosion radius as time passes.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "55",
+            "fire": "0",
+            "water": "5",
+            "thunder": "20",
+            "ice": "25",
+            "dragon": "5"
+        }
+    }
+    },
+    {
+    "name": "scarredyiangaruga",
+    "details": {
+        "aliases": ["scarredyian", "scarred"],
+        "title": "Scarred Yian Garuga",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Scarred+Yian+Garuga",
+        "description": "Bird Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-scarred_yian_garuga_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder :x:\nIce ⭐\nDragon ⭐⭐",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nPoison\nStun",
+        "locations": "Guiding Lands (Forest LV6 & Above)",
+        "info": "A tempered Yian Garuga that survived a grueling battle with just a scar on its head. Be careful of its successive breath attacks.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "65",
+            "shot": "45",
+            "fire": "0",
+            "water": "30",
+            "thunder": "0",
+            "ice": "10",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "goldrathian",
+    "details": {
+        "aliases": ["grath", "goldian", "grathian"],
+        "title": "Gold Rathian",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Gold+Rathian",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-gold_rathian_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐⭐⭐\nIce ⭐\nDragon :x:",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nPoison",
+        "locations": "Guiding Lands (Wildspire LV6 & Above)",
+        "info": "A rare gleaming gold-scaled Rathian species. When wreathed in hellfire, its breath grows more lethal and its tail swipes broader.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "60",
+            "shot": "50",
+            "fire": "5",
+            "water": "20",
+            "thunder": "30",
+            "ice": "10",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "silverrathalos",
+    "details": {
+        "aliases": ["silverlos", "silver"],
+        "title": "Silver Rathalos",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Silver+Rathalos",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-silver_rathalos_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐\nDragon :x:",
+        "ailments": "Poison ⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nStun\nPoison",
+        "locations": "Guiding Lands (Coral LV6 & Above)",
+        "info": "A rare silver-scaled Rathalos species. When wreathed in hellfire, its breath grows more lethal and it gains a new set of attacks.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "60",
+            "shot": "50",
+            "fire": "0",
+            "water": "30",
+            "thunder": "20",
+            "ice": "10",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "brutetigrex",
+    "details": {
+        "aliases": ["brute"],
+        "title": "Brute Tigrex",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Brute+Tigrex",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-brute_tigrex_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐⭐\nThunder ⭐⭐\nIce ⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nWaterblight",
+        "locations": "Guiding Lands (Rotten LV6 & Above)",
+        "info": "Blackish brown scales and a stronger roar set this Tigrex subspecies apart. Extremely aggressive, even by Tigrex standards.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "60",
+            "shot": "45",
+            "fire": "5",
+            "water": "25",
+            "thunder": "18",
+            "ice": "12",
+            "dragon": "15"
+        }
+    }
+    },
+    {
+    "name": "zinogre",
+    "details": {
+        "aliases": ["thunderpup", "zin"],
+        "title": "Zinogre",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Zinogre",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-zinogre_icon.png",
+        "elements": "Fire ⭐\nWater ⭐⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Thunderblight",
+        "locations": "Guiding Lands\nAncient Forest\nCoral Highlands",
+        "info": "Lightning courses through the fur and unique plating of this fanged wyvern. It is most deadly in its supercharged state.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "65",
+            "shot": "55",
+            "fire": "10",
+            "water": "20",
+            "thunder": "0",
+            "ice": "25",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "rajang",
+    "details": {
+        "aliases": ["ape"],
+        "title": "Rajang",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Rajang",
+        "description": "Fanged Beast",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-rajang_icon.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon :x:",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Thunderblight",
+        "locations": "Guiding Lands (Volcanic)",
+        "info": "An ultra-aggressive creature that few have a chance of surviving against. Sports powerful arms that pack a punch. Turns gold when angry.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "62",
+            "shot": "45",
+            "fire": "0",
+            "water": "5",
+            "thunder": "0",
+            "ice": "30",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "stygianzinogre",
+    "details": {
+        "aliases": ["stygian", "redzin", "styg"],
+        "title": "Stygian Zinogre",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Stygian+Zinogre",
+        "description": "Fanged Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/stygian_zinogre_icon-mhw-wiki-guide.png",
+        "elements": "Fire :x:(⭐)\nWater :x:(⭐)\nThunder ⭐(⭐⭐⭐)\nIce :x:(⭐)\nDragon :x:\n() when emitting light",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
+        "blights": "Dragonblight",
+        "locations": "Guiding Lands (Tundra)",
+        "info": "Has a symbolic relationship with Dracophage Bugs, which it releases like bullets. Becomes even more dangerous when covered in light.",
+        "hzv": {
+            "slash": "55",
+            "blunt": "55",
+            "shot": "50",
+            "fire": "20",
+            "water": "25",
+            "thunder": "30",
+            "ice": "20",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "safi'jiiva",
+    "details": {
+        "aliases": ["safi", "safijiiva"],
+        "title": "Safi'jiiva",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Safi'jiiva",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-safi'jiiva_icon.png",
+        "elements": "Fire ⭐⭐\nWater ⭐⭐\nThunder ⭐⭐\nIce ⭐⭐\nDragon ⭐⭐(⭐⭐⭐)\n() Elderseal Efficacy",
+        "ailments": "Poison ⭐⭐⭐\nSleep ⭐\nParalysis ⭐⭐\nBlast ⭐⭐⭐\nStun ⭐⭐",
+        "blights": "Fireblight\nDragonblight",
+        "locations": "Secluded Valley",
+        "info": "The fully-grown form of Xeno'jiiva. It absorbs energy from its environment to heal itself and change the ecosystem.",
+        "hzv": {
+            "slash": "75",
+            "blunt": "75",
+            "shot": "48",
+            "fire": "30",
+            "water": "30",
+            "thunder": "30",
+            "ice": "30",
+            "dragon": "30"
+        }
+    }
+    },
+    {
+    "name": "furiousrajang",
+    "details": {
+        "aliases": [],
+        "title": "Furious Rajang",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Furious+Rajang",
+        "description": "Fanged Beast",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/mhwi-rajang_icon.png",
+        "elements": "Fire :x:\nWater ⭐\nThunder :x:\nIce ⭐⭐⭐\nDragon :x:",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐⭐\nStun ⭐",
+        "blights": "Thunderblight",
+        "locations": "Hoarfrost Reach",
+        "info": "A Rajang variant covered in golden fur. Utilizes severe ranged and wall-based attacks. It enters a glowing golden state when enraged.",
+        "hzv": {
+            "slash": "60",
+            "blunt": "62",
+            "shot": "50",
+            "fire": "0",
+            "water": "5",
+            "thunder": "0",
+            "ice": "20",
+            "dragon": "0"
+        }
+    }
+    },
+    {
+    "name": "ragingbrachydios",
+    "details": {
+        "aliases": [],
+        "title": "Raging Brachydios",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Raging+Brachydios",
+        "description": "Brute Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-raging_brachydios_icon.png",
+        "elements": "Fire :x:\nWater ⭐⭐\nThunder ⭐\nIce ⭐⭐⭐\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Blastcourge",
+        "locations": "Guiding Lands",
+        "info": "A Brachydios variant that is much larger than the normal species. The slime on its body will activate over time and detonate.",
+        "hzv": {
+            "slash": "75",
+            "blunt": "75",
+            "shot": "55",
+            "fire": "0",
+            "water": "20",
+            "thunder": "10",
+            "ice": "25",
+            "dragon": "10"
+        }
+    }
+    },
+    {
+    "name": "alatreon",
+    "details": {
+        "aliases": [],
+        "title": "Alatreon",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Alatreon",
+        "description": "Elder Dragon",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/alatreon_icon.png",
+        "elements": "Fire :x:(⭐⭐⭐)[⭐]\nWater ⭐⭐(⭐)[⭐]\nThunder ⭐(⭐⭐)[⭐]\nIce ⭐⭐⭐(:x:)[⭐]\nDragon ⭐[⭐⭐]\n() Ice Active\n[] Dragon Active",
+        "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐\nStun ⭐",
+        "blights": "Waterblight\nThunderblight\nIceblight\nFireblight\nDragonblight\nStun",
+        "locations": "Secluded Valley",
+        "info": "Known as a symbol of destruction, people fear even uttering its name. It's rumored to control all of the elements, but most, if not all, records of its existence have been burned.",
+        "hzv": {
+            "slash": "85",
+            "blunt": "85",
+            "shot": "45",
+            "fire": "22",
+            "water": "16",
+            "thunder": "16",
+            "ice": "22",
+            "dragon": "20"
+        }
+    }
+    },
+    {
+    "name": "frostfangbarioth",
+    "details": {
+        "aliases": [],
+        "title": "Frostfang Barioth",
+        "url": "https://monsterhunterworld.wiki.fextralife.com/Frostfang+Barioth",
+        "description": "Flying Wyvern",
+        "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-frostfang_barioth_icon.png",
+        "elements": "Fire ⭐⭐⭐\nWater :x:\nThunder ⭐⭐\nIce :x:\nDragon ⭐",
+        "ailments": "Poison ⭐⭐\nSleep ⭐⭐\nParalysis ⭐⭐\nBlast ⭐⭐\nStun ⭐⭐",
+        "blights": "Iceblight",
+        "locations": "Hoarfrost Reach",
+        "info": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. Be careful, as this attack can freeze you as well.",
+        "hzv": {
+            "slash": "65",
+            "blunt": "70",
+            "shot": "55",
+            "fire": "35",
+            "water": "10",
+            "thunder": "25",
+            "ice": "0",
+            "dragon": "15"
+        }
+    }
+  },
+  {
+  "name": "fatalis",
+  "details": {
+      "aliases": [],
+      "title": "Fatalis",
+      "url": "https://monsterhunterworld.wiki.fextralife.com/Fatalis",
+      "description": "Elder Dragon",
+      "thumbnail": "https://monsterhunterworld.wiki.fextralife.com/file/Monster-Hunter-World/gthumbnails/mhwi-fatalis_icon.png",
+      "elements": "Fire ⭐⭐\nWater ⭐\nThunder ⭐\nIce ⭐\nDragon ⭐⭐⭐",
+      "ailments": "Poison ⭐\nSleep ⭐\nParalysis ⭐\nBlast ⭐\nStun :x:",
+      "blights": "Fireblight",
+      "locations": "Castle Schrade",
+      "info": "A legendary black dragon known only as Fatalis. Rumored to have destroyed a kingdom in a single night, and has taken its castle for a roost.",
+      "hzv": {
+          "slash": "75",
+          "blunt": "75",
+          "shot": "48",
+          "fire": "17",
+          "water": "5",
+          "thunder": "5",
+          "ice": "12",
+          "dragon": "25"
+      }
+    }
+}
+]
