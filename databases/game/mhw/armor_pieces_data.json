@@ -71126,5 +71126,200 @@
       }
     ],
     "crafting": "-"
+  },
+  "azureagehairalpha+": {
+    "name": "Azure Age Hair Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "head",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      },
+      {
+        "name": "Slinger Capacity",
+        "level": 3,
+        "description": "In addition, increases the loading capacity for all slinger ammo dropped by monsters."
+      }
+    ],
+    "crafting": "-"
+  },
+  "azureagehaorialpha+": {
+    "name": "Azure Age Haori Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "chest",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "slots": [
+      {
+        "rank": 4
+      }
+    ],
+    "skills": [
+      {
+        "name": "Focus",
+        "level": 1,
+        "description": "Increases gauge fill rate by 5% and reduces charge times by 5%."
+      },
+      {
+        "name": "Constitution",
+        "level": 2,
+        "description": "Reduces fixed stamina depletion by 20%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "azureagesleevealpha+": {
+    "name": "Azure Age Sleeve Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "gloves",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "slots": [
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      },
+      {
+        "name": "Focus",
+        "level": 2,
+        "description": "Increases gauge fill rate by 10% and reduces charge times by 10%."
+      }
+    ],
+    "crafting": "-"
+  },
+  "azureageobialpha+": {
+    "name": "Azure Age Obi Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "waist",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Water Attack",
+        "level": 3,
+        "description": "Water attack +100"
+      },
+      {
+        "name": "Slinger Capacity",
+        "level": 2,
+        "description": "In addition, increases the loading capacity for some slinger ammo dropped by monsters."
+      }
+    ],
+    "crafting": "-"
+  },
+  "azureagegetaalpha+": {
+    "name": "Azure Age Geta Alpha +",
+    "rank": "master",
+    "rarity": 12,
+    "type": "legs",
+    "defenses": {
+      "base": 170,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "ice": 0,
+      "thunder": 0,
+      "dragon": 3
+    },
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 1
+      }
+    ],
+    "skills": [
+      {
+        "name": "Weakness Exploit",
+        "level": 1,
+        "description": "Attacks that hit weak spots have 10% increased affinity, with an extra 5% on wounded parts."
+      },
+      {
+        "name": "Constitution",
+        "level": 2,
+        "description": "Reduces fixed stamina depletion by 20%."
+      }
+    ],
+    "crafting": "-"
   }
 }

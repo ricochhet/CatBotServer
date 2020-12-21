@@ -36863,5 +36863,149 @@
         "rank": 2
       }
     ]
+  },
+  "azureagealpha+": {
+    "name": "Azure Age Alpha +",
+    "rank": "master",
+    "setBonus": [
+      {
+        "name": "Silver Rathalos Essence",
+        "description": "Raises the maximum level of the Slinger Capacity skill.",
+        "pieces": 2
+      },
+      {
+        "name": "Silver Rathalos Essence",
+        "description": "Greatly increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits.",
+        "pieces": 4
+      }
+    ],
+    "defenses": {
+      "base": 850,
+      "max": 0,
+      "augmented": 0
+    },
+    "resistances": {
+      "fire": 10,
+      "water": 10,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 15
+    },
+    "pieces": [
+      {
+        "name": "Azure Age Hair Alpha +",
+        "type": "head"
+      },
+      {
+        "name": "Azure Age Haori Alpha +",
+        "type": "chest"
+      },
+      {
+        "name": "Azure Age Sleeve Alpha +",
+        "type": "gloves"
+      },
+      {
+        "name": "Azure Age Obi Alpha +",
+        "type": "waist"
+      },
+      {
+        "name": "Azure Age Geta Alpha +",
+        "type": "legs"
+      }
+    ],
+    "skills": [
+      {
+        "piece": "Azure Age Hair Alpha +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Azure Age Hair Alpha +",
+        "name": "Slinger Capacity",
+        "rank": 3
+      },
+      {
+        "piece": "Azure Age Haori Alpha +",
+        "name": "Focus",
+        "rank": 1
+      },
+      {
+        "piece": "Azure Age Haori Alpha +",
+        "name": "Constitution",
+        "rank": 2
+      },
+      {
+        "piece": "Azure Age Sleeve Alpha +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Azure Age Sleeve Alpha +",
+        "name": "Focus",
+        "rank": 2
+      },
+      {
+        "piece": "Azure Age Obi Alpha +",
+        "name": "Water Attack",
+        "rank": 3
+      },
+      {
+        "piece": "Azure Age Obi Alpha +",
+        "name": "Slinger Capacity",
+        "rank": 2
+      },
+      {
+        "piece": "Azure Age Geta Alpha +",
+        "name": "Weakness Exploit",
+        "rank": 1
+      },
+      {
+        "piece": "Azure Age Geta Alpha +",
+        "name": "Constitution",
+        "rank": 2
+      }
+    ],
+    "slots": [
+      {
+        "name": "Azure Age Hair Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Azure Age Haori Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Azure Age Sleeve Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Azure Age Sleeve Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Azure Age Sleeve Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Azure Age Obi Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Azure Age Obi Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Azure Age Obi Alpha +",
+        "rank": 1
+      },
+      {
+        "name": "Azure Age Geta Alpha +",
+        "rank": 4
+      },
+      {
+        "name": "Azure Age Geta Alpha +",
+        "rank": 1
+      }
+    ]
   }
 }

@@ -554,7 +554,7 @@ class Build {
 
       let damageType = '-';
       if (key.type) {
-        if (key.type == 'hammer') {
+        if (key.type == 'hammer' || key.type == 'hunting-horn') {
           damageType = 'blunt';
         } else if (
           key.type == 'light-bowgun' ||

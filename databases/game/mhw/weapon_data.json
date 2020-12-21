@@ -50355,7 +50355,7 @@
     "rarity": 1,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50396,7 +50396,7 @@
     "rarity": 3,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50437,7 +50437,7 @@
     "rarity": 5,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50478,7 +50478,7 @@
     "rarity": 6,
     "displayAttack": 882,
     "rawAttack": 210,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50519,7 +50519,7 @@
     "rarity": 7,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50560,7 +50560,7 @@
     "rarity": 1,
     "displayAttack": 336,
     "rawAttack": 80,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50596,7 +50596,7 @@
     "rarity": 1,
     "displayAttack": 378,
     "rawAttack": 90,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50632,7 +50632,7 @@
     "rarity": 2,
     "displayAttack": 420,
     "rawAttack": 100,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50676,7 +50676,7 @@
     "rarity": 3,
     "displayAttack": 462,
     "rawAttack": 110,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50720,7 +50720,7 @@
     "rarity": 4,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50768,7 +50768,7 @@
     "rarity": 5,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50821,7 +50821,7 @@
     "rarity": 6,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50878,7 +50878,7 @@
     "rarity": 6,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50938,7 +50938,7 @@
     "rarity": 9,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -50998,7 +50998,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51058,7 +51058,7 @@
     "rarity": 11,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51118,7 +51118,7 @@
     "rarity": 10,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 20,
     "defense": "-",
     "sharpness": {
@@ -51175,7 +51175,7 @@
     "rarity": 11,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -51232,7 +51232,7 @@
     "rarity": 7,
     "displayAttack": 840,
     "rawAttack": 200,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51289,7 +51289,7 @@
     "rarity": 8,
     "displayAttack": 882,
     "rawAttack": 210,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51346,7 +51346,7 @@
     "rarity": 12,
     "displayAttack": 1218,
     "rawAttack": 290,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51403,7 +51403,7 @@
     "rarity": 3,
     "displayAttack": 504,
     "rawAttack": 120,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51456,7 +51456,7 @@
     "rarity": 4,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51509,7 +51509,7 @@
     "rarity": 5,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51566,7 +51566,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51623,7 +51623,7 @@
     "rarity": 6,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51680,7 +51680,7 @@
     "rarity": 9,
     "displayAttack": 882,
     "rawAttack": 210,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51737,7 +51737,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51794,7 +51794,7 @@
     "rarity": 11,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51851,7 +51851,7 @@
     "rarity": 12,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -51908,7 +51908,7 @@
     "rarity": 2,
     "displayAttack": 420,
     "rawAttack": 100,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -51952,7 +51952,7 @@
     "rarity": 3,
     "displayAttack": 504,
     "rawAttack": 120,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -52000,7 +52000,7 @@
     "rarity": 4,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -52048,7 +52048,7 @@
     "rarity": 5,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52097,7 +52097,7 @@
     "rarity": 6,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52150,7 +52150,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52203,7 +52203,7 @@
     "rarity": 9,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52256,7 +52256,7 @@
     "rarity": 10,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52309,7 +52309,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -52362,7 +52362,7 @@
     "rarity": 10,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -52415,7 +52415,7 @@
     "rarity": 11,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -52468,7 +52468,7 @@
     "rarity": 11,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -30,
     "defense": "-",
     "sharpness": {
@@ -52521,7 +52521,7 @@
     "rarity": 12,
     "displayAttack": 1218,
     "rawAttack": 290,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -30,
     "defense": "-",
     "sharpness": {
@@ -52574,7 +52574,7 @@
     "rarity": 3,
     "displayAttack": 462,
     "rawAttack": 110,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -52623,7 +52623,7 @@
     "rarity": 5,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -52680,7 +52680,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52737,7 +52737,7 @@
     "rarity": 7,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52794,7 +52794,7 @@
     "rarity": 9,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52847,7 +52847,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52904,7 +52904,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 25,
     "defense": "-",
     "sharpness": {
@@ -52961,7 +52961,7 @@
     "rarity": 2,
     "displayAttack": 420,
     "rawAttack": 100,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53014,7 +53014,7 @@
     "rarity": 3,
     "displayAttack": 504,
     "rawAttack": 120,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53067,7 +53067,7 @@
     "rarity": 4,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53120,7 +53120,7 @@
     "rarity": 5,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53177,7 +53177,7 @@
     "rarity": 6,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53234,7 +53234,7 @@
     "rarity": 6,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53291,7 +53291,7 @@
     "rarity": 9,
     "displayAttack": 882,
     "rawAttack": 210,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53348,7 +53348,7 @@
     "rarity": 9,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53408,7 +53408,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53468,7 +53468,7 @@
     "rarity": 10,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -53521,7 +53521,7 @@
     "rarity": 10,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -53574,7 +53574,7 @@
     "rarity": 11,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 20,
     "defense": "-",
     "sharpness": {
@@ -53627,7 +53627,7 @@
     "rarity": 4,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53676,7 +53676,7 @@
     "rarity": 5,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53729,7 +53729,7 @@
     "rarity": 6,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53782,7 +53782,7 @@
     "rarity": 7,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53835,7 +53835,7 @@
     "rarity": 10,
     "displayAttack": 882,
     "rawAttack": 210,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53888,7 +53888,7 @@
     "rarity": 10,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53941,7 +53941,7 @@
     "rarity": 11,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -53994,7 +53994,7 @@
     "rarity": 1,
     "displayAttack": 420,
     "rawAttack": 100,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54030,7 +54030,7 @@
     "rarity": 1,
     "displayAttack": 462,
     "rawAttack": 110,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54066,7 +54066,7 @@
     "rarity": 2,
     "displayAttack": 504,
     "rawAttack": 120,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54106,7 +54106,7 @@
     "rarity": 3,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54150,7 +54150,7 @@
     "rarity": 4,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54194,7 +54194,7 @@
     "rarity": 5,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54247,7 +54247,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 10,
     "sharpness": {
@@ -54300,7 +54300,7 @@
     "rarity": 6,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 10,
     "sharpness": {
@@ -54357,7 +54357,7 @@
     "rarity": 9,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 35,
     "sharpness": {
@@ -54414,7 +54414,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 35,
     "sharpness": {
@@ -54471,7 +54471,7 @@
     "rarity": 11,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 35,
     "sharpness": {
@@ -54528,7 +54528,7 @@
     "rarity": 11,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54585,7 +54585,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54642,7 +54642,7 @@
     "rarity": 6,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54698,7 +54698,7 @@
     "rarity": 7,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54758,7 +54758,7 @@
     "rarity": 9,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54818,7 +54818,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54878,7 +54878,7 @@
     "rarity": 10,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54935,7 +54935,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -54992,7 +54992,7 @@
     "rarity": 11,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55049,7 +55049,7 @@
     "rarity": 3,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -55098,7 +55098,7 @@
     "rarity": 4,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -55151,7 +55151,7 @@
     "rarity": 5,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -55204,7 +55204,7 @@
     "rarity": 6,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -55257,7 +55257,7 @@
     "rarity": 6,
     "displayAttack": 882,
     "rawAttack": 210,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -55310,7 +55310,7 @@
     "rarity": 9,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -55363,7 +55363,7 @@
     "rarity": 10,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": "-",
     "sharpness": {
@@ -55416,7 +55416,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -55469,7 +55469,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 20,
     "defense": "-",
     "sharpness": {
@@ -55526,7 +55526,7 @@
     "rarity": 10,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55583,7 +55583,7 @@
     "rarity": 11,
     "displayAttack": 1218,
     "rawAttack": 290,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55640,7 +55640,7 @@
     "rarity": 2,
     "displayAttack": 504,
     "rawAttack": 120,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55689,7 +55689,7 @@
     "rarity": 3,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55742,7 +55742,7 @@
     "rarity": 4,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55795,7 +55795,7 @@
     "rarity": 5,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55855,7 +55855,7 @@
     "rarity": 6,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55915,7 +55915,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -55975,7 +55975,7 @@
     "rarity": 9,
     "displayAttack": 840,
     "rawAttack": 200,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -56035,7 +56035,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -56095,7 +56095,7 @@
     "rarity": 10,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 20,
     "defense": "-",
     "sharpness": {
@@ -56148,7 +56148,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 30,
     "defense": "-",
     "sharpness": {
@@ -56205,7 +56205,7 @@
     "rarity": 11,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -56258,7 +56258,7 @@
     "rarity": 3,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -56302,7 +56302,7 @@
     "rarity": 4,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -56350,7 +56350,7 @@
     "rarity": 5,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -56410,7 +56410,7 @@
     "rarity": 6,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -56470,7 +56470,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -56530,7 +56530,7 @@
     "rarity": 9,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -56590,7 +56590,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -56650,7 +56650,7 @@
     "rarity": 9,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -56707,7 +56707,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -56764,7 +56764,7 @@
     "rarity": 6,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -10,
     "defense": "-",
     "sharpness": {
@@ -56824,7 +56824,7 @@
     "rarity": 8,
     "displayAttack": 840,
     "rawAttack": 200,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -10,
     "defense": "-",
     "sharpness": {
@@ -56884,7 +56884,7 @@
     "rarity": 11,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -10,
     "defense": "-",
     "sharpness": {
@@ -56944,7 +56944,7 @@
     "rarity": 12,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -10,
     "defense": "-",
     "sharpness": {
@@ -57004,7 +57004,7 @@
     "rarity": 2,
     "displayAttack": 462,
     "rawAttack": 110,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57053,7 +57053,7 @@
     "rarity": 3,
     "displayAttack": 504,
     "rawAttack": 120,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57106,7 +57106,7 @@
     "rarity": 4,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57159,7 +57159,7 @@
     "rarity": 5,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57219,7 +57219,7 @@
     "rarity": 6,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57279,7 +57279,7 @@
     "rarity": 7,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57339,7 +57339,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57399,7 +57399,7 @@
     "rarity": 11,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57459,7 +57459,7 @@
     "rarity": 3,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 15,
     "sharpness": {
@@ -57508,7 +57508,7 @@
     "rarity": 4,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 15,
     "sharpness": {
@@ -57561,7 +57561,7 @@
     "rarity": 5,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -57614,7 +57614,7 @@
     "rarity": 6,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -57667,7 +57667,7 @@
     "rarity": 6,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -57720,7 +57720,7 @@
     "rarity": 9,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 35,
     "sharpness": {
@@ -57773,7 +57773,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 35,
     "sharpness": {
@@ -57826,7 +57826,7 @@
     "rarity": 10,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57883,7 +57883,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57940,7 +57940,7 @@
     "rarity": 3,
     "displayAttack": 420,
     "rawAttack": 100,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -57993,7 +57993,7 @@
     "rarity": 4,
     "displayAttack": 462,
     "rawAttack": 110,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58042,7 +58042,7 @@
     "rarity": 6,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58102,7 +58102,7 @@
     "rarity": 10,
     "displayAttack": 882,
     "rawAttack": 210,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58162,7 +58162,7 @@
     "rarity": 11,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58222,7 +58222,7 @@
     "rarity": 12,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 30,
     "sharpness": {
@@ -58282,7 +58282,7 @@
     "rarity": 4,
     "displayAttack": 504,
     "rawAttack": 120,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58335,7 +58335,7 @@
     "rarity": 6,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58388,7 +58388,7 @@
     "rarity": 7,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58441,7 +58441,7 @@
     "rarity": 11,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58494,7 +58494,7 @@
     "rarity": 11,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -58551,7 +58551,7 @@
     "rarity": 5,
     "displayAttack": 420,
     "rawAttack": 100,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58604,7 +58604,7 @@
     "rarity": 6,
     "displayAttack": 462,
     "rawAttack": 110,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58657,7 +58657,7 @@
     "rarity": 7,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58710,7 +58710,7 @@
     "rarity": 8,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -58763,7 +58763,7 @@
     "rarity": 11,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -58816,7 +58816,7 @@
     "rarity": 8,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -58876,7 +58876,7 @@
     "rarity": 6,
     "displayAttack": 840,
     "rawAttack": 200,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -30,
     "defense": "-",
     "sharpness": {
@@ -58929,7 +58929,7 @@
     "rarity": 7,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -30,
     "defense": "-",
     "sharpness": {
@@ -58982,7 +58982,7 @@
     "rarity": 12,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -30,
     "defense": "-",
     "sharpness": {
@@ -59035,7 +59035,7 @@
     "rarity": 7,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -59092,7 +59092,7 @@
     "rarity": 8,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 20,
     "defense": "-",
     "sharpness": {
@@ -59149,7 +59149,7 @@
     "rarity": 12,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 20,
     "defense": "-",
     "sharpness": {
@@ -59209,7 +59209,7 @@
     "rarity": 8,
     "displayAttack": 840,
     "rawAttack": 200,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -59266,7 +59266,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -59326,7 +59326,7 @@
     "rarity": 8,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -59386,7 +59386,7 @@
     "rarity": 12,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -59446,7 +59446,7 @@
     "rarity": 11,
     "displayAttack": 1218,
     "rawAttack": 290,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -15,
     "defense": "-",
     "sharpness": {
@@ -59503,7 +59503,7 @@
     "rarity": 12,
     "displayAttack": 1302,
     "rawAttack": 310,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -15,
     "defense": "-",
     "sharpness": {
@@ -59560,7 +59560,7 @@
     "rarity": 12,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -59613,7 +59613,7 @@
     "rarity": 11,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -59670,7 +59670,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -59727,7 +59727,7 @@
     "rarity": 12,
     "displayAttack": 1260,
     "rawAttack": 300,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -59787,7 +59787,7 @@
     "rarity": 11,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -59844,7 +59844,7 @@
     "rarity": 12,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": "-",
     "sharpness": {
@@ -59904,7 +59904,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 30,
     "sharpness": {
@@ -59961,7 +59961,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": 30,
     "sharpness": {
@@ -166679,7 +166679,7 @@
     "rarity": 6,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -166715,7 +166715,7 @@
     "rarity": 6,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -166751,7 +166751,7 @@
     "rarity": 6,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -166787,7 +166787,7 @@
     "rarity": 6,
     "displayAttack": 546,
     "rawAttack": 130,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 30,
     "defense": 20,
     "sharpness": {
@@ -166823,7 +166823,7 @@
     "rarity": 6,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 35,
     "defense": 20,
     "sharpness": {
@@ -166859,7 +166859,7 @@
     "rarity": 6,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -166899,7 +166899,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": 20,
     "sharpness": {
@@ -166935,7 +166935,7 @@
     "rarity": 6,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -166971,7 +166971,7 @@
     "rarity": 6,
     "displayAttack": 588,
     "rawAttack": 140,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -167007,7 +167007,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 30,
     "sharpness": {
@@ -167043,7 +167043,7 @@
     "rarity": 6,
     "displayAttack": 504,
     "rawAttack": 120,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -167079,7 +167079,7 @@
     "rarity": 6,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -167115,7 +167115,7 @@
     "rarity": 7,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 30,
     "defense": 20,
     "sharpness": {
@@ -167151,7 +167151,7 @@
     "rarity": 7,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 35,
     "defense": 20,
     "sharpness": {
@@ -167187,7 +167187,7 @@
     "rarity": 7,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -167227,7 +167227,7 @@
     "rarity": 7,
     "displayAttack": 840,
     "rawAttack": 200,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": 20,
     "sharpness": {
@@ -167263,7 +167263,7 @@
     "rarity": 7,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -167299,7 +167299,7 @@
     "rarity": 7,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -167335,7 +167335,7 @@
     "rarity": 7,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 30,
     "sharpness": {
@@ -167371,7 +167371,7 @@
     "rarity": 7,
     "displayAttack": 630,
     "rawAttack": 150,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -167407,7 +167407,7 @@
     "rarity": 7,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -167443,7 +167443,7 @@
     "rarity": 8,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -167483,7 +167483,7 @@
     "rarity": 8,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -167523,7 +167523,7 @@
     "rarity": 8,
     "displayAttack": 840,
     "rawAttack": 200,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -167563,7 +167563,7 @@
     "rarity": 8,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 20,
     "sharpness": {
@@ -167603,7 +167603,7 @@
     "rarity": 8,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -167643,7 +167643,7 @@
     "rarity": 8,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -167683,7 +167683,7 @@
     "rarity": 8,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -167719,7 +167719,7 @@
     "rarity": 8,
     "displayAttack": 798,
     "rawAttack": 190,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -167759,7 +167759,7 @@
     "rarity": 8,
     "displayAttack": 672,
     "rawAttack": 160,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -167795,7 +167795,7 @@
     "rarity": 8,
     "displayAttack": 714,
     "rawAttack": 170,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": "-",
     "sharpness": {
@@ -167835,7 +167835,7 @@
     "rarity": 8,
     "displayAttack": 756,
     "rawAttack": 180,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": "-",
     "sharpness": {
@@ -167871,7 +167871,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 40,
     "sharpness": {
@@ -167907,7 +167907,7 @@
     "rarity": 10,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -167943,7 +167943,7 @@
     "rarity": 10,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -167979,7 +167979,7 @@
     "rarity": 10,
     "displayAttack": 924,
     "rawAttack": 220,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 30,
     "defense": 40,
     "sharpness": {
@@ -168015,7 +168015,7 @@
     "rarity": 10,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 35,
     "defense": 40,
     "sharpness": {
@@ -168051,7 +168051,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168091,7 +168091,7 @@
     "rarity": 10,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": 40,
     "sharpness": {
@@ -168127,7 +168127,7 @@
     "rarity": 10,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 40,
     "sharpness": {
@@ -168163,7 +168163,7 @@
     "rarity": 10,
     "displayAttack": 966,
     "rawAttack": 230,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168199,7 +168199,7 @@
     "rarity": 10,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 50,
     "sharpness": {
@@ -168235,7 +168235,7 @@
     "rarity": 10,
     "displayAttack": 882,
     "rawAttack": 210,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168271,7 +168271,7 @@
     "rarity": 10,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 40,
     "sharpness": {
@@ -168307,7 +168307,7 @@
     "rarity": 11,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 30,
     "defense": 40,
     "sharpness": {
@@ -168343,7 +168343,7 @@
     "rarity": 11,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 35,
     "defense": 40,
     "sharpness": {
@@ -168379,7 +168379,7 @@
     "rarity": 11,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168419,7 +168419,7 @@
     "rarity": 11,
     "displayAttack": 1218,
     "rawAttack": 290,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": -20,
     "defense": 40,
     "sharpness": {
@@ -168455,7 +168455,7 @@
     "rarity": 11,
     "displayAttack": 1092,
     "rawAttack": 260,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 40,
     "sharpness": {
@@ -168491,7 +168491,7 @@
     "rarity": 11,
     "displayAttack": 1050,
     "rawAttack": 250,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168527,7 +168527,7 @@
     "rarity": 11,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 50,
     "sharpness": {
@@ -168563,7 +168563,7 @@
     "rarity": 11,
     "displayAttack": 1008,
     "rawAttack": 240,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168599,7 +168599,7 @@
     "rarity": 11,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 40,
     "sharpness": {
@@ -168635,7 +168635,7 @@
     "rarity": 12,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 40,
     "sharpness": {
@@ -168675,7 +168675,7 @@
     "rarity": 12,
     "displayAttack": 1218,
     "rawAttack": 290,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168715,7 +168715,7 @@
     "rarity": 12,
     "displayAttack": 1302,
     "rawAttack": 310,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168755,7 +168755,7 @@
     "rarity": 12,
     "displayAttack": 1260,
     "rawAttack": 300,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": "-",
     "defense": 40,
     "sharpness": {
@@ -168795,7 +168795,7 @@
     "rarity": 12,
     "displayAttack": 1260,
     "rawAttack": 300,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -168835,7 +168835,7 @@
     "rarity": 12,
     "displayAttack": 1260,
     "rawAttack": 300,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": 20,
     "sharpness": {
@@ -168875,7 +168875,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -168911,7 +168911,7 @@
     "rarity": 12,
     "displayAttack": 1260,
     "rawAttack": 300,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": 20,
     "sharpness": {
@@ -168951,7 +168951,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -168987,7 +168987,7 @@
     "rarity": 12,
     "displayAttack": 1176,
     "rawAttack": 280,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 15,
     "defense": 20,
     "sharpness": {
@@ -169027,7 +169027,7 @@
     "rarity": 12,
     "displayAttack": 1218,
     "rawAttack": 290,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 10,
     "defense": 20,
     "sharpness": {
@@ -196803,7 +196803,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -196843,7 +196843,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -196883,7 +196883,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -196923,7 +196923,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -196963,7 +196963,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -197003,7 +197003,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -197043,7 +197043,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -197083,7 +197083,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
@@ -197123,7 +197123,7 @@
     "rarity": 12,
     "displayAttack": 1134,
     "rawAttack": 270,
-    "damageType": "sever",
+    "damageType": "blunt",
     "affinity": 5,
     "defense": "-",
     "sharpness": {
