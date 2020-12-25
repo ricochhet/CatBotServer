@@ -24,6 +24,6 @@ def json_to_file(path, content):
 
 
 def update_db_data(path, content):
-    final_path = DB_PATH.joinpath(f"Discord/{path}")
+    final_path = DB_PATH.joinpath(f"discord/{path}")
     json_to_file(final_path, content)
     return {"message": "Update was successful"}
