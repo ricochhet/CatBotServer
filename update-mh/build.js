@@ -14,8 +14,44 @@ class Build {
     return response.json();
   }
 
-  async weapons(writeTo, sourceDir) {
+  async monsters(writeTo, sourceDir) {
+    const monster_data = require(`${sourceDir}/monsters/monsters.json`);
+    const original_monster_data = require(`${sourceDir}/monsters/monster_data.old.json`);
 
+    const monster_data_map = new Map();
+    const object = [];
+
+    for (const i in monster_data) {
+      monster_data_map.set(monster_data[i]['name'], monster_data[i]);
+    }
+
+    for (const i in original_monster_data) {
+      const data = monster_data_map.get(original_monster_data[i]['details']['title']);
+
+      original_monster_data[i]['details'] = {
+        aliases: original_monster_data[i]['details']['aliases'],
+        title: original_monster_data[i]['details']['title'],
+        species: data['species'],
+        icon: `./source_files/MonsterDataImages/assets/mhw/monster/assets/icons/${data['name'].split(" ").join("_")}_Icon.webp`,
+        filename: `${data['name'].split(" ").join("_")}_Icon.webp`,
+        description: data['description'],
+        useful_info: data['useful_info'],
+        elements: data['elements'],
+        ailments: data['ailments'],
+        resistances: data['resistances'],
+        threat_level: data['threat-level'],
+        weakness: data['weakness'],
+        locations: data['locations'],
+        hzv: original_monster_data[i]['details']['hzv']
+      };
+
+      object.push(original_monster_data[i]);
+    }
+
+    dataUtils.writeFile(writeTo, object);
+  }
+
+  async weapons(writeTo, sourceDir) {
     const weapon_base = require(`${sourceDir}/weapons/weapon_base.json`);
     const weapon_ammo = require(`${sourceDir}/weapons/weapon_ammo.json`);
     const weapon_bow_ext = require(`${sourceDir}/weapons/weapon_bow_ext.json`);
