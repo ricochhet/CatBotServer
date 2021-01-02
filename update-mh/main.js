@@ -13,7 +13,7 @@ cmd.command(['--convert'], function () {
 });
 
 cmd.command(['--build'], function () {
-  child_process('python', ['./update-mh/main.py']);
+  // child_process('python', ['./update-mh/main.py']);
 
   // This shouldn't be needed again, but it's here just in case
   build.monsters('./databases/Game/MHW/monster_data.json', './source/json');
