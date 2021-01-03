@@ -30,10 +30,11 @@ class Build {
       monster.details = {
         ...monster.details,
         ...data,
-        filename: `${data.name.split(" ").join('_')}_Icon.webp`,
+        filename: `${data.name.split(" ").join('_')}_Icon.webp`
       }
 
       monster.details.icon = `./source_files/MonsterDataImages/assets/mhw/monster/assets/icons/${monster.details.filename}`
+      monster.details.threat_level = monster.details['threat-level'] == 'none' ? undefined : monster.details['threat-level']
 
       delete monster.details.name
       delete monster.details['threat-level']
