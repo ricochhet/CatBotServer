@@ -14,8 +14,40 @@ class Build {
     return response.json();
   }
 
-  async weapons(writeTo, sourceDir) {
+  async monsters(writeTo, sourceDir) {
+    const monster_data = require(`${sourceDir}/monsters/monsters.json`);
+    const original_monster_data = require(`${sourceDir}/monsters/monster_data.old.json`);
 
+    const monster_data_map = new Map();
+
+    for (const i in monster_data) {
+      monster_data_map.set(monster_data[i]['name'], monster_data[i]);
+    }
+
+    const object = original_monster_data.map( monster => {
+      const data = monster_data_map.get( monster.details.title )
+
+      monster.details = {
+        ...monster.details,
+        ...data,
+        filename: `${data.name.split(" ").join('_')}_Icon.webp`
+      }
+
+      monster.details.icon = `./source_files/MonsterDataImages/assets/mhw/monster/assets/icons/${monster.details.filename}`
+      monster.details.threat_level = monster.details['threat-level'] == 'none' ? undefined : monster.details['threat-level']
+
+      delete monster.details.name
+      delete monster.details['threat-level']
+      delete monster.details.render
+      delete monster.details.blights
+
+      return monster
+    } )
+
+    dataUtils.writeFile(writeTo, object);
+  }
+
+  async weapons(writeTo, sourceDir) {
     const weapon_base = require(`${sourceDir}/weapons/weapon_base.json`);
     const weapon_ammo = require(`${sourceDir}/weapons/weapon_ammo.json`);
     const weapon_bow_ext = require(`${sourceDir}/weapons/weapon_bow_ext.json`);

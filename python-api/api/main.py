@@ -42,7 +42,7 @@ async def get_catfacts():
 @app.get("/api/db/{file_path:path}")
 async def get_bot_data(file_path: str):
     try:
-        print(f"discord/{file_path}.json")
+        # print(f"discord/{file_path}.json")
         return json_from_file(f"discord/{file_path}.json")
     except FileNotFoundError:
         raise HTTPException(

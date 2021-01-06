@@ -1,0 +1,1655 @@
+[{
+    "name": "Acidic Glavenus",
+    "render": "color/render/acidic_glavenus.png",
+    "icon": "color/icon/acidic_glavenus_icon.png",
+    "species": "Brute Wyvern",
+    "description": "A subspecies of Glavenus found in the Rotten Vale. A corrosive fluid has crystallized on its tail, spraying acid with each swing.",
+    "useful_info": "The acid on its tail will lower a hunter's defenses on contact, and spreads with time, increasing the range of its spray. Scrape it off and the tail blade only grows sharper.",
+    "elements": ["None"],
+    "ailments": ["Defense Down"],
+    "resistances": ["None"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Dragon (⭐⭐)", "Dragon-(Crystalized) (⭐)", "Thunder (⭐⭐)", "Water (⭐)", "Ice (⭐)", "Blast (⭐⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "Rotted Region",
+      "color": "0xBF5726",
+      "tempered": true
+    }]
+  },
+
+  {
+    "name": "Ancient Leshen",
+    "render": "color/render/ancient_leshen.png",
+    "icon": "color/icon/ancient_leshen_icon.png",
+    "species": "Relict",
+    "description": "An old Leshen that arrived through a portal to assume control over the Ancient Forest. Sometimes revered as an indigenous deity.",
+    "useful_info": "Ancient Leshens use their wisdom and tactical knowledge to curse hunters and send packs of wild Jagras after them.",
+    "elements": ["None"],
+    "ailments": ["Bleeding"],
+    "resistances": ["Water", "Sleep"],
+    "threat-level": "none",
+    "weakness": ["Fire (⭐⭐⭐)", "Dragon (⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐)", "Poison (⭐⭐)", "Paralysis (⭐)", "Blast (⭐)", "Stun (⭐)"],
+    "locations": [{
+      "name": "Ancient Forest",
+      "color": "0x1E9E47"
+    }]
+  },
+
+  {
+    "name": "Anjanath",
+    "render": "color/render/anjanath.png",
+    "icon": "color/icon/anjanath_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "The Anjanath patrols the Ancient Forest looking for its favorite meal, Aptonoth. This belligerent monster will attack anything without hesitation.",
+    "useful_info": "Anjanath spits fiery blasts from its mouth utilizing a unique organ in its throat. Focusing attacks on its throat will make battling it much easier.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Poison (⭐⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)", "Blast (⭐)", "Stun (⭐⭐)"],
+
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      }
+    ]
+  },
+
+  {
+    "name": "Azure Rathalos",
+    "render": "color/render/azure_rathalos.png",
+    "icon": "color/icon/azure_rathalos_icon.png",
+    "species": "Flying Wyvern",
+    "description": "An azure colored subspecies of Rathalos. More mobile than their standard cousins, they locate prey from the air and quickly swoop in for the kill.",
+    "useful_info": "Counter its airborne onslaught by observing its flight patterns and finding the right moment to knock it out of the sky. Once grounded, it loses its ability to perform consecutive attacks, making the fight much easier.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Poison", "Stun"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Dragon (⭐⭐⭐)", "Ice (⭐⭐)", "Water (⭐)", "Thunder (⭐)", "Poison (⭐)", "Blast (⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      }
+    ]
+  },
+
+  {
+    "name": "Banbaro",
+    "render": "color/render/banbaro.png",
+    "icon": "color/icon/banbaro_icon.png",
+    "species": "Brute Wyvern",
+    "description": "A monster marked by its furious charge and by the majestic twin horns that uproot trees and gouge at the earth as it runs.",
+    "useful_info": "Blows to the Banbaro's legs are an effective counter to its deadly charge. Hunters have also reported that firing scatternuts or crystalburst mid-charge can halt the beast.",
+    "elements": ["Ice"],
+    "ailments": ["Iceblight in hoarfrost reach", "Waterblight in coral highlands", "Fireblight in elder's recess"],
+    "resistances": ["Ice", "Water"],
+    "threat-level": "🔥",
+    "weakness": ["Dragon (⭐⭐⭐)", "Fire (⭐⭐)", "Thunder (⭐)", "Blast (⭐⭐⭐)", "Stun (⭐⭐⭐)", "Poison (⭐⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB"
+      }
+    ]
+  },
+
+  {
+    "name": "Barioth",
+    "render": "color/render/barioth.png",
+    "icon": "color/icon/barioth_icon.png",
+    "species": "Flying Wyvern",
+    "description": "The snow white flying wyvern with huge tusks found in the frozen tundra. It uses its forelegs and tail to traverse ice with ease.",
+    "useful_info": "Break its tail, or especially its forelegs to mitigate both its offense and its mobility. The monster's hide is extremely tough, but fire elemental attacks should prove effective.",
+    "elements": ["Ice"],
+    "ailments": ["Iceblight"],
+    "resistances": ["Ice", "Water"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Thunder (⭐⭐)", "Dragon (⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)", "Poison (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "Tundra Region",
+      "color": "0x8ABEEB",
+      "tempered": true
+    }]
+  },
+
+  {
+    "name": "Barroth",
+    "render": "color/render/barroth.png",
+    "icon": "color/icon/barroth_icon.png",
+    "species": "Brute Wyvern",
+    "description": "Barroth seek out ants, their favorite snack, and mark their territory with mud. They attack potential rivals with their devastating charging attack.",
+    "useful_info": "While it uses hardened mud as armor, Barroth can also fling it off its body as an attack. Use water element weapons or your slinger to gradually knock off its mud.",
+    "elements": ["None"],
+    "ailments": ["Waterblight"],
+    "resistances": ["Thunder", "Fire with mud", "Water with no mud"],
+    "threat-level": "🔥",
+    "weakness": ["Water-(Mud) (⭐⭐⭐)", "Fire (⭐⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Paralysis (⭐⭐⭐)", "Blast (⭐⭐⭐)", "Sleep (⭐⭐)", "Stun (⭐)"],
+    "locations": [{
+        "name": "Wildspire Waste",
+        "color": "0xF2A22C",
+        "icon": "localeWaste.png",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Bazelgeuse",
+    "render": "color/render/bazelgeuse.png",
+    "icon": "color/icon/bazelgeuse_icon.png",
+    "species": "Flying Wyvern",
+    "description": "A nefarious flying wyvern that travels the New World in search of prey. It scatters explosive scales over a wide area to prey on whatever gets caught in the blast.",
+    "useful_info": "The scales that Bazelgeuse scatters explode with tremendous force, making them extremely deadly. Focus on its legs to knock it down, and then knock out its scale-generating organs.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Dragon (⭐⭐)", "Ice (⭐⭐)", "Water (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐)", "Stun (⭐)"],
+    "locations": [{
+        "name": "Ancient Forest",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Waste",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotten Vale",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Highlands",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Elder's Recess",
+        "color": "0xED512F"
+      }
+    ]
+  },
+
+  {
+    "name": "Behemoth",
+    "render": "color/render/behemoth.png",
+    "icon": "color/icon/behemoth_icon.png",
+    "species": "Elder Dragon",
+    "description": "A powerful beast from another world. Its large horns and muscular frame defy nature. Unique strategies are required to battle it.",
+    "useful_info": "Cannot be fought alone; a combination of a healer, attack, and an instigator are required. When Ecliptic Meteor is summoned, take cover behind a fallen Comet or face your fate.",
+    "elements": ["Fire", "Thunder"],
+    "ailments": ["Bleeding", "Fireblight", "Thunderblight"],
+    "resistances": ["None"],
+    "threat-level": "none",
+    "weakness": ["Dragon (⭐⭐⭐)", "Ice (⭐⭐)", "Water (⭐⭐)", "Thunder (⭐)", "Fire (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "Elder's Recess",
+      "color": "0xED512F"
+    }]
+  },
+
+  {
+    "name": "Beotodus",
+    "render": "color/render/beotodus.png",
+    "icon": "color/icon/beotodus_icon.png",
+    "species": "Piscine Wyvern",
+    "description": "This piscine monster's wedge-shaped head allows it to freely swim through the tundra snow. Frequently seen flinging snow at prey.",
+    "useful_info": "Stripping the snow packed on its body will force the monster out into the open. Firing screamer pods can provide an opening to attack: focus on its leg fins to weaken it.",
+    "elements": ["Ice"],
+    "ailments": ["Iceblight"],
+    "resistances": ["Ice", "Dragon"],
+    "threat-level": "🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Thunder (⭐⭐)", "Water (⭐)", "Blast (⭐⭐⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)", "Poison (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "Hoarfrost Reach",
+      "color": "0x8ABEEB"
+    }]
+  },
+
+  {
+    "name": "Black Diablos",
+    "render": "color/render/black_diablos.png",
+    "icon": "color/icon/black_diablos_icon.png",
+    "species": "Flying Wyvern",
+    "description": "These black-shelled Diablos are actually female Diablos in heat. The color signals their aggressiveness and heightened hostility to other creatures in their habitat.",
+    "useful_info": "Diablos are much more aggressive against intruders when in heat, and are known to attack enemies in retreat. Do not let your guard down even if you think you've established a safe distance from these monsters.",
+    "elements": ["None"],
+    "ailments": ["None"],
+    "resistances": ["Fire", "Dragon"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Water (⭐⭐)", "Thunder (⭐)", "Paralysis (⭐⭐⭐)", "Stun (⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)", "Blast (⭐⭐)"],
+    "locations": [{
+        "name": "Wildspire Region",
+        "color": "0xF2A22C",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Blackveil Vaal Hazak",
+    "render": "color/render/blackveil_vaal_hazak.png",
+    "icon": "color/icon/blackveil_vaal_hazak_icon.png",
+    "species": "Elder Dragon",
+    "description": "A Vaal Hazak variant encrusted with spores that spew a torrent of toxic effluvium at any who draw close.",
+    "useful_info": "Damaging areas densely covered by spores appears to dull their activity as a whole. They also shield the monster from light: break the head to make flash pods work.",
+    "elements": ["None"],
+    "ailments": ["Effluvia"],
+    "resistances": ["Water"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Fire (⭐⭐)", "Dragon (⭐⭐)", "Ice (⭐)", "Thunder (⭐)", "Blast (⭐⭐)", "Poison (⭐)", "Paralysis (⭐)", "Sleep (⭐)", "Stun (⭐)"],
+    "locations": [{
+        "name": "Rotted Region",
+        "color": "0xBF5726",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Brachydios",
+    "render": "color/render/brachydios.png",
+    "icon": "color/icon/brachydios_icon.png",
+    "species": "Brute Wyvern",
+    "description": "This marine blue brute wyvern uses its saliva to prime the sticky slime coating its massive arms, rendering it highly explosive.",
+    "useful_info": "Its scalp secretes a thick slime capable of tripping hunters who step in it. Water will dilute it, however, making water and ice attacks to its head and arms effective.",
+    "elements": ["None"],
+    "ailments": ["Blastscourge"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Water (⭐⭐)", "Thunder (⭐)", "Dragon (⭐)", "Blast (⭐)", "Poison (⭐⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Volcanic Region",
+        "color": "0xED512F",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Brute Tigrex",
+    "render": "color/render/brute_tigrex.png",
+    "icon": "color/icon/brute_tigrex_icon.png",
+    "species": "Flying Wyvern",
+    "description": "Blackish brown scales and a stronger roar set this Tigrex subspecies apart. Extremely aggressive, even by Tigrex standards.",
+    "useful_info": "As with its standard cousins, it will tire after repeated charges, so attempt to bait them out. Breaking its head is an effective way to weaken the monster's roar.",
+    "elements": ["None"],
+    "ailments": ["Fireblight", "Waterblight"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐)", "Dragon (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Rotted Region",
+        "color": "0xBF5726",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Coral Pukei-Pukei",
+    "render": "color/render/coral_pukei-pukei.png",
+    "icon": "color/icon/coral_pukei-pukei_icon.png",
+    "species": "Bird Wyvern",
+    "description": "A bird wyvern that stockpiles water inside its body, fortified by the plant life it consumes. When threatened, it can expel a powerful stream from its mouth or tail.",
+    "useful_info": "After feeding, the water attacks from both ends are enhanced: focus on those two areas to weaken the creature again. Cowardly by nature, it refuses to eat around a predator.",
+    "elements": ["Water"],
+    "ailments": ["Waterblight"],
+    "resistances": ["Water"],
+    "threat-level": "🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Thunder (⭐⭐)", "Fire (⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Coral Region",
+        "color": "0x86E0D4",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Deviljho",
+    "render": "color/render/deviljho.png",
+    "icon": "color/icon/deviljho_icon.png",
+    "species": "Brute Wyvern",
+    "description": "Due to its enhanced metabolism, Deviljho must constantly seek out prey. It is extremely violent, and known to snatch up large monsters in its powerful maw and flail them around.",
+    "useful_info": "When enraged, Deviljho's swollen muscles glow a hellish red. It will start spewing a sweeping dragon element attack, so watch your distance. Deviljho stays on the attack even when wounded, but don't give up; keep fighting and you'll come out on top.",
+    "elements": ["Dragon"],
+    "ailments": ["Dragonblight", "Defense Down", "Fireblight On Lava Terrain", "Iceblight On Icy Terrain", "Waterblight On Water Terrain", "Effluvial Buildup (In Rotten Vale)"],
+    "resistances": ["None"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Dragon (⭐⭐⭐)", "Fire (⭐⭐)", "Water (⭐⭐)", "Ice (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Blast (⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Ancient Forest",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Waste",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotten Vale",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Highlands",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Elder's Recess",
+        "color": "0xED512F"
+      }
+    ]
+  },
+
+  {
+    "name": "Diablos",
+    "render": "color/render/diablos.png",
+    "icon": "color/icon/diablos_icon.png",
+    "species": "Flying Wyvern",
+    "description": "The apex monster of the Wildspire Waste. A menacing, territorial beast that lurks underground. Loud noises will cause it to lunge out of the sand in search of prey.",
+    "useful_info": "Diablos can be forcibly brought to the surface by using loud sounds. And its charging attack, while devastatingly powerful, can be baited into colliding with a wildespire, momentarily getting the Diablos stuck.",
+    "elements": ["None"],
+    "ailments": ["Stun"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Dragon (⭐⭐)", "Water (⭐⭐)", "Thunder (⭐)", "Paralysis (⭐⭐⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐)"],
+    "locations": [{
+        "name": "Wildspire Region",
+        "color": "0xF2A22C",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Dodogama",
+    "render": "color/render/dodogama.png",
+    "icon": "color/icon/dodogama_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "A monster that devours rocks as its primary diet. The crystal it devours mix with its saliva to produce explosive minerals that it can spit at its enemies.",
+    "useful_info": "Dodogama collects explosive minerals in its mouth, but doing so weakens its massive jaw. Causing the minerals to detonate while they're still in Dodogama's mouth will create a great opening for an attack.",
+    "elements": ["Fire"],
+    "ailments": ["Blastblight"],
+    "resistances": ["Fire"],
+    "threat-level": "none",
+    "weakness": ["Thunder (⭐⭐⭐)", "Water (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)", "Blast (⭐)"],
+    "locations": [{
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Ebony Odogaron",
+    "render": "color/render/ebony_odogaron.png",
+    "icon": "color/icon/ebony_odogaron_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "This Odogaron subspecies is forever on the prowl for its next meal, and is often seen carrying fresh kills in its mouth. Reports indicate it goes into a frenzy upon eating",
+    "useful_info": "When frenzied, it uses dragon elemental attacks, but hunters can hit its head with their own elemental attacks to calm it. The key to success is to keep it from feeding.",
+    "elements": ["Dragon"],
+    "ailments": ["Dragonblight", "Bleeding"],
+    "resistances": ["None"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Fire (⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Paralysis (⭐⭐⭐)", "Sleep (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Fulgur Anjanath",
+    "render": "color/render/fulgur_anjanath.png",
+    "icon": "color/icon/fulgur_anjanath_icon.png",
+    "species": "Brute Wyvern",
+    "description": "Feared as the 'Thunderjaw Wyvern,' this Anjanath subspecies electrifies its jaws and dorsal membrane with every blow.",
+    "useful_info": "Once it enters and electrified state, its hide hardens, and its attacks deal elemental damage. Focus blows on its head to dissipate the charge. Also note its broad territory.",
+    "elements": ["Thunder"],
+    "ailments": ["Thunderblight"],
+    "resistances": ["Thunder"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Ice-(Charged) (⭐⭐)", "Water-(Charged) (⭐⭐⭐)", "Water (⭐⭐)", "Fire (⭐⭐)", "Dragon (⭐)", "Blast (⭐)", "Poison (⭐⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB"
+      }
+
+    ]
+  },
+  {
+    "name": "Furious Rajang",
+    "species": "Fanged Beast",
+    "description": "Furious Rajang looks like an enraged Rajang. Its Rage mode shows that its fur stands up and it is visibly electrified by an electric aura.",
+    "useful_info": "Unlike normal Rajang, Furious Rajang has to be in Rampage Mode in order for hunters to knock it out of rage mode, Furious Rajang's Rampage Mode is cancelled by hitting its head.",
+    "elements": ["Thunder"],
+    "ailments": ["Defense Down"],
+    "resistances": ["Fire", "Dragon", "Thunder"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Water (⭐)", "Poison (⭐)", "Sleep (⭐)", "Paralysis (⭐)", "Blast (⭐⭐)", "Stun (⭐)"],
+    "locations": [{
+      "name": "Hoarfrost Reach",
+      "color": "0xBF5726"
+    }]
+  },
+
+  {
+    "name": "Glavenus",
+    "render": "color/render/glavenus.png",
+    "icon": "color/icon/glavenus_icon.png",
+    "species": "Brute Wyvern",
+    "description": "A brute wyvern that wields its heavy, blue tail like a blade. It grows hotter and more keen with each strike until it glows red.",
+    "useful_info": "Once red hot, its tail will begin to rust and the monster will sharpen it anew with its fangs, storing the slag to expel as fiery breath. Strike its throat when it glows red.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐⭐)", "Thunder (⭐)", "Poison (⭐⭐)", "Paralysis (⭐⭐)", "Sleep (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Gold Rathian",
+    "render": "color/render/gold_rathian.png",
+    "icon": "color/icon/gold_rathian_icon.png",
+    "species": "Flying Wyvern",
+    "description": "A rare gleaming gold scaled Rathian species. When wreathed in hellfire, its breath grows more lethal and its tail swipes broader.",
+    "useful_info": "The hellfire can be dispelled by dealing a set amount of damage to its head, which is extremely tough until broken. Try to destroy it as quickly as possible",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Poison"],
+    "resistances": ["Dragon", "Fire"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Water (⭐⭐)", "Ice (⭐)", "Poison (⭐)", "Blast (⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Wildspire Region",
+        "color": "0xF2A22C",
+        "tempered": true
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Great Girros",
+    "render": "color/render/great_girros.png",
+    "icon": "color/icon/great_girros_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "A monster that scavenges for meals dropped fromt the Coral Highlands. It acts as the alpha leader of a Girros pack, and sports giant fangs that paralyze its prey.",
+    "useful_info": "Taking down lesser Girros will make the rest of the pack scatter, and should be a top priority. Breaking the fangs of a Great Girros will make its paralyzing agent much weaker.",
+    "elements": ["None"],
+    "ailments": ["Paralysis"],
+    "resistances": ["Thunder"],
+    "threat-level": "none",
+    "weakness": ["Water (⭐⭐⭐)", "Fire (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Sleep (⭐⭐⭐)", "Paralysis (⭐)", "Poison (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Great Jagras",
+    "render": "color/render/great_jagras.png",
+    "icon": "color/icon/great_jagras_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "The pack leader of the Jagras. When hungry, Great Jagras are known to attack monsters even stronger than themselves. It ballons to unbelievable proportions after swallowing prey.",
+    "useful_info": "Even after a giant meal, a Great Jagras can use its expanded stomach to attack unsuspecting hunters. Aim for its belly to force it to vomit out its prey and significantly weaken it.",
+    "elements": ["None"],
+    "ailments": ["None"],
+    "resistances": ["Water"],
+    "threat-level": "none",
+    "weakness": ["Fire (⭐⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐⭐⭐)", "Paralysis (⭐⭐⭐)", "Blast (⭐⭐⭐)", "Stun (⭐⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Jyuratodus",
+    "render": "color/render/jyuratodus.png",
+    "icon": "color/icon/jyuratodus_icon.png",
+    "species": "Piscine Wyvern",
+    "description": "A large piscine wyvern that inhabits the swamps of the Wildspire Waste. It uses mud to capture prey, and its known to battle Barroth over territory.",
+    "useful_info": "It's nearly impossible to fight a Jyuratodus in its swampy home. Coerce it to land, and then use water element weapons or your slinger to slowly chip away its hardened mud armor.",
+    "elements": ["Water"],
+    "ailments": ["Waterblight"],
+    "resistances": ["Water with no mud", "Thunder with mud", "Fire with mud"],
+    "threat-level": "🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Water-(Mud) (⭐⭐⭐)", "Fire (⭐)", "Ice (⭐)", "Dragon (⭐)", "Stun (⭐⭐⭐)", "Poison (⭐⭐)", "Paralysis (⭐⭐)", "Sleep (⭐)", "Blast (⭐)"],
+    "locations": [{
+        "name": "Wildspire Waste",
+        "color": "0xF2A22C"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Kirin",
+    "species": "Elder Dragon",
+    "description": "Kirin are so rarely sighted that little is known of their ecology. It's been said they envelop themselves in pure electricity when they are provoked.",
+    "useful_info": "The lightning a Kirin cloaks itself with has been confirmed to toughen its skin. The key to hunting a Kirin lies in staggering it, using Elderseal weapons, and protecting yourself from and avoiding its lightning attacks.",
+    "elements": ["Thunder"],
+    "ailments": ["Thunderblight"],
+    "resistances": ["Thunder", "Paralysis"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Water (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Sleep (⭐⭐)", "Blast (⭐⭐)", "Poison (⭐)", "Stun (⭐)"],
+    "locations": [{
+        "name": "Coral Region",
+        "color": "0x86E0D4",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Kulu-Ya-Ku",
+    "render": "color/render/kulu-ya-ku.png",
+    "icon": "color/icon/kulu-ya-ku_icon.png",
+    "species": "Bird Wyvern",
+    "description": "An odd bird wyvern that has developed limbs capable of carrying weapons. It's beem spotted stealing eggs from nests found in the Ancient Forest And Wildspire Waste.",
+    "useful_info": "Kulu-Ya-Ku can use small boulders to shield itself against its enemies. Force it to drop whatever its holding by using your slinger. You can also frighten it by luring one of its natural enemies.",
+    "elements": ["None"],
+    "ailments": ["None"],
+    "resistances": ["None"],
+    "threat-level": "none",
+    "weakness": ["Water (⭐⭐⭐)", "Fire (⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Kulve Taroth",
+    "render": "color/render/kulve_taroth.png",
+    "icon": "color/icon/kulve_taroth_icon.png",
+    "species": "Elder Dragon",
+    "description": "An elder dragon that protects itself with a glittering coat of metal. Its ecology and coat differ with each appearance, thus the need for a thorough investigation.",
+    "useful_info": "An exhaustive investigation is required in order to break Kulve Taroth's giant gold plated horns. Pursue the monster to learn more about it. Gather tracks and recruit hunters to help you further your investigation.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight"],
+    "resistances": ["Thunder", "Fire", "Ice when in gold"],
+    "threat-level": "none",
+    "weakness": ["Ice (⭐⭐⭐)", "Water (⭐⭐)", "Dragon (⭐⭐)", "Thunder-(Gold) (⭐⭐⭐)", "Dragon-(Gold) (⭐)", "Poison (⭐)", "Sleep (⭐)", "Paralysis (⭐)", "Blast (⭐)", "Stun (⭐)"],
+    "locations": [{
+        "name": "Caverns of El Dorado",
+        "color": "color/locale/caverns-of-el-dorado.jpg",
+        "icon": "mapIcon.png"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Kushala Daora",
+    "render": "color/render/kushala_daora.png",
+    "icon": "color/icon/kushala_daora_icon.png",
+    "species": "Elder Dragon",
+    "description": "An elder dragon that shields itself with fierce winds, preventing anyone from approaching it. Its skin consists of hard, metallic scales.",
+    "useful_info": "When confronted by enemies, Kushala's wind shield continuously grows in intensity, eventually deflecting bow and bowgun attacks. Its wind shield can be weakend by staggering it, particularly with weapons with Elderseal capabilities.",
+    "elements": ["None"],
+    "ailments": ["Stun"],
+    "resistances": ["Water", "Ice"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Dragon (⭐⭐)", "Fire (⭐)", "Poison (⭐⭐⭐)", "Blast (⭐⭐⭐)", "Stun (⭐⭐)", "Sleep (⭐)", "Paralysis (⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Lavasioth",
+    "render": "color/render/lavasioth.png",
+    "icon": "color/icon/lavasioth_icon.png",
+    "species": "Piscine Wyvern",
+    "description": "Lavasioth utilize molten lava as armor. They are extremely aggressive and will attack without prejudice until the threat has been eliminated",
+    "useful_info": "The hardened magma on Lavasioth's body becomes softer as it swims through the lava. Attack its armor immediately after it surfaces to increase your chances of destroying it before it rehardens.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight"],
+    "threat-level": "🔥🔥",
+    "resistances": ["Fire when not hardened", "Thunder when hardened", "Ice when hardened"],
+    "weakness": ["Water-(Hardened) (⭐⭐)", "Fire-(Hardened) (⭐)", "Water (⭐⭐⭐)", "Ice (⭐⭐)", "Thunder (⭐⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐)", "Paralysis (⭐⭐)", "Blast (⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Volcanic Region",
+        "color": "0xED512F",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Legiana",
+    "render": "color/render/legiana.png",
+    "icon": "color/icon/legiana_icon.png",
+    "species": "Flying Wyvern",
+    "description": "The apex monster of the Coral Highlands, whose diet primarily consist of Raphinos. It Emits a chilling wind from its body, which dulls its prey's ability to escape.",
+    "useful_info": "The membrane that covers its entire body enables Legiana to move with incredible speed. Damaging this membrane should help with slowing it down. Poison sttacks have also been known to be effective.",
+    "elements": ["Ice"],
+    "ailments": ["Iceblight"],
+    "resistances": ["Ice"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Fire (⭐⭐)", "Water (⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Leshen",
+    "render": "color/render/leshen.png",
+    "icon": "color/icon/leshen_icon.png",
+    "species": "Relict",
+    "description": "Dwelling deep inside the forest, these creatures use their innate magic to control all flora and fauna within their territory.",
+    "useful_info": "Revoltures and Jagras controlled by a Leshen are tough to approach, but the Igni Sign is very useful in fending off the Leshen's lashing roots.",
+    "elements": ["None"],
+    "ailments": ["Bleeding"],
+    "resistances": ["Water", "Sleep"],
+    "threat-level": "none",
+    "weakness": ["Fire (⭐⭐⭐)", "Dragon (⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐)", "Poison (⭐⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐)"],
+    "locations": [{
+      "name": "Ancient Forest",
+      "color": "0x1E9E47"
+    }]
+  },
+
+  {
+    "name": "Lunastra",
+    "render": "color/render/lunastra.png",
+    "icon": "color/icon/lunastra_icon.png",
+    "species": "Elder Dragon",
+    "description": "A rare female elder dragon that litters the air with hot blue dust. Reports of it traveling with her mate, Teostra, are still uncomfirmed.",
+    "useful_info": "Lunastra's high body temperature and dust saps away health unless you use a Cool Drink. Its dust and blue flame explode when it comes into contact with fire, so use a bomb or crystalburst.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Dragon (⭐⭐)", "Water (⭐)", "Thunder (⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)", "Poison (⭐)", "Sleep (⭐)", "Paralysis (⭐)"],
+    "locations": [{
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Nargacuga",
+    "render": "color/render/nargacuga.png",
+    "icon": "color/icon/nargacuga_icon.png",
+    "species": "Flying Wyvern",
+    "description": "Extremely agile, especially on the ground, this obsidian furred flying wyvern moves with explosive bursts of speed.",
+    "useful_info": "Nargacuga's speed dulls when exhausted, so luring it into turf wars with other monsters is effective. Take care when setting traps, as it will destroy pitfall traps when not enraged.",
+    "elements": ["None"],
+    "ailments": ["Bleeding"],
+    "resistances": ["Water"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Fire (⭐⭐)", "Ice (⭐)", "Dragon (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Namielle",
+    "render": "color/render/namielle.png",
+    "icon": "color/icon/namielle_icon.png",
+    "species": "Elder Dragon",
+    "description": "An elder dragon coated in water and able to freely control lightning. A unique organ allows it to pump electricity in the pools of water it creates, causing a massive burst of steam.",
+    "useful_info": "Emitting water causes its coating to decrease, and it becomes vulnerable when dry. Use brightmoss and other slinger fire to remove any nearby sources of water.",
+    "elements": ["Water", "Thunder"],
+    "ailments": ["Waterblight", "Thunderblight"],
+    "resistances": ["Water", "Thunder"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Dragon (⭐⭐)", "Ice (⭐)", "Poison (⭐⭐⭐)", "Blast (⭐⭐⭐)", "Stun (⭐⭐)", "Sleep (⭐)", "Paralysis (⭐)"],
+    "locations": [{
+        "name": "Coral Region",
+        "color": "0x86E0D4",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Nergigante",
+    "render": "color/render/nergigante.png",
+    "icon": "color/icon/nergigante_icon.png",
+    "species": "Elder Dragon",
+    "description": "A terrible elder dragon that appears when other elders are in the vicinity. Its penchant for destruction is well documented.",
+    "useful_info": "Nergigante can recover from wounds almost instantaneously. Regenerated body parts grow harder over time, so attacking them while they're still fresh is the ideal strategy.",
+    "elements": ["None"],
+    "ailments": ["None"],
+    "resistances": ["None"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Dragon (⭐⭐)", "Fire (⭐)", "Water (⭐)", "Ice (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "Elder's Recess",
+      "color": "0xED512F"
+    }]
+  },
+
+  {
+    "name": "Nightshade Paolumu",
+    "render": "color/render/nightshade_paolumu.png",
+    "icon": "color/icon/nightshade_paolumu_icon.png",
+    "species": "Flying Wyvern",
+    "description": "A Paolumu subspecies capable of putting prey to sleep. It produces a powerful sedative gas stored within its throat sac that it can expel and scatter to knock unwary foes out.",
+    "useful_info": "It uses tail swiped and other blows to bat its soporific breath into a target's path. Stubbornly airborne, this monster needs some 'encouragement' to drop it to the ground.",
+    "elements": ["None"],
+    "ailments": ["Sleep"],
+    "resistances": ["Dragon"],
+    "threat-level": "🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Fire (⭐⭐)", "Thunder (⭐)", "Ice (⭐)", "Sleep (⭐)", "Poison (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Odogaron",
+    "render": "color/render/odogaron.png",
+    "icon": "color/icon/odogaron_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "A terrifying monster that scours the Rotten Vale for carrion. Its highly aggressive nature means that anything, be it monster or man, is a potential meal.",
+    "useful_info": "Odogaron's nasty claws cause heavy bleeding and should be avoided at all costs. Use meat to lure it into traps, stagger it, or coerce it into bouts of rage to tire it out and make it easier to deal with.",
+    "elements": ["None"],
+    "ailments": ["Bleeding"],
+    "resistances": ["Dragon"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Thunder (⭐⭐)", "Water (⭐)", "Fire (⭐)", "Paralysis (⭐⭐⭐)", "Poison (⭐)", "Sleep (⭐⭐)", "Stun (⭐⭐)", "Blast (⭐⭐)"],
+    "locations": [{
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Paolumu",
+    "render": "color/render/paolumu.png",
+    "icon": "color/icon/paolumu_icon.png",
+    "species": "Flying Wyvern",
+    "description": "Paolumu feast on eggs found in the Coral Highlands. They are able to float through the air using unique sacs in their bodies, and attack with their extremely hard tails.",
+    "useful_info": "Paolumu can't move around as freely when its air sacs are deflated. Aim for its inflated body parts, or purposefully draw out its attacks that use up stored air, to gain the upper hand.",
+    "elements": ["None"],
+    "ailments": ["Wind Pressure"],
+    "resistances": ["Water"],
+    "threat-level": "🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐)", "Dragon (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐⭐)", "Stun (⭐⭐⭐)"],
+    "locations": [{
+        "name": "Coral Region",
+        "color": "0x86E0D4",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Pink Rathian",
+    "render": "color/render/pink_rathian.png",
+    "icon": "color/icon/pink_rathian_icon.png",
+    "species": "Flying Wyvern",
+    "description": "A subspecies with vibrant pink scales. Pink Rathians wield their toxic tails mores deftly than normal Rathians, weakening prey with poison before moving in for the kill.",
+    "useful_info": "Pink Rathians develop hard shells on different body parts compared to standard Rathians, particularly on their tails. If you're looking to sever its tail, aim for the relatively soft tip of the tail.",
+    "elements": ["Fire"],
+    "ailments": ["Poison"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥",
+    "weakness": ["Dragon (⭐⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐)", "Water (⭐)", "Stun (⭐⭐⭐)", "Poison (⭐)", "Blast (⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)"],
+
+    "locations": [{
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Pukei-Pukei",
+    "render": "color/render/pukei-pukei.png",
+    "icon": "color/icon/pukei-pukei_icon.png",
+    "species": "Bird Wyvern",
+    "description": "A bird wyvern known to posses poisonous toxins in its body. It's been spotted storing scatternuts in its mouth or tail, coating them with poison and spitting them out at threats.",
+    "useful_info": "Observational reports state that Pukei-Pukei will bully weaker monsters but cower before bigger, stronger monsters. It's prone to retreating at the first sign of danger, so use that to your advantage.",
+    "elements": ["None"],
+    "ailments": ["Poison"],
+    "resistances": ["Water"],
+    "threat-level": "🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Fire (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Sleep (⭐⭐⭐)", "Paralysis (⭐⭐⭐)", "Poison (⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Radobaan",
+    "render": "color/render/radobaan.png",
+    "icon": "color/icon/radobaan_icon.png",
+    "species": "Brute Wyvern",
+    "description": "A gigantic brute wyvern that eats the bones of cracasses found in the Rotten Vale, using some of it as armor. It also rolls into a ball as a form of attack and transportation.",
+    "useful_info": "Attack it as it rolls around to throw it off balance and knock it down. Chunks of bone can be minted from its body once it's down/ Shattering its bone armor is the key to winning a fight against this beast.",
+    "elements": ["None"],
+    "ailments": ["Sleep"],
+    "resistances": ["None"],
+    "threat-level": "🔥",
+    "weakness": ["Dragon (⭐⭐⭐)", "Ice (⭐⭐)", "Fire (⭐)", "Water (⭐)", "Thunder (⭐)", "Blast (⭐⭐⭐)", "Poison (⭐⭐)", "Sleep (⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Rotted Region",
+        "color": "0xBF5726",
+        "tempered": true
+      }
+
+    ]
+  },
+  {
+    "name": "Raging Brachydios",
+    "species": "Brute Wyvern",
+    "description": "Raging Brachydios sports a green shell with yellow-orange slime mold on its forelimbs, head, back, and tail that turns red when it becomes enraged. It is noticeably larger than normal Brachydios and moves slower as a result.",
+    "useful_info": "When the slime on its head, arms or tail turns red, the next attack on that body part will activate the slime and it will explode after half a second, breaking those parts will make the explosions less effective.",
+    "elements": ["None"],
+    "ailments": ["Blastblight", "fireblight", "Blastscourge"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Water (⭐⭐)", "Thunder (⭐)", "Dragon (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "The Guiding Lands",
+      "color": "0xFFFFFF"
+    }]
+  },
+  {
+    "name": "Rajang",
+    "render": "color/render/rajang.png",
+    "icon": "color/icon/rajang_icon.png",
+    "species": "Fanged Beast",
+    "description": "An ultra-aggressive creature that few have a chance of surviving against. Sports powerful arms that pack a punch, and turns gold when angry.",
+    "useful_info": "Rajang is most dangerous when its arms are powered up, and can even destroy shock traps. Pitfall traps are effective, but only when it's enraged. Will immediately attack anything that invades its territory.",
+    "elements": ["Thunder"],
+    "ailments": ["Thunderblight"],
+    "resistances": ["Thunder", "Fire", "Dragon"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Water (⭐)", "Blast (⭐⭐)", "Poison (⭐)", "Sleep (⭐)", "Paralysis (⭐)", "Stun (⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F",
+        "tempered": true
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Rathalos",
+    "render": "color/render/rathalos.png",
+    "icon": "color/icon/rathalos_icon.png",
+    "species": "Flying Wyvern",
+    "description": "The apex monster of the Ancient Forest, also known as the 'King of the Skies.' A terrible wyvern that descends upon invaders, attacking with poison claws and fiery breath.",
+    "useful_info": "Rathalos prefer to stay airborne to unleash their myriad attacks, but a well placed flash bomb or a shot from your slinge can send them crashing to the earth. Wounding their wings gives them a moment of vulnerability whenever they try to take flight.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Poison", "Stun"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Dragon (⭐⭐⭐)", "Thunder (⭐⭐)", "Water (⭐)", "Ice (⭐)", "Poison (⭐)", "Blast (⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Rathian",
+    "render": "color/render/rathian.png",
+    "icon": "color/icon/rathian_icon.png",
+    "species": "Flying Wyvern",
+    "description": "Wyverns known as the 'Queens of the Land.' Terrestrial predators, they overpower prey with their venomouse tails and powerful legs.",
+    "useful_info": "Come prepared with fire resistant armor, and neuter its poison attacks by severing its tale. Be careful when stealing an egg from its nest, for a Rathian will chase an egg thief to the ends of the New World.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Poison"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥",
+    "weakness": ["Dragon (⭐⭐⭐)", "Thunder (⭐⭐)", "Water (⭐)", "Ice (⭐)", "Stun (⭐⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Poison (⭐)", "Blast (⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Ruiner Nergigante",
+    "render": "color/render/ruiner_nergigante.png",
+    "icon": "color/icon/ruiner_nergigante_icon.png",
+    "species": "Elder Dragon",
+    "description": "Countless battles have only hardened this Nergigante variant. In addition to healing, its spikes grow tougher as it loses health.",
+    "useful_info": "Like its cousins, it attacks with white and black spikes, but also possesses metallic spikes that do not regrow. Break them to greatly reduce the monster's lethality.",
+    "elements": ["None"],
+    "ailments": ["Bleeding"],
+    "resistances": ["None"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Dragon (⭐⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐)", "Water (⭐)", "Fire (⭐)", "Blast (⭐⭐⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB"
+      }
+    ]
+  },
+
+  {
+    "name": "Safi'jiiva",
+    "render": "color/render/safi'jiiva.png",
+    "icon": "color/icon/safi'jiiva_icon.png",
+    "species": "Elder Dragon",
+    "description": "The fully-grown form of Xeno'jiiva. It absorbs energy from its environment to heal itself and change the ecosystem.",
+    "useful_info": "Its breath can be avoided by hiding behind obstacles. Drain its energy by breaking its parts and using the environment. Once it's cornered, work together to take it down.",
+    "elements": ["Fire", "Dragon"],
+    "ailments": ["Fireblight", "Dragonblight"],
+    "resistances": ["None"],
+    "threat-level": "none",
+    "weakness": ["Dragon-(Elderseal) (⭐⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐⭐)", "Water (⭐⭐)", "Fire (⭐⭐)", "Dragon (⭐⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "Secluded Valley",
+      "color": "0x750099",
+      "icon": "mapIcon.png"
+    }]
+  },
+
+  {
+    "name": "Savage Deviljho",
+    "render": "color/render/savage_deviljho.png",
+    "icon": "color/icon/savage_deviljho_icon.png",
+    "species": "Brute Wyvern",
+    "description": "A mutated Deviljho variant, driven mad by its overpowering hunger. It will attempt to feed on all it sees.",
+    "useful_info": "The monster grows in strength as it fights and feeds, so preventing it from eating is paramount. Blows to the head are effective. It will ignore hunters around larger prey.",
+    "elements": ["Dragon"],
+    "ailments": ["Dragonblight", "Defense Down", "Fireblight on lava terrain", "Iceblight on icy terrain", "Waterblight on water terrain", "Effluvial Buildup in Rotten Vale"],
+    "resistances": ["Ice"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Dragon (⭐⭐⭐)", "Fire (⭐⭐)", "Water (⭐⭐)", "Ice (⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐⭐⭐)", "Paralysis (⭐⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47",
+        "icon": "localeForest.png"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C",
+        "icon": "localeWaste.png"
+      },
+      {
+        "name": "Rotted Region",
+        "color": "0xBF5726",
+        "icon": "localeRotten.png"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4",
+        "icon": "localeCoral.png"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F",
+        "icon": "localeElder.png"
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB",
+        "icon": "localeFrost.png"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Scarred Yian Garuga",
+    "render": "color/render/scarred_yian_garuga.png",
+    "icon": "color/icon/scarred_yian_garuga_icon.png",
+    "species": "Bird Wyvern",
+    "description": "A tempered Yian Garuga that survived a grueling battle with just a scar on its head. Be careful of its successive breath attacks.",
+    "useful_info": "Like the normal species, its head is easily breakable, and it's quick to run out of stamina. It behaves differently when flying short distances though, so be careful.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Poison"],
+    "resistances": ["Thunder", "Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Dragon (⭐⭐)", "Ice (⭐)", "Blast (⭐⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)", "Poison (⭐)", "Sleep (⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Seething Bazelgeuse",
+    "render": "color/render/seething_bazelgeuse.png",
+    "icon": "color/icon/seething_bazelgeuse_icon.png",
+    "species": "Flying Wyvern",
+    "description": "The scales of this Bazelgeuse variant burn hotter than normal increasing in number and explosion radius as time passes.",
+    "useful_info": "Focus attacks on the enhanced scales to weaken the monster. Reports indicate that puddle pods, crystalburst, and scatternuts are all effective in this regard.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Blastblight"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Thunder (⭐⭐)", "Dragon (⭐)", "Ice (⭐⭐⭐)", "Water (⭐)", "Sleep (⭐⭐⭐)", "Poison (⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)", "Blast (⭐)"],
+    "locations": [{
+        "name": "Volcanic Region",
+        "color": "0xED512F",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Shara Ishvalda",
+    "render": "color/render/shara_ishvalda.png",
+    "icon": "color/icon/shara_ishvalda_icon.png",
+    "species": "Elder Dragon",
+    "description": "A mysterious elder dragon able to manipulate the earth itself. Vibrations from its wingtips reshape the earth, denying hunters footing.",
+    "useful_info": "Hunters must begin by stripping its sturdy rock armor: bombs and falling rocks are two proven methods. Skills to counter tremors are a boon against its wingtip attacks.",
+    "elements": ["None"],
+    "ailments": ["None"],
+    "resistances": ["Sleep", "Thunder"],
+    "threat-level": "none",
+    "weakness": ["Ice (⭐⭐⭐)", "Water (⭐⭐)", "Fire (⭐)", "Dragon (⭐)", "Blast (⭐⭐⭐)", "Blast-(Armored) (⭐⭐)", "Poison (⭐⭐)", "Paralysis (⭐)", "Stun (⭐)"],
+    "locations": [{
+      "name": "The Guiding Lands",
+      "color": "0xFFFFFF"
+    }]
+  },
+
+  {
+    "name": "Shrieking Legiana",
+    "render": "color/render/shrieking_legiana.png",
+    "icon": "color/icon/shrieking_legiana_icon.png",
+    "species": "Flying Wyvern",
+    "description": "A Legiana variant shrouded in white frost. It specializes in freezing prey with the powerful chill it emits, then swooping down to strike at them from overhead.",
+    "useful_info": "Sufficient damage can knock it out of the sky, and it is especially vulnerable while dive bombing, making barrel bombs effective. Like other Legiana, poison also works well.",
+    "elements": ["Ice"],
+    "ailments": ["Iceblight"],
+    "resistances": ["Ice"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Thunder (⭐⭐)", "Water (⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Tundra Region",
+        "color": "0x8ABEEB",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Silver Rathalos",
+    "render": "color/render/silver_rathalos.png",
+    "icon": "color/icon/silver_rathalos_icon.png",
+    "species": "Flying Wyvern",
+    "description": "A rare silver scaled Rathalos species. When weathering in hellfire, its breath grows more lethal and it gains a new set of attacks.",
+    "useful_info": "The hellfire can be dispelled by dealing a set amount of damage to its head. It lives in tandem with a Gold Rathian, and their breath becomes deadlier still when combined.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Poison"],
+    "resistances": ["Fire", "Dragon"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)", "Poison (⭐)", "Blast (⭐)"],
+    "locations": [{
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Stygian Zinogre",
+    "render": "color/render/stygian_zinogre.png",
+    "icon": "color/icon/stygian_zinogre_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "Has a symbiotic relationship with Dracophage bugs, which it releases like bullets. Becomes even more dangerous when covered in light.",
+    "useful_info": "Its powered up state is cancelled when it flinches or is toppled. When its hide toughens, it becomes more vulnerable to elemental attacks.",
+    "elements": ["Dragon"],
+    "ailments": ["Dragonblight"],
+    "resistances": ["Ice", "Fire", "Water", "Dragon"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Thunder (⭐)", "Fire-(Charged) (⭐)", "Water-(Charged) (⭐⭐)", "Thunder-(Charged) (⭐⭐⭐)", "Ice-(Charged) (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "Tundra Region",
+      "color": "0x8ABEEB",
+      "tempered": true
+    }]
+  },
+
+  {
+    "name": "Teostra",
+    "render": "color/render/teostra.png",
+    "icon": "color/icon/teostra_icon.png",
+    "species": "Elder Dragon",
+    "description": "A brutal elder dragon wreathed in flames that spits blazing fire. Teostra are of such a fierce and deadly nature that the Guild closely monitors their movements",
+    "useful_info": "The black scale dust Teostra scatters will spread over a wide area until it finally explodes. Keep an eye on that, as well as the flames it occasionally shields itself in, and aim to stagger it with weapons possessing Elderseal capabilities.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Blastblight"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Ice (⭐⭐⭐)", "Thunder (⭐)", "Ice (⭐)", "Poison (⭐⭐)", "Stun (⭐⭐)", "Sleep (⭐)", "Paralysis (⭐)", "Blast (⭐)"],
+    "locations": [{
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Tigrex",
+    "render": "color/render/tigrex.png",
+    "icon": "color/icon/tigrex_icon.png",
+    "species": "Flying Wyvern",
+    "description": "A flying wyvern straight out of prehistory known for its deafening roar and powerful legs that frove its overwhelming charge.",
+    "useful_info": "Ledges and obstacles won't stop Tigrex's charge, so you'll need to steer clear. After enough repetitions the monster will tire and slow down, opening up to counterattacks.",
+    "elements": ["None"],
+    "ailments": ["Iceblight on icy terrain", "Waterblight on water terrain", "Effluvial Buildup in Rotten Vale", "Fireblight in Elder's Recess"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Thunder (⭐⭐⭐)", "Dragon (⭐⭐)", "Water (⭐)", "Ice (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Volcanic Region",
+        "color": "0xED512F"
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Tobi-Kadachi",
+    "render": "color/render/tobi-kadachi.png",
+    "icon": "color/icon/tobi-kadachi_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "A fanged wyvern that flied among the tress of the Ancient Forest. Its penchant to brush against the ground and the trees as it moves around builds up static electricity within its fure.",
+    "useful_info": "Use the target camera to avoid getting ambushed from behind as it moves from tree to tree. The key to defeating this monster is to immobilize it and prevent it from reaching a charged state.",
+    "elements": ["Thunder"],
+    "ailments": ["Thunderblight"],
+    "resistances": ["Thunder"],
+    "threat-level": "🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Fire (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐)", "Poison (⭐⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Tzitzi-Ya-Ku",
+    "render": "color/render/tzitzi-ya-ku.png",
+    "icon": "color/icon/tzitzi-ya-ku_icon.png",
+    "species": "Bird Wyvern",
+    "description": "This odd monster blinds both prey and enemies with a special pulsing organ near its head. It then uses its strong legs to deliver finishing blows.",
+    "useful_info": "Tzitzi-Ya-Ku's organs begin to radiate before it releases its blinding pulse, giving you enough time to escape and flank it. Damaging this organ will dramatically decrease the flash's effective range.",
+    "elements": ["Thunder"],
+    "ailments": ["Stun"],
+    "resistances": ["None"],
+    "threat-level": "none",
+    "weakness": ["Thunder (⭐⭐⭐)", "Ice (⭐⭐⭐)", "Fire (⭐⭐)", "Water (⭐⭐)", "Dragon (⭐⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Uragaan",
+    "render": "color/render/uragaan.png",
+    "icon": "color/icon/uragaan_icon.png",
+    "species": "Brute Wyvern",
+    "description": "Large brute wyverns that feed on ore, using their mighty jaw to crush solid rock to powder. They've been known to confront Lavasioths over territory disputes.",
+    "useful_info": "A crushing slam from Uragaan's jaw can send shockwaves across the ground, detonating any explosive rocks in the area. In addition when an Uragaan is toppled, its body can be mined for ore.",
+    "elements": ["Fire"],
+    "ailments": ["Sleep", "Fireblight"],
+    "resistances": ["Fire"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Water (⭐⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐⭐)", "Thunder (⭐)", "Poison (⭐⭐⭐)", "Stun (⭐⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Sleep (⭐)"],
+    "locations": [{
+        "name": "Volcanic Region",
+        "color": "0xED512F",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Vaal Hazak",
+    "render": "color/render/vaal_hazak.png",
+    "icon": "color/icon/vaal_hazak_icon.png",
+    "species": "Elder Dragon",
+    "description": "A grotesque elder dragon, that inhabits the deepest oart of the Rotten Vale. It uses the fatal vapor of the vale in what appears to be a symbiotic relationship.",
+    "useful_info": "Once you've become tainted, inhaling the vapor of the vale causes your own health to drain. Head for areas where the vapor is thin, and if you do get tainted, do your best to get rid of it.",
+    "elements": ["None"],
+    "ailments": ["Effluvia"],
+    "resistances": ["Water"],
+    "threat-level": "🔥🔥🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Dragon (⭐⭐)", "Ice (⭐⭐)", "Thunder (⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)", "Poison (⭐)", "Sleep (⭐)", "Paralysis (⭐)"],
+    "locations": [{
+      "name": "Rotten Vale",
+      "color": "0xBF5726"
+    }]
+  },
+
+  {
+    "name": "Velkhana",
+    "render": "color/render/velkhana.png",
+    "icon": "color/icon/velkhana_icon.png",
+    "species": "Elder Dragon",
+    "description": "An elder dragon with the power to freeze all in its path. According to ancient legend, it can freely control the cold, and use its freezing breath to conjure massive spires of ice out of nowhere.",
+    "useful_info": "Shattering the ice that encases its body neutralizes its freezing breath. The ice walls it forms can be broken to provide platforms for mounting. Torch pods are useful for this.",
+    "elements": ["Ice"],
+    "ailments": ["Iceblight"],
+    "weakness": ["Fire (⭐⭐⭐)", "Thunder (⭐⭐)", "Dragon (⭐⭐)", "Water (⭐)", "Blast (⭐⭐⭐)", "Poison (⭐⭐)", "Sleep (⭐)", "Paralysis (⭐)", "Stun (⭐)"],
+    "resistances": ["Ice"],
+    "threat-level": "🔥🔥🔥",
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Wildspire Region",
+        "color": "0xF2A22C"
+      },
+      {
+        "name": "Rotted Region",
+        "color": "0xBF5726"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      },
+      {
+        "name": "Tundra Region",
+        "color": "0x8ABEEB"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Viper Tobi-Kadachi",
+    "render": "color/render/viper_tobi-kadachi.png",
+    "icon": "color/icon/viper_tobi-kadachi_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "The tail of this subspecies secretes a toxin while its fangs paralyze prey. It can also glide without climbing trees.",
+    "useful_info": "It's agility is its greatest weapon, but also makes it prone to exhaustion. When tired, it grows drastically less mobile. Focus attacks on its soft parts to tucker it out quickly.",
+    "elements": ["None"],
+    "ailments": ["Poison", "Noxious Poison", "Paralysis"],
+    "weakness": ["Thunder (⭐⭐⭐)", "Ice (⭐⭐)", "Fire (⭐)", "Dragon (⭐)", "Sleep (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)", "Poison (⭐)", "Paralysis (⭐)"],
+    "resistances": ["Water"],
+    "threat-level": "🔥🔥",
+    "locations": [{
+        "name": "Tundra Region",
+        "color": "0x8ABEEB",
+        "tempered": true
+      }
+
+    ]
+  },
+
+  {
+    "name": "Xeno'jiiva",
+    "render": "color/render/xenojiiva.png",
+    "icon": "color/icon/xenojiiva_icon.png",
+    "species": "Elder Dragon",
+    "description": "A new species discovered in the depths of the Elder's Recess. Its relationship to the other elder dragons is unclear, as is its ecology.",
+    "useful_info": "Perhaps as a result of its inability to fully control its own incalculable power, Xeno'jiiva is prone to go into a rampage when its energy filled limbs take enough damage. Endure its rampage and you may be rewarded with a good opening for attacks.",
+    "elements": ["Dragon", "Fire"],
+    "ailments": ["Fireblight", "Dragonblight"],
+    "resistances": ["Sleep"],
+    "threat-level": "none",
+    "weakness": ["Poison (⭐⭐⭐)", "Fire (⭐⭐)", "Water (⭐⭐)", "Thunder (⭐⭐)", "Ice (⭐⭐)", "Dragon (⭐⭐)", "Blast (⭐⭐)", "Paralysis (⭐)", "Stun (⭐)"],
+    "locations": [{
+      "name": "Elder's Recess",
+      "color": "0xED512F"
+    }]
+  },
+
+  {
+    "name": "Yian Garuga",
+    "render": "color/render/yian_garuga.png",
+    "icon": "color/icon/yian_garuga_icon.png",
+    "species": "Bird Wyvern",
+    "description": "A short tempered bird wyvern marked by its hard, black scales and impressive mane. It strikes with its distinctive beak.",
+    "useful_info": "It moves violently with its entire body, enough to break pitfall traps when enraged. Slow it by breaking body parts or baiting out its stamina intensive beak attacks.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight", "Poison"],
+    "resistances": ["Thunder", "Fire"],
+    "threat-level": "none",
+    "weakness": ["Water (⭐⭐⭐)", "Dragon (⭐⭐)", "Ice (⭐)", "Blast (⭐⭐⭐)", "Paralysis (⭐⭐)", "Stun (⭐⭐)", "Poison (⭐)", "Sleep (⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Zinogre",
+    "render": "color/render/zinogre.png",
+    "icon": "color/icon/zinogre_icon.png",
+    "species": "Fanged Wyvern",
+    "description": "Lightning courses through the fur and unique plating of this fanged wyvern. It is most deadly in its supercharged state.",
+    "useful_info": "When supercharged, parts of the monster become soft, but shock traps no longer work. You can also knock it out of supercharged mode by making it flinch several times. Once it's down, you can use the capture net to collect materials.",
+    "elements": ["Thunder"],
+    "ailments": ["Thunderblight"],
+    "resistances": ["Thunder"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Ice (⭐⭐⭐)", "Water (⭐⭐)", "Fire (⭐)", "Dragon (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)", "Paralysis (⭐)"],
+    "locations": [{
+        "name": "Forest Region",
+        "color": "0x1E9E47"
+      },
+      {
+        "name": "Coral Region",
+        "color": "0x86E0D4"
+      }
+
+    ]
+  },
+
+  {
+    "name": "Zorah Magdaros",
+    "render": "color/render/zorah_magdaros.png",
+    "icon": "color/icon/zorah_magdaros_icon.png",
+    "species": "Elder Dragon",
+    "description": "An elder dragon that rises from the Earth like a volcano. Where it's headed, and why, the Research Commission has yet to figure out.",
+    "useful_info": "Normal attacks can't make a dent in its mountain like shell. Utilize larger weapons such as cannons and ballistae, or directly attack the 'magmacore' heat organs that are exposed in parts of its outer shell.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight"],
+    "resistances": ["Fire", "Poison", "Sleep", "Paralysis", "Blast", "Stun"],
+    "threat-level": "none",
+    "weakness": ["Dragon (⭐⭐⭐)", "Water (⭐⭐⭐)", "Ice (⭐⭐)", "Thunder (⭐)"],
+    "locations": [{
+        "name": "The Great Ravine",
+        "color": "color/locale/great_ravine.jpg"
+      },
+      {
+        "name": "The Everstream",
+        "color": "color/locale/everstream.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Frostfang Barioth",
+    "species": "Flying Wyvern",
+    "description": "A Barioth variant capable of spewing a sub-zero breath attack that it uses to slow down prey. Be careful, as this attack can freeze you as well.",
+    "useful_info": "The general Strategy should be to break it's wings as early as possible and go from there. Breaking its wings will make Frostfang Barioth stagger after many attacks, creating openings for damage. The head / teeth can be broken twice. Doing so will reduce the length the Frost breath lingers on the ground.",
+    "elements": ["Ice"],
+    "ailments": ["Iceblight"],
+    "resistances": ["Water", "Ice"],
+    "threat-level": "🔥🔥",
+    "weakness": ["Fire (⭐⭐⭐)", "Thunder (⭐⭐)", "Dragon (⭐)", "Poison (⭐⭐)", "Sleep (⭐⭐)", "Paralysis (⭐⭐)", "Blast (⭐⭐)", "Stun (⭐⭐)"],
+    "locations": [{
+      "name": "Hoarfrost Reach",
+      "color": "0x8ABEEB"
+    }]
+  },
+  {
+    "name": "Alatreon",
+    "species": "Elder Dragon",
+    "description": "Known as a symbol of destruction, people fear even uttering it’s name. It’s rumoured to control all of the elements, but most, if not all, records of its existence have been burned.",
+    "useful_info": "Alatreon can use attack from any element in any form, though it tends to prioritise the ones that corresponds to it's active state. There are two events that allow you to fight Alatreon (Evening Star[Starts Fire Active] and Death Star[Starts Ice Active]). They rotate on a daily basis and differ from player to player.",
+    "elements": ["Fire", "Ice", "Thunder", "Water", "Dragon"],
+    "ailments": ["Fireblight", "Iceblight", "Waterblight", "Thunderblight", "Dragonblight"],
+    "resistances": ["Fire (Fire Active)", "Ice (Ice Active)"],
+    "threat-level": "none",
+    "weakness": ["Dragon-(FireActive) (⭐)", "Ice-(FireActive) (⭐⭐⭐)", "Water-(FireActive) (⭐⭐)", "Thunder-(FireActive) (⭐)", "Dragon-(IceActive) (⭐)", "Fire-(IceActive) (⭐⭐⭐)", "Water-(IceActive) (⭐)", "Thunder-(IceActive) (⭐⭐)", "Dragon-(DragonActive) (⭐⭐)", "Ice-(DragonActive) (⭐)", "Water-(DragonActive) (⭐)", "Thunder-(DragonActive) (⭐)", "Fire-(DragonActive) (⭐)", "Poison (⭐)", "Sleep (⭐)", "Paralysis (⭐)", "Blast (⭐)", "Stun (⭐)"],
+    "locations": [{
+      "name": "Secluded Valley",
+      "color": "0x750099",
+      "icon": "mapIcon.png"
+    }]
+  },
+  {
+    "name": "Fatalis",
+    "species": "Elder Dragon",
+    "description": "A legendary black dragon known only as Fatalis. Rumored to have destroyed a kingdom in a single night, and has taken its castle for a roost.",
+    "useful_info": "As Long as its horns are intact, overcoming its final form's breath attack may be impossible. Cannons and ballistae can topple it. Flinch shots when its flying or standing will lower its head.",
+    "elements": ["Fire"],
+    "ailments": ["Fireblight"],
+    "resistances": ["Stun"],
+    "threat-level": "none",
+    "weakness": ["Dragon (⭐⭐⭐)", "Ice (⭐)", "Water (⭐)", "Thunder (⭐)", "Fire (⭐⭐)", "Poison (⭐)", "Sleep (⭐)", "Paralysis (⭐)", "Blast (⭐)"],
+    "locations": [{
+      "name": "Castle Schrade",
+      "color": "0x750099",
+      "icon": "mapIcon.png"
+    }]
+  }
+]
