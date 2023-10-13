@@ -10057,6 +10057,126 @@
       }
     ]
   },
+  "fatalisblade": {
+    "name": "Fatalis Blade",
+    "type": "great-sword",
+    "rarity": 11,
+    "displayAttack": 1488,
+    "rawAttack": 310,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 160,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 60
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 120
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "blackfatalisblade": {
+    "name": "Black Fatalis Blade",
+    "type": "great-sword",
+    "rarity": 12,
+    "displayAttack": 1632,
+    "rawAttack": 340,
+    "damageType": "sever",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 160,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 60
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 180
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalaceblade": {
     "name": "Guild Palace Blade",
     "type": "great-sword",
@@ -19603,6 +19723,243 @@
       }
     ],
     "upgrade": "-"
+  },
+  "darkclaw": {
+    "name": "Dark Claw",
+    "type": "long-sword",
+    "rarity": 11,
+    "displayAttack": 825,
+    "rawAttack": 250,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 120,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 100
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 510
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Alatreon Mantle",
+        "quantity": 3
+      },
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 3
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "darkclawdemise": {
+    "name": "Dark Claw Demise",
+    "type": "long-sword",
+    "rarity": 12,
+    "displayAttack": 924,
+    "rawAttack": 280,
+    "damageType": "sever",
+    "affinity": "-",
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 100,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 140
+      }
+    },
+    "elderseal": "low",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 660
+      }
+    ],
+    "slots": [
+      {
+        "rank": 2
+      },
+      {
+        "rank": 2
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Alatreon Riptalon",
+        "quantity": 2
+      },
+      {
+        "name": "Alatreon Direwing",
+        "quantity": 1
+      },
+      {
+        "name": "Skyswayer",
+        "quantity": 2
+      },
+      {
+        "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
+  "fatalissickle": {
+    "name": "Fatalis Sickle",
+    "type": "long-sword",
+    "rarity": 11,
+    "displayAttack": 1023,
+    "rawAttack": 310,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 150,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 70
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 90
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "fataliszaggespanon": {
+    "name": "Fatalis Zaggespanon",
+    "type": "long-sword",
+    "rarity": 12,
+    "displayAttack": 1155,
+    "rawAttack": 350,
+    "damageType": "sever",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 150,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 70
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 150
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
   },
   "madscavengerpickaxe": {
     "name": "Mad Scavenger Pickaxe",
@@ -30024,6 +30381,126 @@
       }
     ]
   },
+  "fatalissword": {
+    "name": "Fatalis Sword",
+    "type": "sword-and-shield",
+    "rarity": 11,
+    "displayAttack": 434,
+    "rawAttack": 310,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 60
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "truefatalissword": {
+    "name": "True Fatalis Sword",
+    "type": "sword-and-shield",
+    "rarity": 12,
+    "displayAttack": 490,
+    "rawAttack": 350,
+    "damageType": "sever",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 120
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacesword": {
     "name": "Guild Palace Sword",
     "type": "sword-and-shield",
@@ -40076,6 +40553,126 @@
       }
     ]
   },
+  "fatalisdualblades": {
+    "name": "Fatalis Dual Blades",
+    "type": "dual-blades",
+    "rarity": 11,
+    "displayAttack": 476,
+    "rawAttack": 340,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 60
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "fatalisdualskies": {
+    "name": "Fatalis Dual Skies",
+    "type": "dual-blades",
+    "rarity": 12,
+    "displayAttack": 518,
+    "rawAttack": 370,
+    "damageType": "sever",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 120
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "whetfishsabers": {
     "name": "Whetfish Sabers",
     "type": "dual-blades",
@@ -49913,6 +50510,126 @@
       },
       {
         "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
+  "fatalisbuster": {
+    "name": "Fatalis Buster",
+    "type": "hammer",
+    "rarity": 11,
+    "displayAttack": 1612,
+    "rawAttack": 310,
+    "damageType": "blunt",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 150,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 70
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 90
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "fatalisdemolisher": {
+    "name": "Fatalis Demolisher",
+    "type": "hammer",
+    "rarity": 12,
+    "displayAttack": 1820,
+    "rawAttack": 350,
+    "damageType": "blunt",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 150,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 70
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 150
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
         "quantity": 1
       }
     ]
@@ -59898,6 +60615,126 @@
       }
     ]
   },
+  "fatalismenace": {
+    "name": "Fatalis Menace",
+    "type": "hunting-horn",
+    "rarity": 11,
+    "displayAttack": 1302,
+    "rawAttack": 310,
+    "damageType": "blunt",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 90
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "fatalismenacewailer": {
+    "name": "Fatalis Menace Wailer",
+    "type": "hunting-horn",
+    "rarity": 12,
+    "displayAttack": 1470,
+    "rawAttack": 350,
+    "damageType": "blunt",
+    "affinity": -20,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 150
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacebard": {
     "name": "Guild Palace Bard",
     "type": "hunting-horn",
@@ -69791,6 +70628,126 @@
       }
     ]
   },
+  "fatalislance": {
+    "name": "Fatalis Lance",
+    "type": "lance",
+    "rarity": 11,
+    "displayAttack": 782,
+    "rawAttack": 340,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 60
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "truefatalislance": {
+    "name": "True Fatalis Lance",
+    "type": "lance",
+    "rarity": 12,
+    "displayAttack": 851,
+    "rawAttack": 370.00000000000006,
+    "damageType": "sever",
+    "affinity": -20,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 120
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacetower": {
     "name": "Guild Palace Tower",
     "type": "lance",
@@ -79570,6 +80527,126 @@
       }
     ]
   },
+  "fatalisgunlance": {
+    "name": "Fatalis Gunlance",
+    "type": "gunlance",
+    "rarity": 11,
+    "displayAttack": 782,
+    "rawAttack": 340,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 90
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "truefatalisgunlance": {
+    "name": "True Fatalis Gunlance",
+    "type": "gunlance",
+    "rarity": 12,
+    "displayAttack": 897,
+    "rawAttack": 390.00000000000006,
+    "damageType": "sever",
+    "affinity": -20,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 150
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "gajalakafirestabber": {
     "name": "Gajalaka Firestabber",
     "type": "gunlance",
@@ -89320,6 +90397,126 @@
       }
     ]
   },
+  "fatalisend": {
+    "name": "Fatalis End",
+    "type": "switch-axe",
+    "rarity": 11,
+    "displayAttack": 1085,
+    "rawAttack": 310,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 150,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 70
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 90
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "truefatalisend": {
+    "name": "True Fatalis End",
+    "type": "switch-axe",
+    "rarity": 12,
+    "displayAttack": 1225,
+    "rawAttack": 350,
+    "damageType": "sever",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 150,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 70
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 150
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacecleaver": {
     "name": "Guild Palace Cleaver",
     "type": "switch-axe",
@@ -98295,6 +99492,126 @@
       },
       {
         "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
+  "fatalischarger": {
+    "name": "Fatalis Charger",
+    "type": "charge-blade",
+    "rarity": 11,
+    "displayAttack": 1116,
+    "rawAttack": 310,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 150,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 70
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 90
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "truefatalischarger": {
+    "name": "True Fatalis Charger",
+    "type": "charge-blade",
+    "rarity": 12,
+    "displayAttack": 1224,
+    "rawAttack": 340,
+    "damageType": "sever",
+    "affinity": -20,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 150,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 70
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 150
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
         "quantity": 1
       }
     ]
@@ -108014,6 +109331,126 @@
       },
       {
         "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
+  "fatalisglaive": {
+    "name": "Fatalis Glaive",
+    "type": "insect-glaive",
+    "rarity": 11,
+    "displayAttack": 961,
+    "rawAttack": 310,
+    "damageType": "sever",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 60
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "truefatalisdyaus": {
+    "name": "True Fatalis Dyaus",
+    "type": "insect-glaive",
+    "rarity": 12,
+    "displayAttack": 1101,
+    "rawAttack": 355.1612903225806,
+    "damageType": "sever",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": {
+        "red": 140,
+        "orange": 20,
+        "yellow": 20,
+        "green": 70,
+        "blue": 40,
+        "white": 30,
+        "purple": 80
+      }
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 120
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
         "quantity": 1
       }
     ]
@@ -126824,6 +128261,246 @@
       }
     ]
   },
+  "fatalispit": {
+    "name": "Fatalis Pit",
+    "type": "light-bowgun",
+    "rarity": 11,
+    "displayAttack": 351,
+    "rawAttack": 270,
+    "damageType": "projectile",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernblast",
+    "deviation": "-",
+    "ammos": [
+      {
+        "type": "normal",
+        "lv1": 6,
+        "lv2": 4,
+        "lv3": 3
+      },
+      {
+        "type": "pierce",
+        "lv1": 5,
+        "lv2": 4,
+        "lv3": 3
+      },
+      {
+        "type": "spread",
+        "lv1": 5,
+        "lv2": 4,
+        "lv3": 3
+      },
+      {
+        "type": "sticky",
+        "lv1": 2,
+        "lv2": 2,
+        "lv3": 1
+      },
+      {
+        "type": "recover",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "poison",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "paralysis",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "sleep",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "exhaust",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "dragon",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "slicing",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "fatalisdepths": {
+    "name": "Fatalis Depths",
+    "type": "light-bowgun",
+    "rarity": 12,
+    "displayAttack": 371,
+    "rawAttack": 285.38461538461536,
+    "damageType": "projectile",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernblast",
+    "deviation": "-",
+    "ammos": [
+      {
+        "type": "normal",
+        "lv1": 6,
+        "lv2": 4,
+        "lv3": 3
+      },
+      {
+        "type": "pierce",
+        "lv1": 5,
+        "lv2": 4,
+        "lv3": 3
+      },
+      {
+        "type": "spread",
+        "lv1": 5,
+        "lv2": 4,
+        "lv3": 3
+      },
+      {
+        "type": "sticky",
+        "lv1": 2,
+        "lv2": 2,
+        "lv3": 1
+      },
+      {
+        "type": "recover",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "poison",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "paralysis",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "sleep",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "exhaust",
+        "lv1": 0,
+        "lv2": 1,
+        "lv3": 0
+      },
+      {
+        "type": "dragon",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "slicing",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 2,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacebowgun": {
     "name": "Guild Palace Bowgun",
     "type": "light-bowgun",
@@ -145500,6 +147177,270 @@
       }
     ]
   },
+  "vorcannon": {
+    "name": "Vor Cannon",
+    "type": "heavy-bowgun",
+    "rarity": 11,
+    "displayAttack": 435,
+    "rawAttack": 290,
+    "damageType": "projectile",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernsnipe",
+    "deviation": "high",
+    "ammos": [
+      {
+        "type": "normal",
+        "lv1": 10,
+        "lv2": 9,
+        "lv3": 8
+      },
+      {
+        "type": "pierce",
+        "lv1": 10,
+        "lv2": 9,
+        "lv3": 8
+      },
+      {
+        "type": "spread",
+        "lv1": 10,
+        "lv2": 9,
+        "lv3": 8
+      },
+      {
+        "type": "sticky",
+        "lv1": 4,
+        "lv2": 3,
+        "lv3": 3
+      },
+      {
+        "type": "cluster",
+        "lv1": 1,
+        "lv2": 1,
+        "lv3": 1
+      },
+      {
+        "type": "recover",
+        "lv1": 10,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "poison",
+        "lv1": 10,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "paralysis",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "sleep",
+        "lv1": 10,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "exhaust",
+        "lv1": 10,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "dragon",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "slicing",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "wyvern",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "vorbuster": {
+    "name": "Vor Buster",
+    "type": "heavy-bowgun",
+    "rarity": 12,
+    "displayAttack": 510,
+    "rawAttack": 340,
+    "damageType": "projectile",
+    "affinity": -20,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "-",
+    "shelling": "-",
+    "specialAmmo": "Wyvernsnipe",
+    "deviation": "high",
+    "ammos": [
+      {
+        "type": "normal",
+        "lv1": 10,
+        "lv2": 9,
+        "lv3": 8
+      },
+      {
+        "type": "pierce",
+        "lv1": 10,
+        "lv2": 9,
+        "lv3": 8
+      },
+      {
+        "type": "spread",
+        "lv1": 10,
+        "lv2": 9,
+        "lv3": 8
+      },
+      {
+        "type": "sticky",
+        "lv1": 4,
+        "lv2": 3,
+        "lv3": 3
+      },
+      {
+        "type": "cluster",
+        "lv1": 1,
+        "lv2": 1,
+        "lv3": 1
+      },
+      {
+        "type": "recover",
+        "lv1": 10,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "poison",
+        "lv1": 10,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "paralysis",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "sleep",
+        "lv1": 10,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "exhaust",
+        "lv1": 10,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "dragon",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "slicing",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "wyvern",
+        "lv1": 1,
+        "lv2": 0,
+        "lv3": 0
+      },
+      {
+        "type": "tranq",
+        "lv1": 3,
+        "lv2": 0,
+        "lv3": 0
+      }
+    ],
+    "elements": "-",
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": "-",
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ]
+  },
   "guildpalacerifle": {
     "name": "Guild Palace Rifle",
     "type": "heavy-bowgun",
@@ -154131,6 +156072,122 @@
       },
       {
         "name": "Azure Dragonsphire",
+        "quantity": 1
+      }
+    ]
+  },
+  "bowofrack&ruin": {
+    "name": "Bow of Rack & Ruin",
+    "type": "bow",
+    "rarity": 11,
+    "displayAttack": 408,
+    "rawAttack": 340,
+    "damageType": "projectile",
+    "affinity": -40,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 120
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": [
+      "Close Range",
+      "Power",
+      "Paralysis",
+      "Poison",
+      "Sleep"
+    ],
+    "crafting": [
+      {
+        "name": "Fatalis Shard",
+        "quantity": 3
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Evil Eye",
+        "quantity": 1
+      }
+    ],
+    "upgrade": "-"
+  },
+  "bowofvice&violence": {
+    "name": "Bow of Vice & Violence",
+    "type": "bow",
+    "rarity": 12,
+    "displayAttack": 444,
+    "rawAttack": 370,
+    "damageType": "projectile",
+    "affinity": -30,
+    "defense": "-",
+    "sharpness": {
+      "base": "-"
+    },
+    "elderseal": "high",
+    "shelling": "-",
+    "specialAmmo": "-",
+    "deviation": "-",
+    "ammos": "-",
+    "elements": [
+      {
+        "type": "dragon",
+        "damage": 120
+      }
+    ],
+    "slots": [
+      {
+        "rank": 4
+      },
+      {
+        "rank": 4
+      }
+    ],
+    "coatings": [
+      "Close Range",
+      "Power",
+      "Paralysis",
+      "Poison",
+      "Sleep"
+    ],
+    "crafting": "-",
+    "upgrade": [
+      {
+        "name": "Large Elder Dragon Gem",
+        "quantity": 1
+      },
+      {
+        "name": "Fatalis Pectus",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Hardhorn",
+        "quantity": 2
+      },
+      {
+        "name": "Fatalis Evil Eye",
         "quantity": 1
       }
     ]
