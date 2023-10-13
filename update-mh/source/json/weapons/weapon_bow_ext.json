@@ -2358,5 +2358,25 @@
   "poison": "FALSE",
   "sleep": "FALSE",
   "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Bow of Rack & Ruin",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
+ },
+ {
+  "base_name_en": "Bow of Vice & Violence",
+  "weapon_type": "bow",
+  "close": "TRUE",
+  "power": "TRUE",
+  "paralysis": "TRUE",
+  "poison": "TRUE",
+  "sleep": "TRUE",
+  "blast": "FALSE"
  }
 ]
