@@ -88,4 +88,4 @@ Please do not contribute to this project without explicit permission from the pr
 
 ## Licensing
 
-NONE (No Permission)
+MIT

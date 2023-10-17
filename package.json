@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/ricochhet/CatBotServer.git"
   },
-  "author": "Ricochet",
-  "license": "NONE",
+  "author": "ricochhet",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ricochhet/CatBotServer/issues"
   },
