@@ -82,9 +82,9 @@ See [docker run reference](https://docs.docker.com/engine/reference/run/) for al
 All user data in the databases is used on an opt-in, opt-out basis by the users own choice.
 All user data collected may not be redistributed without explicit permission.
 
-## Contributions
+## Suggestions & PRs
 
-Please do not contribute to this project without explicit permission from the project owner.
+Suggestions and pull requests are very appreciated, just keep in mind to follow the project architecture to keep it consistent.
 
 ## Licensing
 
